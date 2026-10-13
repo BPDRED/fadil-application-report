@@ -22,6 +22,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response after confirmed dossier supplement 1a12256276f869a3. No automatic follow-up.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "application",
@@ -77,14 +79,72 @@
       "vacancy_id": "2871",
       "application_type": "speculative, official recruitment-system Reply-To, mailbox monitoring and HR receipt unconfirmed",
       "application_channel": "email",
-      "application_status": "awaiting_response",
+      "application_status": "blocked",
       "date_sent": "2026-10-10",
       "date_submitted": "2026-10-10",
       "last_contact_date": "2026-10-10",
       "follow_up_date": "",
-      "latest_employer_response": "2026-10-10 Gmail DSN temporary delivery delay4.4.1 for earlier inquiry1a1225be9ceb83cf, not later document package. Retry until2026-10-12T20:30:11Z. No hiring response.",
-      "next_action": "Monitor automatic retry outcome and employer reply. Do not resend. Later package delivery unknown; portal work-status blocker unchanged.",
-      "submission_state": "email",
+      "latest_employer_response": "13 October 2026: Gmail final delivery failure for the three-document application 1a126f8bf1173532, notice 1a136b3624a754bc, DSN Action: failed / Status: 4.4.1, recipient-server connection timeout. Earlier inquiry 1a1225be9ceb83cf also failed on 12 October, notice 1a132042c8876724. Technical delivery failure, not recruitment rejection.",
+      "next_action": "Verify a current official alternative recruitment/support route for Morocco-based applicants; present corrected contact for review before any resend. Preserve truthful no-permit form answers. Do not reuse the failing address blindly.",
+      "submission_state": "failed",
+      "received_events": [
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-10-11T19:12:21+00:00",
+          "sender": "Gmail delivery service",
+          "subject": "Delivery Status Notification (Delay)",
+          "messageId": "1a12c6160b34250c",
+          "threadId": "1a126f8bf1173532",
+          "sourceMessageId": "1a126f8bf1173532",
+          "confirmation": "Gmail delayed the three-document email. This delay was later superseded by the final failure on 13 October."
+        },
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-10-12T01:01:02+00:00",
+          "sender": "Gmail delivery service",
+          "subject": "Delivery Status Notification (Delay)",
+          "messageId": "1a12da09c12448ef",
+          "threadId": "1a11d53a2ebc689b",
+          "sourceMessageId": "1a1225be9ceb83cf",
+          "confirmation": "Gmail delayed the earlier form-help inquiry. This was later superseded by final failure on 12 October."
+        },
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-10-12T18:59:46+00:00",
+          "sender": "Gmail delivery service",
+          "subject": "Delivery Status Notification (Delay)",
+          "messageId": "1a1317c418487f67",
+          "threadId": "1a126f8bf1173532",
+          "sourceMessageId": "1a126f8bf1173532",
+          "confirmation": "Gmail continued retrying the three-document email; final delivery failure followed on 13 October."
+        },
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-10-12T21:28:16+00:00",
+          "sender": "Gmail delivery service",
+          "subject": "Delivery Status Notification (Failure)",
+          "messageId": "1a132042c8876724",
+          "threadId": "1a11d53a2ebc689b",
+          "sourceMessageId": "1a1225be9ceb83cf",
+          "confirmation": "Final delivery failure for the earlier inquiry only. Recipient server connection timed out. This is not an employer rejection."
+        },
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-10-13T19:18:07+00:00",
+          "sender": "Gmail delivery service",
+          "subject": "Delivery Status Notification (Failure)",
+          "messageId": "1a136b3624a754bc",
+          "threadId": "1a126f8bf1173532",
+          "sourceMessageId": "1a126f8bf1173532",
+          "confirmation": "Final delivery failure for the CV, letter and dossier email. Recipient server connection timed out, DSN Action: failed, Status: 4.4.1. No receipt by Longchamp is established; this is not a recruitment rejection."
+        }
+      ],
+      "last_response_at": "2026-10-13T19:18:07+00:00",
       "events": [
         {
           "kind": "inquiry",
@@ -147,6 +207,8 @@
       "latest_employer_response": "Automatic receipt9October, messages1a1229339ae4e73f and1a1229786c13378f. Company specifies15days without news; no substantive decision yet.",
       "next_action": "Await response to confirmed spontaneous application. No automatic follow-up, duplicate subsidiary application, training enrollment or matching-job submission.",
       "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "portal",
@@ -188,6 +250,8 @@
       "latest_employer_response": "Automatic acknowledgement10October2026 from notify@dayforce.com confirms Roots received the Table Worker-Handbags application. It says candidates selected for interview will be contacted, not that this candidate has been selected.",
       "next_action": "Await Roots response to confirmed Table Worker-Handbags req2638 application. CV, cover letter and full dossier uploaded. Work-permit route, current lawful pay, physical duties and language requirements unresolved. No duplicate submission.",
       "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "portal",
@@ -239,6 +303,8 @@
       "latest_employer_response": "",
       "next_action": "Await HR response to complete speculative application; work-permit/Quebec process, actual role/pay/hours/language remain conditional. No automatic follow-up.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "inquiry",
@@ -301,6 +367,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "application",
@@ -352,6 +420,8 @@
       "latest_employer_response": "Portal success screenshot supplied by user. Mailinblack human verification completed10October; service confirms email received. No substantive recruitment response.",
       "next_action": "Await Jean Rousseau recruitment response after successful user portal submission and receiver-confirmed dossier supplement. Do not repeat form, resend dossier or solve another challenge without applicable authorization.",
       "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "inquiry",
@@ -415,6 +485,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "application",
@@ -466,6 +538,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response. No duplicate portal submission or recruitment email.",
       "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "portal",
@@ -512,6 +586,8 @@
       "latest_employer_response": "",
       "next_action": "Await recruitment response. Do not resend the CV or add unsolicited letter/dossier.",
       "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "portal",
@@ -553,6 +629,8 @@
       "latest_employer_response": "",
       "next_action": "Await Schröno response on cutter application, language/pay/hours and supported lawful work route; no automatic repeat contact",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "inquiry",
@@ -607,14 +685,28 @@
       "vacancy_id": "",
       "application_type": "speculative_document_supplement, historically employer-published Asnieres recruitment address, current mailbox availability unknown",
       "application_channel": "email",
-      "application_status": "awaiting_response",
+      "application_status": "response_received",
       "date_sent": "2026-10-10",
       "date_submitted": "2026-10-10",
-      "last_contact_date": "2026-10-10",
+      "last_contact_date": "2026-10-13",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await response or bounce for full three-PDF speculative email to historically published Asnières recruitment address. Current mailbox activity unknown; no repeat or alternate guessed address. Official Careers contact text also confirmed.",
+      "latest_employer_response": "13 October 2026: Louis Vuitton customer service directed application submission to jobs.louisvuitton.com, Gmail 1a13455cfe2b0637. No HR decision or receipt of the historical Asnières email is confirmed.",
+      "next_action": "Review the official careers portal for a suitable leather production vacancy or permitted speculative intake, reconcile earlier contact and verify requirements for an applicant residing in Morocco before proposing portal submission. No duplicate email or automatic application.",
       "submission_state": "email",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-13T08:16:40+00:00",
+          "sender": "Louis Vuitton customer service",
+          "subject": "Nous vous remercions d’avoir contacté le Service Clients de Louis Vuitton",
+          "messageId": "1a13455cfe2b0637",
+          "threadId": "1a13455cfe2b0637",
+          "sourceMessageId": "",
+          "confirmation": "Louis Vuitton customer service asks the applicant to submit through jobs.louisvuitton.com. This is routing guidance, not an HR decision or proof that the historical mailbox registered the application."
+        }
+      ],
+      "last_response_at": "2026-10-13T08:16:40+00:00",
       "events": [
         {
           "kind": "portal",
@@ -677,6 +769,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response to complete package. Country entry, employer-side authorizations and role conditions remain conditional. No automatic follow-up.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "inquiry",
@@ -739,6 +833,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "portal",
@@ -801,6 +897,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response to complete package. Country entry, employer-side authorizations and role conditions remain conditional. No automatic follow-up.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "inquiry",
@@ -863,6 +961,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "inquiry",
@@ -925,6 +1025,8 @@
       "latest_employer_response": "",
       "next_action": "Await speculative application response; actual craft role/site/language/pay/hours and lawful employer route unknown. Negotiable salary is not contract acceptance",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "application",
@@ -976,6 +1078,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "portal",
@@ -1038,6 +1142,8 @@
       "latest_employer_response": "",
       "next_action": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
       "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
       "events": [
         {
           "kind": "application",
@@ -1084,11 +1190,25 @@
       "application_status": "awaiting_response",
       "date_sent": "2026-10-10",
       "date_submitted": "",
-      "last_contact_date": "2026-10-10",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+      "last_contact_date": "2026-10-12",
+      "follow_up_date": "2026-10-22",
+      "latest_employer_response": "12 October 2026: POLIPOL human resources acknowledged the application and said processing would take some time; they will contact the applicant again. Gmail 1a12f937dbea8171. No interview, decision, deadline, work site or permit support established.",
+      "next_action": "Wait for POLIPOL review; do not resend the package or send an immediate follow-up. Review status after 22 October if no substantive reply, without automatic contact; a later suitable role requires location, terms, language and permit checks.",
       "submission_state": "email",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-12T10:05:56+00:00",
+          "sender": "POLIPOL human resources",
+          "subject": "Ihre Bewerbung bei der POLIPOL-Gruppe",
+          "messageId": "1a12f937dbea8171",
+          "threadId": "1a12f937dbea8171",
+          "sourceMessageId": "",
+          "confirmation": "POLIPOL human resources confirms the application and says processing needs more time. They will contact the applicant again. No interview, offer, fixed date, job location or permit support is confirmed."
+        }
+      ],
+      "last_response_at": "2026-10-12T10:05:56+00:00",
       "events": [
         {
           "kind": "application",
@@ -1122,7 +1242,7 @@
       ]
     }
   ],
-  "revision": "9006038effeb4679ea9250da2cc9438dc3ee29a931db9a1c10ffd76544a90067",
-  "updated_at": "2026-10-11T12:09:19.353525+00:00",
+  "revision": "5ecd199d4411cf15bd41c54364e75839c29d13275aa96257da639cb315f7ec3f",
+  "updated_at": "2026-10-13T20:58:31.755948+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/"
 }
