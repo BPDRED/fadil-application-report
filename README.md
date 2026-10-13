@@ -8,4 +8,6 @@ Private source documents require authorized GitHub access. Do not add account de
 
 ## Cloud monitor setup
 
-On 13 October 2026, connected cloud repository access was verified and a non-delivery audit was committed privately first. No application records or report images were changed. Large-report upload verification remains pending tool approval; no email was sent during setup.
+On 13 October 2026, connected cloud repository access was verified and a non-delivery audit was committed privately first. No application records or report images were changed. Full-report upload was verified with an identical Git blob. No email was sent during setup.
+
+The cloud-originated UI propagation test removed the Print / save PDF button and its click listener on 13 October 2026. Application data and embedded report screenshots were preserved.
