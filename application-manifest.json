@@ -1603,18 +1603,47 @@
       "vacancy_id": "",
       "application_type": "advertised",
       "application_channel": "email",
-      "application_status": "preparing",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-16",
+      "date_submitted": "2026-10-16",
+      "last_contact_date": "2026-10-16",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Prepare complete localized package and QA, refresh exact channel and duplicates, then submit once within AUTHORIZATION-20261016-NEXT20.",
-      "submission_state": "held",
+      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-16T21:16:12+00:00",
+          "recipient": "job@sinn-living.de",
+          "subject": "Bewerbung Ausbildung Polster- und Dekorationsnäher - Mohammed Fadil",
+          "messageId": "1a1469290760bfa7",
+          "threadId": "1a1469290760bfa7",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Lebenslauf.pdf",
+            "Mohammed_Fadil_Anschreiben.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Lebenslauf.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Lebenslauf.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Anschreiben.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Anschreiben.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000033",
@@ -1838,8 +1867,8 @@
       "documents": []
     }
   ],
-  "revision": "95f4cd3f4f721fa095e40bf70d288980906007691bf940a46657d70b216ac962",
-  "updated_at": "2026-10-16T21:14:03.911339+00:00",
+  "revision": "8bbca713e387f4b4c57496979221a9723cf60ad206092a77e69ecb1e2ad3ddc3",
+  "updated_at": "2026-10-16T21:16:15.069329+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
