@@ -1593,18 +1593,47 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "email",
-      "application_status": "preparing",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-16",
+      "date_submitted": "2026-10-16",
+      "last_contact_date": "2026-10-16",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Prepare complete localized package and QA, refresh exact channel and duplicates, then submit once within AUTHORIZATION-20261016-NEXT20.",
-      "submission_state": "held",
+      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-16T21:07:04+00:00",
+          "recipient": "karriere@ludwig-reiter.com",
+          "subject": "Speculative footwear workshop application, Vienna - Mohammed Fadil",
+          "messageId": "1a1468a399de8265",
+          "threadId": "1a1468a399de8265",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000035",
@@ -1751,8 +1780,8 @@
       "documents": []
     }
   ],
-  "revision": "2744dda14ba0305640b4d154d1d596836adc3ba2f28c9a9e089a1d0b366f67a6",
-  "updated_at": "2026-10-16T21:03:28.994953+00:00",
+  "revision": "676e50ee5e697b5cf5874785f6e685f757faf5095577e2781cc72700317a7948",
+  "updated_at": "2026-10-16T21:07:07.964225+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
