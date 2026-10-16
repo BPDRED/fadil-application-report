@@ -1468,18 +1468,18 @@
       "country": "Italy",
       "position": "Speculative leather-goods or footwear production and finishing",
       "employer_website": "https://www.ferragamo.com/shop/eu/en/sf/work-with-us",
-      "recruitment_email": "",
+      "recruitment_email": "selezione@ferragamo.com",
       "job_posting_url": "https://www.ferragamo.com/shop/eu/en/sf/work-with-us",
       "vacancy_id": "",
       "application_type": "speculative",
-      "application_channel": "portal",
+      "application_channel": "email",
       "application_status": "preparing",
       "date_sent": "",
       "date_submitted": "",
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Prepare complete localized package and QA, refresh exact channel and duplicates, then submit once within AUTHORIZATION-20261016-NEXT20.",
+      "next_action": "Prepare and QA Italian package, then send once to the now verified official Italy recruitment address.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -1656,18 +1656,47 @@
       "vacancy_id": "",
       "application_type": "advertised",
       "application_channel": "email",
-      "application_status": "preparing",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-16",
+      "date_submitted": "2026-10-16",
+      "last_contact_date": "2026-10-16",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Prepare complete localized package and QA, refresh exact channel and duplicates, then submit once within AUTHORIZATION-20261016-NEXT20.",
-      "submission_state": "held",
+      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-16T21:18:39+00:00",
+          "recipient": "bewerbung@topstar.de",
+          "subject": "Bewerbung Ausbildung Polsterer - Mohammed Fadil",
+          "messageId": "1a14694cf0f6e79b",
+          "threadId": "1a14694cf0f6e79b",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Lebenslauf.pdf",
+            "Mohammed_Fadil_Anschreiben.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Lebenslauf.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Lebenslauf.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Anschreiben.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Anschreiben.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000034",
@@ -1867,8 +1896,8 @@
       "documents": []
     }
   ],
-  "revision": "8bbca713e387f4b4c57496979221a9723cf60ad206092a77e69ecb1e2ad3ddc3",
-  "updated_at": "2026-10-16T21:16:15.069329+00:00",
+  "revision": "b31cc196940dd40016c3522bc44486c26415b6a47e39d4f4eb1c71332b8e2b14",
+  "updated_at": "2026-10-16T21:18:41.964452+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
