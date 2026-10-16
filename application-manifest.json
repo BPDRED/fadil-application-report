@@ -1786,18 +1786,47 @@
       "vacancy_id": "",
       "application_type": "advertised",
       "application_channel": "email",
-      "application_status": "preparing",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-16",
+      "date_submitted": "2026-10-16",
+      "last_contact_date": "2026-10-16",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Prepare complete localized package and QA, refresh exact channel and duplicates, then submit once within AUTHORIZATION-20261016-NEXT20.",
-      "submission_state": "held",
+      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-16T21:21:06+00:00",
+          "recipient": "careers@softlinebp.com",
+          "subject": "Experienced Leather Sewer application - Mohammed Fadil",
+          "messageId": "1a1469711754c49e",
+          "threadId": "1a1469711754c49e",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000037",
@@ -1896,8 +1925,8 @@
       "documents": []
     }
   ],
-  "revision": "b31cc196940dd40016c3522bc44486c26415b6a47e39d4f4eb1c71332b8e2b14",
-  "updated_at": "2026-10-16T21:18:41.964452+00:00",
+  "revision": "7870bb5c5996002e3dcf6466420209c5794fdaea86c2ef8ebd1f0062a0be2279",
+  "updated_at": "2026-10-16T21:21:10.126796+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
