@@ -1247,11 +1247,11 @@
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-15T09:04:14.102Z",
-    "latest_attempt_started_utc": "2026-10-15T09:04:14.102Z",
+    "last_successful_scan_utc": "2026-10-16T09:06:36.675Z",
+    "latest_attempt_started_utc": "2026-10-16T09:06:36.675Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 9,
+    "messages_enumerated": 5,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }
