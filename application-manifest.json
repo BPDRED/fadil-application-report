@@ -1497,18 +1497,47 @@
       "vacancy_id": "",
       "application_type": "advertised",
       "application_channel": "email",
-      "application_status": "preparing",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-16",
+      "date_submitted": "2026-10-16",
+      "last_contact_date": "2026-10-16",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Prepare complete localized package and QA, refresh exact channel and duplicates, then submit once within AUTHORIZATION-20261016-NEXT20.",
-      "submission_state": "held",
+      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-16T21:12:38+00:00",
+          "recipient": "ausbildung@rolf-benz.com",
+          "subject": "Bewerbung Ausbildung Polster- und Dekorationsnäher 2027 - Mohammed Fadil",
+          "messageId": "1a1468f51ee7fa48",
+          "threadId": "1a1468f51ee7fa48",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Lebenslauf.pdf",
+            "Mohammed_Fadil_Anschreiben.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Lebenslauf.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Lebenslauf.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Anschreiben.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Anschreiben.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000031",
@@ -1780,8 +1809,8 @@
       "documents": []
     }
   ],
-  "revision": "676e50ee5e697b5cf5874785f6e685f757faf5095577e2781cc72700317a7948",
-  "updated_at": "2026-10-16T21:07:07.964225+00:00",
+  "revision": "da60a0d76f9a25454207d9e9773afd8d8184f5d95b6798711de5920145641bdf",
+  "updated_at": "2026-10-16T21:12:42.396006+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
