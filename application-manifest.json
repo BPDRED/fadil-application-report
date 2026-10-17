@@ -83,9 +83,9 @@
       "date_sent": "2026-10-10",
       "date_submitted": "2026-10-10",
       "last_contact_date": "2026-10-17",
-      "follow_up_date": "",
-      "latest_employer_response": "Official quick application confirms Pouzauges 2026-2871 submitted on 17 October 2026. Earlier email delivery failures remain historical.",
-      "next_action": "Await Longchamp recruitment response after the confirmed 17 October CV-only portal application for Pouzauges 2026-2871. Do not resend failed emails or repeat the application. Full letter and portfolio are available on request.",
+      "follow_up_date": "2026-11-14",
+      "latest_employer_response": "17 October automatic receipt confirms application 2026-2871 received for review. Longchamp will call if selected; no call within four weeks means not selected. Review around 14 November, no current rejection or interview.",
+      "next_action": "Await Longchamp review and a possible phone call. Employer gives four weeks from 17 October; review around 14 November if no call is known. No automatic follow-up, rejection, repeat application or email resend. Full letter and portfolio remain available on request.",
       "submission_state": "portal",
       "received_events": [
         {
@@ -142,9 +142,20 @@
           "threadId": "1a126f8bf1173532",
           "sourceMessageId": "1a126f8bf1173532",
           "confirmation": "Final delivery failure for the CV, letter and dossier email. Recipient server connection timed out, DSN Action: failed, Status: 4.4.1. No receipt by Longchamp is established; this is not a recruitment rejection."
+        },
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-17T19:22:22.000Z",
+          "sender": "Recrutement Longchamp",
+          "subject": "Votre candidature - offre 2026-2871 – Maroquinier H/F",
+          "messageId": "1a14b50b619d4203",
+          "threadId": "1a14b50b619d4203",
+          "sourceMessageId": "",
+          "confirmation": "17 October automatic receipt confirms application 2026-2871 received for review. Longchamp will call if selected; no call within four weeks means not selected. Review around 14 November, no current rejection or interview."
         }
       ],
-      "last_response_at": "2026-10-13T19:18:07+00:00",
+      "last_response_at": "2026-10-17T19:22:22.000Z",
       "events": [
         {
           "kind": "inquiry",
@@ -2246,8 +2257,8 @@
       ]
     }
   ],
-  "revision": "8b6ab843601aa8e0f3d318796a8f33ea4d0ea9f8da4d033d8579df5cffdada06",
-  "updated_at": "2026-10-17T19:27:30.846778+00:00",
+  "revision": "43bb2dfb13195bea45bb6eb88e8c1a5aa1825eae830389fec4f0db492b48dfe6",
+  "updated_at": "2026-10-17T19:38:20.490271+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
