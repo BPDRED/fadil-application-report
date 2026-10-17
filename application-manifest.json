@@ -1502,11 +1502,23 @@
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "latest_employer_response": "Automated acknowledgment17October confirms CV receipt; review if a matching opportunity arises. No interview,offer,permit support or documents requested.",
+      "next_action": "Await recruitment review. No action or documents requested; no automatic duplicate or follow-up.",
       "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-17T11:04:29+00:00",
+          "sender": "Ferragamo recruitment system",
+          "subject": "Automatic reply: Candidatura spontanea per produzione di calzature o pelletteria in Italia - Mohammed Fadil",
+          "messageId": "1a14988ebcc61637",
+          "threadId": "1a14988ebcc61637",
+          "sourceMessageId": "1a14987cf4575a1a",
+          "confirmation": "Automatic CV receipt only. No interview,offer,deadline,document request or immigration assistance."
+        }
+      ],
+      "last_response_at": "2026-10-17T11:04:29+00:00",
       "events": [
         {
           "kind": "application",
@@ -2019,8 +2031,8 @@
       ]
     }
   ],
-  "revision": "6e4cebb21f778547c343084240974fdcdb152f6a41249041a4b23c30041b3869",
-  "updated_at": "2026-10-17T11:15:51.977486+00:00",
+  "revision": "8ea792dca46644c0f45fea5a7b97ec411296915050a6e7ad7ca2aee7143f4aaa",
+  "updated_at": "2026-10-17T18:42:30.261852+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
