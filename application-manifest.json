@@ -1803,13 +1803,13 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "portal",
-      "application_status": "approved",
+      "application_status": "blocked",
       "date_sent": "",
       "date_submitted": "",
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "QA-passed package under AUTHORIZATION-20261016-NEXT20. Refresh official form/channel and duplicates, respect actual file/field limits, then submit once. Browser confirmations and credential handoffs remain applicable.",
+      "next_action": "Official Austrian form returned transmission error after one attempt17October. Preserve prepared files, check for a late receipt before any bounded future retry. Do not replace mandatory form with an unapproved email route.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -1995,8 +1995,8 @@
       ]
     }
   ],
-  "revision": "b97e8a639fbbb3ba1ceb5913de759a032f8f78f1a96100c54980df8fdd103d7f",
-  "updated_at": "2026-10-17T11:03:21.885645+00:00",
+  "revision": "0558549b82f486b04d15784e8c793d11bd94a6cf48de456bd05a4cea33b8a12b",
+  "updated_at": "2026-10-17T11:07:07.489466+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
