@@ -1988,18 +1988,59 @@
       "vacancy_id": "Requisition 1782; ADP jobId 525474",
       "application_type": "advertised",
       "application_channel": "portal",
-      "application_status": "approved",
+      "application_status": "submitted_portal",
       "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "date_submitted": "2026-10-17",
+      "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "QA-passed package under AUTHORIZATION-20261016-NEXT20. Refresh official form/channel and duplicates, respect actual file/field limits, then submit once. Browser confirmations and credential handoffs remain applicable.",
-      "submission_state": "held",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [],
-      "documents": []
+      "latest_employer_response": "Automated ADP employer receipt17October18:57UTC confirms StandardSewer6 application currently under review. No interview or offer.",
+      "next_action": "Await recruitment response, no duplicate application. ADP post-submission tax-credit questionnaire remains uncompleted; no tax/SSN/health disclosure or extra talent account authorized by this application.",
+      "submission_state": "portal",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-17T18:57:19+00:00",
+          "sender": "American Leather recruitment via ADP",
+          "subject": "Thank you for your application, Mohammed",
+          "messageId": "1a14b39c5a7b0b24",
+          "threadId": "1a14b39c5a7b0b24",
+          "sourceMessageId": "",
+          "confirmation": "Receipt confirms StandardSewer6 application under review. No interview,offer or permit support."
+        }
+      ],
+      "last_response_at": "2026-10-17T18:57:19+00:00",
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-10-17",
+          "recipient": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9200437748883_2&cid=4994a236-64c5-4a9f-81d5-7f802a729768&lang=en_US&jobId=525474",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Application Submitted!; actual employer email confirms currently reviewing the Standard Sewer6 application."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000040",
@@ -2055,8 +2096,8 @@
       ]
     }
   ],
-  "revision": "33a74358099530267fcc55128c6fdd0d5f1fa9254dbbdbf43aa725eba5b4897f",
-  "updated_at": "2026-10-17T18:55:57.539856+00:00",
+  "revision": "765836227b1ce23025310267fab659c1c060d28c2bd965631b12ca97c4d67dd5",
+  "updated_at": "2026-10-17T18:58:42.776882+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
