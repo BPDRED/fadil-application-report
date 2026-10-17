@@ -1449,13 +1449,13 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "portal",
-      "application_status": "approved",
+      "application_status": "blocked",
       "date_sent": "",
       "date_submitted": "",
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "QA-passed package under AUTHORIZATION-20261016-NEXT20. Refresh official form/channel and duplicates, respect actual file/field limits, then submit once. Browser confirmations and credential handoffs remain applicable.",
+      "next_action": "Official required account residence list omits Morocco and has no Other option. Employer must provide a truthful supported application route. Complete Italian package retained; no false country or new account.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -2055,8 +2055,8 @@
       ]
     }
   ],
-  "revision": "b3d1a7255aba805b74621cab7ab9ea968515ebcbfe6939781ed2c971e7e194ed",
-  "updated_at": "2026-10-17T18:52:28.684362+00:00",
+  "revision": "33a74358099530267fcc55128c6fdd0d5f1fa9254dbbdbf43aa725eba5b4897f",
+  "updated_at": "2026-10-17T18:55:57.539856+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
