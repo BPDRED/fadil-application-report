@@ -1305,13 +1305,13 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "portal",
-      "application_status": "approved",
+      "application_status": "blocked",
       "date_sent": "",
       "date_submitted": "",
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "QA-passed package under AUTHORIZATION-20261016-NEXT20. Refresh official form/channel and duplicates, respect actual file/field limits, then submit once. Browser confirmations and credential handoffs remain applicable.",
+      "next_action": "Palladio validation requires an Italian region and a school-qualification selection without an established truthful equivalent. Do not invent residence or diploma. Check for a published recruitment alternative and late receipt before any new attempt.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -1444,18 +1444,47 @@
       "vacancy_id": "General Application PWXFK026203F3VBQB798N7V09-5883",
       "application_type": "speculative",
       "application_channel": "portal",
-      "application_status": "blocked",
+      "application_status": "submitted_portal",
       "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "date_submitted": "2026-10-17",
+      "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Prepared form forces optional-labelled wider-LVMH data-transfer consent. Await specific user sharing decision; all three PDFs retained, no application receipt or false consent.",
-      "submission_state": "held",
+      "latest_employer_response": "Official portal confirms receipt of General Application, 17 October 2026.",
+      "next_action": "Await Fendi recruitment response after confirmed submission with all three PDFs. No duplicate application or automatic follow-up.",
+      "submission_state": "portal",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-10-17",
+          "recipient": "https://careers.fendi.com/client/apply.html?jobId=PWXFK026203F3VBQB798N7V09-5883&langCode=EN",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Thank you Mohammed Fadil. We have received your application for General Application."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000027",
@@ -2127,8 +2156,8 @@
       ]
     }
   ],
-  "revision": "d728ed1605e2e26c0c6685a92df26444947e149006aaa27e71584965d78c6113",
-  "updated_at": "2026-10-17T19:05:27.284930+00:00",
+  "revision": "031387abde279fb440ff9c97c67a682892e877c05a40853ed60297f110b40a21",
+  "updated_at": "2026-10-17T19:11:58.618554+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
