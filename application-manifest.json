@@ -78,15 +78,15 @@
       "job_posting_url": "https://longchamp-career.talent-soft.com/job/job-maroquinier-h-f_2871.aspx",
       "vacancy_id": "2871",
       "application_type": "speculative, official recruitment-system Reply-To, mailbox monitoring and HR receipt unconfirmed",
-      "application_channel": "email",
-      "application_status": "blocked",
+      "application_channel": "portal",
+      "application_status": "submitted_portal",
       "date_sent": "2026-10-10",
       "date_submitted": "2026-10-10",
-      "last_contact_date": "2026-10-10",
+      "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "13 October 2026: Gmail final delivery failure for the three-document application 1a126f8bf1173532, notice 1a136b3624a754bc, DSN Action: failed / Status: 4.4.1, recipient-server connection timeout. Earlier inquiry 1a1225be9ceb83cf also failed on 12 October, notice 1a132042c8876724. Technical delivery failure, not recruitment rejection.",
-      "next_action": "Verify a current official alternative recruitment/support route for Morocco-based applicants; present corrected contact for review before any resend. Preserve truthful no-permit form answers. Do not reuse the failing address blindly.",
-      "submission_state": "failed",
+      "latest_employer_response": "Official quick application confirms Pouzauges 2026-2871 submitted on 17 October 2026. Earlier email delivery failures remain historical.",
+      "next_action": "Await Longchamp recruitment response after the confirmed 17 October CV-only portal application for Pouzauges 2026-2871. Do not resend failed emails or repeat the application. Full letter and portfolio are available on request.",
+      "submission_state": "portal",
       "received_events": [
         {
           "kind": "delivery_notice",
@@ -171,12 +171,25 @@
             "Mohammed_Fadil_Portfolio.pdf"
           ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "portal",
+          "timestamp": "2026-10-17",
+          "recipient": "https://longchamp-career.talent-soft.com/mon-compte/candidature/offre-2871.aspx",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Vos données personnelles sont correctement enregistrées. Votre candidature à l’offre 2026-2871 - Maroquinier H/F a bien été envoyée. Vous avez déjà postulé à cette offre."
         }
       ],
       "documents": [
         {
           "filename": "Mohammed_Fadil_CV.pdf",
-          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_CV.pdf"
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery-portal-v02/Mohammed_Fadil_CV.pdf"
         },
         {
           "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
@@ -1363,11 +1376,23 @@
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "Official page confirms application sent, 17 October 2026.",
+      "latest_employer_response": "Prada automated receipt confirms the Valdarno leather-production application was received for profile review. No interview, offer or permit support.",
       "next_action": "Await Prada recruitment response after confirmed Valdarno requisition 18539 application. CV and combined letter/portfolio uploaded. No duplicate application or automatic follow-up.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-17T19:13:00.000Z",
+          "sender": "Prada Group recruitment",
+          "subject": "Thank You for Your Application – Addetto/a Produzione Pelletteria - VALDARNO",
+          "messageId": "1a14b481e86fc4d0",
+          "threadId": "1a14b481e86fc4d0",
+          "sourceMessageId": "",
+          "confirmation": "Prada automated receipt confirms the Valdarno leather-production application was received for profile review. No interview, offer or permit support."
+        }
+      ],
+      "last_response_at": "2026-10-17T19:13:00.000Z",
       "events": [
         {
           "kind": "portal",
@@ -1502,11 +1527,23 @@
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "Official portal confirms receipt of General Application, 17 October 2026.",
+      "latest_employer_response": "Fendi automated receipt confirms General Application FENDGA00001. No interview, offer or permit support.",
       "next_action": "Await Fendi recruitment response after confirmed submission with all three PDFs. No duplicate application or automatic follow-up.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-17T19:15:08.000Z",
+          "sender": "Fendi recruitment via LVMH",
+          "subject": "Your application:  General Application - FENDGA00001",
+          "messageId": "1a14b4a1402f79b4",
+          "threadId": "1a14b4a1402f79b4",
+          "sourceMessageId": "",
+          "confirmation": "Fendi automated receipt confirms General Application FENDGA00001. No interview, offer or permit support."
+        }
+      ],
+      "last_response_at": "2026-10-17T19:15:08.000Z",
       "events": [
         {
           "kind": "portal",
@@ -2209,8 +2246,8 @@
       ]
     }
   ],
-  "revision": "0f9563aadbee956ef17b59a5313772664cde3d85b02d4f3f5b6a3027b89df18e",
-  "updated_at": "2026-10-17T19:15:27.891045+00:00",
+  "revision": "2533b43a58784cf6442a765bed9fc4408e88f3abc419ef58a1dc5bb157280238",
+  "updated_at": "2026-10-17T19:23:56.502431+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
