@@ -1923,22 +1923,51 @@
       "vacancy_id": "",
       "application_type": "advertised",
       "application_channel": "email",
-      "application_status": "preparing",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-17",
+      "date_submitted": "2026-10-17",
+      "last_contact_date": "2026-10-17",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Prepare complete localized package and QA, refresh exact channel and duplicates, then submit once within AUTHORIZATION-20261016-NEXT20.",
-      "submission_state": "held",
+      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-17T11:01:27+00:00",
+          "recipient": "careers@burns1876.com",
+          "subject": "Boot craft application, Salina - Mohammed Fadil",
+          "messageId": "1a1498621b40dc90",
+          "threadId": "1a1498621b40dc90",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     }
   ],
-  "revision": "9bb853f2bfcef4c517b462041917c3a20b55afc95c7c5bb8aa35d1649c601669",
-  "updated_at": "2026-10-17T09:00:05.096Z",
+  "revision": "b1bc5e4d9f0facabef063d4d31e2838ffdf2ca750507d7f1794f48133e24daca",
+  "updated_at": "2026-10-17T11:01:31.810505+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
