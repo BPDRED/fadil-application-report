@@ -1983,7 +1983,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Official Austrian form returned transmission error after one attempt17October. Preserve prepared files, check for a late receipt before any bounded future retry. Do not replace mandatory form with an unapproved email route.",
+      "next_action": "Two explicit form transmission errors on 17 October, including one controlled retry after interruption. No receipt. Await a repaired official form or an employer-published permitted alternative; check for a late receipt before any future resumed-run attempt. No further retry now.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -2060,7 +2060,7 @@
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Await Chrome Hearts recruitment response after confirmed Sewer-Leather portal submission. CV,letter andfullportfolio supplied; no duplicate application or automatic follow-up.",
+      "next_action": "Await Chrome Hearts recruitment response after the confirmed Sewer - Leather portal application. The CV, letter and full portfolio were supplied. No duplicate application or automatic follow-up.",
       "submission_state": "portal",
       "received_events": [],
       "last_response_at": "",
@@ -2108,7 +2108,7 @@
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Paycom application1207233 is screening-only: contactandfouranswers,NoUSauthorization,noCV/letter/dossierstage. Preserve complete localpackage,inspectstatus/response. No repeat or documents-delivered claim.",
+      "next_action": "Paycom application 1207233 is screening-only, with contact details and four answers, including no US work authorization. No CV, letter or portfolio stage was offered. Preserve the full local package and await a status update. No repeat or claim that documents were delivered.",
       "submission_state": "portal",
       "received_events": [],
       "last_response_at": "",
@@ -2246,8 +2246,8 @@
       ]
     }
   ],
-  "revision": "2533b43a58784cf6442a765bed9fc4408e88f3abc419ef58a1dc5bb157280238",
-  "updated_at": "2026-10-17T19:23:56.502431+00:00",
+  "revision": "8b6ab843601aa8e0f3d318796a8f33ea4d0ea9f8da4d033d8579df5cffdada06",
+  "updated_at": "2026-10-17T19:27:30.846778+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
