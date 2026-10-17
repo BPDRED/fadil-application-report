@@ -1329,18 +1329,42 @@
       "vacancy_id": "18539",
       "application_type": "advertised",
       "application_channel": "portal",
-      "application_status": "blocked",
+      "application_status": "submitted_portal",
       "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "date_submitted": "2026-10-17",
+      "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Human credential handoff: prepared Prada form has CV, combined letter/portfolio, Morocco residence and three No conflict answers. User must finish credential setup, terms and registration/application. Check receipt and portal state before any repeat.",
-      "submission_state": "held",
+      "latest_employer_response": "Official page confirms application sent, 17 October 2026.",
+      "next_action": "Await Prada recruitment response after confirmed Valdarno requisition 18539 application. CV and combined letter/portfolio uploaded. No duplicate application or automatic follow-up.",
+      "submission_state": "portal",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-10-17",
+          "recipient": "https://career5.successfactors.eu/careers?company=pradaspaP2",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Lettera_e_Portfolio.pdf"
+          ],
+          "confirmation": "Your application has been sent. Thank you!"
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettera_e_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery-portal/Mohammed_Fadil_Lettera_e_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000024",
@@ -2156,8 +2180,8 @@
       ]
     }
   ],
-  "revision": "031387abde279fb440ff9c97c67a682892e877c05a40853ed60297f110b40a21",
-  "updated_at": "2026-10-17T19:11:58.618554+00:00",
+  "revision": "42313fc817bae7e1c53b26f39e7ee49ace79e0402730c342a935deb81a3cb0e9",
+  "updated_at": "2026-10-17T19:14:03.442499+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
