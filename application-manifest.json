@@ -1555,11 +1555,23 @@
       "date_submitted": "2026-10-16",
       "last_contact_date": "2026-10-16",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "latest_employer_response": "16 October 2026: automated acknowledgment confirms application receipt; processing will take time. No selection decision, deadline or permit support confirmed.",
+      "next_action": "Await recruitment review. No action or documents requested; no automatic follow-up. Training admission, language and visa conditions remain unconfirmed.",
       "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-16T21:14:21+00:00",
+          "sender": "KOINOR recruitment system",
+          "subject": "Automatische Antwort: [EXTERNAL] Ausbildung Polster- und Dekorationsnäher 2027 - Mohammed Fadil",
+          "messageId": "1a14690e6077a1c7",
+          "threadId": "1a14690e6077a1c7",
+          "sourceMessageId": "1a146908feedac4a",
+          "confirmation": "Automated acknowledgment confirms receipt and asks for patience during processing. No interview, admission, offer, rejection, deadline, document request or visa support is confirmed."
+        }
+      ],
+      "last_response_at": "2026-10-16T21:14:21+00:00",
       "events": [
         {
           "kind": "application",
@@ -1925,16 +1937,16 @@
       "documents": []
     }
   ],
-  "revision": "7870bb5c5996002e3dcf6466420209c5794fdaea86c2ef8ebd1f0062a0be2279",
-  "updated_at": "2026-10-16T21:21:10.126796+00:00",
+  "revision": "9bb853f2bfcef4c517b462041917c3a20b55afc95c7c5bb8aa35d1649c601669",
+  "updated_at": "2026-10-17T09:00:05.096Z",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-16T09:06:36.675Z",
-    "latest_attempt_started_utc": "2026-10-16T09:06:36.675Z",
+    "last_successful_scan_utc": "2026-10-17T08:58:12.824Z",
+    "latest_attempt_started_utc": "2026-10-17T08:58:12.824Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 5,
+    "messages_enumerated": 11,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }
