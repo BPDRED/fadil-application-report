@@ -1447,11 +1447,23 @@
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
+      "latest_employer_response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
       "next_action": "Await Gucci recruitment response after confirmed official Il Castello application. CV accepted; portfolio and certificate copy offered on request. Do not repeat submission.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-17T19:01:27.000Z",
+          "sender": "Kering Careers",
+          "subject": "Your Application for GUCCI Addetta/o alla Aggiunteria di Calzature_Il Castello at Kering",
+          "messageId": "1a14b3d8ecba8712",
+          "threadId": "1a14b3d8ecba8712",
+          "sourceMessageId": "",
+          "confirmation": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed."
+        }
+      ],
+      "last_response_at": "2026-10-17T19:01:27.000Z",
       "events": [
         {
           "kind": "portal",
@@ -2070,11 +2082,23 @@
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
+      "latest_employer_response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
       "next_action": "Await Chrome Hearts recruitment response after the confirmed Sewer - Leather portal application. The CV, letter and full portfolio were supplied. No duplicate application or automatic follow-up.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-17T18:46:35.000Z",
+          "sender": "Chrome Hearts recruitment system",
+          "subject": "Thanks for Applying to Chrome Hearts! ",
+          "messageId": "1a14b2ff5e346dc3",
+          "threadId": "1a14b2ff5e346dc3",
+          "sourceMessageId": "",
+          "confirmation": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed."
+        }
+      ],
+      "last_response_at": "2026-10-17T18:46:35.000Z",
       "events": [
         {
           "kind": "portal",
@@ -2257,16 +2281,16 @@
       ]
     }
   ],
-  "revision": "43bb2dfb13195bea45bb6eb88e8c1a5aa1825eae830389fec4f0db492b48dfe6",
-  "updated_at": "2026-10-17T19:38:20.490271+00:00",
+  "revision": "2b2f573680c9d023e3f524533321e94efc8216481085fa3811267a08bcd318b5",
+  "updated_at": "2026-10-18T09:07:27.341Z",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-17T08:58:12.824Z",
-    "latest_attempt_started_utc": "2026-10-17T08:58:12.824Z",
+    "last_successful_scan_utc": "2026-10-18T09:03:35.820Z",
+    "latest_attempt_started_utc": "2026-10-18T09:03:35.820Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 11,
+    "messages_enumerated": 24,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }
