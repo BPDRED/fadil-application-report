@@ -1,0 +1,63 @@
+{
+  "id": "MF-000028",
+  "number": 28,
+  "company": "Santoni",
+  "country": "Italy",
+  "position": "Speculative footwear making, stitching and finishing",
+  "type": "Speculative intake blocked",
+  "language": "Italian",
+  "status": "held",
+  "summary": "Initial CV/CAPTCHA step opened a second form. Mandatory residence permits only Italy/EU and mandatory schooling has no truthful niveau-bac option. No application confirmation. Prepared CV retained; no false residence or diploma selected.",
+  "next": "Santoni CV import opened a required second form with only Italy/EU residence and completed-degree options. A truthful Morocco/niveau-bac route is needed; no application confirmation, no false answer or duplicate retry.",
+  "recipient": "https://career.santonishoes.com/",
+  "sentDate": "",
+  "events": [],
+  "receivedEvents": [],
+  "applicationStatus": "blocked",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000028-1.jpg",
+      "caption": "Santoni second step, mandatory residence and education do not fit the applicant. Not a submission receipt.",
+      "receipt": "Initial CV import succeeded; full application not submitted.",
+      "type": "blocker",
+      "src": "assets/screenshots/MF-000028-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/portal-second-step-blocker-20261017.jpg"
+    }
+  ],
+  "documents": [],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/delivery-portal-v03/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "eaac82dc39c946ecb2b168533f5f87da1949ff5baabfe6392fa6468fd66434dd",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/delivery-portal-v03/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "pages": 1,
+      "size": 56,
+      "sha256": "48cf8abd2280be751b8b42da5d5b7384ad8e5be8dc363bae6b93e625ab2d3433",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2555,
+      "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000028_italy_santoni/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

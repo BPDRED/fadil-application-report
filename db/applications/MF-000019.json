@@ -1,0 +1,100 @@
+{
+  "id": "MF-000019",
+  "number": 19,
+  "company": "Atlas Upholstering",
+  "country": "Canada",
+  "position": "Upholsterer / restoration craft",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "The complete English package went to the published general company email for upholstery or restoration craft work. It is not a verified HR mailbox.",
+  "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+  "recipient": "atlasupholstering@outlook.com",
+  "sentDate": "10 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "10 Oct 2026, 15:42",
+      "timestamp": "2026-10-10T15:42:27+00:00",
+      "recipient": "atlasupholstering@outlook.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Speculative application for leather sewing or upholstery - Mohammed Fadil",
+      "body": "Dear Atlas Upholstering Team,\n\nPlease find my complete speculative application for suitable upholstery or leather sewing employment with Atlas Upholstering in Montreal. If another person handles recruitment, please forward this package to them.\n\nI attach my CV, personalized cover letter and work portfolio, with project photographs and training certificate copies. My experience includes leather cutting, hand and machine sewing, assembly, finishing and quality checks in Moroccan workshops.\n\nI am a Moroccan national living in Morocco, without Canadian residence or work authorization. My English and French are A2, used at work, and I am willing to improve them for the role. I could relocate and start immediately after the required work authorization and visa are approved. Please advise whether you consider recruitment from Morocco and can support the necessary employer-side process, such as an LMIA or an applicable exemption. Quebec requirements would also need to be met.\n\nPlease advise the actual role, work location, hours, gross wage and language requirements.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1267add9247be2",
+      "threadId": "1a1267add9247be2",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/remaining-gmail-sent-verification-20261010.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "445a847b9d05c990bb9a89d5256a6ecddefdf84a50f6663a70b333d16c275a9c",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 58,
+          "sha256": "2807bacc02644fe0f4aea3d5bd6584a2e22f8732ac3de8024793c8a2b0aa074c",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2494,
+          "sha256": "cc22dd70334baec6c86a1ec138e93adf4fddd645339d26911054ec6b4a6d93fa",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "445a847b9d05c990bb9a89d5256a6ecddefdf84a50f6663a70b333d16c275a9c",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 58,
+      "sha256": "2807bacc02644fe0f4aea3d5bd6584a2e22f8732ac3de8024793c8a2b0aa074c",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2494,
+      "sha256": "cc22dd70334baec6c86a1ec138e93adf4fddd645339d26911054ec6b4a6d93fa",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/remaining-document-manifest-20261010.json",
+  "receiptReference": "",
+  "channelNote": "General company mailbox, recruitment forwarding requested.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

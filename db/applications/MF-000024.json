@@ -1,0 +1,108 @@
+{
+  "id": "MF-000024",
+  "number": 24,
+  "company": "Gucci industrial platform, Il Castello",
+  "country": "Italy",
+  "position": "Addetta/o alla Aggiunteria di Calzature_Il Castello",
+  "type": "Advertised application",
+  "language": "Italian",
+  "status": "portal",
+  "summary": "Official Kering portal confirms the Gucci Il Castello footwear application. The two-page Italian CV was accepted. Portfolio and AIRF certificate copy are offered on request because this form has one CV slot. Morocco residence and current Italian work-authorization limits are disclosed. Future global visibility and job alerts were declined.",
+  "next": "Await Gucci recruitment response after confirmed official Il Castello application. CV accepted; portfolio and certificate copy offered on request. Do not repeat submission.",
+  "recipient": "https://careers.kering.com/careers/apply?pid=563705891268301",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://careers.kering.com/careers/apply?pid=563705891268301",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "confirmation": "Thank you for your application",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/portal-result-20261017.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery-portal-v03/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 263,
+          "sha256": "cba246041bd711886cbd7c783ddaa87dd30ef4954127f82f778c8489b8ae36b8",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery-portal-v03/Mohammed_Fadil_CV.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Automated application receipt",
+      "timestamp": "2026-10-17T19:01:27.000Z",
+      "sender": "Kering Careers",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Your Application for GUCCI Addetta/o alla Aggiunteria di Calzature_Il Castello at Kering",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a14b3d8ecba8712",
+      "threadId": "1a14b3d8ecba8712",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/gmail-received-1a14b3d8ecba8712.json",
+      "confirmation": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+      "date": "17 Oct 2026, 19:01"
+    }
+  ],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000024-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "Thank you for your application",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000024-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/portal-result-20261017.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery-portal-v03/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "cba246041bd711886cbd7c783ddaa87dd30ef4954127f82f778c8489b8ae36b8",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery-portal-v03/Mohammed_Fadil_CV.pdf"
+    }
+  ],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "pages": 1,
+      "size": 58,
+      "sha256": "31a4862e1aa2a14f1021b8752bbffd681791fa7552fc18233b0c92458327d84b",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2555,
+      "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

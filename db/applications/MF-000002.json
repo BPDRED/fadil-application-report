@@ -1,0 +1,262 @@
+{
+  "id": "MF-000002",
+  "number": 2,
+  "company": "Longchamp",
+  "country": "France",
+  "position": "Maroquinier H/F, Pouzauges, référence 2871",
+  "type": "Advertised portal application, Pouzauges 2026-2871",
+  "language": "French",
+  "status": "portal",
+  "summary": "Longchamp confirms the CV-only quick application was sent on 17 October after existing-account sign-in. The reviewed French CV states Morocco residence, no French work authorization and the approximately 15-day course duration. Letter and portfolio remain available on request. The two earlier failed emails remain in the communication history and were not resent.",
+  "next": "Await Longchamp review and a possible phone call. Employer gives four weeks from 17 October; review around 14 November if no call is known. No automatic follow-up, rejection, repeat application or email resend. Full letter and portfolio remain available on request.",
+  "recipient": "https://longchamp-career.talent-soft.com/mon-compte/candidature/offre-2871.aspx",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent, no attachments",
+      "date": "9 Oct 2026, 20:30",
+      "timestamp": "2026-10-09T20:30:11+00:00",
+      "recipient": "longchamp@talent-soft.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidature Maroquinier H/F 2026-2871 depuis le Maroc - formulaire bloqué",
+      "body": "Madame, Monsieur,\n\nJe souhaite présenter ma candidature au poste de Maroquinier H/F à Pouzauges, référence 2026-2871. Mon compte candidat est créé avec l'adresse mfadil.med@gmail.com.\n\nJe suis de nationalité marocaine et je réside au Maroc. Je ne possède actuellement ni titre de séjour français ni autorisation de travail en France. J'ai donc répondu « Non » à la question correspondante du formulaire. Toutefois, le champ obligatoire relatif au document ou statut permettant une activité salariée propose uniquement des statuts qui ne correspondent pas à ma situation et bloque l'envoi.\n\nPouvez-vous m'indiquer comment déposer une candidature exacte depuis le Maroc et si vous étudiez les candidatures nécessitant une demande d'autorisation de travail par l'employeur ? Je suis prêt à me relocaliser dès l'obtention des autorisations et du visa requis.\n\nCordialement,\nMohammed Fadil\nmfadil.med@gmail.com",
+      "messageId": "1a1225be9ceb83cf",
+      "threadId": "1a11d53a2ebc689b",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/gmail-inquiry-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": []
+    },
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "10 Oct 2026, 17:59",
+      "timestamp": "2026-10-10T17:59:57+00:00",
+      "recipient": "longchamp@talent-soft.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidature spontanée en maroquinerie depuis le Maroc - Mohammed Fadil",
+      "body": "Madame, Monsieur,\n\nÀ la suite de mon message concernant le blocage du formulaire pour le poste de Maroquinier H/F à Pouzauges, référence 2026-2871, je vous transmets ma candidature spontanée pour un poste de fabrication en maroquinerie adapté à mon expérience dans vos ateliers en France.\n\nDepuis mon apprentissage familial commencé en 2006, je pratique la coupe du cuir, la couture main et machine, le montage, les finitions et le contrôle qualité. Chez Temacuire, j'ai participé à la fabrication de sacs en série. Chez LeMaroquin, j'ai réalisé des sacs et des coffrets sur mesure. Mon activité actuelle chez Leather Citizen et au sein de l'atelier familial entretient cette pratique de fabrication.\n\nLa fabrication de sacs, de ceintures et de petite maroquinerie décrite pour vos ateliers correspond à plusieurs de mes savoir-faire. Je suis également prêt à apprendre vos méthodes et à suivre le parcours d'intégration proposé.\n\nVous trouverez en pièces jointes mon CV en français, ma lettre de motivation préparée pour l'opportunité de Pouzauges et mon dossier professionnel de 19 pages, avec des photos de réalisations et des copies de mes justificatifs de formation.\n\nJe suis de nationalité marocaine et réside au Maroc. Je ne possède actuellement ni titre de séjour français ni autorisation de travail en France. Mon français est de niveau A2, utilisé au travail, et je suis disposé à le renforcer. Je pourrais me relocaliser et commencer immédiatement après obtention des autorisations et du visa requis.\n\nLe formulaire ne me permet pas de choisir un statut correspondant à ma situation réelle. Pourriez-vous transmettre ces documents à votre service recrutement et m'indiquer si une candidature depuis le Maroc, nécessitant une demande d'autorisation de travail par l'employeur, peut être étudiée ? Si cette adresse sert uniquement aux messages du site carrière, je vous remercie de m'indiquer le canal approprié pour transmettre ma candidature.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a126f8bf1173532",
+      "threadId": "1a126f8bf1173532",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_de_motivation.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/spontaneous-gmail-sent-verification-20261010.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 283,
+          "sha256": "80cd2aa82a124a2904f2b4a13ec0526fa00bc31215e74979519f197fa2d46b27",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "pages": 1,
+          "size": 65,
+          "sha256": "2af154db8499e250243d387080d1628e80bbe96cdb755ca64aae2dd14d432c7b",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2000,
+          "sha256": "e2326b8da42ac68f380a93c4bee3554fb5d6abda7cc1d6f736bb160ecffcde74",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "portal",
+      "title": "Pouzauges 2026-2871 quick application submitted",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://longchamp-career.talent-soft.com/mon-compte/candidature/offre-2871.aspx",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "confirmation": "Vos données personnelles sont correctement enregistrées. Votre candidature à l’offre 2026-2871 - Maroquinier H/F a bien été envoyée. Vous avez déjà postulé à cette offre.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/portal-result-20261017.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery-portal-v02/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "da5903c72a842c5fa1239c1bb55d12c3b64e9728f7f907999163167a8f504318",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery-portal-v02/Mohammed_Fadil_CV.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "delivery_notice",
+      "direction": "incoming",
+      "title": "Application delivery delayed",
+      "timestamp": "2026-10-11T19:12:21+00:00",
+      "sender": "Gmail delivery service",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Delivery Status Notification (Delay)",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a12c6160b34250c",
+      "threadId": "1a126f8bf1173532",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/gmail-received-1a12c6160b34250c.json",
+      "confirmation": "Gmail delayed the three-document email. This delay was later superseded by the final failure on 13 October.",
+      "sourceMessageId": "1a126f8bf1173532",
+      "date": "11 Oct 2026, 19:12"
+    },
+    {
+      "kind": "delivery_notice",
+      "direction": "incoming",
+      "title": "Earlier inquiry delivery delayed",
+      "timestamp": "2026-10-12T01:01:02+00:00",
+      "sender": "Gmail delivery service",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Delivery Status Notification (Delay)",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a12da09c12448ef",
+      "threadId": "1a11d53a2ebc689b",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/gmail-received-1a12da09c12448ef.json",
+      "confirmation": "Gmail delayed the earlier form-help inquiry. This was later superseded by final failure on 12 October.",
+      "sourceMessageId": "1a1225be9ceb83cf",
+      "date": "12 Oct 2026, 01:01"
+    },
+    {
+      "kind": "delivery_notice",
+      "direction": "incoming",
+      "title": "Application delivery still delayed",
+      "timestamp": "2026-10-12T18:59:46+00:00",
+      "sender": "Gmail delivery service",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Delivery Status Notification (Delay)",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a1317c418487f67",
+      "threadId": "1a126f8bf1173532",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/gmail-received-1a1317c418487f67.json",
+      "confirmation": "Gmail continued retrying the three-document email; final delivery failure followed on 13 October.",
+      "sourceMessageId": "1a126f8bf1173532",
+      "date": "12 Oct 2026, 18:59"
+    },
+    {
+      "kind": "delivery_notice",
+      "direction": "incoming",
+      "title": "Earlier inquiry delivery failed",
+      "timestamp": "2026-10-12T21:28:16+00:00",
+      "sender": "Gmail delivery service",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Delivery Status Notification (Failure)",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a132042c8876724",
+      "threadId": "1a11d53a2ebc689b",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/gmail-received-1a132042c8876724.json",
+      "confirmation": "Final delivery failure for the earlier inquiry only. Recipient server connection timed out. This is not an employer rejection.",
+      "sourceMessageId": "1a1225be9ceb83cf",
+      "date": "12 Oct 2026, 21:28"
+    },
+    {
+      "kind": "delivery_notice",
+      "direction": "incoming",
+      "title": "Three-document application delivery failed",
+      "timestamp": "2026-10-13T19:18:07+00:00",
+      "sender": "Gmail delivery service",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Delivery Status Notification (Failure)",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a136b3624a754bc",
+      "threadId": "1a126f8bf1173532",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/gmail-received-1a136b3624a754bc.json",
+      "confirmation": "Final delivery failure for the CV, letter and dossier email. Recipient server connection timed out, DSN Action: failed, Status: 4.4.1. No receipt by Longchamp is established; this is not a recruitment rejection.",
+      "sourceMessageId": "1a126f8bf1173532",
+      "date": "13 Oct 2026, 19:18"
+    },
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Pouzauges application receipt",
+      "timestamp": "2026-10-17T19:22:22.000Z",
+      "sender": "Recrutement Longchamp",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Votre candidature - offre 2026-2871 – Maroquinier H/F",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a14b50b619d4203",
+      "threadId": "1a14b50b619d4203",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/gmail-received-1a14b50b619d4203.json",
+      "confirmation": "17 October automatic receipt confirms application 2026-2871 received for review. Longchamp will call if selected; no call within four weeks means not selected. Review around 14 November, no current rejection or interview.",
+      "date": "17 Oct 2026, 19:22"
+    }
+  ],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000002-1.jpg",
+      "caption": "Pouzauges 2026-2871 quick application submitted",
+      "receipt": "Vos données personnelles sont correctement enregistrées. Votre candidature à l’offre 2026-2871 - Maroquinier H/F a bien été envoyée. Vous avez déjà postulé à cette offre.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000002-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/portal-result-20261017.jpg"
+    },
+    {
+      "path": "assets/screenshots/MF-000002-2.jpg",
+      "caption": "Work-status field blocked submission",
+      "receipt": "Validation error, not a successful submission.",
+      "type": "blocker",
+      "src": "assets/screenshots/MF-000002-2.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/qa_pages/longchamp-work-status-blocked.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery-portal-v02/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "da5903c72a842c5fa1239c1bb55d12c3b64e9728f7f907999163167a8f504318",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery-portal-v02/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 65,
+      "sha256": "2af154db8499e250243d387080d1628e80bbe96cdb755ca64aae2dd14d432c7b",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2000,
+      "sha256": "e2326b8da42ac68f380a93c4bee3554fb5d6abda7cc1d6f736bb160ecffcde74",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "17 October automatic receipt confirms application 2026-2871 received for review. Longchamp will call if selected; no call within four weeks means not selected. Review around 14 November, no current rejection or interview.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official quick portal confirmed; earlier candidate-system emails failed delivery.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "documentNote": "The quick portal application included only the reviewed CV. The earlier three-document email failed delivery. Letter and portfolio remain available on request."
+}

@@ -1,0 +1,125 @@
+{
+  "id": "MF-000023",
+  "number": 23,
+  "company": "Prada Group",
+  "country": "Italy",
+  "position": "Addetto/a Produzione Pelletteria - VALDARNO",
+  "type": "Advertised application, requisition 18539",
+  "language": "Italian",
+  "status": "portal",
+  "summary": "Prada confirms that the Valdarno leather-production application was sent. The CV and combined personalized letter with the 19-page portfolio were uploaded. The user completed the final account and submission steps. Morocco residence and the three conflict answers were disclosed accurately.",
+  "next": "Await Prada recruitment response after confirmed Valdarno requisition 18539 application. CV and combined letter/portfolio uploaded. No duplicate application or automatic follow-up.",
+  "recipient": "https://career5.successfactors.eu/careers?company=pradaspaP2",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://career5.successfactors.eu/careers?company=pradaspaP2",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettera_e_Portfolio.pdf"
+      ],
+      "confirmation": "Your application has been sent. Thank you!",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/portal-result-20261017.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 263,
+          "sha256": "0fa0536288c8b12fde35cf3c662b077b30a056836ad85db5da3034eabec98dbe",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettera_e_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery-portal/Mohammed_Fadil_Lettera_e_Portfolio.pdf",
+          "pages": 20,
+          "size": 2503,
+          "sha256": "314949c998131fd6c863c79b745fcefa257aa8d3bc52fc1d2b5691a711d98485",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery-portal/Mohammed_Fadil_Lettera_e_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Employer application receipt",
+      "timestamp": "2026-10-17T19:13:00.000Z",
+      "sender": "Prada Group recruitment",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Thank You for Your Application – Addetto/a Produzione Pelletteria - VALDARNO",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a14b481e86fc4d0",
+      "threadId": "1a14b481e86fc4d0",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/gmail-received-1a14b481e86fc4d0.json",
+      "confirmation": "Prada automated receipt confirms the Valdarno leather-production application was received for profile review. No interview, offer or permit support.",
+      "date": "17 Oct 2026, 19:13"
+    }
+  ],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000023-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "Your application has been sent. Thank you!",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000023-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/portal-result-20261017.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "0fa0536288c8b12fde35cf3c662b077b30a056836ad85db5da3034eabec98dbe",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettera_e_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery-portal/Mohammed_Fadil_Lettera_e_Portfolio.pdf",
+      "pages": 20,
+      "size": 2503,
+      "sha256": "314949c998131fd6c863c79b745fcefa257aa8d3bc52fc1d2b5691a711d98485",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery-portal/Mohammed_Fadil_Lettera_e_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "pages": 1,
+      "size": 61,
+      "sha256": "652a674a5d5263da82c5823fb3d38f82d491c68934e303be7c8daeec1cf0ffc1",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2555,
+      "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "Prada automated receipt confirms the Valdarno leather-production application was received for profile review. No interview, offer or permit support.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "MF-000037",
+  "number": 37,
+  "company": "Chrome Hearts",
+  "country": "United States",
+  "position": "Sewer - Leather",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "portal",
+  "summary": "The official Rippling page confirms the Sewer - Leather application with the CV and combined personalized letter and 19-page portfolio. Morocco residence and no US work authorization were disclosed. Terms were specifically approved. No job offer or immigration support is confirmed.",
+  "next": "Await Chrome Hearts recruitment response after the confirmed Sewer - Leather portal application. The CV, letter and full portfolio were supplied. No duplicate application or automatic follow-up.",
+  "recipient": "https://ats.rippling.com/chrome-hearts-careers/jobs/1e824c0d-f2da-4459-96f7-ed4efcd2d28f/apply",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://ats.rippling.com/chrome-hearts-careers/jobs/1e824c0d-f2da-4459-96f7-ed4efcd2d28f/apply",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf"
+      ],
+      "confirmation": "You have successfully applied to Sewer - Leather",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/portal-result-20261017.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "d13ba5f8da244b60f052efd69b7f582afc4bc539c387484dc43f13dd66e1540a",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery-portal/Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf",
+          "pages": 20,
+          "size": 2450,
+          "sha256": "61006ce11547b6b209df192f71fe2b96ee6fa7889f175bba63c2b7b4707a166d",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery-portal/Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Automated application receipt",
+      "timestamp": "2026-10-17T18:46:35.000Z",
+      "sender": "Chrome Hearts recruitment system",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Thanks for Applying to Chrome Hearts! ",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a14b2ff5e346dc3",
+      "threadId": "1a14b2ff5e346dc3",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/gmail-received-1a14b2ff5e346dc3.json",
+      "confirmation": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+      "date": "17 Oct 2026, 18:46"
+    }
+  ],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000037-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "You have successfully applied to Sewer - Leather",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000037-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/portal-result-20261017.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "d13ba5f8da244b60f052efd69b7f582afc4bc539c387484dc43f13dd66e1540a",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery-portal/Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf",
+      "pages": 20,
+      "size": 2450,
+      "sha256": "61006ce11547b6b209df192f71fe2b96ee6fa7889f175bba63c2b7b4707a166d",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery-portal/Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "4560f92d794bdca6e8bd71287cbf2afd56ec1d48f56023ad892ef6a5e98ca5df",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

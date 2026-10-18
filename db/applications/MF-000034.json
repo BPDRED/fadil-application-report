@@ -1,0 +1,100 @@
+{
+  "id": "MF-000034",
+  "number": 34,
+  "company": "Ludwig Reiter",
+  "country": "Austria",
+  "position": "Speculative footwear making, stitching or leather-goods workshop role",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
+  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "recipient": "karriere@ludwig-reiter.com",
+  "sentDate": "16 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "16 Oct 2026, 21:07",
+      "timestamp": "2026-10-16T21:07:04+00:00",
+      "recipient": "karriere@ludwig-reiter.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Speculative footwear workshop application, Vienna - Mohammed Fadil",
+      "body": "Dear Ludwig Reiter Recruitment Team,\n\nYour careers page welcomes applications for the Vienna shoe manufacture. I am applying speculatively for suitable footwear-making, stitching or finishing employment there. I am interested in contributing practical leather skills while learning your shoemaking methods. This is a manufacturing application, rather than an application for your advertised Graz retail position.\n\nPlease find my CV, personalized cover letter and work portfolio with project photographs and certificate copies.\n\nI am a Moroccan national living in Morocco, without Austrian residence or work authorization. My English and French are A2; German is A1, studying for A2. I would need an appropriate employer-supported employment and residence route before starting. Could you advise whether you consider workshop applicants from Morocco and what language, experience and documents you require?\n\nPlease advise the role, location, weekly hours, gross pay and language requirements. I could start after the required authorizations and visa.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1468a399de8265",
+      "threadId": "1a1468a399de8265",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "936c436d9133e955a9e8103045f0ae58dbfe575d78409a067367e999c23aca9a",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "26091d471110e091bb03679d681aa7112d600eed8169798682346e2a984527d3",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2493,
+          "sha256": "e77e281621117dba60adf75c1e7fe43de8c28a0fe7760655822214411e25489c",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "936c436d9133e955a9e8103045f0ae58dbfe575d78409a067367e999c23aca9a",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "26091d471110e091bb03679d681aa7112d600eed8169798682346e2a984527d3",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2493,
+      "sha256": "e77e281621117dba60adf75c1e7fe43de8c28a0fe7760655822214411e25489c",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-10-18T11:01:54.319781+00:00",
+  "generatedLabel": "18 Oct 2026, 11:01",
+  "recordDate": "18 October 2026",
+  "timezone": "Africa/Casablanca",
+  "sender": "mfadil.med@gmail.com",
+  "counts": {
+    "application": 25,
+    "supplement": 2,
+    "inquiry": 7
+  },
+  "applicationDataUpdatedAt": "2026-10-18T11:01:41.584264+00:00",
+  "applicationContentHash": "171da24c2d3b5c5a8d5502976bdc218a45f8ec9d1cf84407dbb232f8fcc28196",
+  "monitoringStatus": {
+    "schema_version": 1,
+    "last_successful_scan_utc": "2026-10-18T09:03:35.820Z",
+    "latest_attempt_started_utc": "2026-10-18T09:03:35.820Z",
+    "latest_attempt_status": "complete",
+    "scan_complete": true,
+    "messages_enumerated": 24,
+    "pages_completed": 1,
+    "email_suppressed_same_day": false
+  },
+  "sourceHashes": {
+    "application-tracker.csv": "4fd16a2e28299f55ccd458141c885db0cf2adf4172a0cba39681e31d0a5ddcea",
+    "project-status.md": "981fd2872e3bd451047369861e3e0c1d54423492050e444aaededa0b0065f5b2"
+  },
+  "publicationRevision": "d81df1ec83cbc8a83eadc9ccf103f8d550b61b51ee038f06b0e40d3a59c98de0",
+  "candidateName": "Mohammed Fadil",
+  "schemaVersion": 1,
+  "sourceLinks": [
+    {
+      "label": "Current checkpoint ↗",
+      "url": "https://github.com/BPDRED/fadil-international-applications/blob/main/project-status.md"
+    },
+    {
+      "label": "Source tracker ↗",
+      "url": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "MF-000004",
+  "number": 4,
+  "company": "Roots",
+  "country": "Canada",
+  "position": "Table Worker-Handbags, North York, req2638",
+  "type": "Advertised role, requisition 2638",
+  "language": "English",
+  "status": "portal",
+  "summary": "The official Table Worker-Handbags application included all three English PDFs. You completed the final CAPTCHA.",
+  "next": "Await Roots response to confirmed Table Worker-Handbags req2638 application. CV, cover letter and full dossier uploaded. Work-permit route, current lawful pay, physical duties and language requirements unresolved. No duplicate submission.",
+  "recipient": "https://jobs.dayforcehcm.com/en-US/roots/CANDIDATEPORTAL/jobs/28039/apply/manualApplication?applicationSource=Manual",
+  "sentDate": "10 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Table Worker-Handbags application submitted",
+      "date": "10 Oct 2026, 15:59",
+      "timestamp": "2026-10-10T15:59:24.702054+00:00",
+      "recipient": "https://jobs.dayforcehcm.com/en-US/roots/CANDIDATEPORTAL/jobs/28039/apply/manualApplication?applicationSource=Manual",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "confirmation": "Congratulations, your application has been submitted. The confirmation number is dgbhczX3.",
+      "reference": "dgbhczX3",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/portal-submission-evidence-20261010.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/qa_pages/roots-submission-success-20261010.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "b4c3929e0212bb57afb906e534d43fd33c49e30bae43a80588585947916dc34d",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 59,
+          "sha256": "fe33b3fe1df823d91682db86f8bfce0b8dcca19019b3d3bd5352144c9e9c5819",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2493,
+          "sha256": "9da82e9833f8bdbf671d7f3974883f781e81a5677d56132fd716fb96f7507535",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000004-1.jpg",
+      "caption": "Table Worker-Handbags application submitted",
+      "receipt": "Congratulations, your application has been submitted. The confirmation number is dgbhczX3.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000004-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/qa_pages/roots-submission-success-20261010.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "b4c3929e0212bb57afb906e534d43fd33c49e30bae43a80588585947916dc34d",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 59,
+      "sha256": "fe33b3fe1df823d91682db86f8bfce0b8dcca19019b3d3bd5352144c9e9c5819",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2493,
+      "sha256": "9da82e9833f8bdbf671d7f3974883f781e81a5677d56132fd716fb96f7507535",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "Automatic acknowledgement10October2026 from notify@dayforce.com confirms Roots received the Table Worker-Handbags application. It says candidates selected for interview will be contacted, not that this candidate has been selected.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/remaining-document-manifest-20261010.json",
+  "receiptReference": "dgbhczX3",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

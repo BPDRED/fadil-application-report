@@ -1,0 +1,116 @@
+{
+  "id": "MF-000015",
+  "number": 15,
+  "company": "Decor-Rest",
+  "country": "Canada",
+  "position": "Sewing Machine Operators, Woodbridge",
+  "type": "Advertised sewing role, with alternative-role interest",
+  "language": "English",
+  "status": "email",
+  "summary": "The sewing eligibility inquiry was followed by a complete English application package.",
+  "next": "Await employer response to complete package. Country entry, employer-side authorizations and role conditions remain conditional. No automatic follow-up.",
+  "recipient": "hr@decor-rest.com",
+  "sentDate": "9 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent, no attachments",
+      "date": "9 Oct 2026, 22:14",
+      "timestamp": "2026-10-09T22:14:15+00:00",
+      "recipient": "hr@decor-rest.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Sewing Machine Operators - eligibility inquiry from Morocco",
+      "body": "Dear Decor-Rest Human Resources Team,\n\nYour current Sewing Machine Operators advertisement describes sewing fabric and leather for upholstered furniture. My experience in Moroccan workshops includes leather cutting, hand and machine sewing, assembly, finishing and quality checks. At CST Corp Morocco and Leather Citizen, I worked on leather garments. At Leather Citizen, I also contributed to upholstery work for Jouffre commissions.\n\nI am a Moroccan national living in Morocco, without Canadian residence or work authorization. My current English and French levels are A2.\n\nIs this full-time position still available, and do you consider candidates applying from outside Canada? Could you confirm the actual work location, weekly hours, gross hourly wage and required English level?\n\nIf you consider overseas candidates, can Decor-Rest support the employer-side process for a lawful work permit, such as an LMIA, or identify an applicable exemption? I would relocate and start only after the required authorizations and visa are approved.\n\nThis is an eligibility inquiry with no attachments. If there is a suitable opportunity and supported route, I can provide my CV and work portfolio through your preferred recruitment channel.\n\nKind regards,\nMohammed Fadil\nmfadil.med@gmail.com",
+      "messageId": "1a122bb31b22cd05",
+      "threadId": "1a122bb31b22cd05",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/gmail-inquiry-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": []
+    },
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "9 Oct 2026, 22:39",
+      "timestamp": "2026-10-09T22:39:59+00:00",
+      "recipient": "hr@decor-rest.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Sewing Machine Operators application - Mohammed Fadil",
+      "body": "Dear Decor-Rest Human Resources Team,\n\nFurther to my earlier inquiry, I am sending my complete application for your Sewing Machine Operators position, with my CV, personalized cover letter and work portfolio. If the advertised position is no longer available, please consider my profile for another suitable production role.\n\nMy experience includes machine sewing of leather garments at CST Corp Morocco and Leather Citizen and upholstery work on Jouffre commissions in Rabat. I am a Moroccan national based in Morocco, with English and French A2 and no Canadian residence or work authorization. I could start immediately after the required authorizations and visa are approved.\n\nCould you confirm the role's current availability, location, hours, gross wage, required English level and whether recruitment from Morocco with the necessary employer-side work-permit process is possible?\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a122d2c0e349184",
+      "threadId": "1a122d2c0e349184",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "75fe5eca98ab286ffc94068f1c4e8a173bbb11477034f21512521384d3ea7065",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "3d7e6ebdccfba106f005dc2f7937c46c07fc0aff5b8c1d47057ca13f36e7fe50",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2493,
+          "sha256": "f2ec4e3ed28327737347cad8d56b72f6693d0ee796470a61cfc7e883ac56679e",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "75fe5eca98ab286ffc94068f1c4e8a173bbb11477034f21512521384d3ea7065",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "3d7e6ebdccfba106f005dc2f7937c46c07fc0aff5b8c1d47057ca13f36e7fe50",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2493,
+      "sha256": "f2ec4e3ed28327737347cad8d56b72f6693d0ee796470a61cfc7e883ac56679e",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

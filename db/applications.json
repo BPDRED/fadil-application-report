@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "MF-000001",
+    "number": 1,
+    "company": "Camille Fournet",
+    "country": "France",
+    "position": "Artisan assembleur-monteur expérimenté, Tergnier",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response after confirmed dossier supplement 1a12256276f869a3. No automatic follow-up.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "8 Oct 2026, 20:51",
+        "timestamp": "2026-10-08T20:51:44+00:00"
+      },
+      {
+        "kind": "supplement",
+        "title": "French dossier supplement sent",
+        "date": "9 Oct 2026, 20:23",
+        "timestamp": "2026-10-09T20:23:53+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000002",
+    "number": 2,
+    "company": "Longchamp",
+    "country": "France",
+    "position": "Maroquinier H/F, Pouzauges, référence 2871",
+    "type": "Advertised portal application, Pouzauges 2026-2871",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Longchamp review and a possible phone call. Employer gives four weeks from 17 October; review around 14 November if no call is known. No automatic follow-up, rejection, repeat application or email resend. Full letter and portfolio remain available on request.",
+    "response": "17 October automatic receipt confirms application 2026-2871 received for review. Longchamp will call if selected; no call within four weeks means not selected. Review around 14 November, no current rejection or interview.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent, no attachments",
+        "date": "9 Oct 2026, 20:30",
+        "timestamp": "2026-10-09T20:30:11+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 17:59",
+        "timestamp": "2026-10-10T17:59:57+00:00"
+      },
+      {
+        "kind": "portal",
+        "title": "Pouzauges 2026-2871 quick application submitted",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "delivery_notice",
+        "title": "Application delivery delayed",
+        "date": "11 Oct 2026, 19:12",
+        "timestamp": "2026-10-11T19:12:21+00:00",
+        "direction": "incoming"
+      },
+      {
+        "kind": "delivery_notice",
+        "title": "Earlier inquiry delivery delayed",
+        "date": "12 Oct 2026, 01:01",
+        "timestamp": "2026-10-12T01:01:02+00:00",
+        "direction": "incoming"
+      },
+      {
+        "kind": "delivery_notice",
+        "title": "Application delivery still delayed",
+        "date": "12 Oct 2026, 18:59",
+        "timestamp": "2026-10-12T18:59:46+00:00",
+        "direction": "incoming"
+      },
+      {
+        "kind": "delivery_notice",
+        "title": "Earlier inquiry delivery failed",
+        "date": "12 Oct 2026, 21:28",
+        "timestamp": "2026-10-12T21:28:16+00:00",
+        "direction": "incoming"
+      },
+      {
+        "kind": "delivery_notice",
+        "title": "Three-document application delivery failed",
+        "date": "13 Oct 2026, 19:18",
+        "timestamp": "2026-10-13T19:18:07+00:00",
+        "direction": "incoming"
+      },
+      {
+        "kind": "acknowledgment",
+        "title": "Pouzauges application receipt",
+        "date": "17 Oct 2026, 19:22",
+        "timestamp": "2026-10-17T19:22:22.000Z",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000003",
+    "number": 3,
+    "company": "Groupe Tolomei",
+    "country": "France",
+    "position": "Artisan maroquinier, candidature spontanée, ateliers français du groupe",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await response to confirmed spontaneous application. No automatic follow-up, duplicate subsidiary application, training enrollment or matching-job submission.",
+    "response": "Automatic receipt9October, messages1a1229339ae4e73f and1a1229786c13378f. Company specifies15days without news; no substantive decision yet.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Spontaneous application submitted",
+        "date": "9 Oct 2026, 21:30",
+        "timestamp": "2026-10-09T21:30:39.074935+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000004",
+    "number": 4,
+    "company": "Roots",
+    "country": "Canada",
+    "position": "Table Worker-Handbags, North York, req2638",
+    "type": "Advertised role, requisition 2638",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Roots response to confirmed Table Worker-Handbags req2638 application. CV, cover letter and full dossier uploaded. Work-permit route, current lawful pay, physical duties and language requirements unresolved. No duplicate submission.",
+    "response": "Automatic acknowledgement10October2026 from notify@dayforce.com confirms Roots received the Table Worker-Handbags application. It says candidates selected for interview will be contacted, not that this candidate has been selected.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Table Worker-Handbags application submitted",
+        "date": "10 Oct 2026, 15:59",
+        "timestamp": "2026-10-10T15:59:24.702054+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000005",
+    "number": 5,
+    "company": "Elran",
+    "country": "Canada",
+    "position": "Leather cutter / upholstery sewer",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await HR response to complete speculative application; work-permit/Quebec process, actual role/pay/hours/language remain conditional. No automatic follow-up.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent, no attachments",
+        "date": "9 Oct 2026, 22:01",
+        "timestamp": "2026-10-09T22:01:22+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "9 Oct 2026, 22:39",
+        "timestamp": "2026-10-09T22:39:01+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000006",
+    "number": 6,
+    "company": "SIXTREND",
+    "country": "Canada",
+    "position": "Upholsterer, Toronto",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 15:40",
+        "timestamp": "2026-10-10T15:40:37+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000007",
+    "number": 7,
+    "company": "Jean Rousseau",
+    "country": "France",
+    "position": "Artisan maroquinier, candidature spontanée, ateliers en France",
+    "type": "Speculative application, French ateliers",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Jean Rousseau recruitment response after successful user portal submission and receiver-confirmed dossier supplement. Do not repeat form, resend dossier or solve another challenge without applicable authorization.",
+    "response": "Portal success screenshot supplied by user. Mailinblack human verification completed10October; service confirms email received. No substantive recruitment response.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent, no attachments",
+        "date": "9 Oct 2026, 21:26",
+        "timestamp": "2026-10-09T21:26:58+00:00"
+      },
+      {
+        "kind": "portal",
+        "title": "You submitted the form successfully",
+        "date": "10 Oct 2026",
+        "timestamp": "2026-10-10"
+      },
+      {
+        "kind": "supplement",
+        "title": "French dossier supplement sent",
+        "date": "10 Oct 2026, 11:47",
+        "timestamp": "2026-10-10T11:47:03+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000008",
+    "number": 8,
+    "company": "Aurora Furniture",
+    "country": "Canada",
+    "position": "Upholsterer, Calgary",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 15:42",
+        "timestamp": "2026-10-10T15:42:20+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000009",
+    "number": 9,
+    "company": "BFL Maroquinerie",
+    "country": "France",
+    "position": "Maroquinier expérimenté F/H, Fougères",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await employer response. No duplicate portal submission or recruitment email.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Fougères application submitted",
+        "date": "9 Oct 2026, 20:22",
+        "timestamp": "2026-10-09T20:22:32.503139+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000010",
+    "number": 10,
+    "company": "Goyard",
+    "country": "France",
+    "position": "Artisan maroquinier, candidature spontanée, ateliers en France",
+    "type": "Speculative application, Atelier function",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await recruitment response. Do not resend the CV or add unsolicited letter/dossier.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Atelier spontaneous application submitted",
+        "date": "9 Oct 2026, 21:02",
+        "timestamp": "2026-10-09T21:02:01.201673+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000011",
+    "number": 11,
+    "company": "Schröno Polstermöbelfabrik",
+    "displayName": "Schröno",
+    "country": "Germany",
+    "position": "Zuschneider (m/w/d), Delbrück-Nordhagen",
+    "type": "Advertised cutter role, with alternative-role interest",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await Schröno response on cutter application, language/pay/hours and supported lawful work route; no automatic repeat contact",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent, no attachments",
+        "date": "9 Oct 2026, 22:10",
+        "timestamp": "2026-10-09T22:10:41+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "9 Oct 2026, 22:59",
+        "timestamp": "2026-10-09T22:59:50+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000012",
+    "number": 12,
+    "company": "Louis Vuitton",
+    "country": "France",
+    "position": "Leather-goods production artisan",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "response_received",
+    "next": "Review the official careers portal for a suitable leather production vacancy or permitted speculative intake, reconcile earlier contact and verify requirements for an applicant residing in Morocco before proposing portal submission. No duplicate email or automatic application.",
+    "response": "13 October 2026: Louis Vuitton customer service directed application submission to jobs.louisvuitton.com, Gmail 1a13455cfe2b0637. No HR decision or receipt of the historical Asnières email is confirmed.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application text sent through contact form",
+        "date": "10 Oct 2026, 15:57",
+        "timestamp": "2026-10-10T15:57:29.517656+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 16:08",
+        "timestamp": "2026-10-10T16:08:15+00:00"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "response",
+        "title": "Customer service directs applicant to careers portal",
+        "date": "13 Oct 2026, 08:16",
+        "timestamp": "2026-10-13T08:16:40+00:00",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000013",
+    "number": 13,
+    "company": "Hermès, Manufacture de Haute Maroquinerie",
+    "displayName": "Hermès",
+    "country": "France",
+    "position": "Sellier-maroquinier",
+    "type": "Conditional training interest and speculative craft application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response to complete package. Country entry, employer-side authorizations and role conditions remain conditional. No automatic follow-up.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent, no attachments",
+        "date": "9 Oct 2026, 21:59",
+        "timestamp": "2026-10-09T21:59:53+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "9 Oct 2026, 22:40",
+        "timestamp": "2026-10-09T22:40:03+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000014",
+    "number": 14,
+    "company": "Les Ateliers Carnoy",
+    "country": "France",
+    "position": "Maroquinier polyvalent (H/F), Montataire, offre 214DNGB",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application text sent through contact form",
+        "date": "10 Oct 2026, 15:45",
+        "timestamp": "2026-10-10T15:45:34.053048+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 16:03",
+        "timestamp": "2026-10-10T16:03:58+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000015",
+    "number": 15,
+    "company": "Decor-Rest",
+    "country": "Canada",
+    "position": "Sewing Machine Operators, Woodbridge",
+    "type": "Advertised sewing role, with alternative-role interest",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response to complete package. Country entry, employer-side authorizations and role conditions remain conditional. No automatic follow-up.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent, no attachments",
+        "date": "9 Oct 2026, 22:14",
+        "timestamp": "2026-10-09T22:14:15+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "9 Oct 2026, 22:39",
+        "timestamp": "2026-10-09T22:39:59+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000016",
+    "number": 16,
+    "company": "Causse Gantier",
+    "country": "France",
+    "position": "Leather artisan / glove production",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent, no attachments",
+        "date": "9 Oct 2026, 22:00",
+        "timestamp": "2026-10-09T22:00:37+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 15:42",
+        "timestamp": "2026-10-10T15:42:34+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000017",
+    "number": 17,
+    "company": "Braun Büffel",
+    "country": "Germany",
+    "position": "Fine leather-goods artisan",
+    "type": "Speculative application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await speculative application response; actual craft role/site/language/pay/hours and lawful employer route unknown. Negotiable salary is not contract acceptance",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "9 Oct 2026, 23:00",
+        "timestamp": "2026-10-09T23:00:33+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000018",
+    "number": 18,
+    "company": "Canada's Boss Leather Furniture",
+    "country": "Canada",
+    "position": "Leather cutting / sewing / upholstery",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application text sent through contact form",
+        "date": "10 Oct 2026, 15:52",
+        "timestamp": "2026-10-10T15:52:29.992247+00:00"
+      },
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 16:02",
+        "timestamp": "2026-10-10T16:02:01+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000019",
+    "number": 19,
+    "company": "Atlas Upholstering",
+    "country": "Canada",
+    "position": "Upholsterer / restoration craft",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 15:42",
+        "timestamp": "2026-10-10T15:42:27+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000020",
+    "number": 20,
+    "company": "POLIPOL",
+    "country": "Germany",
+    "position": "Upholstery sewing / leather-cover work",
+    "type": "Speculative application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Wait for POLIPOL review; do not resend the package or send an immediate follow-up. Review status after 22 October if no substantive reply, without automatic contact; a later suitable role requires location, terms, language and permit checks.",
+    "response": "12 October 2026: POLIPOL human resources acknowledged the application and said processing would take some time; they will contact the applicant again. Gmail 1a12f937dbea8171. No interview, decision, deadline, work site or permit support established.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "10 Oct 2026, 15:42",
+        "timestamp": "2026-10-10T15:42:14+00:00"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "response",
+        "title": "HR acknowledges application",
+        "date": "12 Oct 2026, 10:05",
+        "timestamp": "2026-10-12T10:05:56+00:00",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000021",
+    "number": 21,
+    "company": "Cottel.com / SACAR",
+    "country": "France",
+    "position": "Speculative leather-goods cutting, sewing and assembly",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "16 Oct 2026, 21:03",
+        "timestamp": "2026-10-16T21:03:17+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000022",
+    "number": 22,
+    "company": "Pelletterie Palladio",
+    "country": "Italy",
+    "position": "Experienced leather-goods production, accepted speculative intake",
+    "type": "Speculative craft application with conditional Academy interest",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await Palladio recruitment response to the complete Italian email package. Prior form required unsupported residence/school selections; published HR email alternative used. No duplicate application or automatic follow-up.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "17 Oct 2026, 19:14",
+        "timestamp": "2026-10-17T19:14:39+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000023",
+    "number": 23,
+    "company": "Prada Group",
+    "country": "Italy",
+    "position": "Addetto/a Produzione Pelletteria - VALDARNO",
+    "type": "Advertised application, requisition 18539",
+    "language": "Italian",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Prada recruitment response after confirmed Valdarno requisition 18539 application. CV and combined letter/portfolio uploaded. No duplicate application or automatic follow-up.",
+    "response": "Prada automated receipt confirms the Valdarno leather-production application was received for profile review. No interview, offer or permit support.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Employer application receipt",
+        "date": "17 Oct 2026, 19:13",
+        "timestamp": "2026-10-17T19:13:00.000Z",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000024",
+    "number": 24,
+    "company": "Gucci industrial platform, Il Castello",
+    "country": "Italy",
+    "position": "Addetta/o alla Aggiunteria di Calzature_Il Castello",
+    "type": "Advertised application",
+    "language": "Italian",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Gucci recruitment response after confirmed official Il Castello application. CV accepted; portfolio and certificate copy offered on request. Do not repeat submission.",
+    "response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automated application receipt",
+        "date": "17 Oct 2026, 19:01",
+        "timestamp": "2026-10-17T19:01:27.000Z",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000025",
+    "number": 25,
+    "company": "Jaymar",
+    "country": "Canada",
+    "position": "Speculative upholstery, leather/fabric cutting or sewing",
+    "type": "Spontaneous manufacturing application",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Jaymar recruitment response. CV and letter accepted by official speculative form; full19-pageportfolio offered on request because of file-size limit. No duplicate email or submission.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000026",
+    "number": 26,
+    "company": "Fendi",
+    "country": "Italy",
+    "position": "Speculative experienced leather-goods assembly and sewing",
+    "type": "Speculative application",
+    "language": "Italian",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Fendi recruitment response after confirmed submission with all three PDFs. No duplicate application or automatic follow-up.",
+    "response": "Fendi automated receipt confirms General Application FENDGA00001. No interview, offer or permit support.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Employer application receipt",
+        "date": "17 Oct 2026, 19:15",
+        "timestamp": "2026-10-17T19:15:08.000Z",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000027",
+    "number": 27,
+    "company": "Tod's Group",
+    "country": "Italy",
+    "position": "Speculative footwear stitching, assembly and finishing",
+    "type": "Speculative intake blocked",
+    "language": "Italian",
+    "status": "held",
+    "applicationStatus": "blocked",
+    "next": "Official required account residence list omits Morocco and has no Other option. Employer must provide a truthful supported application route. Complete Italian package retained; no false country or new account.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000028",
+    "number": 28,
+    "company": "Santoni",
+    "country": "Italy",
+    "position": "Speculative footwear making, stitching and finishing",
+    "type": "Speculative intake blocked",
+    "language": "Italian",
+    "status": "held",
+    "applicationStatus": "blocked",
+    "next": "Santoni CV import opened a required second form with only Italy/EU residence and completed-degree options. A truthful Morocco/niveau-bac route is needed; no application confirmation, no false answer or duplicate retry.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000029",
+    "number": 29,
+    "company": "Salvatore Ferragamo",
+    "country": "Italy",
+    "position": "Speculative leather-goods or footwear production and finishing",
+    "type": "Speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await recruitment review. No action or documents requested; no automatic duplicate or follow-up.",
+    "response": "Automated acknowledgment17October confirms CV receipt; review if a matching opportunity arises. No interview,offer,permit support or documents requested.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "17 Oct 2026, 11:03",
+        "timestamp": "2026-10-17T11:03:19+00:00"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automated CV receipt",
+        "date": "17 Oct 2026, 11:04",
+        "timestamp": "2026-10-17T11:04:29+00:00",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000030",
+    "number": 30,
+    "company": "Rolf Benz",
+    "country": "Germany",
+    "position": "Polster- und Dekorationsnäher apprenticeship, 2027 intake",
+    "type": "Conditional training application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "16 Oct 2026, 21:12",
+        "timestamp": "2026-10-16T21:12:38+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000031",
+    "number": 31,
+    "company": "KOINOR Polstermöbel",
+    "country": "Germany",
+    "position": "Polster- und Dekorationsnäher apprenticeship, 1 September 2027",
+    "type": "Conditional training application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await recruitment review. No action or documents requested; no automatic follow-up. Training admission, language and visa conditions remain unconfirmed.",
+    "response": "16 October 2026: automated acknowledgment confirms application receipt; processing will take time. No selection decision, deadline or permit support confirmed.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "16 Oct 2026, 21:14",
+        "timestamp": "2026-10-16T21:14:00+00:00"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automated application receipt",
+        "date": "16 Oct 2026, 21:14",
+        "timestamp": "2026-10-16T21:14:21+00:00",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000032",
+    "number": 32,
+    "company": "SINN Living",
+    "country": "Germany",
+    "position": "Polster- und Dekorationsnäher apprenticeship",
+    "type": "Conditional training application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "16 Oct 2026, 21:16",
+        "timestamp": "2026-10-16T21:16:12+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000033",
+    "number": 33,
+    "company": "TOPSTAR",
+    "country": "Germany",
+    "position": "Ausbildung Polsterer",
+    "type": "Conditional training application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "16 Oct 2026, 21:18",
+        "timestamp": "2026-10-16T21:18:39+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000034",
+    "number": 34,
+    "company": "Ludwig Reiter",
+    "country": "Austria",
+    "position": "Speculative footwear making, stitching or leather-goods workshop role",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "16 Oct 2026, 21:07",
+        "timestamp": "2026-10-16T21:07:04+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000035",
+    "number": 35,
+    "company": "Wollsdorf Leather",
+    "country": "Austria",
+    "position": "Speculative suitable leather inspection/finishing or transferable production work",
+    "type": "Speculative application blocked by form error",
+    "language": "English",
+    "status": "held",
+    "applicationStatus": "blocked",
+    "next": "Four explicit sending errors across 17 and 18 October. Both a 33 percent compressed dossier and a CV/letter-only 332502-byte package failed on 18 October. No receipt. Await repaired form or employer-supported route; official careers page permits a telephone enquiry about the broken form at +43 3178 5125-0. No further retry now.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000036",
+    "number": 36,
+    "company": "Softline Brand Partners",
+    "country": "United States",
+    "position": "Experienced Leather Sewer",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "16 Oct 2026, 21:21",
+        "timestamp": "2026-10-16T21:21:06+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000037",
+    "number": 37,
+    "company": "Chrome Hearts",
+    "country": "United States",
+    "position": "Sewer - Leather",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await Chrome Hearts recruitment response after the confirmed Sewer - Leather portal application. The CV, letter and full portfolio were supplied. No duplicate application or automatic follow-up.",
+    "response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automated application receipt",
+        "date": "17 Oct 2026, 18:46",
+        "timestamp": "2026-10-17T18:46:35.000Z",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000038",
+    "number": 38,
+    "company": "Hancock & Moore",
+    "country": "United States",
+    "position": "Leather Sewing Associate",
+    "type": "Screening-only portal record",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "screeningOnly": true,
+    "next": "Paycom application 1207233 is screening-only, with contact details and four answers, including no US work authorization. No CV, letter or portfolio stage was offered. Preserve the full local package and await a status update. No repeat or claim that documents were delivered.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000039",
+    "number": 39,
+    "company": "American Leather",
+    "country": "United States",
+    "position": "Standard Sewer 6",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await recruitment response, no duplicate application. ADP post-submission tax-credit questionnaire remains uncompleted; no tax/SSN/health disclosure or extra talent account authorized by this application.",
+    "response": "Automated ADP employer receipt17October18:57UTC confirms StandardSewer6 application currently under review. No interview or offer.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "17 Oct 2026",
+        "timestamp": "2026-10-17"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Employer application receipt",
+        "date": "17 Oct 2026, 18:57",
+        "timestamp": "2026-10-17T18:57:19+00:00",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000040",
+    "number": 40,
+    "company": "Burns 1876 / Burns Saddlery",
+    "country": "United States",
+    "position": "Craftsperson, boot top stitcher or boot bottomer",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "17 Oct 2026, 11:01",
+        "timestamp": "2026-10-17T11:01:27+00:00"
+      }
+    ],
+    "receivedEvents": []
+  }
+]

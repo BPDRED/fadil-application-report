@@ -1,0 +1,117 @@
+{
+  "id": "MF-000013",
+  "number": 13,
+  "company": "Hermès, Manufacture de Haute Maroquinerie",
+  "country": "France",
+  "position": "Sellier-maroquinier",
+  "type": "Conditional training interest and speculative craft application",
+  "language": "French",
+  "status": "email",
+  "summary": "The French package expresses interest in the Belley 18-month pathway and suitable alternative craft work. No formal training-portal application or enrollment occurred.",
+  "next": "Await employer response to complete package. Country entry, employer-side authorizations and role conditions remain conditional. No automatic follow-up.",
+  "recipient": "recrutement-fitilieu@hermes.com",
+  "sentDate": "9 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent, no attachments",
+      "date": "9 Oct 2026, 21:59",
+      "timestamp": "2026-10-09T21:59:53+00:00",
+      "recipient": "recrutement-fitilieu@hermes.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Parcours sellier-maroquinier à Belley, réf. 23103 - candidature depuis le Maroc",
+      "body": "Madame, Monsieur,\n\nVotre offre « CDI - SELLIER MAROQUINIER (H/F) » à Belley, référence 23103, prévoit six mois de contrat de professionnalisation puis douze mois d'alternance, avec une perspective de CDI après validation des étapes. Je souhaite savoir comment présenter ma candidature à ce parcours.\n\nJ'ai 34 ans et je suis artisan marocain résidant au Maroc. Depuis mon apprentissage familial en 2006, je pratique le travail du cuir, notamment la coupe, la couture main et machine, le montage et les finitions. J'accepte le principe des dix-huit mois de formation proposés.\n\nJe ne possède actuellement ni titre de séjour français ni autorisation de travail en France. Mon niveau de français est A2, utilisé au travail, et je suis disposé à le renforcer selon les exigences du parcours.\n\nPouvez-vous me préciser si ce recrutement est accessible depuis le Maroc dans ma situation, ou s'il nécessite déjà un droit au séjour et au travail en France ? Quelles sont les conditions liées à France Travail, à l'âge et au niveau de français ? Si un accès depuis l'étranger est possible, quel contrat et quelles démarches permettraient de commencer légalement la formation ?\n\nJe peux vous transmettre mon CV et mon dossier professionnel par le canal que vous indiquerez.\n\nJe vous remercie de votre aide.\n\nCordialement,\nMohammed Fadil\nmfadil.med@gmail.com",
+      "messageId": "1a122ae0b6f41a84",
+      "threadId": "1a122ae0b6f41a84",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/gmail-inquiry-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": []
+    },
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "9 Oct 2026, 22:40",
+      "timestamp": "2026-10-09T22:40:03+00:00",
+      "recipient": "recrutement-fitilieu@hermes.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Dossier de candidature - parcours sellier-maroquinier à Belley, réf. 23103",
+      "body": "Madame, Monsieur,\n\nEn complément de ma demande concernant l'accès depuis le Maroc au parcours sellier-maroquinier de Belley, référence 23103, je vous transmets mon CV, ma lettre de motivation et mon dossier professionnel en français, avec photos de réalisations et copies d'attestations.\n\nJ'accepte le principe des dix-huit mois de formation proposés. Je suis marocain, réside au Maroc et ne possède ni titre de séjour français ni autorisation de travail en France. Mon français est de niveau A2. Mon admissibilité au parcours et les démarches permettant de le commencer légalement restent à confirmer.\n\nSi ce parcours n'est pas accessible dans ma situation, je vous propose également ma candidature spontanée pour un autre poste artisanal adapté à mon expérience et ouvert à un recrutement depuis le Maroc. Je suis disponible dès l'obtention des autorisations et du visa requis.\n\nJe vous remercie de votre aide.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a122d2d323df6a5",
+      "threadId": "1a122d2d323df6a5",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_de_motivation.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "43e0c94d9642d46380a1bd4f3a208f482120398fd60a84f69dbc69d965c77e08",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "pages": 1,
+          "size": 60,
+          "sha256": "f5c4373542c5bb0837518e7cc00e77f352af143339035323d6880adf8550ef83",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2544,
+          "sha256": "0dc99c8a952f977eb6303a63f1de212fa17f166cdf42a579bdcd2de4e923e910",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "43e0c94d9642d46380a1bd4f3a208f482120398fd60a84f69dbc69d965c77e08",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 60,
+      "sha256": "f5c4373542c5bb0837518e7cc00e77f352af143339035323d6880adf8550ef83",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2544,
+      "sha256": "0dc99c8a952f977eb6303a63f1de212fa17f166cdf42a579bdcd2de4e923e910",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "displayName": "Hermès"
+}

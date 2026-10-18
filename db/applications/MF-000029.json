@@ -1,0 +1,118 @@
+{
+  "id": "MF-000029",
+  "number": 29,
+  "company": "Salvatore Ferragamo",
+  "country": "Italy",
+  "position": "Speculative leather-goods or footwear production and finishing",
+  "type": "Speculative application",
+  "language": "Italian",
+  "status": "email",
+  "summary": "The complete Italian three-PDF application was sent on 17 October. An automatic CV receipt was independently verified. No interview, offer or permit support is confirmed.",
+  "next": "Await recruitment review. No action or documents requested; no automatic duplicate or follow-up.",
+  "recipient": "selezione@ferragamo.com",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "17 Oct 2026, 11:03",
+      "timestamp": "2026-10-17T11:03:19+00:00",
+      "recipient": "selezione@ferragamo.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidatura spontanea per produzione di calzature o pelletteria in Italia - Mohammed Fadil",
+      "body": "Gentile Ufficio Selezione,\n\nLa vostra pagina Lavora con noi invita a presentare candidature spontanee secondo l'area geografica. Propongo il mio profilo per una funzione artigianale di calzature o pelletteria in Italia. La candidatura riguarda la produzione, non una posizione di vendita, e necessita dell'indicazione dell'atelier o stabilimento effettivo.\n\nAllego il CV, la lettera di presentazione e il dossier professionale, ove consentito dal canale di candidatura. Le attività e le date effettive sono descritte nei documenti; non dichiaro equivalenze italiane o competenze su macchinari non documentate.\n\nSono cittadino marocchino e risiedo in Marocco, senza permesso di soggiorno o autorizzazione al lavoro in Italia. Francese e inglese sono A2, usati al lavoro. Non dichiaro un livello attuale di italiano e sono disponibile a studiarlo. Potrei trasferirmi dopo il rilascio delle autorizzazioni e del visto necessari. Vi chiedo se considerate assunzioni dal Marocco e potete seguire il relativo percorso a carico del datore di lavoro.\n\nVi ringrazio per la valutazione e per le informazioni su sede, mansioni, orario, retribuzione lorda e italiano richiesto.\n\nCordiali saluti,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a14987cf4575a1a",
+      "threadId": "1a14987cf4575a1a",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 263,
+          "sha256": "7d4c809d17fd19a6431694241ad6e930f1c1727991cb70979051ed32f2fc6af3",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "042ee7cddc934c211efd8b3eca15f69b8f68ddb5ca51772c59b48d07f59c9873",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2555,
+          "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Automated CV receipt",
+      "timestamp": "2026-10-17T11:04:29+00:00",
+      "sender": "Ferragamo recruitment system",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Automatic reply: Candidatura spontanea per produzione di calzature o pelletteria in Italia - Mohammed Fadil",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a14988ebcc61637",
+      "threadId": "1a14988ebcc61637",
+      "sourceMessageId": "1a14987cf4575a1a",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/gmail-received-1a14988ebcc61637.json",
+      "confirmation": "Automatic CV receipt only. No interview,offer,deadline,document request or immigration assistance.",
+      "date": "17 Oct 2026, 11:04"
+    }
+  ],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "7d4c809d17fd19a6431694241ad6e930f1c1727991cb70979051ed32f2fc6af3",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "042ee7cddc934c211efd8b3eca15f69b8f68ddb5ca51772c59b48d07f59c9873",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2555,
+      "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "Automated acknowledgment17October confirms CV receipt; review if a matching opportunity arises. No interview,offer,permit support or documents requested.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

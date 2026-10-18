@@ -1,0 +1,119 @@
+{
+  "id": "MF-000001",
+  "number": 1,
+  "company": "Camille Fournet",
+  "country": "France",
+  "position": "Artisan assembleur-monteur expérimenté, Tergnier",
+  "type": "Advertised role",
+  "language": "French",
+  "status": "email",
+  "summary": "CV and motivation letter went first. The French 19-page dossier followed in the same application thread.",
+  "next": "Await employer response after confirmed dossier supplement 1a12256276f869a3. No automatic follow-up.",
+  "recipient": "recrutement@camillefournet.com",
+  "sentDate": "8 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "8 Oct 2026, 20:51",
+      "timestamp": "2026-10-08T20:51:44+00:00",
+      "recipient": "recrutement@camillefournet.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "[SITE CARRIERE] Artisan assembleur-monteur expérimenté - Mohammed Fadil",
+      "body": "Madame, Monsieur,\n\nJe vous adresse ma candidature au poste d'artisan assembleur-monteur expérimenté à Tergnier. Mon expérience de fabrication de sacs, de maroquinerie sur mesure et de confection de vêtements en cuir couvre la préparation, le piquage, l'assemblage et les finitions.\n\nVous trouverez en pièces jointes mon CV et ma lettre de motivation, adaptés à votre offre. Je réside au Maroc et mon recrutement nécessiterait une autorisation de travail et le visa approprié. Je suis disponible dès leur obtention. Mon français est de niveau A2, utilisé dans mon travail.\n\nJe serais heureux d'échanger sur vos besoins et sur la possibilité d'un recrutement depuis le Maroc.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a11d4948a5e342c",
+      "threadId": "1a11d4948a5e342c",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_de_motivation.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/gmail-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 283,
+          "sha256": "4ba9ebb44ff17ced0526663a94af8596fa671e80d3175df90a20ebd86650cb46",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "pages": 1,
+          "size": 64,
+          "sha256": "fc3277334c9564f90af997b3acfc7d61344486a80825a42a940f521dbd1878bd",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+        }
+      ]
+    },
+    {
+      "kind": "supplement",
+      "title": "French dossier supplement sent",
+      "date": "9 Oct 2026, 20:23",
+      "timestamp": "2026-10-09T20:23:53+00:00",
+      "recipient": "recrutement@camillefournet.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Re: [SITE CARRIERE] Artisan assembleur-monteur expérimenté - Mohammed Fadil",
+      "body": "Madame, Monsieur,\n\nEn complément de ma candidature au poste d'artisan assembleur-monteur expérimenté à Tergnier, je vous transmets mon dossier professionnel en français. Il présente mes réalisations en ateliers marocains et mes justificatifs de formation.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a12256276f869a3",
+      "threadId": "1a11d4948a5e342c",
+      "filenames": [
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/gmail-supplement-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2526,
+          "sha256": "e9b8167ec968242f78804b15d92db3050cb7928d0c3c0e01d9c8efea80e8b35f",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 283,
+      "sha256": "4ba9ebb44ff17ced0526663a94af8596fa671e80d3175df90a20ebd86650cb46",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 64,
+      "sha256": "fc3277334c9564f90af997b3acfc7d61344486a80825a42a940f521dbd1878bd",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2526,
+      "sha256": "e9b8167ec968242f78804b15d92db3050cb7928d0c3c0e01d9c8efea80e8b35f",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "documentNote": "CV and letter sent on 8 October. Dossier supplement sent on 9 October."
+}

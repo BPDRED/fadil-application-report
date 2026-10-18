@@ -1,0 +1,143 @@
+{
+  "id": "MF-000012",
+  "number": 12,
+  "company": "Louis Vuitton",
+  "country": "France",
+  "position": "Leather-goods production artisan",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "email",
+  "summary": "Application text was sent through the contact form, followed by the three French PDFs to a historically published Asnières address. On 13 October, Louis Vuitton customer service directed the applicant to the official careers portal. The earlier email is not confirmed as a registered HR application.",
+  "next": "Review the official careers portal for a suitable leather production vacancy or permitted speculative intake, reconcile earlier contact and verify requirements for an applicant residing in Morocco before proposing portal submission. No duplicate email or automatic application.",
+  "recipient": "recrutement_asnieres.fr@louisvuitton.com",
+  "sentDate": "10 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application text sent through contact form",
+      "date": "10 Oct 2026, 15:57",
+      "timestamp": "2026-10-10T15:57:29.517656+00:00",
+      "recipient": "https://eu.louisvuitton.com/eng-e1/email-us",
+      "subject": "",
+      "body": "Madame, Monsieur,\n\nJe vous propose ma candidature spontanée pour un poste artisanal dans vos ateliers de maroquinerie en France. Depuis mon apprentissage familial en 2006, je pratique la coupe du cuir, la couture main et machine, le montage, les finitions et le contrôle qualité. Chez Temacuire, j'ai fabriqué des sacs en série. Chez LeMaroquin, j'ai réalisé des sacs et coffrets sur mesure.\n\nJe suis marocain, réside au Maroc et ne possède ni titre de séjour français ni autorisation de travail en France. Mon français est A2. Je suis disponible après obtention des autorisations et du visa requis.\n\nPourriez-vous transmettre ce message au recrutement et m'indiquer une adresse ou un canal de candidature spontanée pour joindre mon CV, ma lettre personnalisée et mon dossier professionnel en français ? Votre formulaire ne permet pas de joindre ces documents.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "filenames": [],
+      "confirmation": "Mohammed Fadil Your message has been sent",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/careers-contact-intent-20261010.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/qa_pages/louis-vuitton-careers-contact-success-20261010.jpg",
+      "documents": []
+    },
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "10 Oct 2026, 16:08",
+      "timestamp": "2026-10-10T16:08:15+00:00",
+      "recipient": "recrutement_asnieres.fr@louisvuitton.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidature spontanée en maroquinerie à Asnières - Mohammed Fadil",
+      "body": "Madame, Monsieur,\n\nJe vous propose ma candidature spontanée pour un poste artisanal de fabrication dans vos ateliers d'Asnières, selon vos besoins actuels ou futurs. Votre adresse figure dans une annonce de recrutement diffusée en 2023. Je ne présume pas que cette ancienne offre soit encore ouverte. J'ai également envoyé un message dans la rubrique Careers de votre formulaire de contact aujourd'hui, qui ne permettait pas de joindre de documents.\n\nVous trouverez ici mon CV, ma lettre de motivation personnalisée et mon dossier professionnel en français, avec photos de réalisations et copies d'attestations. Mon expérience comprend la coupe, la couture main et machine, le montage, les finitions et le contrôle qualité. Chez Temacuire, j'ai fabriqué des sacs en série. Chez LeMaroquin, j'ai réalisé des sacs et des coffrets à bijoux sur mesure. Ces activités ont été réalisées dans des ateliers marocains.\n\nJe suis marocain et réside au Maroc. Mon français est A2, utilisé au travail, et je suis prêt à le renforcer. Je ne possède ni titre de séjour français ni autorisation de travail en France. Je pourrais commencer après obtention des autorisations et du visa requis. Un recrutement depuis le Maroc nécessiterait notamment l'autorisation de travail demandée par l'employeur.\n\nSi votre équipe étudie ce type de candidature, je serais heureux d'échanger sur vos besoins et les conditions du poste. Si un autre canal est nécessaire, pourriez-vous m'indiquer le contact approprié ?\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a126927857e70ca",
+      "threadId": "1a126927857e70ca",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_de_motivation.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/remaining-gmail-sent-verification-20261010.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "6240a19ebf961d676443cb03050c53c69e92b0f859efd78c91b3e7d11bc9da36",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "3512e78797b31a1407ac429551c969a273ce7fc893f339a22fcaabb90daeb44d",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2544,
+          "sha256": "9fb10a73f14e6388ac3d8b0780e7b6c343bfca1debdad02b20b31781b5547327",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "Customer service directs applicant to careers portal",
+      "timestamp": "2026-10-13T08:16:40+00:00",
+      "sender": "Louis Vuitton customer service",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Nous vous remercions d’avoir contacté le Service Clients de Louis Vuitton",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a13455cfe2b0637",
+      "threadId": "1a13455cfe2b0637",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/gmail-received-1a13455cfe2b0637.json",
+      "confirmation": "Louis Vuitton customer service asks the applicant to submit through jobs.louisvuitton.com. This is routing guidance, not an HR decision or proof that the historical mailbox registered the application.",
+      "sourceMessageId": "",
+      "date": "13 Oct 2026, 08:16"
+    }
+  ],
+  "applicationStatus": "response_received",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000012-1.jpg",
+      "caption": "Application text sent through contact form",
+      "receipt": "Mohammed Fadil Your message has been sent",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000012-1.jpg",
+      "note": "This receipt confirms contact-form text only. The later email supplies the documents.",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/qa_pages/louis-vuitton-careers-contact-success-20261010.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "6240a19ebf961d676443cb03050c53c69e92b0f859efd78c91b3e7d11bc9da36",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "3512e78797b31a1407ac429551c969a273ce7fc893f339a22fcaabb90daeb44d",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2544,
+      "sha256": "9fb10a73f14e6388ac3d8b0780e7b6c343bfca1debdad02b20b31781b5547327",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "13 October 2026: Louis Vuitton customer service directed application submission to jobs.louisvuitton.com, Gmail 1a13455cfe2b0637. No HR decision or receipt of the historical Asnières email is confirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/remaining-document-manifest-20261010.json",
+  "receiptReference": "",
+  "channelNote": "Historically published recruitment mailbox, current activity unconfirmed.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

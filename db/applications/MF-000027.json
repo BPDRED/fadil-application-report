@@ -1,0 +1,54 @@
+{
+  "id": "MF-000027",
+  "number": 27,
+  "company": "Tod's Group",
+  "country": "Italy",
+  "position": "Speculative footwear stitching, assembly and finishing",
+  "type": "Speculative intake blocked",
+  "language": "Italian",
+  "status": "held",
+  "summary": "The required SuccessFactors account residence list omits Morocco and has no Other option. No false country was selected and no account or application was created. The complete Italian CV, letter and 19-page portfolio are retained.",
+  "next": "Official required account residence list omits Morocco and has no Other option. Employer must provide a truthful supported application route. Complete Italian package retained; no false country or new account.",
+  "recipient": "https://jobs.todsgroup.com/?locale=it_IT",
+  "sentDate": "",
+  "events": [],
+  "receivedEvents": [],
+  "applicationStatus": "blocked",
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "21c8a57a372bea7ab71ca75f58dc5b3250dd5b8cb6be27708fb0c245c91544e3",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "8a1075b4076c795fad7f5d22caebd974550f1e28c520e04067aa6fe5c2ddaabd",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2555,
+      "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000027_italy_tod-s-group/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

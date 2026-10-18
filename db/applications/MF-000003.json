@@ -1,0 +1,75 @@
+{
+  "id": "MF-000003",
+  "number": 3,
+  "company": "Groupe Tolomei",
+  "country": "France",
+  "position": "Artisan maroquinier, candidature spontanée, ateliers français du groupe",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "portal",
+  "summary": "The official intake accepted a French CV and a personalized motivation text. It had no dossier upload field.",
+  "next": "Await response to confirmed spontaneous application. No automatic follow-up, duplicate subsidiary application, training enrollment or matching-job submission.",
+  "recipient": "https://recrutement.tolomei.fr/search?q=maroquinier&contracts=CDI%2CCDD%2CInt%C3%A9rim#spontaneous-application",
+  "sentDate": "9 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Spontaneous application submitted",
+      "date": "9 Oct 2026, 21:30",
+      "timestamp": "2026-10-09T21:30:39.074935+00:00",
+      "recipient": "https://recrutement.tolomei.fr/search?q=maroquinier&contracts=CDI%2CCDD%2CInt%C3%A9rim#spontaneous-application",
+      "subject": "",
+      "body": "Madame, Monsieur,\n\nJe vous propose ma candidature spontanée pour un poste d'artisan maroquinier dans un atelier français du groupe Tolomei. Je recherche un emploi salarié adapté à mon expérience de fabrication.\n\nDepuis mon apprentissage familial, j'ai acquis 20 ans de pratique de la maroquinerie. Chez Temacuire, j'ai participé à la fabrication de sacs en série. Chez LeMaroquin, j'ai travaillé sur des sacs et coffrets sur mesure. Je pratique la couture main et machine, le montage, les finitions et le contrôle qualité. J'ai également accompagné des apprentis.\n\nLes opérations de piquage, d'assemblage et d'autocontrôle décrites pour vos ateliers correspondent à mon expérience. Je peux contribuer à une production régulière et soignée, en respectant les consignes de fabrication et de sécurité.\n\nJe suis marocain et réside au Maroc. Je ne possède actuellement ni titre de séjour français ni autorisation de travail en France. Ma disponibilité est immédiate après obtention de l'autorisation de travail et du visa requis. Mon niveau de français est A2, utilisé au travail.\n\nMon dossier professionnel, comprenant des photos de réalisations et mes justificatifs de formation, est disponible sur demande. Je serais heureux d'échanger avec vous sur les besoins de vos ateliers et les possibilités de recrutement depuis le Maroc.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "confirmation": "Candidature spontanée envoyée",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/portal-submission-evidence.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/qa_pages/tolomei-submission-confirmed.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "d8499b23f4ae4537fd0933997463f940fcedf52be1fea7fafee5a752134f17f3",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/delivery/Mohammed_Fadil_CV.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000003-1.jpg",
+      "caption": "Spontaneous application submitted",
+      "receipt": "Candidature spontanée envoyée",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000003-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/qa_pages/tolomei-submission-confirmed.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "d8499b23f4ae4537fd0933997463f940fcedf52be1fea7fafee5a752134f17f3",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/delivery/Mohammed_Fadil_CV.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "Automatic receipt9October, messages1a1229339ae4e73f and1a1229786c13378f. Company specifies15days without news; no substantive decision yet.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "documentNote": "Personalized motivation text was entered in the form. The dossier was offered on request."
+}

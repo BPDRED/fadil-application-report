@@ -1,0 +1,100 @@
+{
+  "id": "MF-000025",
+  "number": 25,
+  "company": "Jaymar",
+  "country": "Canada",
+  "position": "Speculative upholstery, leather/fabric cutting or sewing",
+  "type": "Spontaneous manufacturing application",
+  "language": "English",
+  "status": "portal",
+  "summary": "The official Jaymar form confirms the CV and personalized letter were sent on 17 October. The combined portfolio exceeded the file-size limit, so the full 19-page portfolio is offered on request. Morocco residence, French and English A2, and work-permit conditions are disclosed. No specific vacancy, hiring decision or permit support is confirmed.",
+  "next": "Await Jaymar recruitment response. CV and letter accepted by official speculative form; full19-pageportfolio offered on request because of file-size limit. No duplicate email or submission.",
+  "recipient": "https://www.jaymar.co/fr-ca/carriere/",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://www.jaymar.co/fr-ca/carriere/",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf"
+      ],
+      "confirmation": "Merci pour votre message. Il a été envoyé",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/portal-success-20261017.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "971b71f7a3eb6f3bfe3ff7aae91a106d6dd89ec3377c3a83e1e7bcbda49ff836",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "6a9610968db4ec896f4bd8f7d2a0b100a06122406c663a8a505a2949eeba14a9",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_Cover_Letter.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000025-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "Merci pour votre message. Il a été envoyé",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000025-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/portal-success-20261017.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "971b71f7a3eb6f3bfe3ff7aae91a106d6dd89ec3377c3a83e1e7bcbda49ff836",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "6a9610968db4ec896f4bd8f7d2a0b100a06122406c663a8a505a2949eeba14a9",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_Cover_Letter.pdf"
+    }
+  ],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

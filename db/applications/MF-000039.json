@@ -1,0 +1,125 @@
+{
+  "id": "MF-000039",
+  "number": 39,
+  "company": "American Leather",
+  "country": "United States",
+  "position": "Standard Sewer 6",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "portal",
+  "summary": "ADP confirms Application Submitted, and the actual employer receipt confirms the Standard Sewer 6 application is under review. The CV, letter and 19-page portfolio were supplied. No US work authorization, sponsorship required and a negotiable USD 20/hour expectation were disclosed. No interview or sponsorship commitment is confirmed.",
+  "next": "Await recruitment response, no duplicate application. ADP post-submission tax-credit questionnaire remains uncompleted; no tax/SSN/health disclosure or extra talent account authorized by this application.",
+  "recipient": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9200437748883_2&cid=4994a236-64c5-4a9f-81d5-7f802a729768&lang=en_US&jobId=525474",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9200437748883_2&cid=4994a236-64c5-4a9f-81d5-7f802a729768&lang=en_US&jobId=525474",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "confirmation": "Application Submitted!; actual employer email confirms currently reviewing the Standard Sewer6 application.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/portal-result-20261017.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "0c1e561f40942e91228e918dba5ab6889c8eb5f3ebe101a26dcdfaa59f58fbc5",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "67100c53bf1ca161fcb81e093fc128c19a29dbc43a22ab6769fcbd62ec04e004",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2508,
+          "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Employer application receipt",
+      "timestamp": "2026-10-17T18:57:19+00:00",
+      "sender": "American Leather recruitment via ADP",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Thank you for your application, Mohammed",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a14b39c5a7b0b24",
+      "threadId": "1a14b39c5a7b0b24",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/gmail-received-1a14b39c5a7b0b24.json",
+      "confirmation": "Receipt confirms StandardSewer6 application under review. No interview,offer or permit support.",
+      "date": "17 Oct 2026, 18:57"
+    }
+  ],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000039-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "Application Submitted!; actual employer email confirms currently reviewing the Standard Sewer6 application.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000039-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/portal-result-20261017.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "0c1e561f40942e91228e918dba5ab6889c8eb5f3ebe101a26dcdfaa59f58fbc5",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "67100c53bf1ca161fcb81e093fc128c19a29dbc43a22ab6769fcbd62ec04e004",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "Automated ADP employer receipt17October18:57UTC confirms StandardSewer6 application currently under review. No interview or offer.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

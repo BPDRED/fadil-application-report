@@ -1,0 +1,75 @@
+{
+  "id": "MF-000010",
+  "number": 10,
+  "company": "Goyard",
+  "country": "France",
+  "position": "Artisan maroquinier, candidature spontanée, ateliers en France",
+  "type": "Speculative application, Atelier function",
+  "language": "French",
+  "status": "portal",
+  "summary": "Goyard’s official French intake accepted the CV only. It offered no letter or dossier field.",
+  "next": "Await recruitment response. Do not resend the CV or add unsolicited letter/dossier.",
+  "recipient": "https://careers.goyard.com/lp/Candidature%20Spontan%C3%A9e/b90f5ee910562f30/?locale=fr_FR",
+  "sentDate": "9 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Atelier spontaneous application submitted",
+      "date": "9 Oct 2026, 21:02",
+      "timestamp": "2026-10-09T21:02:01.201673+00:00",
+      "recipient": "https://careers.goyard.com/lp/Candidature%20Spontan%C3%A9e/b90f5ee910562f30/?locale=fr_FR",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "confirmation": "Merci, vos renseignements ont été envoyés.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/portal-submission-evidence.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/qa_pages/goyard-submission-confirmed.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "adf2bcd0e2c5117a511d6e017cf66a15fcc449d5eb27b18bbf51678550449803",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/delivery/Mohammed_Fadil_CV.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000010-1.jpg",
+      "caption": "Atelier spontaneous application submitted",
+      "receipt": "Merci, vos renseignements ont été envoyés.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000010-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/qa_pages/goyard-submission-confirmed.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "adf2bcd0e2c5117a511d6e017cf66a15fcc449d5eb27b18bbf51678550449803",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/delivery/Mohammed_Fadil_CV.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "documentNote": "Only the CV was accepted by this form. No letter or dossier upload field."
+}

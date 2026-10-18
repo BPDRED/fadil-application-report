@@ -1,0 +1,109 @@
+{
+  "id": "MF-000009",
+  "number": 9,
+  "company": "BFL Maroquinerie",
+  "country": "France",
+  "position": "Maroquinier expérimenté F/H, Fougères",
+  "type": "Advertised role",
+  "language": "French",
+  "status": "portal",
+  "summary": "The French CV was uploaded separately. The motivation letter and full dossier were combined into the second PDF allowed by the form.",
+  "next": "Await employer response. No duplicate portal submission or recruitment email.",
+  "recipient": "https://www.bflmaroquinerie.com/recrutement/12/maroquinier-experimente-f-h-fougeres.html",
+  "sentDate": "9 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Fougères application submitted",
+      "date": "9 Oct 2026, 20:22",
+      "timestamp": "2026-10-09T20:22:32.503139+00:00",
+      "recipient": "https://www.bflmaroquinerie.com/recrutement/12/maroquinier-experimente-f-h-fougeres.html",
+      "subject": "",
+      "body": "No message field observed on the BFL vacancy form. Submit the reviewed CV in Télécharger CV and the reviewed letter in Autre document. Do not substitute email to the public HR contact. Form data for review: Nom Fadil; Prénom Mohammed; Téléphone +212 603 574 848; Email mfadil.med@gmail.com. The letter discloses Morocco residence, French A2 and required employer work authorization. reCAPTCHA requires user participation/confirmation at action time.",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_et_Portfolio.pdf"
+      ],
+      "confirmation": "Merci pour votre message. Nous vous répondront le plus rapidement possible. BFL Maroquinerie",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/portal-submission-evidence.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/qa_pages/bfl-submission-confirmed.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 283,
+          "sha256": "36a8134dce8da6a662814f390cfd1c2a82b572c1c80941674b493e685c1e1dd8",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_et_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Lettre_et_Portfolio.pdf",
+          "pages": 20,
+          "size": 2460,
+          "sha256": "ecd463aca64058dc30b1cdd5fd988c52fb2f99587adc99574da08285ecd1a57f",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Lettre_et_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000009-1.jpg",
+      "caption": "Fougères application submitted",
+      "receipt": "Merci pour votre message. Nous vous répondront le plus rapidement possible. BFL Maroquinerie",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000009-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/qa_pages/bfl-submission-confirmed.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 283,
+      "sha256": "36a8134dce8da6a662814f390cfd1c2a82b572c1c80941674b493e685c1e1dd8",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_et_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Lettre_et_Portfolio.pdf",
+      "pages": 20,
+      "size": 2460,
+      "sha256": "ecd463aca64058dc30b1cdd5fd988c52fb2f99587adc99574da08285ecd1a57f",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Lettre_et_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 66,
+      "sha256": "52680d01faaa49c6944d357b13f015d7b13eaa47e484177e323ca9546c2ac4dd",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2526,
+      "sha256": "1c34ba0619a173523626bae62510e1cdc821276058e6de7738716953a0ba3233",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "documentNote": "The second PDF contains the 1-page motivation letter and 19-page dossier."
+}

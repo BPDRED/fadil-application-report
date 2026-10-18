@@ -1,0 +1,134 @@
+{
+  "id": "MF-000007",
+  "number": 7,
+  "company": "Jean Rousseau",
+  "country": "France",
+  "position": "Artisan maroquinier, candidature spontanée, ateliers en France",
+  "type": "Speculative application, French ateliers",
+  "language": "French",
+  "status": "portal",
+  "summary": "Your screenshot confirms the user-submitted form succeeded after the dossier was removed. Exact other uploaded files are not independently evidenced. The French dossier was then sent by email.",
+  "next": "Await Jean Rousseau recruitment response after successful user portal submission and receiver-confirmed dossier supplement. Do not repeat form, resend dossier or solve another challenge without applicable authorization.",
+  "recipient": "https://www.jean-rousseau.com/us/join-us/",
+  "sentDate": "10 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent, no attachments",
+      "date": "9 Oct 2026, 21:26",
+      "timestamp": "2026-10-09T21:26:58+00:00",
+      "recipient": "customerservice@jean-rousseau.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Formulaire Nous rejoindre - erreur d’envoi de candidature",
+      "body": "Madame, Monsieur,\n\nJe souhaite déposer une candidature via la page « Nous rejoindre » de votre site : https://www.jean-rousseau.com/fr/nous-rejoindre/.\n\nLe formulaire affiche le message « Une erreur s’est produite lors de l’envoi de votre message. Veuillez essayer à nouveau plus tard. ». Le problème persiste après un rechargement sans les fichiers en cache et une saisie manuelle.\n\nPourriez-vous transmettre ce signalement à la personne responsable du site et m’indiquer un autre moyen de déposer ma candidature pour vos ateliers en France ?\n\nJe vous remercie de votre aide.\n\nCordialement,\nMohammed Fadil\nmfadil.med@gmail.com",
+      "messageId": "1a1228fe6512074a",
+      "threadId": "1a1228fe6512074a",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/gmail-help-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": []
+    },
+    {
+      "kind": "portal",
+      "title": "You submitted the form successfully",
+      "date": "10 Oct 2026",
+      "timestamp": "2026-10-10",
+      "recipient": "https://www.jean-rousseau.com/us/join-us/",
+      "subject": "",
+      "body": "The user reported success after removing the dossier. The screenshot confirms sending; it does not show the exact remaining uploaded files.",
+      "filenames": [],
+      "confirmation": "Merci pour votre message. Il a été envoyé.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/user-successful-submission-20261010.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/qa_pages/jean-user-success-20261010.png",
+      "documents": []
+    },
+    {
+      "kind": "supplement",
+      "title": "French dossier supplement sent",
+      "date": "10 Oct 2026, 11:47",
+      "timestamp": "2026-10-10T11:47:03+00:00",
+      "recipient": "customerservice@jean-rousseau.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Re: Formulaire Nous rejoindre - erreur d’envoi de candidature",
+      "body": "Madame, Monsieur,\n\nÀ la suite de mon précédent signalement, j'ai pu envoyer ma candidature via votre page « Join us » en retirant le dossier professionnel. Le formulaire a confirmé l'envoi. L'ajout du dossier provoquait encore une erreur.\n\nJe vous transmets donc en pièce jointe mon dossier professionnel en français pour compléter ma candidature à un poste d'artisan maroquinier dans vos ateliers en France. Il présente mes réalisations en ateliers marocains et mes justificatifs de formation.\n\nPourriez-vous le transmettre à votre équipe de recrutement et le rattacher à ma candidature enregistrée avec l'adresse mfadil.med@gmail.com ?\n\nJe vous remercie de votre aide.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com\n\nOn Fri, 09 Oct 2026 17:26:58 -0400, mfadil.med@gmail.com wrote:\n\nMadame, Monsieur,\n\nJe souhaite déposer une candidature via la page « Nous rejoindre » de votre site : https://www.jean-rousseau.com/fr/nous-rejoindre/.\n\nLe formulaire affiche le message « Une erreur s’est produite lors de l’envoi de votre message. Veuillez essayer à nouveau plus tard. ». Le problème persiste après un rechargement sans les fichiers en cache et une saisie manuelle.\n\nPourriez-vous transmettre ce signalement à la personne responsable du site et m’indiquer un autre moyen de déposer ma candidature pour vos ateliers en France ?\n\nJe vous remercie de votre aide.\n\nCordialement,  \nMohammed Fadil  \nmfadil.med@gmail.com",
+      "messageId": "1a125a356e20d8ab",
+      "threadId": "1a1228fe6512074a",
+      "filenames": [
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/gmail-dossier-supplement-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2544,
+          "sha256": "c124af8c6cc094c5b7eccd0efb8bd93140df759a5f7a46cb6ab2068cfc14f02e",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000007-1.png",
+      "caption": "You submitted the form successfully",
+      "receipt": "Merci pour votre message. Il a été envoyé.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000007-1.png",
+      "note": "User-supplied portal confirmation. Exact remaining uploads are not shown.",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/qa_pages/jean-user-success-20261010.png"
+    },
+    {
+      "path": "assets/screenshots/MF-000007-2.jpg",
+      "caption": "Dossier email sender verification completed",
+      "receipt": "Receiver service confirms email received. No HR decision is recorded.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000007-2.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/qa_pages/mailinblack-verification-success-20261010.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2544,
+      "sha256": "c124af8c6cc094c5b7eccd0efb8bd93140df759a5f7a46cb6ab2068cfc14f02e",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "6a9893998d581ea6a33a4bffa39b72f884a3e79bbec5e8d8770ec1ddadedf11c",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 59,
+      "sha256": "d4057baad703c205460e5f988e703679b4bf0e857b0a51ff8eb92645fd72b730",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    }
+  ],
+  "response": "Portal success screenshot supplied by user. Mailinblack human verification completed10October; service confirms email received. No substantive recruitment response.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Customer-service relay for the later dossier email.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "documentNote": "The dossier email is verified. Prepared CV and letter links below are not proof of the exact files uploaded by the user.",
+  "preparedLabel": "Prepared CV and letter, exact user uploads not evidenced"
+}

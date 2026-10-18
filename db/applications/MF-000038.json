@@ -1,0 +1,80 @@
+{
+  "id": "MF-000038",
+  "number": 38,
+  "company": "Hancock & Moore",
+  "country": "United States",
+  "position": "Leather Sewing Associate",
+  "type": "Screening-only portal record",
+  "language": "English",
+  "status": "portal",
+  "summary": "Paycom confirms application 1207233 and displays Thank You. This record contains contact details and four screening answers, including no US work authorization. No CV, letter or portfolio stage was offered. It is a screening-only record, with no explicit screening decision shown.",
+  "next": "Paycom application 1207233 is screening-only, with contact details and four answers, including no US work authorization. No CV, letter or portfolio stage was offered. Preserve the full local package and await a status update. No repeat or claim that documents were delivered.",
+  "recipient": "https://www.paycomonline.net/v4/ats/web.php/portal/5029E588568E142F97566F6B50251B0C/jobs/547699",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://www.paycomonline.net/v4/ats/web.php/portal/5029E588568E142F97566F6B50251B0C/jobs/547699",
+      "subject": "",
+      "body": "",
+      "filenames": [],
+      "confirmation": "We Appreciate Your Interest. Thank You! Actual PDF identifies Application for Leather Sewing Associate -1207233,DateofApplication10-17-2026.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/portal-screening-result-20261017.jpg",
+      "documents": []
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000038-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "We Appreciate Your Interest. Thank You! Actual PDF identifies Application for Leather Sewing Associate -1207233,DateofApplication10-17-2026.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000038-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/portal-screening-result-20261017.jpg"
+    }
+  ],
+  "documents": [],
+  "preparedDocuments": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "fad57a0415195dd291a45d9cbe7d5a45e255f5d3f0cac92e7be2c20906f888a5",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 59,
+      "sha256": "21da53dccfb5c44a45ff7f41c1d2c8c0018f1131bc723065f6916fc146d94911",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000038_united-states_hancock-moore/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ],
+  "screeningOnly": true
+}

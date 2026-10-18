@@ -1,0 +1,125 @@
+{
+  "id": "MF-000026",
+  "number": 26,
+  "company": "Fendi",
+  "country": "Italy",
+  "position": "Speculative experienced leather-goods assembly and sewing",
+  "type": "Speculative application",
+  "language": "Italian",
+  "status": "portal",
+  "summary": "Fendi confirms receipt of the General Application with the CV, personalized letter and 19-page portfolio. Morocco residence and the estimated employment-start month are disclosed. Wider LVMH sharing was specifically approved. No interview or permit support is confirmed.",
+  "next": "Await Fendi recruitment response after confirmed submission with all three PDFs. No duplicate application or automatic follow-up.",
+  "recipient": "https://careers.fendi.com/client/apply.html?jobId=PWXFK026203F3VBQB798N7V09-5883&langCode=EN",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "17 Oct 2026",
+      "timestamp": "2026-10-17",
+      "recipient": "https://careers.fendi.com/client/apply.html?jobId=PWXFK026203F3VBQB798N7V09-5883&langCode=EN",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "confirmation": "Thank you Mohammed Fadil. We have received your application for General Application.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/portal-submission-evidence-20261017.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/portal-result-20261017.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 263,
+          "sha256": "486039ea9a787286f3bedfba773a9510103335610c34467cc17587670bc48c50",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "4f3cf613f9d09d0b197abe3bb6e29a07bc4e6fb61da2400c48f13ed3da6fc9d7",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2555,
+          "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Employer application receipt",
+      "timestamp": "2026-10-17T19:15:08.000Z",
+      "sender": "Fendi recruitment via LVMH",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Your application:  General Application - FENDGA00001",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a14b4a1402f79b4",
+      "threadId": "1a14b4a1402f79b4",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/gmail-received-1a14b4a1402f79b4.json",
+      "confirmation": "Fendi automated receipt confirms General Application FENDGA00001. No interview, offer or permit support.",
+      "date": "17 Oct 2026, 19:15"
+    }
+  ],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000026-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "Thank you Mohammed Fadil. We have received your application for General Application.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000026-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/portal-result-20261017.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "486039ea9a787286f3bedfba773a9510103335610c34467cc17587670bc48c50",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "4f3cf613f9d09d0b197abe3bb6e29a07bc4e6fb61da2400c48f13ed3da6fc9d7",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2555,
+      "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "Fendi automated receipt confirms General Application FENDGA00001. No interview, offer or permit support.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

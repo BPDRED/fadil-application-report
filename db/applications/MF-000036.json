@@ -1,0 +1,100 @@
+{
+  "id": "MF-000036",
+  "number": 36,
+  "company": "Softline Brand Partners",
+  "country": "United States",
+  "position": "Experienced Leather Sewer",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "email",
+  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
+  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "recipient": "careers@softlinebp.com",
+  "sentDate": "16 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "16 Oct 2026, 21:21",
+      "timestamp": "2026-10-16T21:21:06+00:00",
+      "recipient": "careers@softlinebp.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Experienced Leather Sewer application - Mohammed Fadil",
+      "body": "Dear Softline Brand Partners Careers Team,\n\nI am applying for the Experienced Leather Sewer position on your official careers site. Your leather-production work and requirement for sewing experience relate directly to my garment and bag-making practice in Moroccan ateliers. I would like to contribute careful assembly and consistent seams while learning your machines, technical instructions and production standards.\n\nPlease find my CV, personalized cover letter and work portfolio with project photographs and certificate copies.\n\nI am a Moroccan national resident in Morocco, without US residence or work authorization. My English and French are A2, used at work. I would need employer-supported lawful work authorization before relocation or employment. Does Softline consider applicants in this situation and support an appropriate employer-led immigration process for a permanent role?\n\nPlease advise the role, location, weekly hours, gross pay and language requirements. I could start after the required authorizations and visa.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1469711754c49e",
+      "threadId": "1a1469711754c49e",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "7e59d6f28d9c75e3c6b675297c38a9d9d598529f98644d7144759f79829ee443",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 58,
+          "sha256": "a668ca92b3ab5d1f5cab13c1f304f642c7c1a73e4e20dfe9540fe7bfc29d0c94",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2508,
+          "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "7e59d6f28d9c75e3c6b675297c38a9d9d598529f98644d7144759f79829ee443",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 58,
+      "sha256": "a668ca92b3ab5d1f5cab13c1f304f642c7c1a73e4e20dfe9540fe7bfc29d0c94",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

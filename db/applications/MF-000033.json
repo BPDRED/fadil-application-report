@@ -1,0 +1,100 @@
+{
+  "id": "MF-000033",
+  "number": 33,
+  "company": "TOPSTAR",
+  "country": "Germany",
+  "position": "Ausbildung Polsterer",
+  "type": "Conditional training application",
+  "language": "German",
+  "status": "email",
+  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
+  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "recipient": "bewerbung@topstar.de",
+  "sentDate": "16 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "16 Oct 2026, 21:18",
+      "timestamp": "2026-10-16T21:18:39+00:00",
+      "recipient": "bewerbung@topstar.de",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Bewerbung Ausbildung Polsterer - Mohammed Fadil",
+      "body": "Sehr geehrte Damen und Herren,\n\nAuf Ihrer Youngstars-Seite stellen Sie die Ausbildung zum Polsterer vor, bei der unter anderem Stühle und Sofas mit Leder oder Stoff bezogen werden. Ich möchte mich dafür bewerben und bitte um die genaue Dauer sowie den nächsten möglichen Beginn. Meine bisherige Lederverarbeitung bietet praktische Anknüpfungspunkte; Ihre Konstruktionen und Arbeitsverfahren möchte ich in der Ausbildung lernen.\n\nMein Lebenslauf, mein persönliches Anschreiben und mein Arbeitsportfolio sind beigefügt. Meine praktische Erfahrung umfasst Lederzuschnitt, Hand- und Maschinennähen, Montage und Qualitätskontrolle sowie die Mitarbeit an Jouffre-Polsteraufträgen in Rabat.\n\nIch bin 34 Jahre alt, marokkanischer Staatsangehöriger und wohne in Marokko, ohne deutsche Aufenthalts- oder Arbeitserlaubnis. Mein Deutsch ist A1; ich lerne für A2. B1 ist noch nicht erreicht. Mein Kurs von 2016 dauerte etwa 15 Tage und belegt keine zweijährige Berufsausbildung.\n\n2014 besuchte ich das letzte Schuljahr vor dem marokkanischen Baccalauréat, bestand die Prüfung aber nicht. Die Schulbescheinigung ist derzeit nicht griffbereit; ich kann sie später per E-Mail nachreichen.\n\nBitte prüfen Sie meine Bewerbung und teilen Sie mir mit, ob eine Aufnahme aus Marokko möglich ist. Beginn, Schulnachweise, Deutsch, Vergütung, Lebensunterhalt und Ausbildungsvisum müssen vorab geklärt werden. Mit dieser Bewerbung nehme ich noch keinen Vertrag an.\n\nMit freundlichen Grüßen\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a14694cf0f6e79b",
+      "threadId": "1a14694cf0f6e79b",
+      "filenames": [
+        "Mohammed_Fadil_Lebenslauf.pdf",
+        "Mohammed_Fadil_Anschreiben.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Lebenslauf.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+          "pages": 2,
+          "size": 271,
+          "sha256": "3305711b98e3d54b9eab0a13252ff9de8655696c935003ab60f3b16d7912d226",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Lebenslauf.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Anschreiben.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Anschreiben.pdf",
+          "pages": 1,
+          "size": 60,
+          "sha256": "4562ca6fbd8cf8eb821e96ac26b685c60d7d9141436939bb62e7d08b6a656a9a",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Anschreiben.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2583,
+          "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_Lebenslauf.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+      "pages": 2,
+      "size": 271,
+      "sha256": "3305711b98e3d54b9eab0a13252ff9de8655696c935003ab60f3b16d7912d226",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Lebenslauf.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Anschreiben.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Anschreiben.pdf",
+      "pages": 1,
+      "size": 60,
+      "sha256": "4562ca6fbd8cf8eb821e96ac26b685c60d7d9141436939bb62e7d08b6a656a9a",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Anschreiben.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2583,
+      "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

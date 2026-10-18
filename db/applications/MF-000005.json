@@ -1,0 +1,116 @@
+{
+  "id": "MF-000005",
+  "number": 5,
+  "company": "Elran",
+  "country": "Canada",
+  "position": "Leather cutter / upholstery sewer",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "An initial eligibility inquiry was followed by an English CV, personalized cover letter and 19-page work dossier.",
+  "next": "Await HR response to complete speculative application; work-permit/Quebec process, actual role/pay/hours/language remain conditional. No automatic follow-up.",
+  "recipient": "emplois@elran.com",
+  "sentDate": "9 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent, no attachments",
+      "date": "9 Oct 2026, 22:01",
+      "timestamp": "2026-10-09T22:01:22+00:00",
+      "recipient": "emplois@elran.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Manufacturing opportunities - candidate based in Morocco",
+      "body": "Dear Elran Human Resources Team,\n\nYour careers page describes leather cutting, sewing, upholstery and furniture assembly. My experience includes leather cutting, hand and machine sewing, assembly, finishing and upholstery work in Moroccan workshops.\n\nI am a Moroccan national currently living in Morocco. I do not have Canadian residence or work authorization. My current French and English levels are A2.\n\nDo you consider candidates based outside Canada for full-time cutting, sewing or upholstery positions? If so, could you identify a suitable current role, its work location, weekly hours, wage range and language requirements?\n\nCould you also confirm whether Elran can support the required employer-side immigration process for that role, including an LMIA and Quebec requirements where applicable, or identify any applicable exemption? I would relocate only after the required authorizations and visa are approved.\n\nThis is an eligibility inquiry, with no attachments. I can provide my CV and work portfolio through your preferred recruitment channel if there is a suitable opportunity.\n\nKind regards,\nMohammed Fadil\nmfadil.med@gmail.com",
+      "messageId": "1a122af6654515f9",
+      "threadId": "1a122af6654515f9",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/gmail-inquiry-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": []
+    },
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "9 Oct 2026, 22:39",
+      "timestamp": "2026-10-09T22:39:01+00:00",
+      "recipient": "emplois@elran.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Application - leather cutting, sewing and upholstery - Mohammed Fadil",
+      "body": "Dear Elran Human Resources Team,\n\nFurther to my earlier eligibility inquiry, please find my complete speculative application for a suitable leather cutting, sewing or upholstery role: my CV, personalized cover letter and work portfolio with project photographs and training certificate copies.\n\nMy experience includes leather garment production and Jouffre seating commissions in Moroccan workshops. I am a Moroccan national living in Morocco, with French and English A2 and no Canadian work authorization. I am available immediately after the required authorizations and visa are approved.\n\nPlease consider my profile for a relevant current or future role and let me know whether you can support the required employer-side work-permit process, including Quebec requirements where applicable. I would also appreciate the role's location, hours, pay and language requirements.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a122d1e09e06491",
+      "threadId": "1a122d1e09e06491",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "4eb083e9d7182c859ab9c8ff6cc72dd327407168f30f544115fc8d1326db5f13",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 58,
+          "sha256": "b81f9a90c8b2893ac74f510c42a8fc11c6c9d4c433ee35f39243d05962df6363",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2493,
+          "sha256": "feadde0afb0e3b5a5fe33a4b2bd982a226d249d928e75730c0b09196b1e4dde9",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "4eb083e9d7182c859ab9c8ff6cc72dd327407168f30f544115fc8d1326db5f13",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 58,
+      "sha256": "b81f9a90c8b2893ac74f510c42a8fc11c6c9d4c433ee35f39243d05962df6363",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2493,
+      "sha256": "feadde0afb0e3b5a5fe33a4b2bd982a226d249d928e75730c0b09196b1e4dde9",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

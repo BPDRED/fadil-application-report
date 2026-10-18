@@ -1,0 +1,100 @@
+{
+  "id": "MF-000032",
+  "number": 32,
+  "company": "SINN Living",
+  "country": "Germany",
+  "position": "Polster- und Dekorationsnäher apprenticeship",
+  "type": "Conditional training application",
+  "language": "German",
+  "status": "email",
+  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
+  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "recipient": "job@sinn-living.de",
+  "sentDate": "16 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "16 Oct 2026, 21:16",
+      "timestamp": "2026-10-16T21:16:12+00:00",
+      "recipient": "job@sinn-living.de",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Bewerbung Ausbildung Polster- und Dekorationsnäher - Mohammed Fadil",
+      "body": "Sehr geehrte Damen und Herren,\n\nIhre Karriereseite beschreibt die zweijährige Ausbildung zum Polster- und Dekorationsnäher und eine mögliche anschließende Fortsetzung zum Polsterer. Ich bewerbe mich für den Nähberuf und möchte erfahren, wann der nächste Ausbildungsbeginn vorgesehen ist. Ich bewerbe mich damit nicht als Polstermeister oder als bereits formal ausgebildeter Polsterer.\n\nMein Lebenslauf, mein persönliches Anschreiben und mein Arbeitsportfolio sind beigefügt. Meine praktische Erfahrung umfasst Lederzuschnitt, Hand- und Maschinennähen, Montage und Qualitätskontrolle sowie die Mitarbeit an Jouffre-Polsteraufträgen in Rabat.\n\nIch bin 34 Jahre alt, marokkanischer Staatsangehöriger und wohne in Marokko, ohne deutsche Aufenthalts- oder Arbeitserlaubnis. Mein Deutsch ist A1; ich lerne für A2. B1 ist noch nicht erreicht. Mein Kurs von 2016 dauerte etwa 15 Tage und belegt keine zweijährige Berufsausbildung.\n\n2014 besuchte ich das letzte Schuljahr vor dem marokkanischen Baccalauréat, bestand die Prüfung aber nicht. Die Schulbescheinigung ist derzeit nicht griffbereit; ich kann sie später per E-Mail nachreichen.\n\nBitte prüfen Sie meine Bewerbung und teilen Sie mir mit, ob eine Aufnahme aus Marokko möglich ist. Beginn, Schulnachweise, Deutsch, Vergütung, Lebensunterhalt und Ausbildungsvisum müssen vorab geklärt werden. Mit dieser Bewerbung nehme ich noch keinen Vertrag an.\n\nMit freundlichen Grüßen\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1469290760bfa7",
+      "threadId": "1a1469290760bfa7",
+      "filenames": [
+        "Mohammed_Fadil_Lebenslauf.pdf",
+        "Mohammed_Fadil_Anschreiben.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Lebenslauf.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+          "pages": 2,
+          "size": 271,
+          "sha256": "ec2bf88f489719f46dcbb860357e7636ff8b865df01ed776631d753a0765ff90",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Lebenslauf.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Anschreiben.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Anschreiben.pdf",
+          "pages": 1,
+          "size": 62,
+          "sha256": "8d7e7294a14d71a0d55dc70382cb595603270e2b92b3d88fcd3fc1929918b8f7",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Anschreiben.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2583,
+          "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_Lebenslauf.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+      "pages": 2,
+      "size": 271,
+      "sha256": "ec2bf88f489719f46dcbb860357e7636ff8b865df01ed776631d753a0765ff90",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Lebenslauf.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Anschreiben.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Anschreiben.pdf",
+      "pages": 1,
+      "size": 62,
+      "sha256": "8d7e7294a14d71a0d55dc70382cb595603270e2b92b3d88fcd3fc1929918b8f7",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Anschreiben.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2583,
+      "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

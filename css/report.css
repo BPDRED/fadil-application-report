@@ -1,0 +1,354 @@
+/* ##############################################################################
+   report.css  (inline here only for the reference — in the real build this is css/report.css)
+   Plain CSS, no framework. Sections 1-10 follow the screen order. Class prefixes:
+     s-<status>   application state colours      k-<kind>   timeline event colours
+     .row .dt .it list rows                      .blk .agl  connected bordered blocks
+     .fbar .fgrp  filter bar                     .ag        numbered accordion section
+   ############################################################################## */
+
+/* ============ 1. VARIABLES ============
+   Design tokens. Re-theming = changing this block only.
+   --line   hairline used for every border and divider
+   --ink    primary text / selected state     --ink2 secondary text     --mute  captions, counts
+   --ok green · --info blue · --warn amber · --wait grey   (the four application states)
+   --wait-f is the lighter grey used for dots/fills (too light for white text; use --wait for text cells)
+   --k-*    colour of each timeline event kind (dot, rail label, quote bar)
+   --nav-h / --hdr-h  heights of the fixed menu and header (mobile)
+   --safe-t / --safe-b  iOS notch / home-bar insets, so fixed bars never sit under them */
+:root{--line:#e6e6e6;--ink:#111;--ink2:#444;--mute:#767676;--accent:#111;
+  /* ONE colour system, used everywhere: application state AND timeline event kinds */
+  --ok:#15803d;--info:#1d4ed8;--warn:#b45309;--wait:#5b6472;--wait-f:#b3b9c3;
+  --k-app:#374151;--k-portal:#15803d;--k-ack:#15803d;--k-resp:#1d4ed8;--k-fail:#b45309;--k-inq:#7c3aed;--k-sup:#be185d;
+  --nav-h:58px;--hdr-h:56px;--ease:cubic-bezier(.2,.7,.2,1);--safe-t:env(safe-area-inset-top,0px);--safe-b:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box;margin:0;padding:0}
+html{color-scheme:light;-webkit-text-size-adjust:100%;scroll-padding-top:calc(var(--hdr-h) + 12px)}
+body{font-family:Inter,-apple-system,"Segoe UI",sans-serif;background:#fff;color:var(--ink);line-height:1.5;-webkit-tap-highlight-color:transparent}
+[dir=rtl] body{font-family:"Geeza Pro",Tahoma,Inter,sans-serif;line-height:1.7}
+button,a,input{font:inherit;color:inherit}button,a{text-decoration:none;cursor:pointer;touch-action:manipulation}button{background:none;border:0;text-align:start}
+svg{fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+[hidden]{display:none!important}
+.skip{position:fixed;top:-60px;left:12px;background:var(--ink);color:#fff;padding:10px 14px;z-index:200}.skip:focus{top:8px}
+:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+
+/* STATE COLOURS. Put class s-<applicationStatus> on ANY wrapper and its descendants can use:
+     --c  = text colour of that state   --cf = fill colour (dots, bars, tinted cells)
+   blocked = amber · response_received = blue · submitted_portal = green · awaiting_response = grey.
+   One class, many uses: filter dot, status text (.stx), number cell, icon cell, date tile. */
+.s-blocked{--c:var(--warn);--cf:var(--warn)}.s-response_received{--c:var(--info);--cf:var(--info)}
+.s-submitted_portal{--c:var(--ok);--cf:var(--ok)}.s-awaiting_response{--c:var(--wait);--cf:var(--wait-f)}
+/* EVENT KIND COLOURS (timeline + activity): class k-<kind> sets --ec used by the dot, the kind pill and the message bar. */
+.k-application{--ec:var(--k-app)}.k-portal{--ec:var(--k-portal)}.k-inquiry{--ec:var(--k-inq)}.k-supplement{--ec:var(--k-sup)}
+.k-acknowledgment{--ec:var(--k-ack)}.k-response{--ec:var(--k-resp)}.k-delivery_notice{--ec:var(--k-fail)}
+.stx{color:var(--c);font-weight:600}
+
+/* ============ 2. ANIMATIONS ============
+   Motion is used sparingly: one staggered "rise" when a page opens (render() adds .rise to the first
+   14 blocks with a --i delay), the progress bar sweeping in once (ONE clip-path reveal, not per segment), accordions opening / closing (agRun in the script), and slide-in when swiping
+   between employers. Everything is disabled by prefers-reduced-motion. */
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes dlgIn{from{opacity:0;transform:translateY(16px) scale(.97)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}}
+.rise{animation:rise .42s var(--ease) both;animation-delay:calc(var(--i,0)*28ms)}
+/* the progress bar is revealed as ONE continuous sweep (not segment by segment) */
+@keyframes reveal{from{clip-path:inset(0 100% 0 0 round 5px)}to{clip-path:inset(0 0 0 0 round 5px)}}
+@keyframes revealR{from{clip-path:inset(0 0 0 100% round 5px)}to{clip-path:inset(0 0 0 0 round 5px)}}
+.fresh .seg{animation:reveal 1s var(--ease) both}[dir=rtl] .fresh .seg{animation-name:revealR}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* ============ 3. SHELL + HEADER ============
+   .app-shell  page frame (mobile: full screen with room for fixed bars; desktop: centred bordered card)
+   .app-header fixed on mobile. Left: back button (only on sub pages). Middle: .hd-text = two lines:
+                 line 1  .eyebrow   small grey text
+                 line 2  .hd-title  the page title (one line, ellipsis)
+               Right: language button.
+   What the two lines show, by page (written by render()):
+     Overview/Employers/Activity/Next steps   eyebrow: [● Snapshot 18 Oct 2026, 11:00 ⌄]   title: candidate name
+                                              (the snapshot button opens the .mon drop-down with the two update dates)
+     Blocked page                             eyebrow: "Overview"                        title: "Blocked & issues"
+     Employer page (Summary/Timeline/Evidence) eyebrow: [flag] Italy · TPL-0004 · Advertised role
+                                              title:   Fabrikam Studio  · 4 / 40      ← counter sits NEXT TO the name
+                                              (name truncates with "…", counter never does) */
+.app-shell{background:#fff;min-height:100dvh;padding:calc(var(--hdr-h) + var(--safe-t)) 0 calc(var(--nav-h) + var(--safe-b))}
+.app-header{position:fixed;top:0;left:0;right:0;z-index:25;height:calc(var(--hdr-h) + var(--safe-t));padding:var(--safe-t) max(14px,env(safe-area-inset-right)) 0 max(14px,env(safe-area-inset-left));background:#fff;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:6px}
+.back{display:none;width:34px;height:44px;margin-inline-start:-8px;align-items:center;justify-content:center;flex:none}
+.back.show{display:inline-flex;animation:fade .3s}.back svg{width:26px;height:26px;stroke-width:2}[dir=rtl] .back svg,[dir=rtl] .go,[dir=rtl] .pn svg{transform:scaleX(-1)}
+.hd-text{flex:1;min-width:0}.eyebrow{font-size:.72rem;color:var(--mute);font-weight:500}
+.eyebrow.trunc{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.eyebrow.trunc .flag{margin-inline-end:6px}
+.hd-title{font-size:1.05rem;font-weight:600;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hd-title.has-n{display:flex;align-items:baseline;min-width:0}.hd-title .hd-nm{min-width:0;overflow:hidden;text-overflow:ellipsis}
+.hd-title .hd-n{flex:none;margin-inline-start:.4em;color:var(--mute);font-weight:500;font-variant-numeric:tabular-nums;direction:ltr;unicode-bidi:isolate}
+.link{color:var(--ink);font-weight:600;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px;padding:10px 0;display:inline-block}
+#language{font-family:Tahoma,Arial,sans-serif;font-size:.9rem}
+/* snapshot button + monitoring drop-down: .mon slides down under the header, two rows
+   "Last mailbox check / Application data updated" + an amber warning if the last check was incomplete.
+   Closes on outside click or Escape. Green dot = last check complete, amber (.bad) = incomplete. */
+.snap{display:inline-flex;align-items:center;gap:6px;padding:4px 0;font-size:.72rem;font-weight:500;color:var(--mute);max-width:100%}
+.snap .dot{width:7px;height:7px;border-radius:50%;background:var(--ok);flex:none}.snap .dot.bad{background:var(--warn)}
+.snap svg{width:13px;height:13px;stroke-width:2.2;flex:none;transition:transform .3s var(--ease)}.snap[aria-expanded=true] svg{transform:rotate(180deg)}
+.snap[aria-expanded=true]{color:var(--ink)}
+.mon{position:absolute;top:100%;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);padding:6px max(14px,env(safe-area-inset-right)) 10px max(14px,env(safe-area-inset-left));visibility:hidden;opacity:0;transform:translateY(-8px);transition:opacity .25s,transform .3s var(--ease),visibility 0s .3s}
+.mon.open{visibility:visible;opacity:1;transform:none;transition-delay:0s}
+.mon-row{display:flex;justify-content:space-between;align-items:baseline;gap:14px;padding:9px 0;border-top:1px solid var(--line);font-size:.86rem}.mon-row:first-child{border-top:0}
+.mon-row span{color:var(--mute)}.mon-row b{font-weight:600;font-variant-numeric:tabular-nums;text-align:end}
+.mon-warn{font-size:.84rem;padding:6px 0 2px}
+
+/* ============ 4. MENU: bottom on mobile, top on desktop ============
+   One nav, two positions. Active tab = bold + .ink, a 2px bar that SLIDES to the active tab
+   (moveInk() measures the active button and sets width/translateX).
+   Mobile: icon above label, bar on the TOP edge of the menu. Desktop: icon beside label, bar on the BOTTOM edge.
+   Icon colour = --tc, set inline per tab by navHTML() from TABS / SUBS (4th value). Add a tab = add a row there.
+   Employer pages swap the 4 tabs for  (‹) Summary | Timeline | Evidence (›)  — the two .pn buttons are round, icon-only, frosted-white glass. */
+#mainNav{position:fixed;bottom:0;left:0;right:0;z-index:20;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-top:1px solid var(--line);padding-bottom:var(--safe-b)}
+.tab-list{display:flex;height:var(--nav-h)}
+.tab-btn{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;color:#777;font-size:.64rem;font-weight:500;transition:color .25s;text-align:center}
+.tab-btn svg{width:22px;height:22px;transition:transform .25s var(--ease)}.tab-btn:active svg{transform:scale(.88)}.tab-btn.active svg{transform:translateY(-1px)}
+.tab-btn.active{color:var(--ink);font-weight:700}
+/* menu icons are coloured (--tc is set per tab in navHTML, from the existing colour system); inactive = softened, active = full */
+.tab-btn svg{color:var(--tc,#777);opacity:.85;transition:transform .25s var(--ease),opacity .25s}.tab-btn.active svg{opacity:1}
+/* Previous / Next on employer pages: round icon-only buttons, no text, no separator lines */
+.tab-btn.pn{flex:.55}.tab-btn.pn svg{width:38px;height:38px;padding:8px;border-radius:50%;background:rgba(255,255,255,.55);border:1px solid rgba(17,17,17,.16);color:var(--ink);-webkit-backdrop-filter:blur(14px) saturate(160%);backdrop-filter:blur(14px) saturate(160%);stroke-width:2.2;opacity:1}
+.tab-btn.pn:disabled{opacity:.28;cursor:default}
+.ink{position:absolute;top:0;left:0;height:2px;width:0;background:var(--ink);pointer-events:none;transition:transform .38s var(--ease),width .38s var(--ease)}
+
+/* ============ 5. COMMON BLOCKS ============
+   Reusable building blocks used by several screens. */
+main{padding:18px max(14px,env(safe-area-inset-right)) 28px max(14px,env(safe-area-inset-left));outline:0;overflow-x:clip}
+/* typography: .hero-t page title (1.7rem/700, 2.3rem on desktop) · .sec-title tiny grey caps label above a block · .meta/.sub grey captions · .mono ids and counters */
+.hero-t{font-size:1.7rem;font-weight:700;letter-spacing:-.035em;line-height:1.12}
+.meta,.sub{color:var(--mute);font-size:.84rem}.sub{display:block;line-height:1.4;margin-top:2px}
+.sec-title{font-size:.7rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:#8a8a8a;margin:26px 0 10px}
+.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:.8rem;font-variant-numeric:tabular-nums}
+.st-ok{color:var(--ok);font-weight:600}.st-info{color:var(--info);font-weight:600}.st-warn{color:var(--warn);font-weight:700}.st-mute{color:var(--ink2);font-weight:500}
+/* .row = the standard list row:  [ number or time | body: bold name + grey sub line | › ]
+   min-height 56px, rows separated by a 1px line, whole row is one button (data-goto). */
+.row{display:flex;align-items:center;gap:12px;min-height:56px;padding:6px 2px;border-top:1px solid var(--line);width:100%;transition:background .2s}
+.row:first-child{border-top:0}.row{content-visibility:auto;contain-intrinsic-size:auto 58px}.row:active{background:rgba(0,0,0,.04)}.row .body{flex:1;min-width:0}.row b{font-weight:600}
+.go{width:18px;height:18px;color:#a3a3a3;flex:none}.num{color:var(--mute);width:26px;flex:none}
+.empty{color:var(--mute);padding:18px 0}
+/* .narrow = reading width (800px) for text-heavy pages: employer pages, Activity, Next steps, Blocked. Overview and Employers use the full width. */
+.narrow{max-width:800px}
+.slide-next{animation:slideN .32s var(--ease)}.slide-prev{animation:slideP .32s var(--ease)}
+@keyframes slideN{from{opacity:.2;transform:translateX(28px)}}@keyframes slideP{from{opacity:.2;transform:translateX(-28px)}}
+[dir=rtl] .slide-next{animation-name:slideP}[dir=rtl] .slide-prev{animation-name:slideN}
+/* .cols = two columns ≥ 900px (Overview: figures left, latest updates right); a single column below that. */
+.cols{display:grid;gap:0 36px;grid-template-columns:minmax(0,1fr)}.cols>div{min-width:0}@media(min-width:900px){.cols{grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);align-items:start}}
+/* .flag = 20×14 inline SVG flag (see FLAGS in the script). Thin outline instead of a shadow. */
+.flag{display:inline-block;width:20px;height:14px;border-radius:2px;flex:none;vertical-align:-2px;margin-inline-end:7px;stroke:none;outline:1px solid rgba(0,0,0,.14)}
+
+/* SEARCH ROW (Employers + Activity).
+   Closed:  [ 12 employers (page title)                         🔍 ]
+   Open:    [ 🔍  Find employer or country…                     ✕ ]   ← icon grows leftwards into a full-width pill
+   Closes with ✕, Escape, or a click anywhere outside the row (the typed text is cleared, except when the click is on a result). */
+.srow{position:relative;display:flex;align-items:center;min-height:52px;margin-bottom:10px}
+.srow .stitle{position:absolute;inset-inline-start:0;inset-block:0;display:flex;align-items:center;white-space:nowrap;transition:opacity .25s var(--ease)}
+.srow.open .stitle{opacity:0;pointer-events:none}
+.sw{margin-inline-start:auto;height:46px;width:46px;display:flex;align-items:center;border:1px solid transparent;border-radius:23px;background:#fff;overflow:hidden;transition:width .42s var(--ease),border-color .3s}
+.srow.open .sw{width:100%;border-color:#cfcfcf}
+.sbtn,.sx{width:44px;height:44px;flex:none;display:grid;place-items:center}
+.sbtn svg{width:21px;height:21px;stroke-width:1.9}.sx svg{width:18px;height:18px;stroke-width:2;color:var(--mute)}
+.sbtn:active svg{transform:scale(.88)}
+.sin{flex:1;min-width:0;height:44px;border:0;outline:0;background:transparent;font-size:1rem;opacity:0;visibility:hidden;transition:opacity .25s .12s,visibility 0s .4s}
+.sx{opacity:0;visibility:hidden;transition:opacity .2s,visibility 0s .3s}
+.srow.open .sin,.srow.open .sx{opacity:1;visibility:visible;transition-delay:.12s,0s}
+.srow .sin::-webkit-search-cancel-button{display:none}
+
+/* FILTER BAR — ONE horizontally scrolling line, never wraps, no rounded container, no shadow.
+   Employers page, full-bleed under the title (sticky below the header/menu):
+   ┌ group 1: STATUS ──────────────────────────────────┬ group 2: COUNTRY ─────────────────────────┐
+   │ All 40 │ ● Blocked 3 │ ● Reply received 1 │ ... │ All countries │ 🇫🇷 France 11 │ 🇨🇦 Canada 8 │ ...  →
+   │ ▔▔▔▔▔▔  (selected = 2px ink underline + semibold)                                           │
+   └──────────────────────────────────────────────────────────────────────────────────────────┘
+   Everything is white; the two groups touch (no gap) and the "All" / "All countries" items start each group.
+   Each group has one selection ("All" = no filter). Tapping the selected item again clears it.
+   Activity uses the same bar with a single group of 3 equal-width tabs (.fill): All | Sent | Received. */
+.fbar{display:flex;overflow-x:auto;scrollbar-width:none;overscroll-behavior-x:contain}.fbar::-webkit-scrollbar{display:none}
+.fgrp{display:flex;flex:none}
+.fgrp.g1{background:#fff;padding-inline-start:14px}.fgrp.g2{background:#fff;padding-inline-end:14px}
+.fbar button{flex:none;display:inline-flex;align-items:center;gap:6px;height:46px;padding:0 14px;border-bottom:2px solid transparent;font-size:.86rem;font-weight:500;color:var(--ink2);white-space:nowrap;transition:color .2s,border-color .2s}
+.fbar button:focus-visible{outline-offset:-3px}
+.fbar button .n{font-variant-numeric:tabular-nums;color:var(--mute);font-weight:600;font-size:.78rem}
+.fbar button .dot{width:8px;height:8px;border-radius:50%;background:var(--cf);flex:none}
+.fbar button .flag{margin-inline-end:0}
+.fbar button.on{color:var(--ink);font-weight:600;border-bottom-color:var(--ink)}
+.fbar.fill .fgrp{flex:1;padding-inline:0}.fbar.fill button{flex:1;justify-content:center}
+.fstick{position:sticky;top:calc(var(--hdr-h) + var(--safe-t));z-index:10;background:#fff;margin:0 -14px 6px;border-bottom:1px solid var(--line)}
+
+/* ============ 6. OVERVIEW ============
+   .alert  full-width amber button "N applications blocked" (green, non-clickable, when none)
+   .big    the headline number "28 / 40" + .cap explanation
+   .seg    continuous segmented bar (no gaps), one segment per status, width = share of employers. NOT clickable.
+   .chips  ONE horizontally scrolling row, full-bleed, no border / no rounding. Status chip = number, dot, name.
+           Country chip = flag, name, count. Both are filter shortcuts to the Employers page.
+   .kf     three key figures in ONE bordered strip
+   .blk.flat  list with no outer border/rounding; rows use the page's own side margins (Overview "Latest verified updates") */
+.alert{display:flex;align-items:center;gap:12px;width:100%;min-height:60px;padding:10px 14px;margin-bottom:20px;border-radius:14px;background:#fff6ec;border:1px solid #f6c89a;color:var(--warn);transition:background .2s,transform .15s}
+.alert:active{transform:scale(.99);background:#ffeedb}
+.alert>svg:first-child{width:26px;height:26px;flex:none;stroke-width:1.8}.alert .body{flex:1;min-width:0}.alert strong{display:block;font-size:1.02rem;font-weight:700;line-height:1.25}
+.alert .sub{color:#9a5a22;margin-top:1px;font-size:.8rem}.alert .go{color:var(--warn)}
+.alert.ok{background:#f0faf3;border-color:#b6e0c3;color:var(--ok)}.alert.ok .sub{color:#3d7a52}
+.big{font-size:3.6rem;font-weight:800;letter-spacing:-.05em;line-height:1;margin-top:18px;font-variant-numeric:tabular-nums}.big span{font-size:1.6rem;color:var(--mute);font-weight:600;letter-spacing:-.02em}
+.cap{font-size:.88rem;color:var(--ink2);margin:8px 0 4px;max-width:560px}
+.seg{display:flex;height:10px;border-radius:5px;overflow:hidden;margin:18px 0 4px}.seg div{height:100%;min-width:5px;background:var(--cf)}
+/* chip rows: one scrolling line that bleeds to the screen edges; the first label lines up with the page margin */
+.chips{display:flex;overflow-x:auto;scrollbar-width:none;overscroll-behavior-x:contain;margin:0 -14px}.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0 14px;border:0;border-radius:0;background:transparent;font-size:.86rem;font-weight:500;color:var(--ink2);white-space:nowrap;transition:background .2s}
+.chip:active{background:rgba(0,0,0,.04)}.chip:focus-visible{outline-offset:-3px}
+.chip .dot{width:8px;height:8px;border-radius:50%;background:var(--cf);flex:none}.chip b{font-weight:700;color:var(--ink);font-variant-numeric:tabular-nums}
+.chip .flag{margin-inline-end:0}
+.kf{display:grid;grid-template-columns:repeat(3,1fr);margin:22px 0 0;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.kf>div{padding:11px 12px;border-inline-start:1px solid var(--line);min-width:0}.kf>div:first-child{border-inline-start:0}
+.kf b{display:block;font-size:1.6rem;font-weight:800;letter-spacing:-.03em;line-height:1.1;font-variant-numeric:tabular-nums}
+.kf span{display:block;margin-top:2px;font-size:.72rem;line-height:1.25;color:var(--mute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.more{display:inline-block;margin-top:6px}
+
+/* ============ 7. EMPLOYERS + ACTIVITY ============
+   Activity rows: a .day caption ("17 Oct 2026") then rows  [ time | name + coloured kind · event title | › ]. */
+.day{font-size:.7rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:#8a8a8a;margin:22px 0 4px}
+.time{width:46px;flex:none;font-size:.82rem;font-weight:600;color:var(--ink2);font-variant-numeric:tabular-nums}
+.kd{color:var(--ec);font-weight:700}
+.act-tabs{margin:12px 0 2px;border-bottom:1px solid var(--line)}
+
+/* ============ 7b. BLOCKED / NEXT STEPS ============ */
+/* CONNECTED BLOCK  (.blk = a plain list of rows, .agl = a list of accordion sections)
+   ONE outer 1px border, 14px radius on the OUTER corners only (overflow:hidden clips the rows),
+   rows separated by a 1px top border. Never draw a separate card / border / accent bar per row.
+   ┌────────────────────────────────────┐
+   │ row                                │
+   ├────────────────────────────────────┤
+   │ row                                │
+   └────────────────────────────────────┘ */
+.blk,.agl{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff}.agl{margin-top:18px}
+.blk.flat{border:0;border-radius:0;overflow:visible}.blk.flat .dt{padding-inline:0}
+/* accordion lists (Next steps, Blocked) run edge to edge: no side borders, no rounding, only the top and bottom lines */
+.agl{margin-inline:-14px;border-inline:0;border-radius:0}
+.it{border-top:1px solid var(--line);background:#fff}
+.it-main{display:flex;align-items:center;gap:10px;width:100%;padding:12px 12px 12px 14px;text-align:start}[dir=rtl] .it-main{padding:12px 14px 12px 12px}
+.it-main .body{flex:1;min-width:0}.it-h{display:flex;align-items:center;gap:0;flex-wrap:wrap}.it-h b{font-weight:700;color:var(--c);unicode-bidi:isolate}.it-h .meta{margin-inline-start:10px}
+.it-t{display:block;margin-top:5px;font-size:.88rem;color:var(--ink2);line-height:1.5}
+.it-x{display:flex;flex-wrap:wrap;gap:8px;padding:0 14px 12px}
+.pill{display:inline-flex;align-items:center;gap:6px;min-height:36px;padding:0 14px;border-radius:999px;background:var(--ink);color:#fff;font-size:.82rem;font-weight:600}
+.pill svg{width:15px;height:15px;stroke-width:2}
+/* NUMBERED ACCORDION SECTION (.ag = <details>) — used by Next steps and Blocked & issues.
+   Closed row (two cells):
+   ┌────┬───────────────────────────────────────┬───┐
+   │ 1  │ Unblock these applications            │ ⌄ │   number cell: 10% of the row (min 46px),
+   │    │ Do not retry the forms or answer ...  │   │   filled with the state colour (--cn),
+   └────┴───────────────────────────────────────┴───┘   number = Space Grotesk 700, white
+   Open: the same header, then the body (.ag-b) = item rows separated by thin lines.
+   Only ONE section is open at a time (agToggle / agRun in the script animate it); the first one starts open.
+   The whole list (.agl) runs EDGE TO EDGE: negative side margin = page padding, no side borders, no rounding, top/bottom lines only. */
+.ag{--cn:var(--cf)}.ag.s-awaiting_response{--cn:var(--wait)}.ag+.ag{border-top:1px solid var(--line)}
+.ag>summary{align-items:stretch;gap:0;min-height:70px;font-size:1rem}
+.ag-n{flex:0 0 10%;min-width:46px;display:grid;place-items:center;background:var(--cn);color:#fff;font:700 1.5rem/1 "Space Grotesk",Inter,sans-serif;font-variant-numeric:lining-nums tabular-nums}
+.ag-t{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px;padding-block:13px;padding-inline-start:14px}
+.ag-t b{font-size:1rem;font-weight:700;letter-spacing:-.01em;line-height:1.25}
+.ag-t span{font-size:.84rem;font-weight:400;color:var(--mute);line-height:1.4}
+.ag>summary::after{align-self:center;margin:0 18px 4px 8px}
+.ag-b{border-top:1px solid var(--line)}.ag-b>:first-child{border-top:0}
+/* open / close / switch is animated by agRun() in the script (height + fade); the generic details "rise" animation is switched off here */
+.ag[open]>.ag-b{animation:none}.ag.closing[open]>summary::after{transform:rotate(45deg)}
+
+/* RULE ROWS ("Everything else: wait"): same two-cell structure as the section header.
+   [ tinted icon cell 10% | bold short label + one sentence ]   icon colour = state colour, cell = 11% tint of it. */
+.rl{display:flex;border-top:1px solid var(--line)}
+.rl-i{flex:0 0 10%;min-width:46px;display:grid;place-items:center;background:color-mix(in srgb,var(--cf) 11%,#fff);color:var(--cf)}.rl-i svg{width:20px;height:20px;stroke-width:2}
+.rl-t{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px;padding:13px 14px}
+.rl-t b{font-size:.92rem;font-weight:700;line-height:1.3}.rl-t span{font-size:.9rem;color:var(--ink2);line-height:1.5}
+/* DATE ROW (.dt) — used by "Dates to check" AND by Overview "Latest verified updates" (same component).
+   [ date tile: day / MONTH | flag + name  /  one-line text  /  "in 3 days" or "yesterday" | › ]
+   The tile is a small bordered rounded box (64px wide). The blue line at the bottom is the relative time. */
+.dt{display:flex;gap:14px;align-items:flex-start;width:100%;padding:12px 14px;border-top:1px solid var(--line)}.dt:first-of-type{border-top:0}.dt:active{background:rgba(0,0,0,.04)}
+.dt-d{width:64px;flex:none;text-align:center;border:1px solid var(--line);border-radius:10px;padding:6px 4px}.dt-d b{display:block;font-size:1.05rem;font-weight:800;line-height:1.15}.dt-d span{display:block;font-size:.66rem;color:var(--mute);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.dt .body{flex:1;min-width:0}.dt .it-h b{color:var(--ink)}
+.dt .left{display:block;margin-top:2px;font-size:.76rem;font-weight:700;color:var(--info)}
+.dt .it-h .left{display:inline;margin:0;margin-inline-start:10px}   /* relative time ("yesterday") sits on the company-name line */
+.foot-note{margin-top:34px;padding-top:14px;border-top:1px solid var(--line)}
+
+/* ============ 8. EMPLOYER DETAIL ============
+   Shared top of all three tabs (.d-head): Name (hero) · position · status text.   Country/flag/id/counter are in the HEADER.
+   .next    "Next step" quote block with a 3px state-colour bar on its start edge
+   .kv      key/value grid (To, Channel)     .doc  document row [ PDF icon | name + pages · size | ↗ ]
+   .acc     collapsible "prepared documents" (one open at a time with the timeline messages)
+   TIMELINE (.tl): vertical rail on the start edge, oldest event first. Each .ev has a dot in its kind colour,
+   a header line "date · kind pill", the title, From/To + files, and a collapsible "Read message and confirmation". */
+.d-head{margin-bottom:6px}.d-head .hero-t{margin:8px 0 4px;unicode-bidi:isolate;direction:ltr;text-align:start}
+.stat-line{margin-top:8px;font-size:.92rem}
+.next{border-inline-start:3px solid var(--cf,var(--ink));padding:4px 0 4px 14px;margin:20px 0 4px}[dir=rtl] .next{padding:4px 14px 4px 0}
+.next p+p{margin-top:6px;color:var(--mute);font-size:.88rem}
+.kv{display:grid;grid-template-columns:96px 1fr;gap:6px 12px;font-size:.9rem;padding:8px 0}.kv dt{color:var(--mute)}.kv dd{overflow-wrap:anywhere;unicode-bidi:plaintext}
+.doc{display:flex;align-items:center;gap:12px;min-height:58px;border-top:1px solid var(--line);padding:6px 2px;transition:background .2s}.doc:first-of-type{border-top:0}.doc:active{background:rgba(0,0,0,.04)}
+.fi{width:30px;height:36px;border:1px solid #c9c9c9;border-radius:4px;display:grid;place-items:center;font-size:.52rem;letter-spacing:.07em;color:var(--mute);flex:none;background:#fff}
+.doc .dn{flex:1;min-width:0}.doc b{display:block;font-weight:600;font-size:.88rem;overflow-wrap:anywhere;direction:ltr;unicode-bidi:isolate;text-align:start}.doc small{color:var(--mute);font-size:.74rem}.doc svg{width:17px;height:17px;color:#a3a3a3;flex:none}
+.note{font-size:.84rem;color:var(--ink2);margin:8px 0}
+.acc{border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:14px}
+details>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:48px;font-weight:600;font-size:.92rem}details>summary::-webkit-details-marker{display:none}
+details>summary::after{content:"";width:8px;height:8px;border-right:2px solid var(--mute);border-bottom:2px solid var(--mute);transform:rotate(45deg);transition:transform .3s var(--ease);flex:none;margin:0 4px 4px}
+details[open]>summary::after{transform:rotate(225deg) translate(-2px,-2px)}details[open]>*:not(summary){animation:rise .35s var(--ease) both}
+.flags{font-size:.78rem;color:var(--mute);margin-top:12px}
+
+/* timeline — dot, label and rail tinted by event kind */
+.kl{display:flex;flex-wrap:wrap;gap:6px 16px;margin:0 0 20px;font-size:.76rem;color:var(--ink2);font-weight:500}
+.kk{display:inline-flex;align-items:center;gap:6px}.kk i{width:9px;height:9px;border-radius:50%;background:var(--ec)}
+.tl{position:relative;padding-inline-start:28px}.tl::before{content:"";position:absolute;inset-block:8px 0;inset-inline-start:6px;width:2px;border-radius:1px;background:linear-gradient(#e4e4e4,#f2f2f2)}
+.ev{position:relative;padding-bottom:26px}
+.ev::before{content:"";position:absolute;inset-inline-start:-28px;top:1px;width:14px;height:14px;border-radius:50%;background:var(--ec);border:3px solid #fff;outline:2px solid var(--ec)}
+.ev-h{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:.76rem;color:var(--mute);font-weight:600}
+.ev-h .kind{color:var(--ec);background:color-mix(in srgb,var(--ec) 11%,#fff);padding:2px 9px;border-radius:999px;font-weight:700}
+.ev-t{font-weight:600;margin:6px 0 2px}.ev details{margin-top:6px}
+.ev details>summary{color:var(--ec)}.ev details>summary::after{border-color:var(--ec)}
+pre.event-body{white-space:pre-wrap;font:.82rem/1.6 inherit;font-family:inherit;background:#fff;border:0;border-block:1px solid var(--line);border-radius:0;padding:12px 0;margin:8px 0;unicode-bidi:plaintext;overflow-wrap:anywhere}
+.ids{font:.72rem ui-monospace,Consolas,monospace;color:var(--mute);overflow-wrap:anywhere;margin:6px 0;direction:ltr;text-align:start}
+.shot{display:block;width:100%;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#fff;transition:transform .2s}.shot:active{transform:scale(.99)}
+.shot img{display:block;width:100%;max-height:380px;object-fit:cover;object-position:top}
+.quote{font-size:.9rem;font-style:italic;color:var(--ink2);margin:10px 0 6px;unicode-bidi:plaintext}
+.src{display:flex;flex-wrap:wrap;gap:4px 18px;margin-top:18px;font-size:.84rem}.src a{color:var(--ink);font-weight:600;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px}
+.nt{unicode-bidi:isolate}
+@media(hover:none){body{cursor:pointer}}
+
+/* ============ 9. IMAGE VIEWER (screenshots) ============
+   Photo-gallery style, full screen on every device: black background, ONLY the image + two round buttons at the top
+   (i = information, x = close). No box, no border. The information slides up from the bottom as white text over a fade.
+   .vw = the zoom stage (touch-action:none so our own pinch / double-tap / pan code gets the gestures; see `viewer` in the script). */
+dialog{border:0;padding:0;margin:0;width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;background:#000;color:#fff;overflow:hidden}
+dialog[open]{animation:fade .25s}dialog::backdrop{background:#000}
+.vw{position:absolute;inset:0;overflow:hidden;touch-action:none;cursor:zoom-in;-webkit-user-select:none;user-select:none}.vw.zoomed{cursor:grab}
+.vw img{display:block;width:100%;height:100%;object-fit:contain;transform-origin:50% 50%;will-change:transform;pointer-events:none;-webkit-user-drag:none}
+.vw-btns{position:absolute;z-index:2;top:calc(12px + var(--safe-t));inset-inline:max(12px,env(safe-area-inset-left)) max(12px,env(safe-area-inset-right));display:flex;justify-content:space-between;pointer-events:none}.vw-btns .cbtn{pointer-events:auto}
+/* DARK GLASS buttons (viewer i / x and the menu Previous / Next arrows): dark translucent fill, blur, hairline light edge, white icon */
+.cbtn{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;background:rgba(28,28,30,.62);border:1px solid rgba(255,255,255,.14);color:#fff;-webkit-backdrop-filter:blur(14px) saturate(160%);backdrop-filter:blur(14px) saturate(160%);transition:background .2s,color .2s,transform .15s}
+.cbtn svg{width:20px;height:20px;stroke-width:2.2}.cbtn:active{transform:scale(.92)}.cbtn:focus-visible{outline-color:#fff}.cbtn[aria-expanded=true]{background:#fff;color:#000}
+.vw-sheet{position:absolute;z-index:1;inset-inline:0;bottom:0;max-height:55dvh;overflow:auto;padding:64px max(18px,env(safe-area-inset-right)) calc(20px + var(--safe-b)) max(18px,env(safe-area-inset-left));background:linear-gradient(to top,rgba(0,0,0,.92) 55%,rgba(0,0,0,0));transform:translateY(105%);visibility:hidden;transition:transform .4s var(--ease),visibility 0s .4s}
+.vw-sheet.open{transform:none;visibility:visible;transition-delay:0s}
+.vw-sheet h2{font-size:1rem;font-weight:600;line-height:1.35}.vw-sheet .quote{color:rgba(255,255,255,.82);margin:8px 0 4px}.vw-sheet .link{color:#fff;padding:8px 0}
+
+/* ============ 10. DESKTOP (≥ 641px) ============
+   The page becomes a centred bordered card (max 1080px), the menu a sticky top bar, the filter bar sticks under it (top:50px),
+   hover tints appear on rows. ≥ 900px: Employers list becomes two columns, Overview two columns. */
+@media(min-width:641px){
+  .app-shell{width:min(1080px,calc(100% - 32px));margin:16px auto;border-radius:14px;padding:0;overflow:hidden;border:1px solid var(--line)}
+  .app-header{position:relative;height:auto;padding:16px 24px}
+  .mon{padding-inline:24px}
+  #mainNav{position:sticky;top:0;border-top:0;border-bottom:1px solid var(--line);padding:0 24px}
+  .ink{top:auto;bottom:0;height:2.5px}.tab-list{height:50px;gap:4px}
+  .tab-btn{flex:none;flex-direction:row;gap:8px;padding:0 14px;font-size:.9rem}
+  .tab-btn.pn{flex:none}.tab-btn.pn.nx{margin-inline-start:auto}.tab-btn.pn.pv,.tab-btn.pn.nx{border:0}
+  main{padding:26px 24px 36px}.agl{margin-inline:-24px}.chips{margin-inline:-24px}.chip:first-child{padding-inline-start:24px}.chip:last-child{padding-inline-end:24px}.fstick{margin:0 -24px 6px;top:50px}.fgrp.g1{padding-inline-start:24px}.fgrp.g2{padding-inline-end:24px}.hero-t{font-size:2.3rem}.big{font-size:4.4rem}
+  .row:hover,.doc:hover,.dt:hover{background:rgba(0,0,0,.03)}
+  .alert:hover{background:#ffefdc}
+}
+@media(min-width:900px){#eList{display:grid;grid-template-columns:1fr 1fr;column-gap:40px}#eList .row:nth-child(-n+2){border-top:0}#eList .empty{grid-column:1/-1}}
+@media print{.app-header,#mainNav,.back{display:none!important}.app-shell{padding:0;background:#fff;border:0}details>*{display:block}.rise{animation:none}}
+
+/* keep Latin dates / English event titles readable inside the Arabic (RTL) layout */
+.snap [data-no-translate],.time,.ev-h time{direction:ltr;unicode-bidi:isolate}
+
+/* User-approved desktop width and filter layout. Mobile reference CSS above is unchanged. */
+@media(min-width:641px){
+  .app-shell{width:calc(100% - 32px);max-width:2560px}
+}
+@media(min-width:900px){
+  #fbar{flex-wrap:wrap;overflow:visible}
+  #fbar .fgrp{flex:1 0 100%;flex-wrap:wrap;padding-inline:24px}
+  #fbar button{min-height:46px}
+}

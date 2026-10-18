@@ -1,0 +1,100 @@
+{
+  "id": "MF-000022",
+  "number": 22,
+  "company": "Pelletterie Palladio",
+  "country": "Italy",
+  "position": "Experienced leather-goods production, accepted speculative intake",
+  "type": "Speculative craft application with conditional Academy interest",
+  "language": "Italian",
+  "status": "email",
+  "summary": "Complete Italian CV, personalized letter and original-layout 19-page portfolio sent to the employer-published HR email. The failed form required unsupported residence and school selections. Morocco residence, no Italian work authorization and 2014 niveau bac are disclosed; the held school attestation is offered later by email. Delivery, admission and permit support are unconfirmed.",
+  "next": "Await Palladio recruitment response to the complete Italian email package. Prior form required unsupported residence/school selections; published HR email alternative used. No duplicate application or automatic follow-up.",
+  "recipient": "hr@pelletteriepalladio.it",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "17 Oct 2026, 19:14",
+      "timestamp": "2026-10-17T19:14:39+00:00",
+      "recipient": "hr@pelletteriepalladio.it",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidatura spontanea per lavorazioni di pelletteria - Mohammed Fadil",
+      "body": "Gentile Ufficio Risorse Umane,\n\nVi invio la mia candidatura spontanea per un ruolo artigianale nella preparazione, cucitura, assemblaggio o rifinitura di articoli in pelle. Ho esperienza in borse, calzature e abbigliamento presso atelier marocchini, oltre alla pratica iniziata nel laboratorio familiare nel 2006. Allego il CV, la lettera di presentazione e il portfolio professionale.\n\nHo trovato questo recapito nei vostri aggiornamenti sulla Scuola di Pelletteria. Sono interessato soprattutto a un inserimento coerente con la mia esperienza; posso valutare anche la vostra Academy retribuita di 6-8 settimane, dopo averne chiarito contratto, retribuzione, requisiti e accesso dal Marocco. Questa candidatura non costituisce iscrizione o accettazione di un contratto.\n\nIl modulo online non mi permette di indicare correttamente la mia residenza e il mio percorso scolastico. Nel 2014 ho frequentato l'ultimo anno del baccalauréat marocchino senza superare l'esame, quindi ho niveau bac e non un diploma di baccalauréat. Possiedo l'attestazione di frequenza scolastica e posso inviarla successivamente via e-mail.\n\nSono cittadino marocchino e risiedo a Témara, in Marocco. Non ho un permesso di soggiorno o un'autorizzazione al lavoro in Italia. Francese e inglese sono A2; non dichiaro una conoscenza attuale dell'italiano e sono disponibile a studiarlo. Il trasferimento sarebbe possibile solo dopo il rilascio delle autorizzazioni e del visto necessari.\n\nVi chiedo se considerate candidature dal Marocco per un ruolo idoneo o per la Scuola di Pelletteria e se potete seguire gli adempimenti previsti per il datore di lavoro. Gradirei conoscere mansioni, sede, contratto, orario, retribuzione lorda e livello di italiano richiesto.\n\nGrazie per la valutazione.\n\nCordiali saluti,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a14b49a763eb435",
+      "threadId": "1a14b49a763eb435",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery-portal-v03/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 263,
+          "sha256": "bb08a4a8c50bcd9cd2555d9c407120185e4530a17f80ea4ebc3cf477eacafa8d",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery-portal-v03/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+          "pages": 1,
+          "size": 58,
+          "sha256": "877cc5235437d28e7b4769e238c2fd23ea338643593990987c99b7c6ee6bf19d",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2555,
+          "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery-portal-v03/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "bb08a4a8c50bcd9cd2555d9c407120185e4530a17f80ea4ebc3cf477eacafa8d",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery-portal-v03/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf",
+      "pages": 1,
+      "size": 58,
+      "sha256": "877cc5235437d28e7b4769e238c2fd23ea338643593990987c99b7c6ee6bf19d",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Lettera_di_presentazione.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2555,
+      "sha256": "f36f287ecbeead7e5bd7c0ab5bcc3b92b99b00781579232cbe99af148c5bcd14",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

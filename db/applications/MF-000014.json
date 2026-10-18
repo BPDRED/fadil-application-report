@@ -1,0 +1,125 @@
+{
+  "id": "MF-000014",
+  "number": 14,
+  "company": "Les Ateliers Carnoy",
+  "country": "France",
+  "position": "Maroquinier polyvalent (H/F), Montataire, offre 214DNGB",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "email",
+  "summary": "A French contact-form application had no file field. A later email supplied the CV, personalized letter and dossier to the published production recruitment contact.",
+  "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+  "recipient": "c.carnoy@atelierscarnoy.com",
+  "sentDate": "10 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application text sent through contact form",
+      "date": "10 Oct 2026, 15:45",
+      "timestamp": "2026-10-10T15:45:34.053048+00:00",
+      "recipient": "https://ateliers-carnoy.com/contact/",
+      "subject": "",
+      "body": "Madame, Monsieur,\n\nVos activités de fabrication de maroquinerie sur mesure et en série, ainsi que vos objets et pièces de décoration en cuir, correspondent à plusieurs aspects de mon expérience. Je vous propose ma candidature pour un poste artisanal adapté aux besoins des Ateliers Carnoy.\n\nChez Temacuire, j'ai participé à la fabrication de sacs en série pour Uterqüe, avec préparation, coupe, piquage, montage et contrôle final. Chez LeMaroquin, j'ai réalisé des sacs et des coffrets à bijoux sur mesure. Le passage de la série à la pièce personnalisée m'a appris à suivre les spécifications tout en accordant une attention particulière aux finitions manuelles.\n\nDepuis mon apprentissage familial commencé en 2006, je pratique la fabrication de chaussures, de ceintures et de petite maroquinerie. Je participe encore à la production et à l'accompagnement des apprentis. Chez Leather Citizen, j'ai également contribué à des travaux de sièges en cuir pour des commandes Jouffre à Rabat.\n\nJe suis marocain et réside au Maroc. Mon français est A2, utilisé au travail, et je suis prêt à le renforcer. Je ne possède ni titre de séjour français ni autorisation de travail en France. Je suis disponible immédiatement après obtention des autorisations et du visa requis. Un recrutement depuis le Maroc nécessiterait les démarches appropriées, notamment l'autorisation de travail demandée par l'employeur.\n\nVotre formulaire ne permet pas de joindre des documents. Mon CV, ma lettre de motivation et mon dossier professionnel en français sont prêts. Pourriez-vous m'indiquer une adresse de recrutement pour vous les transmettre ? Je vous remercie de votre attention.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "filenames": [],
+      "confirmation": "Votre envoi est effectif.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/contact-application-intent-20261010.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/qa_pages/carnoy-contact-outcome-20261010.jpg",
+      "documents": []
+    },
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "10 Oct 2026, 16:03",
+      "timestamp": "2026-10-10T16:03:58+00:00",
+      "recipient": "c.carnoy@atelierscarnoy.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidature spontanée en maroquinerie depuis le Maroc - dossier professionnel - Mohammed Fadil",
+      "body": "Monsieur Carnoy,\n\nJe vous transmets mon CV, ma lettre de motivation personnalisée et mon dossier professionnel en français pour une candidature spontanée dans vos ateliers. J'ai envoyé mon message par votre formulaire de contact aujourd'hui. Ce courriel le complète avec les documents que le formulaire ne permettait pas de joindre.\n\nVotre publication de recrutement mentionne la coupe, le travail de table, la piqûre et les finitions, en pièces uniques et petites séries. Mon expérience comprend la fabrication de sacs en série chez Temacuire, de sacs et coffrets sur mesure chez LeMaroquin, ainsi que la couture main et machine et le contrôle qualité dans des ateliers marocains.\n\nJe suis de nationalité marocaine et réside au Maroc, sans titre de séjour français ni autorisation de travail en France. Mon français est A2, utilisé au travail. Je sais que votre offre publiée sur France Travail demande un français courant. Je suis prêt à le renforcer et vous propose mon profil pour un poste adapté à vos besoins, sans prétendre remplir aujourd'hui cette exigence de langue.\n\nJe pourrais commencer après obtention des autorisations et du visa requis. Pourriez-vous préciser si vous étudiez les recrutements depuis le Maroc nécessitant une demande d'autorisation de travail par l'employeur ?\n\nJe vous remercie de votre attention.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1268e8e38548f5",
+      "threadId": "1a1268e8e38548f5",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_de_motivation.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/remaining-gmail-sent-verification-20261010.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "213456a615d657507333f961b5a5815e56a99c3230ca14cd786970837f08080e",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "pages": 1,
+          "size": 59,
+          "sha256": "51a2321d84863f85bb55b4340c89ee2050ad6018725cebbd04edc0fed69db169",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2544,
+          "sha256": "2d35bf8076e87be336b979a2b655e5ed4ba18a7c599e0fa4cfa12bf8b485d10d",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000014-1.jpg",
+      "caption": "Application text sent through contact form",
+      "receipt": "Votre envoi est effectif.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000014-1.jpg",
+      "note": "This receipt confirms contact-form text only. The later email supplies the documents.",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/qa_pages/carnoy-contact-outcome-20261010.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "213456a615d657507333f961b5a5815e56a99c3230ca14cd786970837f08080e",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 59,
+      "sha256": "51a2321d84863f85bb55b4340c89ee2050ad6018725cebbd04edc0fed69db169",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2544,
+      "sha256": "2d35bf8076e87be336b979a2b655e5ed4ba18a7c599e0fa4cfa12bf8b485d10d",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/remaining-document-manifest-20261010.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

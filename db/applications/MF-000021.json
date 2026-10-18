@@ -1,0 +1,100 @@
+{
+  "id": "MF-000021",
+  "number": 21,
+  "company": "Cottel.com / SACAR",
+  "country": "France",
+  "position": "Speculative leather-goods cutting, sewing and assembly",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "email",
+  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
+  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "recipient": "recrutement@cottel.fr",
+  "sentDate": "16 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "16 Oct 2026, 21:03",
+      "timestamp": "2026-10-16T21:03:17+00:00",
+      "recipient": "recrutement@cottel.fr",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidature spontanée en maroquinerie - Mohammed Fadil",
+      "body": "Madame, Monsieur,\n\nVotre site indique cette adresse pour le recrutement. Je vous transmets ma candidature spontanée pour un poste de fabrication d'articles en cuir au sein de l'activité Cottel/SACAR, si un besoin correspondant existe. Merci de confirmer l'atelier concerné et de transmettre mon dossier à son responsable recrutement.\n\nVous trouverez mon CV, ma lettre de motivation et mon dossier professionnel en français. Mon expérience comprend les sacs, les coffrets sur mesure, les vêtements en cuir, la couture, le montage et les finitions dans des ateliers marocains.\n\nJe suis marocain, réside au Maroc et ne possède pas d'autorisation de travail française. Mon français est A2. Je pourrais commencer après les autorisations et le visa requis. Examinez-vous des candidatures depuis le Maroc avec les démarches employeur nécessaires ? Merci de préciser le poste, son lieu, les horaires, la rémunération brute et le niveau de français attendu.\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a14686bda761bd1",
+      "threadId": "1a14686bda761bd1",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_de_motivation.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "5e0eabd705313dadad59a2241319ef0e771234065f7769d5ec3ac267851a88de",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "pages": 1,
+          "size": 59,
+          "sha256": "d9698b32eaa2dfbb6f7fbe3bc9048516bdd9e17526b59b0ec66d43e9382f1daa",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2545,
+          "sha256": "15cfba71b1c32fa2ded067264862947af59951853c20901fe677f5a78db2e99a",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "5e0eabd705313dadad59a2241319ef0e771234065f7769d5ec3ac267851a88de",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 59,
+      "sha256": "d9698b32eaa2dfbb6f7fbe3bc9048516bdd9e17526b59b0ec66d43e9382f1daa",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2545,
+      "sha256": "15cfba71b1c32fa2ded067264862947af59951853c20901fe677f5a78db2e99a",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

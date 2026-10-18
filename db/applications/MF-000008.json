@@ -1,0 +1,100 @@
+{
+  "id": "MF-000008",
+  "number": 8,
+  "company": "Aurora Furniture",
+  "country": "Canada",
+  "position": "Upholsterer, Calgary",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "A complete English package went to the published sales mailbox, with a request to forward it to recruitment. This is not a verified HR address.",
+  "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+  "recipient": "sales@aurorafurnituremfg.ca",
+  "sentDate": "10 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "10 Oct 2026, 15:42",
+      "timestamp": "2026-10-10T15:42:20+00:00",
+      "recipient": "sales@aurorafurnituremfg.ca",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Speculative application for leather sewing or upholstery - Mohammed Fadil",
+      "body": "Dear Aurora Furniture Manufacturing Team,\n\nYour careers page invites resumes for future opportunities. Its online form requires a CV URL, so I am sending my complete speculative application for suitable upholstery or sewing employment to the company contact published on that page. Please forward it to workshop recruitment. This is separate from the Job Bank advert restricted to candidates already authorized to work in Canada.\n\nI attach my CV, personalized cover letter and work portfolio, with project photographs and training certificate copies. My experience includes leather cutting, hand and machine sewing, assembly, finishing and quality checks in Moroccan workshops.\n\nI am a Moroccan national living in Morocco, without Canadian residence or work authorization. My English and French are A2, used at work, and I am willing to improve them for the role. I could relocate and start immediately after the required work authorization and visa are approved. Please advise whether you consider recruitment from Morocco and can support the necessary employer-side process, such as an LMIA or an applicable exemption.\n\nPlease advise the actual role, work location, hours, gross wage and language requirements.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1267ac22892e37",
+      "threadId": "1a1267ac22892e37",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/remaining-gmail-sent-verification-20261010.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "3df56d85dfadca4359e68ad18b67c82fe863cc8765a6661256cd2de42f0fd5d2",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "86dbfe4d18142606c04c95fcbb1d745708eb73089c05a353f8b82134593374c7",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2493,
+          "sha256": "d4261d72b9c8469277e77eb9a0c493891a89ce15e150b7e48c9714af90d2555c",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "3df56d85dfadca4359e68ad18b67c82fe863cc8765a6661256cd2de42f0fd5d2",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 57,
+      "sha256": "86dbfe4d18142606c04c95fcbb1d745708eb73089c05a353f8b82134593374c7",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2493,
+      "sha256": "d4261d72b9c8469277e77eb9a0c493891a89ce15e150b7e48c9714af90d2555c",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/remaining-document-manifest-20261010.json",
+  "receiptReference": "",
+  "channelNote": "General company mailbox, recruitment forwarding requested.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

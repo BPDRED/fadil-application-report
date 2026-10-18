@@ -1,0 +1,116 @@
+{
+  "id": "MF-000016",
+  "number": 16,
+  "company": "Causse Gantier",
+  "country": "France",
+  "position": "Leather artisan / glove production",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "email",
+  "summary": "A routing inquiry was followed by the full French package to the published general company address. Recruitment forwarding was requested; the address is not confirmed as HR.",
+  "next": "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.",
+  "recipient": "contact@caussegantier.com",
+  "sentDate": "10 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent, no attachments",
+      "date": "9 Oct 2026, 22:00",
+      "timestamp": "2026-10-09T22:00:37+00:00",
+      "recipient": "contact@caussegantier.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Demande de contact recrutement pour les ateliers de Millau",
+      "body": "Madame, Monsieur,\n\nJe souhaite connaître le canal de recrutement pour vos ateliers de Millau. Mon expérience porte sur la fabrication d'articles en cuir, la coupe, la couture main et machine, le montage et les finitions.\n\nPourriez-vous m'indiquer le contact ou la page officielle permettant de proposer une candidature pour un poste de fabrication, ainsi que l'éventuelle possibilité d'une candidature spontanée ?\n\nJe suis de nationalité marocaine et je réside au Maroc, sans titre de séjour français ni autorisation de travail en France. Si votre équipe recrutement étudie des candidatures nécessitant les autorisations et le visa requis, je souhaiterais connaître la procédure adaptée.\n\nJe ne joins pas de documents à cette demande de renseignements.\n\nCordialement,\nMohammed Fadil\nmfadil.med@gmail.com",
+      "messageId": "1a122aeb69a99cb1",
+      "threadId": "1a122aeb69a99cb1",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/gmail-inquiry-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": []
+    },
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "10 Oct 2026, 15:42",
+      "timestamp": "2026-10-10T15:42:34+00:00",
+      "recipient": "contact@caussegantier.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidature spontanée pour un poste de fabrication - Mohammed Fadil",
+      "body": "Madame, Monsieur,\n\nÀ la suite de ma demande de contact recrutement, je vous transmets ma candidature spontanée pour un poste artisanal adapté à mon expérience du cuir chez Causse Gantier. Vous trouverez mon CV, ma lettre de motivation personnalisée et mon dossier professionnel en français, avec photos et copies d'attestations.\n\nJe suis marocain et réside au Maroc. Mon français est A2, utilisé au travail, et je suis prêt à le renforcer. Je ne possède ni titre de séjour français ni autorisation de travail en France. Je suis disponible immédiatement après obtention des autorisations et du visa requis. Un recrutement depuis le Maroc nécessiterait les démarches appropriées, notamment l'autorisation de travail demandée par l'employeur.\n\nVotre adresse étant un contact général, pourriez-vous transmettre mon dossier à la personne chargée du recrutement pour les ateliers de Millau ?\n\nCordialement,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1267af7e7bed2b",
+      "threadId": "1a1267af7e7bed2b",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Lettre_de_motivation.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/remaining-gmail-sent-verification-20261010.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 263,
+          "sha256": "00b1a483ed621b8a0b0b17f3aaad4e6c8d30426464d28074e65b28eae73bd49a",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+          "pages": 1,
+          "size": 58,
+          "sha256": "d0b73836d60823e4c17cd1fef095636c0ec8aacdb3a323c8f27a26c4cd6f0632",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2544,
+          "sha256": "5bf8728a083e9f4d87341471dc127b2ca8fe3af6a655b9b012dc43d034ca64b6",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 263,
+      "sha256": "00b1a483ed621b8a0b0b17f3aaad4e6c8d30426464d28074e65b28eae73bd49a",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf",
+      "pages": 1,
+      "size": 58,
+      "sha256": "d0b73836d60823e4c17cd1fef095636c0ec8aacdb3a323c8f27a26c4cd6f0632",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Lettre_de_motivation.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2544,
+      "sha256": "5bf8728a083e9f4d87341471dc127b2ca8fe3af6a655b9b012dc43d034ca64b6",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/remaining-document-manifest-20261010.json",
+  "receiptReference": "",
+  "channelNote": "General company mailbox, recruitment forwarding requested.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "MF-000040",
+  "number": 40,
+  "company": "Burns 1876 / Burns Saddlery",
+  "country": "United States",
+  "position": "Craftsperson, boot top stitcher or boot bottomer",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "email",
+  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
+  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "recipient": "careers@burns1876.com",
+  "sentDate": "17 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "17 Oct 2026, 11:01",
+      "timestamp": "2026-10-17T11:01:27+00:00",
+      "recipient": "careers@burns1876.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Boot craft application, Salina - Mohammed Fadil",
+      "body": "Dear Burns 1876 Careers Team,\n\nYour careers page lists full-time craft positions in Salina, including boot-top stitching and boot bottoming, and offers training for suitable applicants. I am applying for work in those boot functions, according to your assessment of my experience. The opportunity to learn your construction methods while contributing leather and footwear skills interests me.\n\nPlease find my CV, personalized cover letter and work portfolio with project photographs and certificate copies.\n\nI am a Moroccan national living in Morocco without US residence or work authorization. My English and French are A2, used at work. I would need an employer-supported lawful work route before starting. Could you consider recruitment from Morocco and support the appropriate employer-led process for a suitable permanent position?\n\nPlease advise the role, location, weekly hours, gross pay and language requirements. I could start after the required authorizations and visa.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1498621b40dc90",
+      "threadId": "1a1498621b40dc90",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "472e43a8a5ab47d2362c456d694d3fab5c748d0a03546ee517238bfae6169016",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 58,
+          "sha256": "776235382c51eecc33617cab0ecc2e386920299d62a918cb3d5a0296ad6f57b3",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2508,
+          "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 268,
+      "sha256": "472e43a8a5ab47d2362c456d694d3fab5c748d0a03546ee517238bfae6169016",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 58,
+      "sha256": "776235382c51eecc33617cab0ecc2e386920299d62a918cb3d5a0296ad6f57b3",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}
