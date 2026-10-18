@@ -101,7 +101,7 @@ const filterBar = () => `<div class="fbar" id="fbar"><div class="fgrp g1" role="
 const telOf = a => { const m = a.next.match(/\+\d[\d ]{6,}\d(?:-\d+)?/); return m ? m[0] : ''; };
 const siteOf = a => { const m = (a.response || '').match(/\b(jobs\.[a-z0-9.-]+\.[a-z]{2,})\b/i); return m ? m[1] : ''; };
 function item(a, text) {
-  const tel = telOf(a), site = siteOf(a), x = (tel ? `<a class="pill" href="tel:${esc(tel.replace(/[^\d+]/g, ''))}">${ic('phone')}<span data-no-translate>${esc(tel)}</span></a>` : '') + (site ? `<a class="pill" href="https://${esc(site)}" target="_blank" rel="noopener">${ic('ext')}<span data-no-translate>${esc(site)}</span></a>` : '');
+  const tel = telOf(a), site = siteOf(a), x = (tel ? `<a class="pill" href="tel:${esc(tel.replace(/[^\d+]/g, ''))}">${ic('phone')}<span data-no-translate dir="ltr">${esc(tel)}</span></a>` : '') + (site ? `<a class="pill" href="https://${esc(site)}" target="_blank" rel="noopener">${ic('ext')}<span data-no-translate>${esc(site)}</span></a>` : '');
   return `<div class="it s-${esc(a.applicationStatus)}"><button class="it-main" data-goto="${esc(a.id)}"><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b><span class="meta">${stTxt(a)}</span></span><span class="it-t">${esc(text)}</span></span>${ic('go','go')}</button>${x ? `<div class="it-x">${x}</div>` : ''}</div>`;
 }
 
