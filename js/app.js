@@ -49,11 +49,11 @@ async function render(keep) {
   if (version !== renderVersion) return;
   const r = route(), v = $('#view'); lastList = r.app ? lastList : (location.hash.slice(1) || 'overview');  closeMon();
   $('.hd-text .eyebrow').classList.toggle('trunc', !!r.app);
-  $('.hd-text .eyebrow').innerHTML = r.app ? `${flag(r.app.country)}<span>${esc(r.app.country)}</span> · <span class="mono" data-no-translate>${esc(r.app.id)}</span> · <span data-no-translate>${esc(r.app.type)}</span>`
+  $('.hd-text .eyebrow').innerHTML = r.app ? `${flag(r.app.country)}<span>${esc(r.app.country)}</span> · <span class="mono" data-no-translate>${esc(r.app.id)}</span> · <span>${esc(r.app.type)}</span>`
     : r.page ? '<span>Overview</span>'
-    : `<button class="snap" id="snapBtn" type="button" aria-expanded="false" aria-controls="mon"><i class="dot ${monBad() ? 'bad' : ''}"></i><span>Snapshot</span> <span data-no-translate>${esc(report.generatedLabel)}</span>${ic('chev')}</button>`;
+    : `<button class="snap" id="snapBtn" type="button" aria-expanded="false" aria-controls="mon"><i class="dot ${monBad() ? 'bad' : ''}"></i><span>Snapshot</span> <span>${esc(report.generatedLabel)}</span>${ic('chev')}</button>`;
   const T = $('#hdTitle'); T.toggleAttribute('data-no-translate', !r.page); T.classList.toggle('has-n', !!r.app);
-  if (r.app) T.innerHTML = `<span class="hd-nm">${esc(simpleName(r.app))}</span><span class="hd-n">· ${r.app.number} / ${apps.length}</span>`; else T.textContent = r.page ? 'Blocked & issues' : (report.candidateName || '');
+  if (r.app) T.innerHTML = `<span class="hd-nm">${esc(simpleName(r.app))}</span><span class="hd-n">· ${r.app.number} / ${apps.length}</span>`; else T.textContent = r.page ? 'Blocked & issues' : L10n.translate(report.candidateName || '');
   $('#back').innerHTML = ic('back'); $('#back').classList.toggle('show', !!(r.app || r.page));
   $('#tabList').innerHTML = navHTML(r);
   v.innerHTML = r.app ? ({ summary, timeline, evidence })[r.sub](r.app) : r.page ? blockedPage() : ({ overview, employers, activity, notes:steps })[r.tab]();
@@ -147,7 +147,7 @@ function renderMonitoringDates() {
   $('.app-date').textContent = fmtDate(report.applicationDataUpdatedAt);
   const out = $('.mb-out');
   out.hidden = !monBad(); out.textContent = L10n.t('Latest check incomplete; showing last successful check');
-  $('#mon').setAttribute('aria-label', L10n.t('Monitoring') + ' · ' + report.timezone);
+  $('#mon').setAttribute('aria-label', L10n.t('Monitoring') + ' · ' + L10n.t(report.timezone));
 }
 const monBad = () => !!report.monitoringStatus?.latest_attempt_status && report.monitoringStatus.latest_attempt_status !== 'complete';
 function showLoadError(error) {

@@ -6,7 +6,7 @@ const Data = (() => {
   const cache = new Map();
   let dictionary = {};
   async function json(path) {
-    const response = await fetch(path);
+    const response = await fetch(path, {cache:'no-cache'});
     if (!response.ok) throw new Error(`${response.status}: ${path}`);
     return response.json();
   }

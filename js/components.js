@@ -12,6 +12,7 @@ function safeUrl(value) {
 const pad = n => String(n).padStart(2, '0');
 /* display name + data flags: employer-specific behaviour is a DB field, never `if (a.number === 13)` */
 const simpleName = a => a.displayName || a.company;      /* display name: optional DB field `displayName`, else `company` */
+const shotSrc = s => L10n.lang === 'ar' ? (L10n.dict._evidence?.[s.src]?.path || s.src) : s.src;
 const isScreening = a => !!a.screeningOnly;               /* DB boolean: screening answers only, no documents delivered */
 
 /* ---- ICONS: inline SVG path data on a 24×24 grid, stroke only (colour = currentColor, width set in CSS).
@@ -74,7 +75,7 @@ const agoOf = e => { const [day, month, year] = String(e.date || '').split(',')[
 };
 /* same row layout as "Dates to check" on the Next steps page */
 const updRow = ({ a, e }) => { const [d, m = ''] = shortDate(e).split(' ');
-  return `<button class="dt s-${esc(a.applicationStatus)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${esc(d)}</b><span>${esc(m)}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b><span class="left">${agoOf(e)}</span></span><span class="it-t nt" data-no-translate>${esc(e.title)}</span></span>${ic('go','go')}</button>`; };
+  return `<button class="dt s-${esc(a.applicationStatus)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${esc(d)}</b><span>${esc(m)}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b><span class="left">${agoOf(e)}</span></span><span class="it-t nt">${esc(e.title)}</span></span>${ic('go','go')}</button>`; };
 
 /* --- SEARCH ROW (shared by Employers + Activity): title on the left, search icon on the right that opens into a
    full-width field. SO[k] = open? The row also stays open while it holds text. Closing logic: see the click handler. --- */
@@ -101,7 +102,7 @@ const telOf = a => { const m = a.next.match(/\+\d[\d ]{6,}\d(?:-\d+)?/); return 
 const siteOf = a => { const m = (a.response || '').match(/\b(jobs\.[a-z0-9.-]+\.[a-z]{2,})\b/i); return m ? m[1] : ''; };
 function item(a, text) {
   const tel = telOf(a), site = siteOf(a), x = (tel ? `<a class="pill" href="tel:${esc(tel.replace(/[^\d+]/g, ''))}">${ic('phone')}<span data-no-translate>${esc(tel)}</span></a>` : '') + (site ? `<a class="pill" href="https://${esc(site)}" target="_blank" rel="noopener">${ic('ext')}<span data-no-translate>${esc(site)}</span></a>` : '');
-  return `<div class="it s-${esc(a.applicationStatus)}"><button class="it-main" data-goto="${esc(a.id)}"><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b><span class="meta">${stTxt(a)}</span></span><span class="it-t" data-no-translate>${esc(text)}</span></span>${ic('go','go')}</button>${x ? `<div class="it-x">${x}</div>` : ''}</div>`;
+  return `<div class="it s-${esc(a.applicationStatus)}"><button class="it-main" data-goto="${esc(a.id)}"><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b><span class="meta">${stTxt(a)}</span></span><span class="it-t">${esc(text)}</span></span>${ic('go','go')}</button>${x ? `<div class="it-x">${x}</div>` : ''}</div>`;
 }
 
 /* --- COLLAPSIBLE SECTIONS (Next steps + Blocked page) -------------------------------------------
@@ -142,9 +143,9 @@ function dateRow([num, iso, text]) {
   const a = apps.find(x => x.number === num); if (!a) return '';
   const [y, m, d] = iso.split('-').map(Number), days = Date.UTC(y, m - 1, d) / 864e5 - todayOrdinal();
   const left = days > 1 ? `in ${days} days` : days === 1 ? 'tomorrow' : days === 0 ? 'today' : 'date passed';
-  return { days, html:`<button class="dt s-${esc(a.applicationStatus)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${d}</b><span>${MONTHS[m - 1]}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b></span><span class="it-t" data-no-translate>${esc(text)}</span><span class="left">${left}</span></span>${ic('go','go')}</button>` };
+  return { days, html:`<button class="dt s-${esc(a.applicationStatus)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${d}</b><span>${MONTHS[m - 1]}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b></span><span class="it-t">${esc(text)}</span><span class="left">${left}</span></span>${ic('go','go')}</button>` };
 }
-const docRow = d => `<a class="doc" href="${esc(safeUrl(d.path))}" target="_blank" rel="noopener"><span class="fi" data-no-translate>PDF</span><span class="dn"><b data-no-translate>${esc(d.filename)}</b><small><span>${esc(d.pages)} ${d.pages === 1 ? 'page' : 'pages'}</span> · <span>${esc(d.size >= 1024 ? (d.size/1024).toFixed(1) + ' MB' : d.size + ' KB')}</span></small></span>${ic('ext')}</a>`;
+const docRow = d => `<a class="doc" href="${esc(safeUrl(d.path))}" target="_blank" rel="noopener"><span class="fi">PDF</span><span class="dn"><b>${esc(d.filename)}</b><small><span>${esc(d.pages)} ${d.pages === 1 ? 'page' : 'pages'}</span> · <span>${esc(d.size >= 1024 ? (d.size/1024).toFixed(1) + ' MB' : d.size + ' KB')}</span></small></span>${ic('ext')}</a>`;
 const docNote = a => a.documentNote || '';     /* DB: optional one-line note per employer */
 
 /* evHTML(): one timeline event.   ● 8 Oct 2026, 20:51  [Full package]          (dot + rail in the kind colour)
@@ -154,11 +155,11 @@ const docNote = a => a.documentNote || '';     /* DB: optional one-line note per
    inc = true for incoming items (shows "From:" and an "Open in Gmail" link; real build: link to your mail provider). */
 function evHTML(e, inc) {
   const mail = e.kind !== 'portal', k = kindOf(e);
-  return `<article class="ev k-${k} ${inc ? 'in' : ''}"><div class="ev-h"><time data-no-translate>${esc(e.date)}</time><span class="kind">${KIND[k]}</span></div>
-  <p class="ev-t" data-no-translate>${esc(e.title)}</p><p class="sub"><span>${inc ? 'From: ' : mail ? 'To: ' : 'Website: '}</span><span data-no-translate>${esc(inc ? e.sender : e.recipient)}</span></p>
-  ${inc ? '' : (e.filenames.length ? `<p class="sub"><span>Files: </span><span data-no-translate>${e.filenames.map(esc).join(' · ')}</span></p>` : '<p class="sub">No file attachment independently recorded for this action.</p>')}
-  <details><summary>${e.body ? 'Read message and confirmation' : 'View confirmation details'}</summary>${e.subject ? `<p class="sub"><span>Subject: </span><span data-no-translate>${esc(e.subject)}</span></p>` : ''}${e.body ? `<pre class="event-body" data-no-translate>${esc(e.body)}</pre>` : ''}
-  <p class="note" data-no-translate>${esc(e.confirmation)}</p>${e.messageId ? `<p class="ids"><span>Message: </span><span data-no-translate>${esc(e.messageId)}</span><br><span>Thread: </span><span data-no-translate>${esc(e.threadId || '')}</span></p>` : ''}${e.reference ? `<p class="ids"><span>Confirmation: </span><span data-no-translate>${esc(e.reference)}</span></p>` : ''}
+  return `<article class="ev k-${k} ${inc ? 'in' : ''}"><div class="ev-h"><time>${esc(e.date)}</time><span class="kind">${KIND[k]}</span></div>
+  <p class="ev-t">${esc(e.title)}</p><p class="sub"><span>${inc ? 'From: ' : mail ? 'To: ' : 'Website: '}</span><span data-no-translate>${esc(inc ? e.sender : e.recipient)}</span></p>
+  ${inc ? '' : (e.filenames.length ? `<p class="sub"><span>Files: </span>${e.filenames.map(f => `<span>${esc(f)}</span>`).join(' · ')}</p>` : '<p class="sub">No file attachment independently recorded for this action.</p>')}
+  <details><summary>${e.body ? 'Read message and confirmation' : 'View confirmation details'}</summary>${e.subject ? `<p class="sub"><span>Subject: </span><span>${esc(e.subject)}</span></p>` : ''}${e.body ? `<pre class="event-body">${esc(e.body)}</pre>` : ''}
+  <p class="note">${esc(e.confirmation)}</p>${e.messageId ? `<p class="ids"><span>Message: </span><span data-no-translate>${esc(e.messageId)}</span><br><span>Thread: </span><span data-no-translate>${esc(e.threadId || '')}</span></p>` : ''}${e.reference ? `<p class="ids"><span>Confirmation: </span><span data-no-translate>${esc(e.reference)}</span></p>` : ''}
   <a class="link" href="${esc(safeUrl(e.evidence))}" target="_blank" rel="noopener">Open saved evidence ↗</a>${inc && e.messageId ? ` <a class="link" style="margin-inline-start:16px" href="https://mail.google.com/mail/u/0/#all/${esc(e.messageId)}" target="_blank" rel="noopener">Open in Gmail ↗</a>` : ''}</details></article>`;
 }
 const viewer = (() => {
@@ -212,8 +213,8 @@ const viewer = (() => {
   
   dlg.addEventListener('close', () => { reset(); document.body.style.overflow = ''; });
   return { toggleInfo() { setInfo(!sheet.classList.contains('open')); }, close() { dlg.close(); }, open(a, i) { const sh = a.screenshots[i]; reset();
-    $('#dialog-title').textContent = simpleName(a) + ' · ' + sh.caption; $('#dialog-caption').textContent = sh.receipt; $('#dialog-original').href = safeUrl(sh.path);
-    im.alt = sh.caption; im.src = safeUrl(sh.src); document.body.style.overflow = 'hidden'; dlg.showModal(); paint(false); } };
+    $('#dialog-title').textContent = simpleName(a) + ' · ' + L10n.translate(sh.caption); $('#dialog-caption').textContent = L10n.translate(sh.receipt); $('#dialog-original').href = safeUrl(sh.path);
+    im.alt = L10n.translate(sh.caption); im.src = safeUrl(shotSrc(sh)); document.body.style.overflow = 'hidden'; dlg.showModal(); paint(false); } };
 })();
 
 function accToggle(d) {

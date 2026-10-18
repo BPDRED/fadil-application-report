@@ -20,7 +20,8 @@ const L10n = (() => {
   ];
   function t(key, values = {}) {
     if (language === 'ar' && !Object.hasOwn(dictionary, key)) missing.add(key);
-    const value = language === 'ar' ? (dictionary[key] ?? key) : key;
+    const plural = values.n === undefined ? '' : new Intl.PluralRules('ar').select(Number(values.n));
+    const value = language === 'ar' ? (dictionary[key + '|' + plural] ?? dictionary[key] ?? key) : key;
     return value.replace(/\{(\w+)\}/g, (_, name) => values[name] ?? `{${name}}`);
   }
   function translate(value) {
@@ -28,6 +29,8 @@ const L10n = (() => {
     const trimmed = value.trim();
     if (!trimmed || !/[a-zA-Z]/.test(trimmed) || /^(?:https?:\/\/|[^@\s]+@)/.test(trimmed)) return value;
     if (Object.hasOwn(dictionary, trimmed)) return value.replace(trimmed, dictionary[trimmed]);
+    const date = trimmed.match(/^\d{1,2} (Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)(?: \d{4})?(?:, \d{2}:\d{2})?$/);
+    if (date) return value.replace(trimmed, trimmed.replace(date[1], t(date[1])));
     for (const [pattern, key] of patterns) {
       const match = trimmed.match(pattern);
       if (match) return value.replace(trimmed, t(key, { n: match[1], unit: match[2] ? t(match[2]) : '' }));
@@ -39,7 +42,7 @@ const L10n = (() => {
   function apply() {
     document.documentElement.lang = language;
     document.documentElement.dir = language === 'ar' ? 'rtl' : 'ltr';
-    document.title = [report.candidateName, t('Application progress')].filter(Boolean).join(' | ');
+    document.title = [translate(report.candidateName || ''), t('Application progress')].filter(Boolean).join(' | ');
     const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
     while (walker.nextNode()) {
       const node = walker.currentNode;
@@ -50,10 +53,10 @@ const L10n = (() => {
       originals.set(node, { source, last: localized });
       if (node.nodeValue !== localized) node.nodeValue = localized;
     }
-    document.querySelectorAll('[aria-label],[placeholder],[title]').forEach(element => {
+    document.querySelectorAll('[aria-label],[placeholder],[title],[alt]').forEach(element => {
       if (ignored(element) || element.id === 'language' || element.hasAttribute('data-data-label')) return;
       const saved = attributes.get(element) || {};
-      for (const name of ['aria-label', 'placeholder', 'title']) {
+      for (const name of ['aria-label', 'placeholder', 'title', 'alt']) {
         if (!element.hasAttribute(name)) continue;
         const value = element.getAttribute(name), previous = saved[name];
         const source = previous?.last === value ? previous.source : value;
@@ -64,12 +67,12 @@ const L10n = (() => {
       attributes.set(element, saved);
     });
     const button = document.getElementById('language');
-    button.textContent = language === 'ar' ? 'English' : dictionary.Arabic;
-    button.lang = language === 'ar' ? 'en' : 'ar';
+    button.textContent = language === 'ar' ? t('English') : dictionary.Arabic;
+    button.lang = 'ar';
     button.setAttribute('aria-label', language === 'ar' ? t('Switch to English') : 'Switch to Arabic');
     button.setAttribute('aria-pressed', String(language === 'ar'));
     document.querySelectorAll('[data-caption]').forEach(element => {
-      element.setAttribute('aria-label', t('Enlarge {caption}', { caption: element.dataset.caption }));
+      element.setAttribute('aria-label', t('Enlarge {caption}', { caption: translate(element.dataset.caption) }));
     });
     renderMonitoringDates();
   }
