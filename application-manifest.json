@@ -2006,7 +2006,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Two explicit form transmission errors on 17 October, including one controlled retry after interruption. No receipt. Await a repaired official form or an employer-published permitted alternative; check for a late receipt before any future resumed-run attempt. No further retry now.",
+      "next_action": "Four explicit sending errors across 17 and 18 October. Both a 33 percent compressed dossier and a CV/letter-only 332502-byte package failed on 18 October. No receipt. Await repaired form or employer-supported route; official careers page permits a telephone enquiry about the broken form at +43 3178 5125-0. No further retry now.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -2281,8 +2281,8 @@
       ]
     }
   ],
-  "revision": "2b2f573680c9d023e3f524533321e94efc8216481085fa3811267a08bcd318b5",
-  "updated_at": "2026-10-18T09:07:27.341Z",
+  "revision": "d81df1ec83cbc8a83eadc9ccf103f8d550b61b51ee038f06b0e40d3a59c98de0",
+  "updated_at": "2026-10-18T11:01:41.584264+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
