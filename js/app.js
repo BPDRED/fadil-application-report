@@ -41,8 +41,9 @@ function navHTML(r) {
   const i = apps.indexOf(r.app), pv = apps[i - 1], nx = apps[i + 1], pn = (x, cls, dir, icon, l) => `<button class="tab-btn pn ${cls}" data-goto="${x ? x.id + '/' + r.sub : ''}" data-dir="${dir}" aria-label="${l}" ${x ? '' : 'disabled'}>${ic(icon)}</button>`;
   return pn(pv, 'pv', 'prev', 'back', 'Previous') + SUBS.map(([id, l, ic_, c]) => `<button class="tab-btn ${id === r.sub ? 'active' : ''}" data-t="${id}" style="--tc:${c}">${ic(ic_)}<span>${l}</span></button>`).join('') + pn(nx, 'nx', 'next', 'go', 'Next');
 }
-let renderVersion = 0;
+let renderVersion = 0, readyToRender = false;
 async function render(keep) {
+  if (!readyToRender) return;
   const version = ++renderVersion;
   const selected = route();
   if (selected.app) { try { await Data.detail(selected.app.id); } catch (error) { if (version === renderVersion) showLoadError(error); return; } }
@@ -162,6 +163,7 @@ Data.ready.then(() => {
     if ([...a.events, ...a.receivedEvents].some(e => !KIND[e.kind])) throw new Error('Unsupported event kind');
   }
   derive();
+  readyToRender = true;
   render();
 }).catch(showLoadError);
 
