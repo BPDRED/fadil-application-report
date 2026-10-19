@@ -1044,5 +1044,6 @@
   "For the local agent": "للوكيل المحلي",
   "Local confirmation required": "يلزم تأكيد الإنجاز محليا",
   "Internal review on {date}": "مراجعة داخلية في {date}",
-  "Waiting for employer; review locally": "بانتظار صاحب العمل، مع مراجعة محلية"
+  "Waiting for employer; review locally": "بانتظار صاحب العمل، مع مراجعة محلية",
+  "Other application notes": "ملاحظات عن الطلبات الأخرى"
 }

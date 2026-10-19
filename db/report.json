@@ -95,5 +95,14 @@
       "reviewOn": "2026-11-14",
       "dateKind": "internal_review"
     }
+  ],
+  "managedActionIds": [
+    "MF-000002",
+    "MF-000003",
+    "MF-000012",
+    "MF-000020",
+    "MF-000027",
+    "MF-000028",
+    "MF-000035"
   ]
 }
