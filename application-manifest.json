@@ -1947,16 +1947,28 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "email",
-      "application_status": "awaiting_response",
+      "application_status": "rejected",
       "date_sent": "2026-10-16",
       "date_submitted": "2026-10-16",
       "last_contact_date": "2026-10-16",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "latest_employer_response": "19 October 2026: Ludwig Reiter declined the speculative workshop application because no suitable manufacturing workshop position is currently available. No interview, offer, documents or reply requested.",
+      "next_action": "No action or reply requested. Do not resend or follow up automatically on this declined application. Retain the record; a genuinely new suitable vacancy requires separate local review and authorization.",
       "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-19T07:48:37.000Z",
+          "sender": "Ludwig Reiter recruitment",
+          "subject": "Reply to speculative footwear workshop application, Vienna",
+          "messageId": "1a153228dc8a6859",
+          "threadId": "1a1468a399de8265",
+          "sourceMessageId": "1a1468a399de8265",
+          "confirmation": "19 October 2026: Ludwig Reiter declined the speculative workshop application because no suitable manufacturing workshop position is currently available. No interview, offer, documents or reply requested."
+        }
+      ],
+      "last_response_at": "2026-10-19T07:48:37.000Z",
       "events": [
         {
           "kind": "application",
@@ -2281,16 +2293,16 @@
       ]
     }
   ],
-  "revision": "d81df1ec83cbc8a83eadc9ccf103f8d550b61b51ee038f06b0e40d3a59c98de0",
-  "updated_at": "2026-10-18T11:01:41.584264+00:00",
+  "revision": "d2c13a416e5372d99b99eb4a0c6f6a19e6386831894abc5aa15ea804f795e6ff",
+  "updated_at": "2026-10-19T09:02:12.695Z",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-18T09:03:35.820Z",
-    "latest_attempt_started_utc": "2026-10-18T09:03:35.820Z",
+    "last_successful_scan_utc": "2026-10-19T09:00:40.729Z",
+    "latest_attempt_started_utc": "2026-10-19T09:00:40.729Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 24,
+    "messages_enumerated": 25,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }

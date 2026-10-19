@@ -7,8 +7,8 @@
   "type": "Speculative application",
   "language": "English",
   "status": "email",
-  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
-  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "summary": "19 October 2026: Ludwig Reiter declined the speculative workshop application because no suitable manufacturing workshop position is currently available. No interview, offer, documents or reply requested.",
+  "next": "No action or reply requested. Do not resend or follow up automatically on this declined application. Retain the record; a genuinely new suitable vacancy requires separate local review and authorization.",
   "recipient": "karriere@ludwig-reiter.com",
   "sentDate": "16 Oct 2026",
   "events": [
@@ -58,8 +58,26 @@
       ]
     }
   ],
-  "receivedEvents": [],
-  "applicationStatus": "awaiting_response",
+  "receivedEvents": [
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "Workshop application declined",
+      "timestamp": "2026-10-19T07:48:37.000Z",
+      "sender": "Ludwig Reiter recruitment",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Reply to speculative footwear workshop application, Vienna",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a153228dc8a6859",
+      "threadId": "1a1468a399de8265",
+      "sourceMessageId": "1a1468a399de8265",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/gmail-received-1a153228dc8a6859.json",
+      "confirmation": "19 October 2026: Ludwig Reiter declined the speculative workshop application because no suitable manufacturing workshop position is currently available. No interview, offer, documents or reply requested.",
+      "date": "19 Oct 2026, 07:48"
+    }
+  ],
+  "applicationStatus": "response_received",
   "screenshots": [],
   "documents": [
     {
@@ -88,7 +106,7 @@
     }
   ],
   "preparedDocuments": [],
-  "response": "No substantive recruitment response recorded.",
+  "response": "19 October 2026: Ludwig Reiter declined the speculative workshop application because no suitable manufacturing workshop position is currently available. No interview, offer, documents or reply requested.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/document-manifest.json",
   "receiptReference": "",
