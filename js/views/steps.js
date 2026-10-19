@@ -12,7 +12,7 @@ function steps() {
     rule('ban', 'blocked', "Don't chase", 'Do not resend packages, repeat portal forms or send automatic follow-ups.') +
     rule('file', 'submitted_portal', 'Stay ready', 'Keep the complete package ready for any request for the letter, portfolio or certificates.') +
     rule('mail', 'response_received', 'If they reply', 'When an employer replies, confirm the real role and site, the language level, pay and hours, and the lawful work-permit route before accepting anything.'));
-  return `<h2 class="hero-t">Next steps</h2><div class="agl">${out}</div>
+  return `${pendingActionsHTML()}<h2 class="hero-t">Next steps</h2><div class="agl">${out}</div>
   <div class="foot-note"><p class="sec-title" style="margin-top:0">How to read it</p>
   <p class="note"><strong>This is a saved snapshot, not a live inbox.</strong> Gmail SENT confirms transmission, not delivery or reading. Portal receipts confirm submission, not selection. Outgoing emails include inquiries and supplements and are not the application count. Historical delivery failures remain in each record even when a later portal application succeeds. Screening-only records are identified separately.</p></div>`;
 }

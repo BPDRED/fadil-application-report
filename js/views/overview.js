@@ -4,7 +4,7 @@ function overview() {
     : `<div class="alert ok">${ic('check')}<span class="body"><strong>No blocked application</strong><span class="sub">Nothing is stuck right now</span></span></div>`;
   const latest = apps.filter(a => (a.receivedEvents || []).length).map(a => ({ a, e:[...a.receivedEvents].sort((x, y) => (y.timestamp || '').localeCompare(x.timestamp || ''))[0] }))
     .sort((x, y) => (y.e.timestamp || '').localeCompare(x.e.timestamp || ''));
-  return `${top}<h2 class="hero-t">Application progress</h2>
+  return `${pendingActionsHTML()}${top}<h2 class="hero-t">Application progress</h2>
   <div class="cols"><div>
     <div class="big">${confirmed}<span> / ${n}</span></div>
     <p class="cap">Saved email transmissions or portal submissions without a final delivery failure. Sending alone does not prove delivery.</p>

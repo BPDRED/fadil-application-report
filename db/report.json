@@ -37,5 +37,63 @@
       "label": "Source tracker ↗",
       "url": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv"
     }
+  ],
+  "pendingActions": [
+    {
+      "applicationId": "MF-000012",
+      "company": "Louis Vuitton",
+      "owner": "agent",
+      "description": "Review Louis Vuitton's official careers route and prepare a suitable, truthful proposal locally. Do not submit a new application.",
+      "reviewOn": null,
+      "dateKind": null
+    },
+    {
+      "applicationId": "MF-000027",
+      "company": "Tod's Group",
+      "owner": "agent",
+      "description": "Check Tod's official residence choices or a published alternative that accepts truthful Morocco-based applications. Do not create an account or submit.",
+      "reviewOn": null,
+      "dateKind": null
+    },
+    {
+      "applicationId": "MF-000028",
+      "company": "Santoni",
+      "owner": "agent",
+      "description": "Check a truthful Santoni route for Morocco residence and the actual school level. Do not submit false answers or retry the form.",
+      "reviewOn": null,
+      "dateKind": null
+    },
+    {
+      "applicationId": "MF-000020",
+      "company": "POLIPOL",
+      "owner": "agent",
+      "description": "Review POLIPOL's processing status locally while respecting its request for time. No automatic follow-up.",
+      "reviewOn": "2026-10-22",
+      "dateKind": "internal_review"
+    },
+    {
+      "applicationId": "MF-000003",
+      "company": "Groupe Tolomei",
+      "owner": "agent",
+      "description": "Review the Tolomei application status locally. Do not infer rejection or send an automatic follow-up.",
+      "reviewOn": "2026-10-24",
+      "dateKind": "internal_review"
+    },
+    {
+      "applicationId": "MF-000035",
+      "company": "Wollsdorf Leather",
+      "owner": "agent",
+      "description": "Wait for Wollsdorf's form repair. Check availability locally without retrying or requesting a telephone enquiry.",
+      "reviewOn": "2026-10-26",
+      "dateKind": "internal_review"
+    },
+    {
+      "applicationId": "MF-000002",
+      "company": "Longchamp",
+      "owner": "agent",
+      "description": "Review Longchamp's four-week waiting period locally. Do not treat silence as a current rejection or send an automatic follow-up.",
+      "reviewOn": "2026-11-14",
+      "dateKind": "internal_review"
+    }
   ]
 }

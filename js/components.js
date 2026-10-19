@@ -15,6 +15,15 @@ const simpleName = a => a.displayName || a.company;      /* display name: option
 const shotSrc = s => L10n.lang === 'ar' ? (L10n.dict._evidence?.[s.src]?.path || s.src) : s.src;
 const isScreening = a => !!a.screeningOnly;               /* DB boolean: screening answers only, no documents delivered */
 
+function pendingActionsHTML() {
+  const pending = report.pendingActions || [];
+  const ownerLabels = {agent:'For the local agent', user:'For you to do locally', employer:'Waiting for employer; review locally'};
+  if (!pending.length) return '';
+  return `<section aria-label="Pending next actions" data-pending-actions><h2 class="hero-t">Pending next actions</h2>
+    <p class="cap">These stay here until you confirm completion locally and the update is saved to GitHub. Reading an item or reaching its review date does not complete it.</p>
+    <div class="blk">${pending.map(a => `<button class="row" data-pending-id="${esc(a.applicationId)}" data-goto="${esc(a.applicationId)}/summary"><span class="body"><b data-no-translate>${esc(a.company)}</b><span class="sub">${esc(a.description)}</span><span class="sub"><span>${ownerLabels[a.owner]}</span> · <span>Local confirmation required</span></span>${a.reviewOn ? `<span class="sub" data-no-translate>${esc(L10n.t('Internal review on {date}', {date:new Intl.DateTimeFormat(L10n.lang==='ar'?'ar-MA':'en-GB',{year:'numeric',month:'short',day:'numeric',timeZone:'UTC'}).format(new Date(a.reviewOn+'T12:00:00Z'))}))}</span>` : ''}</span>${ic('go','go')}</button>`).join('')}</div></section>`;
+}
+
 /* ---- ICONS: inline SVG path data on a 24×24 grid, stroke only (colour = currentColor, width set in CSS).
    Add an icon = add a key here (copy a path from any 24px outline icon set), use it with ic('key', 'optional-class'). ---- */
 const P = {   /* icons */
