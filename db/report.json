@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T11:01:54.319781+00:00",
-  "generatedLabel": "18 Oct 2026, 11:01",
-  "recordDate": "18 October 2026",
+  "generatedAt": "2026-10-20T19:47:14.405485+00:00",
+  "generatedLabel": "20 Oct 2026, 19:47",
+  "recordDate": "20 October 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
   "counts": {
@@ -10,7 +10,7 @@
     "inquiry": 7
   },
   "applicationDataUpdatedAt": "2026-10-20T09:03:15.357Z",
-  "applicationContentHash": "12826f78a7890df0796e9b1f53329a789bf2946259ca4c2ab3ac5379eb18a04b",
+  "applicationContentHash": "6e60532f5715a55bb73a7b53358c8bbbaa43537b52bf0e05813b27ddc6a9b239",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-10-20T08:58:33.664Z",
@@ -22,8 +22,8 @@
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "c0d78df819351defa3af58a0335edbee15a97f3dd8295f5000bff5fa1dfa6faf",
-    "project-status.md": "56e2fe956a116601e7a081aa5d0113e91a96320fdf9907c9f51f4dba44d62f2a"
+    "application-tracker.csv": "9534aef351d4ff680ea957c38a5b017717695c5c2848277416aa8570728bb19f",
+    "project-status.md": "12270148597919d6198ef00d43375462d982e97b5aa40cd375fc0eecc1f51e01"
   },
   "publicationRevision": "1ab25b865fb6944047f8f6bc8cabae4f0f1e380e51276b85b2f67f14d4e50bbc",
   "candidateName": "Mohammed Fadil",

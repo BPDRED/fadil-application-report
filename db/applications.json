@@ -699,7 +699,7 @@
     "type": "Spontaneous manufacturing application",
     "language": "English",
     "status": "portal",
-    "applicationStatus": "response_received",
+    "applicationStatus": "rejected",
     "next": "No reply or new documents requested. Do not reapply or start immigration procedures through this reporting task. Reconsider only if valid Canadian work authorization actually exists, after separate local review and authorization.",
     "response": "19 October 2026: Jaymar cannot move forward because employees must already hold valid Canadian work authorization when applying. The employer cannot support immigration or work-permit procedures; future reconsideration is conditional on existing valid authorization. No interview, offer, documents, reply or deadline requested.",
     "events": [
@@ -915,7 +915,7 @@
     "type": "Speculative application",
     "language": "English",
     "status": "email",
-    "applicationStatus": "response_received",
+    "applicationStatus": "rejected",
     "next": "No action or reply requested. Do not resend or follow up automatically on this declined application. Retain the record; a genuinely new suitable vacancy requires separate local review and authorization.",
     "response": "19 October 2026: Ludwig Reiter declined the speculative workshop application because no suitable manufacturing workshop position is currently available. No interview, offer, documents or reply requested.",
     "events": [
@@ -931,7 +931,8 @@
         "kind": "response",
         "title": "Workshop application declined",
         "date": "19 Oct 2026, 07:48",
-        "timestamp": "2026-10-19T07:48:37.000Z"
+        "timestamp": "2026-10-19T07:48:37.000Z",
+        "direction": "incoming"
       }
     ]
   },
@@ -981,7 +982,7 @@
     "type": "Advertised application",
     "language": "English",
     "status": "portal",
-    "applicationStatus": "response_received",
+    "applicationStatus": "rejected",
     "next": "No action or reply requested. Retain the rejection; do not resend or follow up automatically. A genuinely new suitable vacancy requires separate local review and authorization.",
     "response": "19 October 2026: Chrome Hearts chose to proceed with other candidates for Sewer - Leather. This is an explicit recruitment rejection, not an interview or offer. No reply, documents or deadline requested.",
     "events": [
