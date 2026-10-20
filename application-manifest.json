@@ -715,7 +715,7 @@
       "last_contact_date": "2026-10-13",
       "follow_up_date": "",
       "latest_employer_response": "13 October 2026: Louis Vuitton customer service directed application submission to jobs.louisvuitton.com, Gmail 1a13455cfe2b0637. No HR decision or receipt of the historical Asnières email is confirmed.",
-      "next_action": "Review the official careers portal for a suitable leather production vacancy or permitted speculative intake, reconcile earlier contact and verify requirements for an applicant residing in Morocco before proposing portal submission. No duplicate email or automatic application.",
+      "next_action": "Route review completed and archived from active work on20October2026 after checking all26French manufacturing listings, the global maroquinier search and the official FAQ. Reopen only on a suitable new official vacancy or substantive employer reply. Preserve the prior application history; no duplicate email or automatic submission.",
       "submission_state": "email",
       "received_events": [
         {
@@ -2328,8 +2328,8 @@
       ]
     }
   ],
-  "revision": "1ab25b865fb6944047f8f6bc8cabae4f0f1e380e51276b85b2f67f14d4e50bbc",
-  "updated_at": "2026-10-20T09:03:15.357Z",
+  "revision": "a77452183fcfbb78d2386bb43bddb62dad9a4afad5d4ffe95f5953328b98cd3c",
+  "updated_at": "2026-10-20T19:48:58.143865+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

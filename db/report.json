@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T19:47:14.405485+00:00",
-  "generatedLabel": "20 Oct 2026, 19:47",
+  "generatedAt": "2026-10-20T19:48:58.143865+00:00",
+  "generatedLabel": "20 Oct 2026, 19:48",
   "recordDate": "20 October 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
@@ -9,8 +9,8 @@
     "supplement": 2,
     "inquiry": 7
   },
-  "applicationDataUpdatedAt": "2026-10-20T09:03:15.357Z",
-  "applicationContentHash": "6e60532f5715a55bb73a7b53358c8bbbaa43537b52bf0e05813b27ddc6a9b239",
+  "applicationDataUpdatedAt": "2026-10-20T19:48:58.143865+00:00",
+  "applicationContentHash": "d6d0f6e2a922e838db3901b7a5d6ef109cb89ac644a08ed780dac7786e341e27",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-10-20T08:58:33.664Z",
@@ -22,10 +22,10 @@
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "9534aef351d4ff680ea957c38a5b017717695c5c2848277416aa8570728bb19f",
-    "project-status.md": "12270148597919d6198ef00d43375462d982e97b5aa40cd375fc0eecc1f51e01"
+    "application-tracker.csv": "7bd8e9a564a2fc583cbb61a085e70f1c2a4fc83ff98601ac3c736089fada1734",
+    "project-status.md": "746905e36bdf09f192185c8a765451fc20c7ec14752e65092b5ce071a1e473e1"
   },
-  "publicationRevision": "1ab25b865fb6944047f8f6bc8cabae4f0f1e380e51276b85b2f67f14d4e50bbc",
+  "publicationRevision": "a77452183fcfbb78d2386bb43bddb62dad9a4afad5d4ffe95f5953328b98cd3c",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [
@@ -39,14 +39,6 @@
     }
   ],
   "pendingActions": [
-    {
-      "applicationId": "MF-000012",
-      "company": "Louis Vuitton",
-      "owner": "agent",
-      "description": "Review Louis Vuitton's official careers route and prepare a suitable, truthful proposal locally. Do not submit a new application.",
-      "reviewOn": null,
-      "dateKind": null
-    },
     {
       "applicationId": "MF-000027",
       "company": "Tod's Group",
