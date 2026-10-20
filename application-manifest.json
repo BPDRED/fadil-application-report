@@ -1329,16 +1329,28 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "email",
-      "application_status": "awaiting_response",
+      "application_status": "response_received",
       "date_sent": "2026-10-17",
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await Palladio recruitment response to the complete Italian email package. Prior form required unsupported residence/school selections; published HR email alternative used. No duplicate application or automatic follow-up.",
+      "latest_employer_response": "19 October 2026: Pelletterie Palladio reports no current opportunity aligned with the candidate experience. It may make contact if a suitable opening arises. No interview, offer, documents, reply or deadline requested.",
+      "next_action": "No immediate action requested. Retain this response and wait for a suitable employer opening or new contact. Any new application needs separate local review and authorization; no automatic resubmission or follow-up.",
       "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-19T12:50:44.000Z",
+          "sender": "Pelletterie Palladio HR",
+          "subject": "No suitable opportunity currently available",
+          "messageId": "1a15436ebb6feefc",
+          "threadId": "1a15436ebb6feefc",
+          "sourceMessageId": "1a14b49a763eb435",
+          "confirmation": "19 October 2026: Pelletterie Palladio reports no current opportunity aligned with the candidate experience. It may make contact if a suitable opening arises. No interview, offer, documents, reply or deadline requested."
+        }
+      ],
+      "last_response_at": "2026-10-19T12:50:44.000Z",
       "events": [
         {
           "kind": "application",
@@ -1497,16 +1509,28 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "portal",
-      "application_status": "submitted_portal",
+      "application_status": "rejected",
       "date_sent": "",
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await Jaymar recruitment response. CV and letter accepted by official speculative form; full19-pageportfolio offered on request because of file-size limit. No duplicate email or submission.",
+      "latest_employer_response": "19 October 2026: Jaymar cannot move forward because employees must already hold valid Canadian work authorization when applying. The employer cannot support immigration or work-permit procedures; future reconsideration is conditional on existing valid authorization. No interview, offer, documents, reply or deadline requested.",
+      "next_action": "No reply or new documents requested. Do not reapply or start immigration procedures through this reporting task. Reconsider only if valid Canadian work authorization actually exists, after separate local review and authorization.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-19T16:05:19.000Z",
+          "sender": "Jaymar HR",
+          "subject": "Application cannot proceed without existing Canadian work authorization",
+          "messageId": "1a154e930538af0f",
+          "threadId": "1a154e930538af0f",
+          "sourceMessageId": "",
+          "confirmation": "19 October 2026: Jaymar cannot move forward because employees must already hold valid Canadian work authorization when applying. The employer cannot support immigration or work-permit procedures; future reconsideration is conditional on existing valid authorization. No interview, offer, documents, reply or deadline requested."
+        }
+      ],
+      "last_response_at": "2026-10-19T16:05:19.000Z",
       "events": [
         {
           "kind": "portal",
@@ -2089,13 +2113,13 @@
       "vacancy_id": "1e824c0d-f2da-4459-96f7-ed4efcd2d28f",
       "application_type": "advertised",
       "application_channel": "portal",
-      "application_status": "submitted_portal",
+      "application_status": "rejected",
       "date_sent": "",
       "date_submitted": "2026-10-17",
       "last_contact_date": "2026-10-17",
       "follow_up_date": "",
-      "latest_employer_response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
-      "next_action": "Await Chrome Hearts recruitment response after the confirmed Sewer - Leather portal application. The CV, letter and full portfolio were supplied. No duplicate application or automatic follow-up.",
+      "latest_employer_response": "19 October 2026: Chrome Hearts chose to proceed with other candidates for Sewer - Leather. This is an explicit recruitment rejection, not an interview or offer. No reply, documents or deadline requested.",
+      "next_action": "No action or reply requested. Retain the rejection; do not resend or follow up automatically. A genuinely new suitable vacancy requires separate local review and authorization.",
       "submission_state": "portal",
       "received_events": [
         {
@@ -2108,9 +2132,20 @@
           "threadId": "1a14b2ff5e346dc3",
           "sourceMessageId": "",
           "confirmation": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed."
+        },
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-19T16:05:02.000Z",
+          "sender": "Chrome Hearts recruitment system",
+          "subject": "Leather sewer application declined",
+          "messageId": "1a154e8c55d911b5",
+          "threadId": "1a154e8c55d911b5",
+          "sourceMessageId": "",
+          "confirmation": "19 October 2026: Chrome Hearts chose to proceed with other candidates for Sewer - Leather. This is an explicit recruitment rejection, not an interview or offer. No reply, documents or deadline requested."
         }
       ],
-      "last_response_at": "2026-10-17T18:46:35.000Z",
+      "last_response_at": "2026-10-19T16:05:02.000Z",
       "events": [
         {
           "kind": "portal",
@@ -2293,16 +2328,16 @@
       ]
     }
   ],
-  "revision": "d2c13a416e5372d99b99eb4a0c6f6a19e6386831894abc5aa15ea804f795e6ff",
-  "updated_at": "2026-10-19T09:02:12.695Z",
+  "revision": "1ab25b865fb6944047f8f6bc8cabae4f0f1e380e51276b85b2f67f14d4e50bbc",
+  "updated_at": "2026-10-20T09:03:15.357Z",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-19T09:00:40.729Z",
-    "latest_attempt_started_utc": "2026-10-19T09:00:40.729Z",
+    "last_successful_scan_utc": "2026-10-20T08:58:33.664Z",
+    "latest_attempt_started_utc": "2026-10-20T08:58:33.664Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 25,
+    "messages_enumerated": 20,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }

@@ -7,8 +7,8 @@
   "type": "Spontaneous manufacturing application",
   "language": "English",
   "status": "portal",
-  "summary": "The official Jaymar form confirms the CV and personalized letter were sent on 17 October. The combined portfolio exceeded the file-size limit, so the full 19-page portfolio is offered on request. Morocco residence, French and English A2, and work-permit conditions are disclosed. No specific vacancy, hiring decision or permit support is confirmed.",
-  "next": "Await Jaymar recruitment response. CV and letter accepted by official speculative form; full19-pageportfolio offered on request because of file-size limit. No duplicate email or submission.",
+  "summary": "19 October 2026: Jaymar cannot move forward because employees must already hold valid Canadian work authorization when applying. The employer cannot support immigration or work-permit procedures; future reconsideration is conditional on existing valid authorization. No interview, offer, documents, reply or deadline requested. The official Jaymar form confirms the CV and personalized letter were sent on 17 October. The combined portfolio exceeded the file-size limit, so the full 19-page portfolio is offered on request. Morocco residence, French and English A2, and work-permit conditions are disclosed. No specific vacancy, hiring decision or permit support is confirmed.",
+  "next": "No reply or new documents requested. Do not reapply or start immigration procedures through this reporting task. Reconsider only if valid Canadian work authorization actually exists, after separate local review and authorization.",
   "recipient": "https://www.jaymar.co/fr-ca/carriere/",
   "sentDate": "17 Oct 2026",
   "events": [
@@ -48,8 +48,25 @@
       ]
     }
   ],
-  "receivedEvents": [],
-  "applicationStatus": "submitted_portal",
+  "receivedEvents": [
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "Application cannot proceed without existing Canadian work authorization",
+      "date": "19 Oct 2026, 16:05",
+      "timestamp": "2026-10-19T16:05:19.000Z",
+      "sender": "Jaymar HR",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Application cannot proceed without existing Canadian work authorization",
+      "body": "",
+      "messageId": "1a154e930538af0f",
+      "threadId": "1a154e930538af0f",
+      "sourceMessageId": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/response-evidence-20261019-1a154e930538af0f.json",
+      "confirmation": "19 October 2026: Jaymar cannot move forward because employees must already hold valid Canadian work authorization when applying. The employer cannot support immigration or work-permit procedures; future reconsideration is conditional on existing valid authorization. No interview, offer, documents, reply or deadline requested."
+    }
+  ],
+  "applicationStatus": "response_received",
   "screenshots": [
     {
       "path": "assets/screenshots/MF-000025-1.jpg",
@@ -88,7 +105,7 @@
       "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery/Mohammed_Fadil_Portfolio.pdf"
     }
   ],
-  "response": "No substantive recruitment response recorded.",
+  "response": "19 October 2026: Jaymar cannot move forward because employees must already hold valid Canadian work authorization when applying. The employer cannot support immigration or work-permit procedures; future reconsideration is conditional on existing valid authorization. No interview, offer, documents, reply or deadline requested.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/document-manifest.json",
   "receiptReference": "",

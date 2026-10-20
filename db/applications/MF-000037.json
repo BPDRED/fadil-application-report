@@ -7,8 +7,8 @@
   "type": "Advertised application",
   "language": "English",
   "status": "portal",
-  "summary": "The official Rippling page confirms the Sewer - Leather application with the CV and combined personalized letter and 19-page portfolio. Morocco residence and no US work authorization were disclosed. Terms were specifically approved. No job offer or immigration support is confirmed.",
-  "next": "Await Chrome Hearts recruitment response after the confirmed Sewer - Leather portal application. The CV, letter and full portfolio were supplied. No duplicate application or automatic follow-up.",
+  "summary": "19 October 2026: Chrome Hearts chose to proceed with other candidates for Sewer - Leather. This is an explicit recruitment rejection, not an interview or offer. No reply, documents or deadline requested. The official Rippling page confirms the Sewer - Leather application with the CV and combined personalized letter and 19-page portfolio. Morocco residence and no US work authorization were disclosed. Terms were specifically approved. No job offer or immigration support is confirmed.",
+  "next": "No action or reply requested. Retain the rejection; do not resend or follow up automatically. A genuinely new suitable vacancy requires separate local review and authorization.",
   "recipient": "https://ats.rippling.com/chrome-hearts-careers/jobs/1e824c0d-f2da-4459-96f7-ed4efcd2d28f/apply",
   "sentDate": "17 Oct 2026",
   "events": [
@@ -64,9 +64,25 @@
       "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/gmail-received-1a14b2ff5e346dc3.json",
       "confirmation": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
       "date": "17 Oct 2026, 18:46"
+    },
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "Leather sewer application declined",
+      "date": "19 Oct 2026, 16:05",
+      "timestamp": "2026-10-19T16:05:02.000Z",
+      "sender": "Chrome Hearts recruitment system",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Leather sewer application declined",
+      "body": "",
+      "messageId": "1a154e8c55d911b5",
+      "threadId": "1a154e8c55d911b5",
+      "sourceMessageId": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/response-evidence-20261019-1a154e8c55d911b5.json",
+      "confirmation": "19 October 2026: Chrome Hearts chose to proceed with other candidates for Sewer - Leather. This is an explicit recruitment rejection, not an interview or offer. No reply, documents or deadline requested."
     }
   ],
-  "applicationStatus": "submitted_portal",
+  "applicationStatus": "response_received",
   "screenshots": [
     {
       "path": "assets/screenshots/MF-000037-1.jpg",
@@ -113,7 +129,7 @@
       "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery/Mohammed_Fadil_Portfolio.pdf"
     }
   ],
-  "response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+  "response": "19 October 2026: Chrome Hearts chose to proceed with other candidates for Sewer - Leather. This is an explicit recruitment rejection, not an interview or offer. No reply, documents or deadline requested.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/document-manifest.json",
   "receiptReference": "",

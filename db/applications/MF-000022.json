@@ -7,8 +7,8 @@
   "type": "Speculative craft application with conditional Academy interest",
   "language": "Italian",
   "status": "email",
-  "summary": "Complete Italian CV, personalized letter and original-layout 19-page portfolio sent to the employer-published HR email. The failed form required unsupported residence and school selections. Morocco residence, no Italian work authorization and 2014 niveau bac are disclosed; the held school attestation is offered later by email. Delivery, admission and permit support are unconfirmed.",
-  "next": "Await Palladio recruitment response to the complete Italian email package. Prior form required unsupported residence/school selections; published HR email alternative used. No duplicate application or automatic follow-up.",
+  "summary": "19 October 2026: Pelletterie Palladio reports no current opportunity aligned with the candidate experience. It may make contact if a suitable opening arises. No interview, offer, documents, reply or deadline requested. Complete Italian CV, personalized letter and original-layout 19-page portfolio sent to the employer-published HR email. The failed form required unsupported residence and school selections. Morocco residence, no Italian work authorization and 2014 niveau bac are disclosed; the held school attestation is offered later by email. Delivery, admission and permit support are unconfirmed.",
+  "next": "No immediate action requested. Retain this response and wait for a suitable employer opening or new contact. Any new application needs separate local review and authorization; no automatic resubmission or follow-up.",
   "recipient": "hr@pelletteriepalladio.it",
   "sentDate": "17 Oct 2026",
   "events": [
@@ -58,8 +58,25 @@
       ]
     }
   ],
-  "receivedEvents": [],
-  "applicationStatus": "awaiting_response",
+  "receivedEvents": [
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "No suitable opportunity currently available",
+      "date": "19 Oct 2026, 12:50",
+      "timestamp": "2026-10-19T12:50:44.000Z",
+      "sender": "Pelletterie Palladio HR",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "No suitable opportunity currently available",
+      "body": "",
+      "messageId": "1a15436ebb6feefc",
+      "threadId": "1a15436ebb6feefc",
+      "sourceMessageId": "1a14b49a763eb435",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/response-evidence-20261019-1a15436ebb6feefc.json",
+      "confirmation": "19 October 2026: Pelletterie Palladio reports no current opportunity aligned with the candidate experience. It may make contact if a suitable opening arises. No interview, offer, documents, reply or deadline requested."
+    }
+  ],
+  "applicationStatus": "response_received",
   "screenshots": [],
   "documents": [
     {
@@ -88,7 +105,7 @@
     }
   ],
   "preparedDocuments": [],
-  "response": "No substantive recruitment response recorded.",
+  "response": "19 October 2026: Pelletterie Palladio reports no current opportunity aligned with the candidate experience. It may make contact if a suitable opening arises. No interview, offer, documents, reply or deadline requested.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/document-manifest.json",
   "receiptReference": "",

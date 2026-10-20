@@ -609,9 +609,9 @@
     "type": "Speculative craft application with conditional Academy interest",
     "language": "Italian",
     "status": "email",
-    "applicationStatus": "awaiting_response",
-    "next": "Await Palladio recruitment response to the complete Italian email package. Prior form required unsupported residence/school selections; published HR email alternative used. No duplicate application or automatic follow-up.",
-    "response": "No substantive recruitment response recorded.",
+    "applicationStatus": "response_received",
+    "next": "No immediate action requested. Retain this response and wait for a suitable employer opening or new contact. Any new application needs separate local review and authorization; no automatic resubmission or follow-up.",
+    "response": "19 October 2026: Pelletterie Palladio reports no current opportunity aligned with the candidate experience. It may make contact if a suitable opening arises. No interview, offer, documents, reply or deadline requested.",
     "events": [
       {
         "kind": "application",
@@ -620,7 +620,15 @@
         "timestamp": "2026-10-17T19:14:39+00:00"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "response",
+        "title": "No suitable opportunity currently available",
+        "date": "19 Oct 2026, 12:50",
+        "timestamp": "2026-10-19T12:50:44.000Z",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000023",
@@ -691,9 +699,9 @@
     "type": "Spontaneous manufacturing application",
     "language": "English",
     "status": "portal",
-    "applicationStatus": "submitted_portal",
-    "next": "Await Jaymar recruitment response. CV and letter accepted by official speculative form; full19-pageportfolio offered on request because of file-size limit. No duplicate email or submission.",
-    "response": "No substantive recruitment response recorded.",
+    "applicationStatus": "response_received",
+    "next": "No reply or new documents requested. Do not reapply or start immigration procedures through this reporting task. Reconsider only if valid Canadian work authorization actually exists, after separate local review and authorization.",
+    "response": "19 October 2026: Jaymar cannot move forward because employees must already hold valid Canadian work authorization when applying. The employer cannot support immigration or work-permit procedures; future reconsideration is conditional on existing valid authorization. No interview, offer, documents, reply or deadline requested.",
     "events": [
       {
         "kind": "portal",
@@ -702,7 +710,15 @@
         "timestamp": "2026-10-17"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "response",
+        "title": "Application cannot proceed without existing Canadian work authorization",
+        "date": "19 Oct 2026, 16:05",
+        "timestamp": "2026-10-19T16:05:19.000Z",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000026",
@@ -965,9 +981,9 @@
     "type": "Advertised application",
     "language": "English",
     "status": "portal",
-    "applicationStatus": "submitted_portal",
-    "next": "Await Chrome Hearts recruitment response after the confirmed Sewer - Leather portal application. The CV, letter and full portfolio were supplied. No duplicate application or automatic follow-up.",
-    "response": "17 October 2026: automated application receipt confirms review; contact will follow only if the profile matches. No interview, offer, deadline, document request or permit support confirmed.",
+    "applicationStatus": "response_received",
+    "next": "No action or reply requested. Retain the rejection; do not resend or follow up automatically. A genuinely new suitable vacancy requires separate local review and authorization.",
+    "response": "19 October 2026: Chrome Hearts chose to proceed with other candidates for Sewer - Leather. This is an explicit recruitment rejection, not an interview or offer. No reply, documents or deadline requested.",
     "events": [
       {
         "kind": "portal",
@@ -982,6 +998,13 @@
         "title": "Automated application receipt",
         "date": "17 Oct 2026, 18:46",
         "timestamp": "2026-10-17T18:46:35.000Z",
+        "direction": "incoming"
+      },
+      {
+        "kind": "response",
+        "title": "Leather sewer application declined",
+        "date": "19 Oct 2026, 16:05",
+        "timestamp": "2026-10-19T16:05:02.000Z",
         "direction": "incoming"
       }
     ]
