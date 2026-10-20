@@ -1640,7 +1640,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Official required account residence list omits Morocco and has no Other option. Employer must provide a truthful supported application route. Complete Italian package retained; no false country or new account.",
+      "next_action": "Review completed and archived on 20 October 2026. The required residence list still excludes Morocco and Other across the checked official routes; no permitted recruitment alternative was verified. Application not submitted. Reopen on an official form correction or employer-supported route. Retain the prepared Italian package; do not select a false country.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -2328,8 +2328,8 @@
       ]
     }
   ],
-  "revision": "a77452183fcfbb78d2386bb43bddb62dad9a4afad5d4ffe95f5953328b98cd3c",
-  "updated_at": "2026-10-20T19:48:58.143865+00:00",
+  "revision": "270a5e78ae83dfccdc117b27e36093a7d98e5b6b489c26eed4baffb9934ef4e6",
+  "updated_at": "2026-10-20T20:14:42.187764+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

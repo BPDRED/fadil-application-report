@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T19:48:58.143865+00:00",
-  "generatedLabel": "20 Oct 2026, 19:48",
+  "generatedAt": "2026-10-20T20:14:42.187764+00:00",
+  "generatedLabel": "20 Oct 2026, 20:14",
   "recordDate": "20 October 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
@@ -9,8 +9,8 @@
     "supplement": 2,
     "inquiry": 7
   },
-  "applicationDataUpdatedAt": "2026-10-20T19:48:58.143865+00:00",
-  "applicationContentHash": "d6d0f6e2a922e838db3901b7a5d6ef109cb89ac644a08ed780dac7786e341e27",
+  "applicationDataUpdatedAt": "2026-10-20T20:14:42.187764+00:00",
+  "applicationContentHash": "d8323c47d382a24ee9fb863f31514226506df5a2000fa6a4a6159c0345f10c6b",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-10-20T08:58:33.664Z",
@@ -22,10 +22,10 @@
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "7bd8e9a564a2fc583cbb61a085e70f1c2a4fc83ff98601ac3c736089fada1734",
-    "project-status.md": "746905e36bdf09f192185c8a765451fc20c7ec14752e65092b5ce071a1e473e1"
+    "application-tracker.csv": "df70b8f03bd7bbc11fbc0788a42c4f584195bd055724a3319b5174bfd0d814c7",
+    "project-status.md": "fdf062a21c1b8ea2dd8ee3dc2171694ae8ac7183fa1063f54a68156e6095553c"
   },
-  "publicationRevision": "a77452183fcfbb78d2386bb43bddb62dad9a4afad5d4ffe95f5953328b98cd3c",
+  "publicationRevision": "270a5e78ae83dfccdc117b27e36093a7d98e5b6b489c26eed4baffb9934ef4e6",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [
@@ -39,14 +39,6 @@
     }
   ],
   "pendingActions": [
-    {
-      "applicationId": "MF-000027",
-      "company": "Tod's Group",
-      "owner": "agent",
-      "description": "Check Tod's official residence choices or a published alternative that accepts truthful Morocco-based applications. Do not create an account or submit.",
-      "reviewOn": null,
-      "dateKind": null
-    },
     {
       "applicationId": "MF-000028",
       "company": "Santoni",
@@ -102,8 +94,15 @@
       "applicationId": "MF-000012",
       "company": "Louis Vuitton",
       "archivedOn": "2026-10-20",
-      "reason": "No suitable leather artisan vacancy or supported speculative portal route was found after the official route review.",
+      "reason": "The 26 French manufacturing listings were internships or specialist jewellery roles, with no suitable leather artisan vacancy. The global maroquinier search found no listing, and no general speculative portal route was verified. The earlier email remains recorded; HR registration is unconfirmed.",
       "reopenTrigger": "A substantive employer reply, a relevant official notice or a suitable new official vacancy."
+    },
+    {
+      "applicationId": "MF-000027",
+      "company": "Tod's Group",
+      "archivedOn": "2026-10-20",
+      "reason": "Application not submitted. The mandatory residence list has neither Morocco nor Other. The spontaneous intake, alternate careers link and advertised stitching application all require that same account form. No permitted recruitment email or separate application route was verified.",
+      "reopenTrigger": "Tod’s adds a truthful Morocco residence option, provides an official alternative application route, or publishes a relevant correction."
     }
   ]
 }
