@@ -19,3 +19,10 @@ function steps() {
   <p class="note"><strong>This is a saved snapshot, not a live inbox.</strong> Gmail SENT confirms transmission, not delivery or reading. Portal receipts confirm submission, not selection. Outgoing emails include inquiries and supplements and are not the application count. Historical delivery failures remain in each record even when a later portal application succeeds. Screening-only records are identified separately.</p></div>`;
 }
 
+function archive() {
+  const archived = report.archivedActions || [];
+  return `<h2 class="hero-t">Archive</h2>
+    <p class="cap">Reviewed companies with no available next action. Their application history stays available.</p>
+    ${archived.length ? `<div class="blk">${archived.map(a => `<button class="row" data-archived-id="${esc(a.applicationId)}" data-goto="${esc(a.applicationId)}/summary"><span class="body"><b class="archive-company" data-no-translate>${esc(a.company)}</b><span class="sub"><span>Archived on</span> <time data-no-translate>${esc(new Intl.DateTimeFormat(L10n.lang === 'ar' ? 'ar-MA' : 'en-GB', {year:'numeric',month:'short',day:'numeric',timeZone:'UTC'}).format(new Date(a.archivedOn+'T12:00:00Z')))}</time></span><span class="sub">${esc(a.reason)}</span><span class="sub"><span>Reopen when</span>: <span>${esc(a.reopenTrigger)}</span></span><span class="link">View full history</span></span>${ic('go','go')}</button>`).join('')}</div>` : '<p class="empty">No archived reviews yet.</p>'}`;
+}
+

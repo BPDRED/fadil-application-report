@@ -27,6 +27,7 @@ function pendingActionsHTML() {
 /* ---- ICONS: inline SVG path data on a 24×24 grid, stroke only (colour = currentColor, width set in CSS).
    Add an icon = add a key here (copy a path from any 24px outline icon set), use it with ic('key', 'optional-class'). ---- */
 const P = {   /* icons */
+  archive:'<rect x="3" y="3" width="18" height="4" rx="1"/><path d="M5 7v13h14V7M10 11h4"/>',
   grid:'<rect x="3" y="3" width="7" height="9"/><rect x="14" y="3" width="7" height="5"/><rect x="14" y="12" width="7" height="9"/><rect x="3" y="16" width="7" height="5"/>',
   list:'<path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/>', clock:'<circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>',
   steps:'<path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>', image:'<rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/>',
@@ -55,7 +56,7 @@ const flag = c => `<svg class="flag" viewBox="0 0 20 14" aria-hidden="true">${FL
 /* ---- ONE STATE SYSTEM: applicationStatus key → label. Order = display order everywhere (bar, chips, filters).
    Colours live in CSS (.s-<key>). A new status = one row here + one s-<key> rule in CSS.
    stText(a) = the status sentence shown next to a name; stTxt(a) = the same, wrapped with its colour. ---- */
-const GROUPS = [['blocked','Blocked'],['response_received','Reply received'],['submitted_portal','Portal submitted'],['awaiting_response','Awaiting response']];
+const GROUPS = [['blocked','Blocked'],['response_received','Reply received'],['submitted_portal','Portal submitted'],['awaiting_response','Awaiting response'],['rejected','Rejected']];
 const gLabel = Object.fromEntries(GROUPS);
 const stText = a => isScreening(a) ? 'Screening-only record'
   : a.applicationStatus === 'blocked' ? (a.status === 'failed' ? 'Delivery failed · action required' : 'Not submitted · waiting') : gLabel[a.applicationStatus];

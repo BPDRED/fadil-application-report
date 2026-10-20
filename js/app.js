@@ -9,7 +9,7 @@ const refreshAct = () => { $('#aList').innerHTML = actRows(actData()); window.L1
      #overview  #employers  #activity  #notes (= "Next steps")  #blocked   → main tabs
      #<employer id>[/summary|/timeline|/evidence]                           → employer page (default tab: summary)
    route() returns { tab, app, sub, page }. TABS = main menu, SUBS = employer-page menu: [id, label, icon]. ---- */
-const TABS = [['overview','Overview','grid','var(--info)'],['employers','Employers','list','var(--ok)'],['activity','Activity','clock','var(--k-inq)'],['notes','Next steps','steps','var(--warn)']];
+const TABS = [['overview','Overview','grid','var(--info)'],['employers','Employers','list','var(--ok)'],['activity','Activity','clock','var(--k-inq)'],['notes','Next steps','steps','var(--warn)'],['archive','Archive','archive','var(--mute)']];
 const SUBS = [['summary','Summary','file','var(--info)'],['timeline','Timeline','clock','var(--k-inq)'],['evidence','Evidence','image','var(--ok)']];   /* 4th value = icon colour in the menu (existing colour tokens only) */
 function route() {
   let hash; try { hash = decodeURIComponent(location.hash.slice(1)); } catch { hash = 'overview'; }
@@ -57,9 +57,9 @@ async function render(keep) {
   if (r.app) T.innerHTML = `<span class="hd-nm">${esc(simpleName(r.app))}</span><span class="hd-n">· ${r.app.number} / ${apps.length}</span>`; else T.textContent = r.page ? 'Blocked & issues' : L10n.translate(report.candidateName || '');
   $('#back').innerHTML = ic('back'); $('#back').classList.toggle('show', !!(r.app || r.page));
   $('#tabList').innerHTML = navHTML(r);
-  v.innerHTML = r.app ? ({ summary, timeline, evidence })[r.sub](r.app) : r.page ? blockedPage() : ({ overview, employers, activity, notes:steps })[r.tab]();
+  v.innerHTML = r.app ? ({ summary, timeline, evidence })[r.sub](r.app) : r.page ? blockedPage() : ({ overview, employers, activity, notes:steps, archive })[r.tab]();
   v.dataset.route = r.app ? r.app.id + '/' + r.sub : (r.page || r.tab);
-  v.classList.toggle('narrow', !!(r.app || r.page) || ['activity','notes'].includes(r.tab));
+  v.classList.toggle('narrow', !!(r.app || r.page) || ['activity','notes','archive'].includes(r.tab));
   v.classList.remove('slide-next','slide-prev'); if (SLIDE) { v.classList.add('slide-' + SLIDE); SLIDE = ''; }
   requestAnimationFrame(moveInk); renderMonitoringDates(window.L10n ? L10n.lang : 'en');
   if (!keep) { window.scrollTo(0, 0); v.classList.add('fresh');

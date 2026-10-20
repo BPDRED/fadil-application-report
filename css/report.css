@@ -36,6 +36,7 @@ svg{fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-l
    One class, many uses: filter dot, status text (.stx), number cell, icon cell, date tile. */
 .s-blocked{--c:var(--warn);--cf:var(--warn)}.s-response_received{--c:var(--info);--cf:var(--info)}
 .s-submitted_portal{--c:var(--ok);--cf:var(--ok)}.s-awaiting_response{--c:var(--wait);--cf:var(--wait-f)}
+.s-rejected{--c:var(--warn);--cf:var(--warn)}
 /* EVENT KIND COLOURS (timeline + activity): class k-<kind> sets --ec used by the dot, the kind pill and the message bar. */
 .k-application{--ec:var(--k-app)}.k-portal{--ec:var(--k-portal)}.k-inquiry{--ec:var(--k-inq)}.k-supplement{--ec:var(--k-sup)}
 .k-acknowledgment{--ec:var(--k-ack)}.k-response{--ec:var(--k-resp)}.k-delivery_notice{--ec:var(--k-fail)}
@@ -304,6 +305,7 @@ pre.event-body{white-space:pre-wrap;font:.82rem/1.6 inherit;font-family:inherit;
 .quote{font-size:.9rem;font-style:italic;color:var(--ink2);margin:10px 0 6px;unicode-bidi:plaintext}
 .src{display:flex;flex-wrap:wrap;gap:4px 18px;margin-top:18px;font-size:.84rem}.src a{color:var(--ink);font-weight:600;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px}
 .nt{unicode-bidi:isolate}
+.archive-company{color:var(--mute)}
 @media(hover:none){body{cursor:pointer}}
 
 /* ============ 9. IMAGE VIEWER (screenshots) ============

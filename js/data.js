@@ -16,6 +16,7 @@ const Data = (() => {
           index.some(a => !/^[A-Z0-9-]+$/.test(a.id) || !Number.isSafeInteger(a.number) || a.number < 1)) throw new Error('Invalid application index');
       if (Object.values(metadata.counts).some(n => !Number.isSafeInteger(n) || n < 0)) throw new Error('Invalid report counts');
       if (metadata.pendingActions && (!Array.isArray(metadata.pendingActions) || metadata.pendingActions.some(a => !index.some(app => app.id === a.applicationId) || !['agent','user','employer'].includes(a.owner) || typeof a.description !== 'string'))) throw new Error('Invalid pending actions');
+      if (metadata.archivedActions && (!Array.isArray(metadata.archivedActions) || new Set(metadata.archivedActions.map(a => a.applicationId)).size !== metadata.archivedActions.length || metadata.archivedActions.some(a => !index.some(app => app.id === a.applicationId) || metadata.pendingActions?.some(p => p.applicationId === a.applicationId) || typeof a.reason !== 'string' || typeof a.reopenTrigger !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(a.archivedOn)))) throw new Error('Invalid archived actions');
       Object.assign(report, metadata, { checkDates: checks });
       apps.push(...index.sort((a, b) => a.number - b.number));
       dictionary = arabic;

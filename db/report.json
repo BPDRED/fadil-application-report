@@ -96,5 +96,14 @@
     "MF-000027",
     "MF-000028",
     "MF-000035"
+  ],
+  "archivedActions": [
+    {
+      "applicationId": "MF-000012",
+      "company": "Louis Vuitton",
+      "archivedOn": "2026-10-20",
+      "reason": "No suitable leather artisan vacancy or supported speculative portal route was found after the official route review.",
+      "reopenTrigger": "A substantive employer reply, a relevant official notice or a suitable new official vacancy."
+    }
   ]
 }
