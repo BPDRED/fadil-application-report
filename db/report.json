@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T20:14:42.187764+00:00",
-  "generatedLabel": "20 Oct 2026, 20:14",
+  "generatedAt": "2026-10-20T20:25:39.862280+00:00",
+  "generatedLabel": "20 Oct 2026, 20:25",
   "recordDate": "20 October 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
@@ -9,8 +9,8 @@
     "supplement": 2,
     "inquiry": 7
   },
-  "applicationDataUpdatedAt": "2026-10-20T20:14:42.187764+00:00",
-  "applicationContentHash": "d8323c47d382a24ee9fb863f31514226506df5a2000fa6a4a6159c0345f10c6b",
+  "applicationDataUpdatedAt": "2026-10-20T20:25:39.862280+00:00",
+  "applicationContentHash": "ce9ba09dc00088177c0fd7b17c9cd94155d9d7a534e0215708730cd728940f1f",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-10-20T08:58:33.664Z",
@@ -22,10 +22,10 @@
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "df70b8f03bd7bbc11fbc0788a42c4f584195bd055724a3319b5174bfd0d814c7",
-    "project-status.md": "fdf062a21c1b8ea2dd8ee3dc2171694ae8ac7183fa1063f54a68156e6095553c"
+    "application-tracker.csv": "0766f72369c68d39d79ef0f4376882bc9427396fc24876b0040958c31fb193ac",
+    "project-status.md": "8b475d96adc5c2f1ed0366beeae80905c519a9655fbe9e2f4cbb93a892b9c566"
   },
-  "publicationRevision": "270a5e78ae83dfccdc117b27e36093a7d98e5b6b489c26eed4baffb9934ef4e6",
+  "publicationRevision": "a331684e519b5dfafe3a0fc243049c628ac83c27192aa084a87405730b6defca",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [
@@ -39,14 +39,6 @@
     }
   ],
   "pendingActions": [
-    {
-      "applicationId": "MF-000028",
-      "company": "Santoni",
-      "owner": "agent",
-      "description": "Check a truthful Santoni route for Morocco residence and the actual school level. Do not submit false answers or retry the form.",
-      "reviewOn": null,
-      "dateKind": null
-    },
     {
       "applicationId": "MF-000020",
       "company": "POLIPOL",
@@ -103,6 +95,13 @@
       "archivedOn": "2026-10-20",
       "reason": "Application not submitted. The mandatory residence list has neither Morocco nor Other. The spontaneous intake, alternate careers link and advertised stitching application all require that same account form. No permitted recruitment email or separate application route was verified.",
       "reopenTrigger": "Tod’s adds a truthful Morocco residence option, provides an official alternative application route, or publishes a relevant correction."
+    },
+    {
+      "applicationId": "MF-000028",
+      "company": "Santoni",
+      "archivedOn": "2026-10-20",
+      "reason": "Final application not submitted. After the approved CV import, the required domicile field still offers only Italy or EU, excluding Morocco. Required schooling choices have no verified equivalent for the applicant’s niveau bac. No permitted alternative application route was verified.",
+      "reopenTrigger": "Santoni provides truthful Morocco residence and education choices, or an official alternative application channel."
     }
   ]
 }

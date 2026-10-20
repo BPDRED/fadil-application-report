@@ -1664,7 +1664,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "latest_employer_response": "",
-      "next_action": "Santoni CV import opened a required second form with only Italy/EU residence and completed-degree options. A truthful Morocco/niveau-bac route is needed; no application confirmation, no false answer or duplicate retry.",
+      "next_action": "Review completed and archived on 20 October 2026. Fresh authorized CV import confirmed the required domicile choices remain Italy/EU only and schooling has no verified niveau-bac option. Final application not submitted. Reopen on corrected fields or an employer-supported alternative; retain the prepared package.",
       "submission_state": "held",
       "received_events": [],
       "last_response_at": "",
@@ -2328,8 +2328,8 @@
       ]
     }
   ],
-  "revision": "270a5e78ae83dfccdc117b27e36093a7d98e5b6b489c26eed4baffb9934ef4e6",
-  "updated_at": "2026-10-20T20:14:42.187764+00:00",
+  "revision": "a331684e519b5dfafe3a0fc243049c628ac83c27192aa084a87405730b6defca",
+  "updated_at": "2026-10-20T20:25:39.862280+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
