@@ -1176,5 +1176,6 @@
   "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.": "وصل تأكيد آلي يوم 21 أكتوبر. تحدد الشركة مهلة 15 يوما دون أخبار؛ تُراجع الحالة يوم 5 نوفمبر. لا قرار توظيف فعلي.",
   "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established.": "يؤكد إشعار الاستلام الآلي وصول الطلب. تحدد الشركة مهلة رد قدرها 15 يوما. لا تأكيد لمقابلة أو عرض عمل أو دعم ترخيص العمل.",
   "Automatic application confirmation received": "وصل تأكيد آلي لطلب التوظيف",
-  "Candidature confirmée": "تأكيد طلب التوظيف"
+  "Candidature confirmée": "تأكيد طلب التوظيف",
+  "Archived reviews are excluded from active status counts.": "لا تدخل المراجعات المؤرشفة ضمن أعداد الحالات النشطة."
 }

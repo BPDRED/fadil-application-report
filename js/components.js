@@ -15,9 +15,12 @@ const simpleName = a => a.displayName || a.company;      /* display name: option
 const shotSrc = s => L10n.lang === 'ar' ? (L10n.dict._evidence?.[s.src]?.path || s.src) : s.src;
 const isScreening = a => !!a.screeningOnly;               /* DB boolean: screening answers only, no documents delivered */
 
+const isArchived = a => (report.archivedActions || []).some(x => x.applicationId === a.id);
+const statusCount = key => apps.filter(a => !isArchived(a) && a.applicationStatus === key).length;
+
 // Review dates are internal reminders, never inferred employer decisions.
 function reviewDate(a) {
-  if ((report.archivedActions || []).some(x => x.applicationId === a.id) || ['rejected','closed','withdrawn'].includes(a.applicationStatus)) return '';
+  if (isArchived(a) || ['rejected','closed','withdrawn'].includes(a.applicationStatus)) return '';
   return (report.pendingActions || []).find(x => x.applicationId === a.id)?.reviewOn
     || (report.checkDates || []).find(x => x.number === a.number)?.date || '';
 }
@@ -25,7 +28,7 @@ const reviewOverdue = a => !!reviewDate(a) && Date.parse(reviewDate(a) + 'T00:00
 const reviewClass = a => reviewOverdue(a) ? 'review-overdue' : '';
 function reviewBadge(a) {
   const iso = reviewDate(a);
-  if (!iso) return ['awaiting_response','submitted_portal'].includes(a.applicationStatus) && !(report.archivedActions || []).some(x => x.applicationId === a.id)
+  if (!iso) return ['awaiting_response','submitted_portal'].includes(a.applicationStatus) && !isArchived(a)
     ? '<span class="sub review-unset">No check date set</span>' : '';
   const date = new Intl.DateTimeFormat(L10n.lang === 'ar' ? 'ar-MA' : 'en-GB', {year:'numeric',month:'short',day:'numeric',timeZone:'UTC'}).format(new Date(iso + 'T12:00:00Z'));
   return `<span class="review-date" data-no-translate>${esc(L10n.t('Check on {date}', {date}))}${reviewOverdue(a) ? ' · ' + esc(L10n.t('Overdue review')) : ''}</span>`;
@@ -112,7 +115,7 @@ const sHead = (k, title, ph, q) => `<div class="srow ${SO[k] || q ? 'open' : ''}
 
 const fBtn = (attr, val, on, inner) => `<button class="${inner.cls || ''} ${on ? 'on' : ''}" data-${attr}="${esc(val)}" aria-pressed="${on}">${inner.html}</button>`;
 const groupBtns = () => [['all', 'All', ''], ...GROUPS.map(([k, l]) => [k, l, `<i class="dot"></i>`])].map(([k, l, dot]) => {
-  const n = k === 'all' ? apps.length : cnt(a => a.applicationStatus === k);
+  const n = k === 'all' ? apps.length : statusCount(k);
   return fBtn('fs', k, FS === k, { cls: k === 'all' ? '' : 's-' + k, html: `${dot}<span>${l}</span> <span class="n">${n}</span>` }); }).join('');
 const countryBtns = () => [['all', null], ...countryList()].map(([c, k]) => c === 'all'
   ? fBtn('fc', 'all', FC === 'all', { html: '<span>All countries</span>' })

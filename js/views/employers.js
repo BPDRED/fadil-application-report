@@ -1,6 +1,6 @@
 function filtered() {
   const q = Q.trim().toLocaleLowerCase(), D = L10n.dict;
-  return apps.filter(a => (FS === 'all' || a.applicationStatus === FS) && (FC === 'all' || a.country === FC) &&
+  return apps.filter(a => (FS === 'all' || !isArchived(a) && a.applicationStatus === FS) && (FC === 'all' || a.country === FC) &&
     (!q || [a.company, a.country, a.id, a.position, D[a.country], D[a.position]].join(' ').toLocaleLowerCase().includes(q)));
 }
 const rowsHTML = () => filtered().map(eRow).join('') || '<p class="empty">No matching employer.</p>';

@@ -127,11 +127,11 @@ window.addEventListener('resize', moveInk);
 let confirmed, blocked, emailCount, portalCount, outgoing, replies, openItems;
 function derive() {
   confirmed = apps.filter(a => ['email','portal'].includes(a.status)).length;
-  blocked = apps.filter(a => a.applicationStatus === 'blocked');
+  blocked = apps.filter(a => a.applicationStatus === 'blocked' && !isArchived(a));
   emailCount = apps.filter(a => ['email','failed'].includes(a.status)).length;
   portalCount = apps.filter(a => a.status === 'portal').length;
   outgoing = Object.values(report.counts).reduce((n, x) => n + x, 0);
-  replies = apps.filter(a => a.applicationStatus === 'response_received');
+  replies = apps.filter(a => a.applicationStatus === 'response_received' && !isArchived(a));
   openItems = apps.filter(a => a.applicationStatus !== 'blocked' && a.applicationStatus !== 'response_received' && (/uncompleted/i.test(a.next) || isScreening(a)));
   DATES = report.checkDates.map(c => [c.number, c.date, c.text]);
 }
