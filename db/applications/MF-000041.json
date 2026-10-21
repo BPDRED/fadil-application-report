@@ -7,8 +7,8 @@
   "type": "Advertised role",
   "language": "French",
   "status": "portal",
-  "summary": "21 October: the official Granges-les-Beaumont vacancy form confirmed submission of the French CV and contact details. The form provided no motivation-letter or portfolio field. Both remain prepared locally; this is separate from the 9 October spontaneous application.",
-  "next": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+  "summary": "21 October: the official Granges-les-Beaumont vacancy form confirmed submission of the French CV and contact details. The form provided no motivation-letter or portfolio field. Both remain prepared locally; this is separate from the 9 October spontaneous application. An automatic receipt arrived on 21 October; its 15-day guidance gives 5 November as the next internal review.",
+  "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
   "recipient": "https://recrutement.tolomei.fr/offer/11618-NTIzNzMtWW95VWNu",
   "sentDate": "21 Oct 2026",
   "events": [
@@ -39,7 +39,23 @@
       ]
     }
   ],
-  "receivedEvents": [],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Automatic application confirmation received",
+      "timestamp": "2026-10-21T10:34:34+00:00",
+      "sender": "Groupe TOLOMEI via reply.hellowork.com",
+      "subject": "Candidature confirmée",
+      "body": "",
+      "messageId": "1a15e06ec1c0359c",
+      "threadId": "1a15e06ec1c0359c",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/automatic-receipt-20261021.json",
+      "confirmation": "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established.",
+      "date": "21 Oct 2026, 10:34"
+    }
+  ],
   "applicationStatus": "submitted_portal",
   "screenshots": [
     {
@@ -62,7 +78,7 @@
     }
   ],
   "preparedDocuments": [],
-  "response": "No substantive recruitment response recorded.",
+  "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/document-manifest.json",
   "receiptReference": "",

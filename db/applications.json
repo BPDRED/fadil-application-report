@@ -1189,8 +1189,8 @@
     "language": "French",
     "status": "portal",
     "applicationStatus": "submitted_portal",
-    "next": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
-    "response": "No substantive recruitment response recorded.",
+    "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
+    "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
     "events": [
       {
         "kind": "portal",
@@ -1199,7 +1199,15 @@
         "timestamp": "2026-10-21T10:34:55.604584+00:00"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automatic application confirmation received",
+        "date": "21 Oct 2026, 10:34",
+        "timestamp": "2026-10-21T10:34:34+00:00",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000042",
@@ -1211,8 +1219,8 @@
     "language": "French",
     "status": "portal",
     "applicationStatus": "submitted_portal",
-    "next": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
-    "response": "No substantive recruitment response recorded.",
+    "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
+    "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
     "events": [
       {
         "kind": "portal",
@@ -1221,6 +1229,14 @@
         "timestamp": "2026-10-21T10:34:00.094230+00:00"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automatic application confirmation received",
+        "date": "21 Oct 2026, 10:33",
+        "timestamp": "2026-10-21T10:33:14+00:00",
+        "direction": "incoming"
+      }
+    ]
   }
 ]

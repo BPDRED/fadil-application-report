@@ -2509,12 +2509,24 @@
       "date_sent": "",
       "date_submitted": "2026-10-21",
       "last_contact_date": "2026-10-21",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+      "follow_up_date": "2026-11-05",
+      "latest_employer_response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
+      "next_action": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-21T10:34:34+00:00",
+          "sender": "Groupe TOLOMEI via reply.hellowork.com",
+          "subject": "Candidature confirmée",
+          "messageId": "1a15e06ec1c0359c",
+          "threadId": "1a15e06ec1c0359c",
+          "sourceMessageId": "",
+          "confirmation": "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established."
+        }
+      ],
+      "last_response_at": "2026-10-21T10:34:34+00:00",
       "events": [
         {
           "kind": "portal",
@@ -2552,12 +2564,24 @@
       "date_sent": "",
       "date_submitted": "2026-10-21",
       "last_contact_date": "2026-10-21",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+      "follow_up_date": "2026-11-05",
+      "latest_employer_response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
+      "next_action": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-21T10:33:14+00:00",
+          "sender": "Groupe TOLOMEI via reply.hellowork.com",
+          "subject": "Candidature confirmée",
+          "messageId": "1a15e05b51108a19",
+          "threadId": "1a15e05b51108a19",
+          "sourceMessageId": "",
+          "confirmation": "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established."
+        }
+      ],
+      "last_response_at": "2026-10-21T10:33:14+00:00",
       "events": [
         {
           "kind": "portal",
@@ -2581,8 +2605,8 @@
       ]
     }
   ],
-  "revision": "d70c02344cb0000f2796dce7b39037980538ac8afba53568e511bf9c5eb23dc0",
-  "updated_at": "2026-10-21T10:36:34.625520+00:00",
+  "revision": "8e2c0fa3b0d8700519304e58c22549bd87f487b9ab401010472c658f98fdfd27",
+  "updated_at": "2026-10-21T10:40:37.368901+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

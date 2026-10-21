@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T10:38:31.945486+00:00",
-  "generatedLabel": "21 Oct 2026, 10:38",
+  "generatedAt": "2026-10-21T10:40:37.368901+00:00",
+  "generatedLabel": "21 Oct 2026, 10:40",
   "recordDate": "21 October 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
@@ -9,8 +9,8 @@
     "supplement": 3,
     "inquiry": 7
   },
-  "applicationDataUpdatedAt": "2026-10-21T10:36:34.625520+00:00",
-  "applicationContentHash": "9f793b85b76bd92d53bc6303eb3c67e16c44415c379508f05f4e87fb8fe52fec",
+  "applicationDataUpdatedAt": "2026-10-21T10:40:37.368901+00:00",
+  "applicationContentHash": "2e706df05359628252c4ce148ed6fc5a1ae90962972f7d0ec37bab049a175175",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-10-21T09:01:27.291Z",
@@ -22,10 +22,10 @@
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "2b31d7e498f7639c9e39bda359e1a611a99f2ec75cf6f7ab394c37f83e7d0995",
-    "project-status.md": "0a00037fc432b6ab70d4923f1baf6881d6a2daf9fac83bb9b3fca6acb9756987"
+    "application-tracker.csv": "4906efe6b1da22afe68d8ec29121da38350f00a85ceb1be62464e756d0dbc818",
+    "project-status.md": "63195c66185fa177a7fb1bac3e23f68e1da0ac4f23f70f5a183c30e3f5fe85f1"
   },
-  "publicationRevision": "d70c02344cb0000f2796dce7b39037980538ac8afba53568e511bf9c5eb23dc0",
+  "publicationRevision": "8e2c0fa3b0d8700519304e58c22549bd87f487b9ab401010472c658f98fdfd27",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [
@@ -70,6 +70,22 @@
       "description": "Review Longchamp's four-week waiting period locally. Do not treat silence as a current rejection or send an automatic follow-up.",
       "reviewOn": "2026-11-14",
       "dateKind": "internal_review"
+    },
+    {
+      "applicationId": "MF-000041",
+      "company": "Groupe Tolomei",
+      "owner": "agent",
+      "description": "Review Tolomei’s Granges-les-Beaumont application on 5 November. No automatic follow-up.",
+      "reviewOn": "2026-11-05",
+      "dateKind": "internal_review"
+    },
+    {
+      "applicationId": "MF-000042",
+      "company": "Groupe Tolomei",
+      "owner": "agent",
+      "description": "Review Tolomei’s Romans-sur-Isère application on 5 November. No automatic follow-up.",
+      "reviewOn": "2026-11-05",
+      "dateKind": "internal_review"
     }
   ],
   "managedActionIds": [
@@ -79,7 +95,9 @@
     "MF-000020",
     "MF-000027",
     "MF-000028",
-    "MF-000035"
+    "MF-000035",
+    "MF-000041",
+    "MF-000042"
   ],
   "archivedActions": [
     {
