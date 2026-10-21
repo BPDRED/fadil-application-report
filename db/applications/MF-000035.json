@@ -4,16 +4,62 @@
   "company": "Wollsdorf Leather",
   "country": "Austria",
   "position": "Speculative suitable leather inspection/finishing or transferable production work",
-  "type": "Speculative application blocked by form error",
+  "type": "Speculative email after failed form",
   "language": "English",
-  "status": "held",
-  "summary": "The Austrian application form returned four explicit sending errors across 17 and 18 October. A 33 percent smaller dossier failed, then a separately authorized CV-and-letter-only package of 332502 bytes failed with the same message. The revised documents and form text offer the full portfolio by email on request. No application receipt is confirmed. Wollsdorf requires this form and permits telephone enquiries.",
-  "next": "Four explicit sending errors across 17 and 18 October. Both a 33 percent compressed dossier and a CV/letter-only 332502-byte package failed on 18 October. No receipt. Await repaired form or employer-supported route; official careers page permits a telephone enquiry about the broken form at +43 3178 5125-0. No further retry now.",
-  "recipient": "https://www.wollsdorf.com/karriere/offene-stellen/",
-  "sentDate": "",
-  "events": [],
+  "status": "email",
+  "summary": "The website returned four sending errors on 17 and 18 October. At your request, all three prepared English PDFs were sent to job.at@wollsdorf.com on 21 October and verified in Gmail Sent. The form review is archived and its 26 October check is cancelled. Await a reply or delivery notice; the earlier failed attempts remain in the history.",
+  "next": "Reviewed and archived at the user's request. The complete speculative email is confirmed sent on 21 October. Await an employer response or delivery failure. No 26 October form review, automatic retry or duplicate email.",
+  "recipient": "job.at@wollsdorf.com",
+  "sentDate": "21 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "21 Oct 2026, 10:49",
+      "timestamp": "2026-10-21T10:49:46+00:00",
+      "recipient": "job.at@wollsdorf.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Speculative application | Leather production, inspection and finishing | Mohammed Fadil",
+      "body": "Dear Ms Holler and Wollsdorf Recruitment Team,\n\nI attempted to submit my application through your Austrian website form on 17 and 18 October, but each attempt returned a sending error and no application confirmation. I am therefore sending this speculative application to the recruitment address published in your official job notice.\n\nYour careers page states that current vacancies are filled and welcomes unsolicited applications. I am applying speculatively for a suitable Austrian production, material-inspection or finishing function. I understand that an actual opening and worksite would need to be identified; I am not treating the historical semi-aniline specialist role as open.\n\nPlease find my CV, personalized cover letter and work portfolio with project photographs and certificate copies.\n\nI am a Moroccan national resident in Morocco without Austrian residence or work authorization. My English and French are A2; German is A1, studying for A2. Could you consider applicants from Morocco for an appropriate Austrian role and support the necessary employer-side employment and residence process?\n\nPlease advise the role, location, weekly hours, gross pay and language requirements. I could start after the required authorizations and visa.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a15e14d8524b959",
+      "threadId": "1a15e14d8524b959",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/gmail-complete-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 268,
+          "sha256": "d111e0e5c4c111155cc5e0fb9c778827ee2e68db3eec1a4fcabdc267bd85913f",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 57,
+          "sha256": "4cab6d79ffe2005c54594473c7d12b5ee552ca7927291ad691cc8860d1665a2a",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2508,
+          "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
   "receivedEvents": [],
-  "applicationStatus": "blocked",
+  "applicationStatus": "awaiting_response",
   "screenshots": [
     {
       "path": "assets/screenshots/MF-000035-1.jpg",
@@ -24,8 +70,7 @@
       "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/portal-failure-04-20261018.jpg"
     }
   ],
-  "documents": [],
-  "preparedDocuments": [
+  "documents": [
     {
       "filename": "Mohammed_Fadil_CV.pdf",
       "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_CV.pdf",
@@ -51,7 +96,8 @@
       "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
     }
   ],
-  "response": "No substantive recruitment response recorded.",
+  "preparedDocuments": [],
+  "response": "No employer response recorded after the confirmed 21 October speculative email.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/document-manifest.json",
   "receiptReference": "",

@@ -75,7 +75,7 @@ const flag = c => `<svg class="flag" viewBox="0 0 20 14" aria-hidden="true">${FL
 /* ---- ONE STATE SYSTEM: applicationStatus key → label. Order = display order everywhere (bar, chips, filters).
    Colours live in CSS (.s-<key>). A new status = one row here + one s-<key> rule in CSS.
    stText(a) = the status sentence shown next to a name; stTxt(a) = the same, wrapped with its colour. ---- */
-const GROUPS = [['blocked','Blocked'],['response_received','Reply received'],['submitted_portal','Portal submitted'],['awaiting_response','Awaiting response'],['rejected','Rejected']];
+const GROUPS = [['blocked','Blocked'],['response_received','Other response'],['submitted_portal','Portal submitted'],['awaiting_response','Awaiting response'],['rejected','Rejected']];
 const gLabel = Object.fromEntries(GROUPS);
 const stText = a => isScreening(a) ? 'Screening-only record'
   : a.applicationStatus === 'blocked' ? (a.status === 'failed' ? 'Delivery failed · action required' : 'Not submitted · waiting') : gLabel[a.applicationStatus];

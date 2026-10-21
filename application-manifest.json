@@ -231,8 +231,31 @@
       "latest_employer_response": "Automatic receipt9October, messages1a1229339ae4e73f and1a1229786c13378f. Company specifies15days without news; no substantive decision yet.",
       "next_action": "Await response to confirmed spontaneous application. No automatic follow-up, duplicate subsidiary application, training enrollment or matching-job submission.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-09T21:30:35+00:00",
+          "sender": "Groupe TOLOMEI via reply.hellowork.com",
+          "subject": "Merci pour votre candidature",
+          "messageId": "1a1229339ae4e73f",
+          "threadId": "1a1229339ae4e73f",
+          "sourceMessageId": "",
+          "confirmation": "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established."
+        },
+        {
+          "kind": "acknowledgment",
+          "direction": "incoming",
+          "timestamp": "2026-10-09T21:35:18+00:00",
+          "sender": "Groupe TOLOMEI via reply.hellowork.com",
+          "subject": "Merci pour votre candidature",
+          "messageId": "1a1229786c13378f",
+          "threadId": "1a1229786c13378f",
+          "sourceMessageId": "",
+          "confirmation": "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established."
+        }
+      ],
+      "last_response_at": "2026-10-09T21:35:18+00:00",
       "events": [
         {
           "kind": "portal",
@@ -1624,54 +1647,6 @@
       ]
     },
     {
-      "application_id": "MF-000027",
-      "company": "Tod's Group",
-      "country": "Italy",
-      "position": "Speculative footwear stitching, assembly and finishing",
-      "employer_website": "https://jobs.todsgroup.com/?locale=it_IT",
-      "recruitment_email": "",
-      "job_posting_url": "https://jobs.todsgroup.com/?locale=it_IT",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "portal",
-      "application_status": "blocked",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Review completed and archived on 20 October 2026. The required residence list still excludes Morocco and Other across the checked official routes; no permitted recruitment alternative was verified. Application not submitted. Reopen on an official form correction or employer-supported route. Retain the prepared Italian package; do not select a false country.",
-      "submission_state": "held",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [],
-      "documents": []
-    },
-    {
-      "application_id": "MF-000028",
-      "company": "Santoni",
-      "country": "Italy",
-      "position": "Speculative footwear making, stitching and finishing",
-      "employer_website": "https://www.santonishoes.com/it-it/workwithus.html",
-      "recruitment_email": "",
-      "job_posting_url": "https://career.santonishoes.com/",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "portal",
-      "application_status": "blocked",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Review completed and archived on 20 October 2026. Fresh authorized CV import confirmed the required domicile choices remain Italy/EU only and schooling has no verified niveau-bac option. Final application not submitted. Reopen on corrected fields or an employer-supported alternative; retain the prepared package.",
-      "submission_state": "held",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [],
-      "documents": []
-    },
-    {
       "application_id": "MF-000029",
       "company": "Salvatore Ferragamo",
       "country": "Italy",
@@ -2031,23 +2006,52 @@
       "country": "Austria",
       "position": "Speculative suitable leather inspection/finishing or transferable production work",
       "employer_website": "https://www.wollsdorf.com/karriere/offene-stellen/",
-      "recruitment_email": "",
+      "recruitment_email": "job.at@wollsdorf.com",
       "job_posting_url": "https://www.wollsdorf.com/karriere/offene-stellen/",
       "vacancy_id": "",
       "application_type": "speculative",
-      "application_channel": "portal",
-      "application_status": "blocked",
-      "date_sent": "",
-      "date_submitted": "",
-      "last_contact_date": "",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-21",
+      "date_submitted": "2026-10-21",
+      "last_contact_date": "2026-10-21",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Four explicit sending errors across 17 and 18 October. Both a 33 percent compressed dossier and a CV/letter-only 332502-byte package failed on 18 October. No receipt. Await repaired form or employer-supported route; official careers page permits a telephone enquiry about the broken form at +43 3178 5125-0. No further retry now.",
-      "submission_state": "held",
+      "latest_employer_response": "No employer response recorded after the confirmed 21 October speculative email.",
+      "next_action": "Reviewed and archived at the user's request. The complete speculative email is confirmed sent on 21 October. Await an employer response or delivery failure. No 26 October form review, automatic retry or duplicate email.",
+      "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
-      "events": [],
-      "documents": []
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-21T10:49:46+00:00",
+          "recipient": "job.at@wollsdorf.com",
+          "subject": "Speculative application | Leather production, inspection and finishing | Mohammed Fadil",
+          "messageId": "1a15e14d8524b959",
+          "threadId": "1a15e14d8524b959",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     },
     {
       "application_id": "MF-000036",
@@ -2605,8 +2609,8 @@
       ]
     }
   ],
-  "revision": "8e2c0fa3b0d8700519304e58c22549bd87f487b9ab401010472c658f98fdfd27",
-  "updated_at": "2026-10-21T10:40:37.368901+00:00",
+  "revision": "6e444521b3e545c510fa6348641e21a96660876da5d4464d997f0504c518bf27",
+  "updated_at": "2026-10-21T11:59:59.645935+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-21T10:40:37.368901+00:00",
-  "generatedLabel": "21 Oct 2026, 10:40",
+  "generatedAt": "2026-10-21T11:08:22.713325+00:00",
+  "generatedLabel": "21 Oct 2026, 11:08",
   "recordDate": "21 October 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
   "counts": {
-    "application": 29,
+    "application": 30,
     "supplement": 3,
     "inquiry": 7
   },
-  "applicationDataUpdatedAt": "2026-10-21T10:40:37.368901+00:00",
-  "applicationContentHash": "2e706df05359628252c4ce148ed6fc5a1ae90962972f7d0ec37bab049a175175",
+  "applicationDataUpdatedAt": "2026-10-21T11:59:59.645935+00:00",
+  "applicationContentHash": "80ab2bd9fa154bca651567bbb95e9e986ef65add3471f5a5f2d2ad58dc3ccd62",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-10-21T09:01:27.291Z",
@@ -22,10 +22,10 @@
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "4906efe6b1da22afe68d8ec29121da38350f00a85ceb1be62464e756d0dbc818",
-    "project-status.md": "63195c66185fa177a7fb1bac3e23f68e1da0ac4f23f70f5a183c30e3f5fe85f1"
+    "application-tracker.csv": "125e8304b86c977f5474d1b0817caf084289d84c59093d685192ceeb407c4c04",
+    "project-status.md": "c002e257c8686da55f6470c097ca3c3a7870d5519343e525b03d44b03017a395"
   },
-  "publicationRevision": "8e2c0fa3b0d8700519304e58c22549bd87f487b9ab401010472c658f98fdfd27",
+  "publicationRevision": "6e444521b3e545c510fa6348641e21a96660876da5d4464d997f0504c518bf27",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [
@@ -53,14 +53,6 @@
       "owner": "agent",
       "description": "Review the Tolomei application status locally. Do not infer rejection or send an automatic follow-up.",
       "reviewOn": "2026-10-24",
-      "dateKind": "internal_review"
-    },
-    {
-      "applicationId": "MF-000035",
-      "company": "Wollsdorf Leather",
-      "owner": "agent",
-      "description": "Wait for Wollsdorf's form repair. Check availability locally without retrying or requesting a telephone enquiry.",
-      "reviewOn": "2026-10-26",
       "dateKind": "internal_review"
     },
     {
@@ -93,8 +85,6 @@
     "MF-000003",
     "MF-000012",
     "MF-000020",
-    "MF-000027",
-    "MF-000028",
     "MF-000035",
     "MF-000041",
     "MF-000042"
@@ -108,18 +98,11 @@
       "reopenTrigger": "A substantive employer reply, a relevant official notice or a suitable new official vacancy."
     },
     {
-      "applicationId": "MF-000027",
-      "company": "Tod's Group",
-      "archivedOn": "2026-10-20",
-      "reason": "Application not submitted. The mandatory residence list has neither Morocco nor Other. The spontaneous intake, alternate careers link and advertised stitching application all require that same account form. No permitted recruitment email or separate application route was verified.",
-      "reopenTrigger": "Tod’s adds a truthful Morocco residence option, provides an official alternative application route, or publishes a relevant correction."
-    },
-    {
-      "applicationId": "MF-000028",
-      "company": "Santoni",
-      "archivedOn": "2026-10-20",
-      "reason": "Final application not submitted. After the approved CV import, the required domicile field still offers only Italy or EU, excluding Morocco. Required schooling choices have no verified equivalent for the applicant’s niveau bac. No permitted alternative application route was verified.",
-      "reopenTrigger": "Santoni provides truthful Morocco residence and education choices, or an official alternative application channel."
+      "applicationId": "MF-000035",
+      "company": "Wollsdorf Leather",
+      "archivedOn": "2026-10-21",
+      "reason": "Four portal attempts on 17 and 18 October returned sending errors. At your request, the complete CV, cover letter and portfolio were emailed to the officially published Austrian recruitment address on 21 October, with Gmail Sent confirmation. No further application action remains while awaiting a reply or delivery notice.",
+      "reopenTrigger": "A substantive employer reply, delivery failure, or an official recruitment notice requiring review."
     }
   ]
 }

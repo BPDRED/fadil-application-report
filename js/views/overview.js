@@ -4,12 +4,18 @@ function overview() {
     : '';
   const latest = apps.filter(a => (a.receivedEvents || []).length).map(a => ({ a, e:[...a.receivedEvents].sort((x, y) => (y.timestamp || '').localeCompare(x.timestamp || ''))[0] }))
     .sort((x, y) => (y.e.timestamp || '').localeCompare(x.e.timestamp || ''));
+  const receiptCompanies = new Set(apps.filter(a => a.receivedEvents.some(e => e.kind === 'acknowledgment')).map(a => a.company));
+  const otherReplyCompanies = new Set(apps.filter(a => a.receivedEvents.some(e => e.kind === 'response')).map(a => a.company));
+  const repliedCompanies = new Set([...receiptCompanies, ...otherReplyCompanies]);
   const overdue = apps.filter(reviewOverdue);
   const overdueRows = overdue.map(a => `<button class="row review-overdue" data-goto="${esc(a.id)}/summary"><span class="body"><b data-no-translate>${esc(simpleName(a))}</b><span class="sub">Internal review due</span>${reviewBadge(a)}</span>${ic('go','go')}</button>`).join('');
   return `${pendingActionsHTML()}${top}<h2 class="hero-t">Application progress</h2>
   <div class="cols"><div>
-    <div class="big">${confirmed}<span> / ${n}</span></div>
-    <p class="cap">Saved email transmissions or portal submissions without a final delivery failure. Sending alone does not prove delivery.</p>
+    <div class="big">${n}</div>
+    <p class="cap">Contacted applications and inquiries. Unsent leads are kept in the private lead list.</p>
+    <div class="kf"><div><b>${repliedCompanies.size}</b><span>Companies with replies</span></div><div><b>${receiptCompanies.size}</b><span>With automatic receipts</span></div><div><b>${otherReplyCompanies.size}</b><span>With other replies</span></div></div>
+    <p class="meta">Includes archived contacts. A company can appear in both reply groups.</p>
+    <p class="sec-title">Current application status</p>
     <div class="seg">${GROUPS.filter(g => statusCount(g[0])).map(g => `<div class="s-${g[0]}" style="flex:${statusCount(g[0])} 1 0" title="${g[1]}"></div>`).join('')}</div>
     <div class="chips">${GROUPS.map(g => `<button class="chip s-${g[0]}" data-status="${g[0]}"><b>${statusCount(g[0])}</b><i class="dot"></i><span>${g[1]}</span></button>`).join('')}</div>
     ${(report.archivedActions || []).length ? '<p class="meta">Archived reviews are excluded from active status counts.</p>' : ''}

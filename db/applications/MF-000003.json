@@ -39,7 +39,38 @@
       ]
     }
   ],
-  "receivedEvents": [],
+  "receivedEvents": [
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Automatic application confirmation received",
+      "timestamp": "2026-10-09T21:30:35+00:00",
+      "sender": "Groupe TOLOMEI via reply.hellowork.com",
+      "subject": "Merci pour votre candidature",
+      "body": "",
+      "messageId": "1a1229339ae4e73f",
+      "threadId": "1a1229339ae4e73f",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/gmail-auto-receipts-20261010.json",
+      "confirmation": "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established.",
+      "date": "9 Oct 2026, 21:30"
+    },
+    {
+      "kind": "acknowledgment",
+      "direction": "incoming",
+      "title": "Automatic application confirmation received",
+      "timestamp": "2026-10-09T21:35:18+00:00",
+      "sender": "Groupe TOLOMEI via reply.hellowork.com",
+      "subject": "Merci pour votre candidature",
+      "body": "",
+      "messageId": "1a1229786c13378f",
+      "threadId": "1a1229786c13378f",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/gmail-auto-receipts-20261010.json",
+      "confirmation": "Automatic receipt confirms the application was received. The employer gives a 15-day response window. No interview, offer or permit support is established.",
+      "date": "9 Oct 2026, 21:35"
+    }
+  ],
   "applicationStatus": "submitted_portal",
   "screenshots": [
     {

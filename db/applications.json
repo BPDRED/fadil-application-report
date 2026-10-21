@@ -124,7 +124,22 @@
         "timestamp": "2026-10-09T21:30:39.074935+00:00"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automatic application confirmation received",
+        "date": "9 Oct 2026, 21:30",
+        "timestamp": "2026-10-09T21:30:35+00:00",
+        "direction": "incoming"
+      },
+      {
+        "kind": "acknowledgment",
+        "title": "Automatic application confirmation received",
+        "date": "9 Oct 2026, 21:35",
+        "timestamp": "2026-10-09T21:35:18+00:00",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000004",
@@ -751,36 +766,6 @@
     ]
   },
   {
-    "id": "MF-000027",
-    "number": 27,
-    "company": "Tod's Group",
-    "country": "Italy",
-    "position": "Speculative footwear stitching, assembly and finishing",
-    "type": "Speculative intake blocked",
-    "language": "Italian",
-    "status": "held",
-    "applicationStatus": "blocked",
-    "next": "Review completed and archived on 20 October 2026. The required residence list still excludes Morocco and Other across the checked official routes; no permitted recruitment alternative was verified. Application not submitted. Reopen on an official form correction or employer-supported route. Retain the prepared Italian package; do not select a false country.",
-    "response": "No substantive recruitment response recorded.",
-    "events": [],
-    "receivedEvents": []
-  },
-  {
-    "id": "MF-000028",
-    "number": 28,
-    "company": "Santoni",
-    "country": "Italy",
-    "position": "Speculative footwear making, stitching and finishing",
-    "type": "Speculative intake blocked",
-    "language": "Italian",
-    "status": "held",
-    "applicationStatus": "blocked",
-    "next": "Review completed and archived on 20 October 2026. Fresh authorized CV import confirmed the required domicile choices remain Italy/EU only and schooling has no verified niveau-bac option. Final application not submitted. Reopen on corrected fields or an employer-supported alternative; retain the prepared package.",
-    "response": "No substantive recruitment response recorded.",
-    "events": [],
-    "receivedEvents": []
-  },
-  {
     "id": "MF-000029",
     "number": 29,
     "company": "Salvatore Ferragamo",
@@ -942,13 +927,20 @@
     "company": "Wollsdorf Leather",
     "country": "Austria",
     "position": "Speculative suitable leather inspection/finishing or transferable production work",
-    "type": "Speculative application blocked by form error",
+    "type": "Speculative email after failed form",
     "language": "English",
-    "status": "held",
-    "applicationStatus": "blocked",
-    "next": "Four explicit sending errors across 17 and 18 October. Both a 33 percent compressed dossier and a CV/letter-only 332502-byte package failed on 18 October. No receipt. Await repaired form or employer-supported route; official careers page permits a telephone enquiry about the broken form at +43 3178 5125-0. No further retry now.",
-    "response": "No substantive recruitment response recorded.",
-    "events": [],
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Reviewed and archived at the user's request. The complete speculative email is confirmed sent on 21 October. Await an employer response or delivery failure. No 26 October form review, automatic retry or duplicate email.",
+    "response": "No employer response recorded after the confirmed 21 October speculative email.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "21 Oct 2026, 10:49",
+        "timestamp": "2026-10-21T10:49:46+00:00"
+      }
+    ],
     "receivedEvents": []
   },
   {
