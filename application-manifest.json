@@ -2326,18 +2326,180 @@
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
       ]
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15a17aaa78e788",
+      "company": "Pelletteria Ricci",
+      "country": "Italy",
+      "position": "Speculative luxury leather-goods production",
+      "employer_website": "",
+      "recruitment_email": "info@riccipelletterie.it",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T16:14:22.000Z",
+          "recipient": "info@riccipelletterie.it",
+          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+          "messageId": "1a15a17aaa78e788",
+          "threadId": "1a15a17aaa78e788",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15a17d1ddb78de",
+      "company": "Pelletteria Il Veliero",
+      "country": "Italy",
+      "position": "Speculative leather cutting, preparation and assembly",
+      "employer_website": "",
+      "recruitment_email": "info@pelletteriailveliero.it",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T16:14:32.000Z",
+          "recipient": "info@pelletteriailveliero.it",
+          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+          "messageId": "1a15a17d1ddb78de",
+          "threadId": "1a15a17d1ddb78de",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15a17ec6cb8d55",
+      "company": "Garland S.r.l.",
+      "country": "Italy",
+      "position": "Speculative luxury leather-goods production",
+      "employer_website": "",
+      "recruitment_email": "personale@garland74.it",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T16:14:39.000Z",
+          "recipient": "personale@garland74.it",
+          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+          "messageId": "1a15a17ec6cb8d55",
+          "threadId": "1a15a17ec6cb8d55",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15b415dcb1669f",
+      "company": "Pelletteria Almax",
+      "country": "Italy",
+      "position": "Speculative leather-goods craft application",
+      "employer_website": "",
+      "recruitment_email": "info@pelletteriaalmax.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T21:39:32.000Z",
+          "recipient": "info@pelletteriaalmax.com",
+          "subject": "Candidatura – Artigiano esperto in pelletteria",
+          "messageId": "1a15b415dcb1669f",
+          "threadId": "1a15b415dcb1669f",
+          "filenames": [],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "timestamp": "2026-10-20T21:43:41.000Z",
+          "recipient": "info@pelletteriaalmax.com",
+          "subject": "Re: Candidatura – Artigiano esperto in pelletteria",
+          "messageId": "1a15b452bf70238d",
+          "threadId": "1a15b415dcb1669f",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
     }
   ],
-  "revision": "a331684e519b5dfafe3a0fc243049c628ac83c27192aa084a87405730b6defca",
-  "updated_at": "2026-10-20T20:25:39.862280+00:00",
+  "revision": "f47f2cda843a72aa1f9e1531c9e43d737a0df8f6783bec8737b445b7f9bcf260",
+  "updated_at": "2026-10-20T21:43:41.000Z",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-20T08:58:33.664Z",
-    "latest_attempt_started_utc": "2026-10-20T08:58:33.664Z",
+    "last_successful_scan_utc": "2026-10-21T09:01:27.291Z",
+    "latest_attempt_started_utc": "2026-10-21T09:01:27.291Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 20,
+    "messages_enumerated": 11,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }

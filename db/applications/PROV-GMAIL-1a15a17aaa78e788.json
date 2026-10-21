@@ -1,0 +1,49 @@
+{
+  "id": "PROV-GMAIL-1a15a17aaa78e788",
+  "number": 41,
+  "company": "Pelletteria Ricci",
+  "country": "Italy",
+  "position": "Speculative luxury leather-goods production",
+  "type": "Provisional Gmail-discovered speculative application",
+  "language": "Italian",
+  "status": "email",
+  "summary": "A speculative Italian application with CV and selected portfolio was sent to Pelletteria Ricci. Morocco residence and the need for a lawful employer-supported route were disclosed. Delivery, reading, recruitment interest and permit support are unconfirmed.",
+  "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+  "recipient": "info@riccipelletterie.it",
+  "sentDate": "20 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "20 Oct 2026, 16:14",
+      "timestamp": "2026-10-20T16:14:22.000Z",
+      "recipient": "info@riccipelletterie.it",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+      "body": "Spett.le Pelletteria Ricci,\n\nMi chiamo Mohammed Fadil e sono un artigiano marocchino specializzato nella lavorazione della pelle, con 20 anni di esperienza professionale.\n\nHo maturato esperienza nella produzione di borse, accessori e capi di abbigliamento in pelle presso laboratori in Marocco che hanno realizzato commesse per marchi internazionali, tra cui Balmain, Michael Kors, Wales Bonner e Agnès b. Conosco le diverse fasi della lavorazione: modellistica, taglio, preparazione, cucitura, assemblaggio, rifinitura e controllo qualità.\n\nSono interessato alle vostre attività di preparazione, cucitura, montaggio, rifinitura e controllo qualità di borse di lusso.\n\nAttualmente risiedo in Marocco e sono disponibile a trasferirmi in Italia per un impiego regolare. Vorrei sapere se la vostra azienda prende in considerazione candidati residenti in Marocco e un'eventuale assunzione tramite le procedure del Decreto Flussi 2027.\n\nIn allegato trasmetto il mio curriculum vitae in italiano e una selezione del mio portfolio professionale. Resto a disposizione per un colloquio online e per ulteriori informazioni.\n\nVi ringrazio per l'attenzione.\n\nCordiali saluti,\nMohammed Fadil\nTémara, Marocco\nTelefono: +212 603 574 848\nEmail: mfadil.med@gmail.com\nPortfolio online: www.fanan.ma",
+      "messageId": "1a15a17aaa78e788",
+      "threadId": "1a15a17aaa78e788",
+      "filenames": [
+        "CV_Mohammed_Fadil_Italiano.pdf",
+        "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15a17aaa78e788_italy_pelletteria-ricci/gmail-sent-evidence.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15a17aaa78e788_italy_pelletteria-ricci/gmail-sent-evidence.json",
+  "manifest": "",
+  "receiptReference": "",
+  "channelNote": "Provisional Gmail-discovered record; reconcile to a permanent project application ID before future contact.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required",
+    "Provisional identity pending project reconciliation"
+  ]
+}

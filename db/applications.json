@@ -1084,5 +1084,99 @@
       }
     ],
     "receivedEvents": []
+  },
+  {
+    "id": "PROV-GMAIL-1a15a17aaa78e788",
+    "number": 41,
+    "company": "Pelletteria Ricci",
+    "country": "Italy",
+    "position": "Speculative luxury leather-goods production",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "20 Oct 2026, 16:14",
+        "timestamp": "2026-10-20T16:14:22.000Z"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "PROV-GMAIL-1a15a17d1ddb78de",
+    "number": 42,
+    "company": "Pelletteria Il Veliero",
+    "country": "Italy",
+    "position": "Speculative leather cutting, preparation and assembly",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "20 Oct 2026, 16:14",
+        "timestamp": "2026-10-20T16:14:32.000Z"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "PROV-GMAIL-1a15a17ec6cb8d55",
+    "number": 43,
+    "company": "Garland S.r.l.",
+    "country": "Italy",
+    "position": "Speculative luxury leather-goods production",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "20 Oct 2026, 16:14",
+        "timestamp": "2026-10-20T16:14:39.000Z"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "PROV-GMAIL-1a15b415dcb1669f",
+    "number": 44,
+    "company": "Pelletteria Almax",
+    "country": "Italy",
+    "position": "Speculative leather-goods craft application",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Speculative application sent",
+        "date": "20 Oct 2026, 21:39",
+        "timestamp": "2026-10-20T21:39:32.000Z"
+      },
+      {
+        "kind": "supplement",
+        "title": "Application documents supplemented",
+        "date": "20 Oct 2026, 21:43",
+        "timestamp": "2026-10-20T21:43:41.000Z"
+      }
+    ],
+    "receivedEvents": []
   }
 ]

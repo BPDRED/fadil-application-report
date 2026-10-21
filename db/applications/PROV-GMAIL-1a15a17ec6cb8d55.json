@@ -1,0 +1,49 @@
+{
+  "id": "PROV-GMAIL-1a15a17ec6cb8d55",
+  "number": 43,
+  "company": "Garland S.r.l.",
+  "country": "Italy",
+  "position": "Speculative luxury leather-goods production",
+  "type": "Provisional Gmail-discovered speculative application",
+  "language": "Italian",
+  "status": "email",
+  "summary": "A speculative Italian application with CV and selected portfolio was sent to Garland S.r.l. for luxury leather-goods production. Morocco residence and the need for a lawful employer-supported route were disclosed. Delivery, reading, recruitment interest and permit support are unconfirmed.",
+  "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+  "recipient": "personale@garland74.it",
+  "sentDate": "20 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "20 Oct 2026, 16:14",
+      "timestamp": "2026-10-20T16:14:39.000Z",
+      "recipient": "personale@garland74.it",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+      "body": "Spett.le Garland S.r.l.,\n\nMi chiamo Mohammed Fadil e sono un artigiano marocchino specializzato nella lavorazione della pelle, con 20 anni di esperienza professionale.\n\nHo maturato esperienza nella produzione di borse, accessori e capi di abbigliamento in pelle presso laboratori in Marocco che hanno realizzato commesse per marchi internazionali, tra cui Balmain, Michael Kors, Wales Bonner e Agnès b. Conosco le diverse fasi della lavorazione: modellistica, taglio, preparazione, cucitura, assemblaggio, rifinitura e controllo qualità.\n\nDesidero proporre la mia esperienza nella produzione artigianale di pelletteria di alta gamma e nella cura dei dettagli richiesti dai marchi del lusso.\n\nAttualmente risiedo in Marocco e sono disponibile a trasferirmi in Italia per un impiego regolare. Vorrei sapere se la vostra azienda prende in considerazione candidati residenti in Marocco e un'eventuale assunzione tramite le procedure del Decreto Flussi 2027.\n\nIn allegato trasmetto il mio curriculum vitae in italiano e una selezione del mio portfolio professionale. Resto a disposizione per un colloquio online e per ulteriori informazioni.\n\nVi ringrazio per l'attenzione.\n\nCordiali saluti,\nMohammed Fadil\nTémara, Marocco\nTelefono: +212 603 574 848\nEmail: mfadil.med@gmail.com\nPortfolio online: www.fanan.ma",
+      "messageId": "1a15a17ec6cb8d55",
+      "threadId": "1a15a17ec6cb8d55",
+      "filenames": [
+        "CV_Mohammed_Fadil_Italiano.pdf",
+        "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15a17ec6cb8d55_italy_garland-s-r-l/gmail-sent-evidence.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15a17ec6cb8d55_italy_garland-s-r-l/gmail-sent-evidence.json",
+  "manifest": "",
+  "receiptReference": "",
+  "channelNote": "Provisional Gmail-discovered record; reconcile to a permanent project application ID before future contact.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required",
+    "Provisional identity pending project reconciliation"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "PROV-GMAIL-1a15b415dcb1669f",
+  "number": 44,
+  "company": "Pelletteria Almax",
+  "country": "Italy",
+  "position": "Speculative leather-goods craft application",
+  "type": "Provisional Gmail-discovered speculative application",
+  "language": "Italian",
+  "status": "email",
+  "summary": "A speculative Italian application was sent to Pelletteria Almax, followed four minutes later by a supplement with the Italian CV and selected portfolio. Morocco residence and the need for a lawful employer-supported route were disclosed in the supplement. Delivery, reading, recruitment interest and permit support are unconfirmed.",
+  "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+  "recipient": "info@pelletteriaalmax.com",
+  "sentDate": "20 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Speculative application sent",
+      "date": "20 Oct 2026, 21:39",
+      "timestamp": "2026-10-20T21:39:32.000Z",
+      "recipient": "info@pelletteriaalmax.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Candidatura – Artigiano esperto in pelletteria",
+      "body": "Buongiorno,\n\nSono un artigiano marocchino con oltre 20 anni di esperienza nel settore della pelletteria.\n\nHo esperienza nella produzione di borse, abbigliamento in pelle e articoli di pelletteria. Conosco tutte le fasi della lavorazione.\n\nSono interessato a un'opportunità di lavoro presso la vostra azienda e sono disponibile a trasferirmi in Italia.\n\nPosso inviare il mio curriculum vitae e il mio portfolio professionale su richiesta.\n\nRingrazio per la vostra attenzione.\n\nCordiali saluti,\nMohammed Fadil",
+      "messageId": "1a15b415dcb1669f",
+      "threadId": "1a15b415dcb1669f",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15b415dcb1669f_italy_pelletteria-almax/gmail-sent-evidence.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    },
+    {
+      "kind": "supplement",
+      "title": "Application documents supplemented",
+      "date": "20 Oct 2026, 21:43",
+      "timestamp": "2026-10-20T21:43:41.000Z",
+      "recipient": "info@pelletteriaalmax.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Re: Candidatura – Artigiano esperto in pelletteria",
+      "body": "Spett.le Pelletteria Almax,\n\nA integrazione della mia precedente candidatura, invio il curriculum vitae in italiano e il portfolio professionale, non allegati al primo messaggio.\n\nSono Mohammed Fadil, artigiano marocchino con 20 anni di esperienza nella produzione di borse, accessori e abbigliamento in pelle. Ho lavorato presso laboratori in Marocco che hanno realizzato commesse per Balmain, Michael Kors, Wales Bonner e Agnès b. Conosco modellistica, taglio, preparazione, cucitura, assemblaggio, rifinitura e controllo qualità.\n\nRisiedo in Marocco e sono disponibile a trasferirmi in Italia. Vorrei sapere se valutate candidati residenti in Marocco e un'eventuale assunzione tramite le procedure del Decreto Flussi 2027, ove applicabili.\n\nResto disponibile per un colloquio online.\n\nCordiali saluti,\nMohammed Fadil\nTémara, Marocco\nTel: +212 603 574 848\nmfadil.med@gmail.com\nwww.fanan.ma",
+      "messageId": "1a15b452bf70238d",
+      "threadId": "1a15b415dcb1669f",
+      "filenames": [
+        "CV_Mohammed_Fadil_Italiano.pdf",
+        "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15b415dcb1669f_italy_pelletteria-almax/gmail-sent-evidence.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15b415dcb1669f_italy_pelletteria-almax/gmail-sent-evidence.json",
+  "manifest": "",
+  "receiptReference": "",
+  "channelNote": "Provisional Gmail-discovered record; reconcile to a permanent project application ID before future contact.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required",
+    "Provisional identity pending project reconciliation"
+  ]
+}
