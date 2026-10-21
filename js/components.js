@@ -15,13 +15,29 @@ const simpleName = a => a.displayName || a.company;      /* display name: option
 const shotSrc = s => L10n.lang === 'ar' ? (L10n.dict._evidence?.[s.src]?.path || s.src) : s.src;
 const isScreening = a => !!a.screeningOnly;               /* DB boolean: screening answers only, no documents delivered */
 
+// Review dates are internal reminders, never inferred employer decisions.
+function reviewDate(a) {
+  if ((report.archivedActions || []).some(x => x.applicationId === a.id) || ['rejected','closed','withdrawn'].includes(a.applicationStatus)) return '';
+  return (report.pendingActions || []).find(x => x.applicationId === a.id)?.reviewOn
+    || (report.checkDates || []).find(x => x.number === a.number)?.date || '';
+}
+const reviewOverdue = a => !!reviewDate(a) && Date.parse(reviewDate(a) + 'T00:00:00Z') / 864e5 < todayOrdinal();
+const reviewClass = a => reviewOverdue(a) ? 'review-overdue' : '';
+function reviewBadge(a) {
+  const iso = reviewDate(a);
+  if (!iso) return ['awaiting_response','submitted_portal'].includes(a.applicationStatus) && !(report.archivedActions || []).some(x => x.applicationId === a.id)
+    ? '<span class="sub review-unset">No check date set</span>' : '';
+  const date = new Intl.DateTimeFormat(L10n.lang === 'ar' ? 'ar-MA' : 'en-GB', {year:'numeric',month:'short',day:'numeric',timeZone:'UTC'}).format(new Date(iso + 'T12:00:00Z'));
+  return `<span class="review-date" data-no-translate>${esc(L10n.t('Check on {date}', {date}))}${reviewOverdue(a) ? ' · ' + esc(L10n.t('Overdue review')) : ''}</span>`;
+}
+
 function pendingActionsHTML() {
   const pending = report.pendingActions || [];
   const ownerLabels = {agent:'For the local agent', user:'For you to do locally', employer:'Waiting for employer; review locally'};
   if (!pending.length) return '';
   return `<section aria-label="Pending next actions" data-pending-actions><h2 class="hero-t">Pending next actions</h2>
     <p class="cap">These stay here until you confirm completion locally and the update is saved to GitHub. Reading an item or reaching its review date does not complete it.</p>
-    <div class="blk">${pending.map(a => `<button class="row" data-pending-id="${esc(a.applicationId)}" data-goto="${esc(a.applicationId)}/summary"><span class="body"><b data-no-translate>${esc(a.company)}</b><span class="sub">${esc(a.description)}</span><span class="sub"><span>${ownerLabels[a.owner]}</span> · <span>Local confirmation required</span></span>${a.reviewOn ? `<span class="sub" data-no-translate>${esc(L10n.t('Internal review on {date}', {date:new Intl.DateTimeFormat(L10n.lang==='ar'?'ar-MA':'en-GB',{year:'numeric',month:'short',day:'numeric',timeZone:'UTC'}).format(new Date(a.reviewOn+'T12:00:00Z'))}))}</span>` : ''}</span>${ic('go','go')}</button>`).join('')}</div></section>`;
+    <div class="blk">${pending.map(a => `<button class="row ${reviewClass(apps.find(x => x.id === a.applicationId))}" data-pending-id="${esc(a.applicationId)}" data-goto="${esc(a.applicationId)}/summary"><span class="body"><b data-no-translate>${esc(a.company)}</b><span class="sub">${esc(a.description)}</span><span class="sub"><span>${ownerLabels[a.owner]}</span> · <span>Local confirmation required</span></span>${reviewBadge(apps.find(x => x.id === a.applicationId))}</span>${ic('go','go')}</button>`).join('')}</div></section>`;
 }
 
 /* ---- ICONS: inline SVG path data on a 24×24 grid, stroke only (colour = currentColor, width set in CSS).
@@ -67,8 +83,8 @@ const kindOf = e => KIND[e.kind] ? e.kind : 'response';
 /* eRow(): one employer row, used by the Employers list.
    [ 01 | Company name (bold)                   | › ]
    [    | 🇮🇹 Italy · Not submitted · waiting     |   ]      number = mono grey · status text = state colour */
-const eRow = a => `<button class="row" data-goto="${esc(a.id)}"><span class="num mono">${pad(a.number)}</span><span class="body"><b class="nt" data-no-translate>${esc(simpleName(a))}</b>
-    <span class="sub">${flag(a.country)}<span>${esc(a.country)}</span> · ${stTxt(a)}</span></span>${ic('go','go')}</button>`;
+const eRow = a => `<button class="row ${reviewClass(a)}" data-goto="${esc(a.id)}"><span class="num mono">${pad(a.number)}</span><span class="body"><b class="nt" data-no-translate>${esc(simpleName(a))}</b>
+    <span class="sub">${flag(a.country)}<span>${esc(a.country)}</span> · ${stTxt(a)}</span>${reviewBadge(a)}</span>${ic('go','go')}</button>`;
 const cnt = f => apps.filter(f).length;
 const countryList = () => [...new Set(apps.map(a => a.country))].map(c => [c, cnt(a => a.country === c)]).sort((x, y) => y[1] - x[1]);
 const shortDate = e => String(e.date || '').split(',')[0].replace(/\s\d{4}$/, '');
@@ -85,7 +101,7 @@ const agoOf = e => { const [day, month, year] = String(e.date || '').split(',')[
 };
 /* same row layout as "Dates to check" on the Next steps page */
 const updRow = ({ a, e }) => { const [d, m = ''] = shortDate(e).split(' ');
-  return `<button class="dt s-${esc(a.applicationStatus)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${esc(d)}</b><span>${esc(m)}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b><span class="left">${agoOf(e)}</span></span><span class="it-t nt">${esc(e.title)}</span></span>${ic('go','go')}</button>`; };
+  return `<button class="dt s-${esc(a.applicationStatus)} ${reviewClass(a)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${esc(d)}</b><span>${esc(m)}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b><span class="left">${agoOf(e)}</span></span><span class="it-t nt">${esc(e.title)}</span>${reviewBadge(a)}</span>${ic('go','go')}</button>`; };
 
 /* --- SEARCH ROW (shared by Employers + Activity): title on the left, search icon on the right that opens into a
    full-width field. SO[k] = open? The row also stays open while it holds text. Closing logic: see the click handler. --- */
@@ -153,7 +169,7 @@ function dateRow([num, iso, text]) {
   const a = apps.find(x => x.number === num); if (!a) return '';
   const [y, m, d] = iso.split('-').map(Number), days = Date.UTC(y, m - 1, d) / 864e5 - todayOrdinal();
   const left = days > 1 ? `in ${days} days` : days === 1 ? 'tomorrow' : days === 0 ? 'today' : 'date passed';
-  return { days, html:`<button class="dt s-${esc(a.applicationStatus)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${d}</b><span>${MONTHS[m - 1]}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b></span><span class="it-t">${esc(text)}</span><span class="left">${left}</span></span>${ic('go','go')}</button>` };
+  return { days, html:`<button class="dt s-${esc(a.applicationStatus)} ${reviewClass(a)}" data-goto="${esc(a.id)}/timeline"><span class="dt-d"><b data-no-translate>${d}</b><span>${MONTHS[m - 1]}</span></span><span class="body"><span class="it-h">${flag(a.country)}<b class="nt" data-no-translate>${esc(simpleName(a))}</b></span><span class="it-t">${esc(text)}</span><span class="left">${left}</span></span>${ic('go','go')}</button>` };
 }
 const docRow = d => `<a class="doc" href="${esc(safeUrl(d.path))}" target="_blank" rel="noopener"><span class="fi">PDF</span><span class="dn"><b>${esc(d.filename)}</b><small><span>${esc(d.pages)} ${d.pages === 1 ? 'page' : 'pages'}</span> · <span>${esc(d.size >= 1024 ? (d.size/1024).toFixed(1) + ' MB' : d.size + ' KB')}</span></small></span>${ic('ext')}</a>`;
 const docNote = a => a.documentNote || '';     /* DB: optional one-line note per employer */

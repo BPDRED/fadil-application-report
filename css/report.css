@@ -354,3 +354,11 @@ dialog[open]{animation:fade .25s}dialog::backdrop{background:#000}
   #fbar .fgrp{flex:1 0 100%;flex-wrap:wrap;padding-inline:24px}
   #fbar button{min-height:46px}
 }
+
+/* Date reminders retain the application's actual status colour. */
+.review-date{display:block;width:fit-content;margin-top:8px;padding:4px 9px;border-radius:6px;background:#fff3d6;color:#714b08;font-size:.8rem;font-weight:700;line-height:1.5;font-variant-numeric:tabular-nums}
+.review-overdue,.review-overdue:hover,.review-overdue:active{background:#fff0f0}
+.review-overdue .review-date{background:#ffe0e0;color:#9b2525}
+.next.review-overdue{padding:12px 14px;border-radius:0 10px 10px 0}
+[dir=rtl] .next.review-overdue{border-radius:10px 0 0 10px}
+.next .review-date{margin:0 0 8px}

@@ -1,0 +1,70 @@
+{
+  "id": "MF-000041",
+  "number": 41,
+  "company": "Groupe Tolomei",
+  "country": "France",
+  "position": "Maroquinier H/F, Granges-les-Beaumont, CDI",
+  "type": "Advertised role",
+  "language": "French",
+  "status": "portal",
+  "summary": "21 October: the official Granges-les-Beaumont vacancy form confirmed submission of the French CV and contact details. The form provided no motivation-letter or portfolio field. Both remain prepared locally; this is separate from the 9 October spontaneous application.",
+  "next": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+  "recipient": "https://recrutement.tolomei.fr/offer/11618-NTIzNzMtWW95VWNu",
+  "sentDate": "21 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "21 Oct 2026, 10:34",
+      "timestamp": "2026-10-21T10:34:55.604584+00:00",
+      "recipient": "https://recrutement.tolomei.fr/offer/11618-NTIzNzMtWW95VWNu",
+      "subject": "",
+      "body": "",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "confirmation": "Candidature envoyée Vous avez postulé à cette offre : Maroquinier H/F",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/portal-submission-evidence.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/submission-confirmed.jpg",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "d8499b23f4ae4537fd0933997463f940fcedf52be1fea7fafee5a752134f17f3",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/delivery/Mohammed_Fadil_CV.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000041-1.jpg",
+      "caption": "Application submitted through official form",
+      "receipt": "Candidature envoyée Vous avez postulé à cette offre : Maroquinier H/F",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000041-1.jpg",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/submission-confirmed.jpg"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "d8499b23f4ae4537fd0933997463f940fcedf52be1fea7fafee5a752134f17f3",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/delivery/Mohammed_Fadil_CV.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/evidence.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Consult saved employer verification."
+}

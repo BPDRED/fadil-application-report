@@ -1,6 +1,6 @@
 {
   "id": "PROV-GMAIL-1a15b415dcb1669f",
-  "number": 44,
+  "number": 46,
   "company": "Pelletteria Almax",
   "country": "Italy",
   "position": "Speculative leather-goods craft application",
@@ -53,7 +53,7 @@
   "preparedDocuments": [],
   "response": "No substantive recruitment response recorded.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/PROV-GMAIL-1a15b415dcb1669f_italy_pelletteria-almax/gmail-sent-evidence.json",
-  "manifest": "",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
   "receiptReference": "",
   "channelNote": "Provisional Gmail-discovered record; reconcile to a permanent project application ID before future contact.",
   "flags": [

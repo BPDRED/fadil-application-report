@@ -1087,7 +1087,7 @@
   },
   {
     "id": "PROV-GMAIL-1a15a17aaa78e788",
-    "number": 41,
+    "number": 43,
     "company": "Pelletteria Ricci",
     "country": "Italy",
     "position": "Speculative luxury leather-goods production",
@@ -1109,7 +1109,7 @@
   },
   {
     "id": "PROV-GMAIL-1a15a17d1ddb78de",
-    "number": 42,
+    "number": 44,
     "company": "Pelletteria Il Veliero",
     "country": "Italy",
     "position": "Speculative leather cutting, preparation and assembly",
@@ -1131,7 +1131,7 @@
   },
   {
     "id": "PROV-GMAIL-1a15a17ec6cb8d55",
-    "number": 43,
+    "number": 45,
     "company": "Garland S.r.l.",
     "country": "Italy",
     "position": "Speculative luxury leather-goods production",
@@ -1153,7 +1153,7 @@
   },
   {
     "id": "PROV-GMAIL-1a15b415dcb1669f",
-    "number": 44,
+    "number": 46,
     "company": "Pelletteria Almax",
     "country": "Italy",
     "position": "Speculative leather-goods craft application",
@@ -1175,6 +1175,50 @@
         "title": "Application documents supplemented",
         "date": "20 Oct 2026, 21:43",
         "timestamp": "2026-10-20T21:43:41.000Z"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000041",
+    "number": 41,
+    "company": "Groupe Tolomei",
+    "country": "France",
+    "position": "Maroquinier H/F, Granges-les-Beaumont, CDI",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "21 Oct 2026, 10:34",
+        "timestamp": "2026-10-21T10:34:55.604584+00:00"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000042",
+    "number": 42,
+    "company": "Groupe Tolomei",
+    "country": "France",
+    "position": "Préparateur/trice en maroquinerie, Romans-sur-Isère, CDD 3 mois",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "21 Oct 2026, 10:34",
+        "timestamp": "2026-10-21T10:34:00.094230+00:00"
       }
     ],
     "receivedEvents": []

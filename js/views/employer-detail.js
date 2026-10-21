@@ -4,7 +4,7 @@ function head(a) {
 
 function summary(a) {
   const portal = a.status === 'portal', note = docNote(a);
-  return `${head(a)}<div class="next s-${esc(a.applicationStatus)}"><p class="sec-title" style="margin:0 0 4px">Next step</p><p>${esc(a.next)}</p><p>${esc(a.response)}</p></div>
+  return `${head(a)}<div class="next s-${esc(a.applicationStatus)} ${reviewClass(a)}">${reviewBadge(a)}<p class="sec-title" style="margin:0 0 4px">Next step</p><p>${esc(a.next)}</p><p>${esc(a.response)}</p></div>
   <p class="sec-title">${a.status === 'held' ? 'Inquiry recipient' : portal ? 'Application website' : 'Email recipient'}</p>
   <dl class="kv"><dt>To</dt><dd class="nt">${portal ? `<a class="link" style="padding:0" href="${esc(safeUrl(a.recipient))}" target="_blank" rel="noopener" data-no-translate>${esc(new URL(a.recipient).hostname)} ↗</a>` : `<span data-no-translate>${esc(a.recipient)}</span>`}</dd>
   <dt>Channel</dt><dd><span>${esc(a.channelNote)}</span>${a.sentDate ? ' · <span>' + esc(a.sentDate) + '</span>' : ''}</dd></dl>

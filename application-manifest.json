@@ -2356,6 +2356,7 @@
           "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
           "messageId": "1a15a17aaa78e788",
           "threadId": "1a15a17aaa78e788",
+          "reference": "",
           "filenames": [
             "CV_Mohammed_Fadil_Italiano.pdf",
             "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
@@ -2394,6 +2395,7 @@
           "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
           "messageId": "1a15a17d1ddb78de",
           "threadId": "1a15a17d1ddb78de",
+          "reference": "",
           "filenames": [
             "CV_Mohammed_Fadil_Italiano.pdf",
             "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
@@ -2432,6 +2434,7 @@
           "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
           "messageId": "1a15a17ec6cb8d55",
           "threadId": "1a15a17ec6cb8d55",
+          "reference": "",
           "filenames": [
             "CV_Mohammed_Fadil_Italiano.pdf",
             "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
@@ -2470,6 +2473,7 @@
           "subject": "Candidatura – Artigiano esperto in pelletteria",
           "messageId": "1a15b415dcb1669f",
           "threadId": "1a15b415dcb1669f",
+          "reference": "",
           "filenames": [],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         },
@@ -2480,6 +2484,7 @@
           "subject": "Re: Candidatura – Artigiano esperto in pelletteria",
           "messageId": "1a15b452bf70238d",
           "threadId": "1a15b415dcb1669f",
+          "reference": "",
           "filenames": [
             "CV_Mohammed_Fadil_Italiano.pdf",
             "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
@@ -2488,10 +2493,96 @@
         }
       ],
       "documents": []
+    },
+    {
+      "application_id": "MF-000041",
+      "company": "Groupe Tolomei",
+      "country": "France",
+      "position": "Maroquinier H/F, Granges-les-Beaumont, CDI",
+      "employer_website": "https://www.tolomei.fr",
+      "recruitment_email": "",
+      "job_posting_url": "https://recrutement.tolomei.fr/offer/11618-NTIzNzMtWW95VWNu",
+      "vacancy_id": "52373-YoyUcn",
+      "application_type": "advertised",
+      "application_channel": "portal",
+      "application_status": "submitted_portal",
+      "date_sent": "",
+      "date_submitted": "2026-10-21",
+      "last_contact_date": "2026-10-21",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+      "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-10-21T10:34:55.604584+00:00",
+          "recipient": "https://recrutement.tolomei.fr/offer/11618-NTIzNzMtWW95VWNu",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Candidature envoyée Vous avez postulé à cette offre : Maroquinier H/F"
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/delivery/Mohammed_Fadil_CV.pdf"
+        }
+      ]
+    },
+    {
+      "application_id": "MF-000042",
+      "company": "Groupe Tolomei",
+      "country": "France",
+      "position": "Préparateur/trice en maroquinerie, Romans-sur-Isère, CDD 3 mois",
+      "employer_website": "https://www.tolomei.fr",
+      "recruitment_email": "",
+      "job_posting_url": "https://recrutement.tolomei.fr/offer/11618-NTIzNzMteWl5ZWRU",
+      "vacancy_id": "52373-yiyedT",
+      "application_type": "advertised",
+      "application_channel": "portal",
+      "application_status": "submitted_portal",
+      "date_sent": "",
+      "date_submitted": "2026-10-21",
+      "last_contact_date": "2026-10-21",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a response to the confirmed advertised-role application. No repeat submission or automatic follow-up. The prepared motivation and portfolio remain available on request.",
+      "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-10-21T10:34:00.094230+00:00",
+          "recipient": "https://recrutement.tolomei.fr/offer/11618-NTIzNzMteWl5ZWRU",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Candidature envoyée Vous avez postulé à cette offre : Préparateur/trice en maroquinerie"
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000042_france_tolomei-romans/delivery/Mohammed_Fadil_CV.pdf"
+        }
+      ]
     }
   ],
-  "revision": "f47f2cda843a72aa1f9e1531c9e43d737a0df8f6783bec8737b445b7f9bcf260",
-  "updated_at": "2026-10-20T21:43:41.000Z",
+  "revision": "d70c02344cb0000f2796dce7b39037980538ac8afba53568e511bf9c5eb23dc0",
+  "updated_at": "2026-10-21T10:36:34.625520+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

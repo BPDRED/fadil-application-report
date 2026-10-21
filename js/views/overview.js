@@ -4,6 +4,8 @@ function overview() {
     : `<div class="alert ok">${ic('check')}<span class="body"><strong>No blocked application</strong><span class="sub">Nothing is stuck right now</span></span></div>`;
   const latest = apps.filter(a => (a.receivedEvents || []).length).map(a => ({ a, e:[...a.receivedEvents].sort((x, y) => (y.timestamp || '').localeCompare(x.timestamp || ''))[0] }))
     .sort((x, y) => (y.e.timestamp || '').localeCompare(x.e.timestamp || ''));
+  const overdue = apps.filter(reviewOverdue);
+  const overdueRows = overdue.map(a => `<button class="row review-overdue" data-goto="${esc(a.id)}/summary"><span class="body"><b data-no-translate>${esc(simpleName(a))}</b><span class="sub">Internal review due</span>${reviewBadge(a)}</span>${ic('go','go')}</button>`).join('');
   return `${pendingActionsHTML()}${top}<h2 class="hero-t">Application progress</h2>
   <div class="cols"><div>
     <div class="big">${confirmed}<span> / ${n}</span></div>
@@ -17,7 +19,7 @@ function overview() {
     <div class="chips">${countryList().map(([c, k]) => `<button class="chip" data-country="${esc(c)}">${flag(c)}<span>${esc(c)}</span> <b>${k}</b></button>`).join('')}</div>
   </div><div>
     <p class="sec-title">Latest verified updates</p>
-    ${latest.length ? `<div class="blk flat">${latest.map(updRow).join('')}</div>` : '<p class="empty">No verified replies yet.</p>'}
+    ${latest.length || overdue.length ? `<div class="blk flat">${overdueRows}${latest.filter(x => !reviewOverdue(x.a)).map(updRow).join('')}</div>` : '<p class="empty">No verified replies yet.</p>'}
   </div></div><div class="src">${report.sourceLinks.map(link => `<a href="${esc(safeUrl(link.url))}" target="_blank" rel="noopener">${esc(link.label)}</a>`).join('')}<span><span>Sender</span>: <span data-no-translate>${esc(report.sender)}</span></span></div>`;
 }
 
