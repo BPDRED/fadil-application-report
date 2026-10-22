@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:08:22.713325+00:00",
+  "generatedAt": "2026-10-22T09:05:07.981Z",
   "generatedLabel": "21 Oct 2026, 11:08",
   "recordDate": "21 October 2026",
   "timezone": "Africa/Casablanca",
@@ -13,8 +13,8 @@
   "applicationContentHash": "80ab2bd9fa154bca651567bbb95e9e986ef65add3471f5a5f2d2ad58dc3ccd62",
   "monitoringStatus": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-21T09:01:27.291Z",
-    "latest_attempt_started_utc": "2026-10-21T09:01:27.291Z",
+    "last_successful_scan_utc": "2026-10-22T09:05:07.981Z",
+    "latest_attempt_started_utc": "2026-10-22T09:05:07.981Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
     "messages_enumerated": 11,
