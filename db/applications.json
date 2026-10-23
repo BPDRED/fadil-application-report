@@ -572,9 +572,9 @@
     "type": "Speculative application",
     "language": "German",
     "status": "email",
-    "applicationStatus": "awaiting_response",
-    "next": "Wait for POLIPOL review; do not resend the package or send an immediate follow-up. Review status after 22 October if no substantive reply, without automatic contact; a later suitable role requires location, terms, language and permit checks.",
-    "response": "12 October 2026: POLIPOL human resources acknowledged the application and said processing would take some time; they will contact the applicant again. Gmail 1a12f937dbea8171. No interview, decision, deadline, work site or permit support established.",
+    "applicationStatus": "rejected",
+    "next": "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice. A local review remains pending until confirmed through the action workflow.",
+    "response": "22 October 2026: POLIPOL declined the speculative application because no suitable position is currently available or foreseeable in the near future. No interview, offer, documents, reply or deadline were requested.",
     "events": [
       {
         "kind": "application",
@@ -589,6 +589,13 @@
         "title": "HR acknowledges application",
         "date": "12 Oct 2026, 10:05",
         "timestamp": "2026-10-12T10:05:56+00:00",
+        "direction": "incoming"
+      },
+      {
+        "kind": "rejection",
+        "title": "Application declined: no suitable position",
+        "date": "22 Oct 2026, 10:40",
+        "timestamp": "2026-10-22T10:40:01+00:00",
         "direction": "incoming"
       }
     ]
@@ -804,9 +811,9 @@
     "type": "Conditional training application",
     "language": "German",
     "status": "email",
-    "applicationStatus": "awaiting_response",
-    "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
-    "response": "No substantive recruitment response recorded.",
+    "applicationStatus": "response_received",
+    "next": "Await the employer's shortlist decision. Do not send an automatic follow-up. If another apprenticeship offer is received, review it locally before any reply to Rolf Benz. Language, school evidence, contract, funding and lawful visa support remain conditional.",
+    "response": "23 October 2026: Rolf Benz acknowledged the 2027 apprenticeship application and said it will select shortlisted candidates in the coming weeks. It asks to be informed only if the applicant receives another apprenticeship offer. No interview, offer, document request or fixed deadline was provided.",
     "events": [
       {
         "kind": "application",
@@ -815,7 +822,15 @@
         "timestamp": "2026-10-16T21:12:38+00:00"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Application acknowledged; shortlist review pending",
+        "date": "23 Oct 2026, 05:11",
+        "timestamp": "2026-10-23T05:11:33+00:00",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000031",

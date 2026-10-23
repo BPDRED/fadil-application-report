@@ -345,6 +345,8 @@
   "Speculative footwear making, stitching and finishing": "ترشح تلقائي لصناعة الأحذية وخياطتها وتشطيبها",
   "Speculative intake blocked": "ترشح تلقائي متعذر الإرسال",
   "Initial CV/CAPTCHA step opened a second form. Mandatory residence permits only Italy/EU and mandatory schooling has no truthful niveau-bac option. No application confirmation. Prepared CV retained; no false residence or diploma selected.": "فتحت الخطوة الأولى للسيرة والتحقق البشري نموذجا ثانيا. تتيح الإقامة الإلزامية إيطاليا أو الاتحاد الأوروبي فقط، ولا تتضمن الدراسة الإلزامية خيارا صادقا لمستوى البكالوريا دون النجاح. لا تأكيد للطلب. احتُفظ بالسيرة المعدة؛ ولم تُختر إقامة أو شهادة غير حقيقية.",
+  "Santoni CV import opened a required second form with only Italy/EU residence and completed-degree options. A truthful Morocco/niveau-bac route is needed; no application confirmation, no false answer or duplicate retry.": "فتح استيراد السيرة لدى Santoni نموذجا ثانيا إلزاميا لا يتيح سوى الإقامة في إيطاليا أو الاتحاد الأوروبي والشهادات الدراسية المكتملة. يلزم مسار يطابق الإقامة في المغرب ومستوى البكالوريا دون النجاح؛ لا تأكيد للطلب أو إجابة غير صحيحة أو محاولة مكررة.",
+  "Santoni second step, mandatory residence and education do not fit the applicant. Not a submission receipt.": "الخطوة الثانية لدى Santoni: خيارات الإقامة والتعليم الإلزامية لا تطابق وضع المرشح. ليست إشعار استلام طلب.",
   "Initial CV import succeeded; full application not submitted.": "نجح استيراد السيرة الأولي؛ لم يُرسل الطلب الكامل.",
   "Speculative leather-goods or footwear production and finishing": "ترشح تلقائي لإنتاج المنتجات الجلدية أو الأحذية وتشطيبها",
   "The complete Italian three-PDF application was sent on 17 October. An automatic CV receipt was independently verified. No interview, offer or permit support is confirmed.": "أُرسل الطلب الإيطالي الكامل بوثائقه الثلاث يوم 17 أكتوبر. جرى التحقق بصورة مستقلة من إشعار آلي باستلام السيرة. لم تتأكد مقابلة أو عرض عمل أو دعم لتصريح العمل.",
@@ -818,6 +820,34 @@
         }
       ]
     },
+    "assets/screenshots/MF-000028-1.jpg": {
+      "path": "assets/screenshots/MF-000028-1-ar.png",
+      "originalSha256": "3c1354995fb38c358e8ecf666f580140328ebf68f794b3846d0e66936d423ad9",
+      "width": 1280,
+      "height": 3726,
+      "labels": [
+        {
+          "x": 470,
+          "y": 918,
+          "width": 650,
+          "height": 50,
+          "fontSize": 24,
+          "text": "الإقامة *",
+          "targetX": 250,
+          "targetY": 938
+        },
+        {
+          "x": 470,
+          "y": 1474,
+          "width": 650,
+          "height": 50,
+          "fontSize": 24,
+          "text": "المستوى الدراسي *",
+          "targetX": 250,
+          "targetY": 1495
+        }
+      ]
+    },
     "assets/screenshots/MF-000035-1.jpg": {
       "path": "assets/screenshots/MF-000035-1-ar.png",
       "originalSha256": "4bf7488c30f2999702aaaced6b16766031d72248bf3d9fc5372316225cf262b3",
@@ -1038,6 +1068,8 @@
   "{n} pages|many": "{n} صفحة",
   "{n} pages|other": "{n} صفحة",
   "Review Louis Vuitton's official careers route and prepare a suitable, truthful proposal locally. Do not submit a new application.": "راجع بوابة توظيف Louis Vuitton محليا وأعد اقتراحا مناسبا وصحيحا، دون تقديم طلب جديد.",
+  "Check Tod's official residence choices or a published alternative that accepts truthful Morocco-based applications. Do not create an account or submit.": "تحقق محليا من خيارات الإقامة لدى Tod’s أو بديل رسمي يقبل التقديم الصحيح من المغرب، دون إنشاء حساب أو إرسال طلب.",
+  "Check a truthful Santoni route for Morocco residence and the actual school level. Do not submit false answers or retry the form.": "تحقق محليا من مسار صحيح لدى Santoni يقبل الإقامة في المغرب والمستوى الدراسي الحقيقي، دون إجابات غير صحيحة أو إعادة النموذج.",
   "Review POLIPOL's processing status locally while respecting its request for time. No automatic follow-up.": "راجع حالة المعالجة لدى POLIPOL محليا مع احترام طلب الشركة منحها وقتا، دون متابعة تلقائية.",
   "Review the Tolomei application status locally. Do not infer rejection or send an automatic follow-up.": "راجع حالة طلب Tolomei محليا، دون اعتبار الصمت رفضا أو إرسال متابعة تلقائية.",
   "Wait for Wollsdorf's form repair. Check availability locally without retrying or requesting a telephone enquiry.": "انتظر إصلاح نموذج Wollsdorf، وتحقق من توفره محليا دون إعادة الطلب أو طلب اتصال هاتفي.",
@@ -1082,10 +1114,12 @@
   "A substantive employer reply, a relevant official notice or a suitable new official vacancy.": "وصول رد فعلي من الشركة أو إشعار رسمي ذي صلة أو ظهور شاغر رسمي جديد مناسب.",
   "Rejected": "مرفوض",
   "Application not submitted. The mandatory residence list has neither Morocco nor Other. The spontaneous intake, alternate careers link and advertised stitching application all require that same account form. No permitted recruitment email or separate application route was verified.": "لم يُرسل الطلب. قائمة بلد الإقامة الإلزامية لا تتضمن المغرب ولا خيار «بلد آخر». التقديم التلقائي ورابط التوظيف البديل وطلب وظيفة الخياطة كلها تتطلب نموذج الحساب نفسه. لم نتحقق من بريد توظيف مسموح أو مسار تقديم مستقل.",
+  "Tod’s adds a truthful Morocco residence option, provides an official alternative application route, or publishes a relevant correction.": "إضافة Tod’s خيار إقامة صحيح بالمغرب أو توفير مسار تقديم رسمي بديل أو نشر تصحيح رسمي ذي صلة.",
   "Review completed and archived on 20 October 2026. The required residence list still excludes Morocco and Other across the checked official routes; no permitted recruitment alternative was verified. Application not submitted. Reopen on an official form correction or employer-supported route. Retain the prepared Italian package; do not select a false country.": "اكتملت المراجعة وأُرشفت يوم 20 أكتوبر 2026. ما زالت قائمة الإقامة الإلزامية تستبعد المغرب وخيار «بلد آخر» في المسارات الرسمية التي فحصناها، ولم نتحقق من بديل توظيف مسموح. لم يُرسل الطلب. تُفتح المراجعة عند تصحيح النموذج رسمياً أو توفير مسار معتمد من الشركة. تُحفظ الوثائق الإيطالية الجاهزة دون اختيار بلد غير صحيح.",
   "20 October review completed and archived. The required residence list still omits Morocco and Other. Both the spontaneous intake and the advertised stitching route require the same blocked account form. No permitted alternative was verified. No account or application was created; the complete Italian package remains prepared.": "اكتملت المراجعة وأُرشفت يوم 20 أكتوبر. ما زالت قائمة الإقامة الإلزامية لا تتضمن المغرب ولا خيار «بلد آخر». التقديم التلقائي وطلب وظيفة الخياطة يفرضان نموذج الحساب المتعذر نفسه. لم نتحقق من بديل مسموح. لم يُنشأ حساب ولم يُرسل طلب، وتبقى الوثائق الإيطالية الكاملة جاهزة.",
   "The 26 French manufacturing listings were internships or specialist jewellery roles, with no suitable leather artisan vacancy. The global maroquinier search found no listing, and no general speculative portal route was verified. The earlier email remains recorded; HR registration is unconfirmed.": "كانت إعلانات التصنيع الفرنسية الستة والعشرون لتداريب أو وظائف متخصصة في المجوهرات، دون شاغر مناسب لحرفي الجلود. لم يُظهر البحث العالمي عن maroquinier إعلاناً، ولم نتحقق من مسار عام للتقديم التلقائي عبر البوابة. يبقى البريد السابق مسجّلاً دون تأكيد تسجيل الطلب لدى الموارد البشرية.",
   "Final application not submitted. After the approved CV import, the required domicile field still offers only Italy or EU, excluding Morocco. Required schooling choices have no verified equivalent for the applicant’s niveau bac. No permitted alternative application route was verified.": "لم يُرسل الطلب النهائي. بعد استيراد السيرة الذاتية المأذون به، ما زال حقل الإقامة الإلزامي يتيح إيطاليا أو الاتحاد الأوروبي فقط، دون المغرب. خيارات الدراسة الإلزامية لا تتضمن مقابلاً موثّقاً لمستوى البكالوريا غير المكتملة لدى المتقدم. لم نتحقق من مسار تقديم بديل مسموح.",
+  "Santoni provides truthful Morocco residence and education choices, or an official alternative application channel.": "توفير Santoni خيارات إقامة ودراسة صحيحة للمتقدم المقيم بالمغرب أو مسار تقديم رسمي بديل.",
   "Review completed and archived on 20 October 2026. Fresh authorized CV import confirmed the required domicile choices remain Italy/EU only and schooling has no verified niveau-bac option. Final application not submitted. Reopen on corrected fields or an employer-supported alternative; retain the prepared package.": "اكتملت المراجعة وأُرشفت يوم 20 أكتوبر 2026. أكد استيراد السيرة الذاتية المأذون به أن خيارات الإقامة الإلزامية ما زالت إيطاليا أو الاتحاد الأوروبي فقط، وأن الدراسة لا تتضمن خياراً موثّقاً لمستوى البكالوريا غير المكتملة. لم يُرسل الطلب النهائي. تُفتح المراجعة عند تصحيح الحقول أو توفير بديل معتمد من الشركة، وتُحفظ الوثائق الجاهزة.",
   "20 October field recheck completed and archived. The approved CV import opened the second form, whose required domicile still permits only Italy/EU and whose required schooling has no verified niveau-bac choice. No false residence or qualification was selected and the final application was not submitted. Documents remain prepared.": "اكتملت مراجعة الحقول وأُرشفت يوم 20 أكتوبر. فتح استيراد السيرة الذاتية المأذون به النموذج الثاني، الذي ما زالت الإقامة الإلزامية فيه تقتصر على إيطاليا أو الاتحاد الأوروبي، دون خيار دراسي موثّق لمستوى البكالوريا غير المكتملة. لم نختَر إقامة أو مؤهلاً غير صحيح، ولم يُرسل الطلب النهائي. تبقى الوثائق جاهزة.",
   "20 October review: the 9 October spontaneous application remains confirmed. No newer email was found beyond the two original automated receipts. Current public vacancies include a Maroquinier CDI posted 12 October; this is not a decision on this application. Keep the 24 October internal review. No contact or repeat application.": "مراجعة 20 أكتوبر: ما زال إرسال الطلب التلقائي يوم 9 أكتوبر مؤكدا. لم يُعثر على رسالة أحدث من إشعاري الاستلام الآليين الأصليين. تشمل الوظائف المنشورة حاليا وظيفة Maroquinier بعقد CDI نُشرت يوم 12 أكتوبر؛ وهذا ليس قرارا بشأن هذا الطلب. يبقى موعد المراجعة الداخلية يوم 24 أكتوبر. لم تُرسل مراسلة أو يُكرر الطلب.",
@@ -1159,5 +1193,19 @@
   "Current application status": "حالة الطلب الحالية",
   "Other response": "رد آخر",
   "Dear Ms Holler and Wollsdorf Recruitment Team,\n\nI attempted to submit my application through your Austrian website form on 17 and 18 October, but each attempt returned a sending error and no application confirmation. I am therefore sending this speculative application to the recruitment address published in your official job notice.\n\nYour careers page states that current vacancies are filled and welcomes unsolicited applications. I am applying speculatively for a suitable Austrian production, material-inspection or finishing function. I understand that an actual opening and worksite would need to be identified; I am not treating the historical semi-aniline specialist role as open.\n\nPlease find my CV, personalized cover letter and work portfolio with project photographs and certificate copies.\n\nI am a Moroccan national resident in Morocco without Austrian residence or work authorization. My English and French are A2; German is A1, studying for A2. Could you consider applicants from Morocco for an appropriate Austrian role and support the necessary employer-side employment and residence process?\n\nPlease advise the role, location, weekly hours, gross pay and language requirements. I could start after the required authorizations and visa.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com": "السيدة Holler وفريق التوظيف لدى Wollsdorf،\n\nحاولت تقديم طلبي عبر نموذج موقعكم النمساوي يومي 17 و18 أكتوبر، لكن كل محاولة أعادت خطأ إرسال دون تأكيد للطلب. لذلك أرسل هذا الترشح التلقائي إلى عنوان التوظيف المنشور في إعلانكم الرسمي.\n\nتذكر صفحة الوظائف أن الوظائف الحالية مشغولة وأنكم ترحبون بالطلبات التلقائية. أتقدم لوظيفة مناسبة في الإنتاج أو فحص المواد أو التشطيب بالنمسا، مع إدراكي ضرورة تحديد وظيفة وموقع عمل فعليين. لا أتعامل مع إعلان اختصاصي الجلد شبه الأنيليني القديم كوظيفة متاحة حاليا.\n\nأرفق سيرتي الذاتية ورسالة تحفيز مخصصة وملفي المهني الذي يضم صور المشاريع ونسخ شهادات التكوين.\n\nأنا مغربي مقيم بالمغرب ولا أملك إقامة نمساوية أو ترخيص عمل. مستواي في الإنجليزية والفرنسية A2، وفي الألمانية A1 مع دراسة للوصول إلى A2. هل تنظرون في مرشحين من المغرب لوظيفة نمساوية مناسبة وتدعمون الإجراءات المطلوبة من صاحب العمل للعمل والإقامة؟\n\nيرجى توضيح الوظيفة والموقع وساعات العمل الأسبوعية والأجر الإجمالي ومتطلبات اللغة. يمكنني البدء بعد الحصول على التراخيص والتأشيرة المطلوبة.\n\nمع التحية،\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
-  "Merci pour votre candidature": "شكرا على طلب التوظيف"
+  "Merci pour votre candidature": "شكرا على طلب التوظيف",
+  "The complete German package was emailed on 10 October. POLIPOL human resources acknowledged it on 12 October, then declined on 22 October because no suitable position is currently available or foreseeable soon. No reply, documents or deadline were requested.": "أُرسلت الحزمة الألمانية الكاملة في 10 أكتوبر. أكدت الموارد البشرية في POLIPOL الاستلام في 12 أكتوبر، ثم اعتذرت في 22 أكتوبر لعدم توفر وظيفة مناسبة حاليا أو متوقعة قريبا. لم تطلب ردا أو وثائق أو مهلة.",
+  "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice. A local review remains pending until confirmed through the action workflow.": "لا حاجة إلى رد أو إعادة إرسال. احتفظ بالرفض ولا تُعد فتح الملف إلا عند ظهور وظيفة رسمية جديدة وملائمة فعليا أو إشعار جوهري من صاحب العمل. تبقى المراجعة المحلية معلقة حتى تأكيدها عبر سير عمل الإجراءات.",
+  "22 October 2026: POLIPOL declined the speculative application because no suitable position is currently available or foreseeable in the near future. No interview, offer, documents, reply or deadline were requested.": "22 أكتوبر 2026: اعتذرت POLIPOL عن الطلب التلقائي لعدم توفر وظيفة مناسبة حاليا أو متوقعة في المستقبل القريب. لم تطلب مقابلة أو عرضا أو وثائق أو ردا أو مهلة.",
+  "Application declined: no suitable position": "رُفض الطلب لعدم توفر وظيفة مناسبة",
+  "POLIPOL declined after review because it has no suitable position now or foreseeable soon. No reply, document, interview, offer or deadline was requested.": "اعتذرت POLIPOL بعد المراجعة لعدم توفر وظيفة مناسبة حاليا أو متوقعة قريبا. لم تطلب ردا أو وثيقة أو مقابلة أو عرضا أو مهلة.",
+  "The complete German application was emailed on 16 October. Rolf Benz acknowledged it on 23 October and said shortlisted candidates will be selected in the coming weeks. This is not an interview or offer.": "أُرسل طلب التكوين الألماني الكامل في 16 أكتوبر. أكدت Rolf Benz استلامه في 23 أكتوبر، وأفادت بأنها ستحدد القائمة المختصرة خلال الأسابيع المقبلة. ليس هذا مقابلة أو عرضا.",
+  "Await the employer's shortlist decision. Do not send an automatic follow-up. If another apprenticeship offer is received, review it locally before any reply to Rolf Benz. Language, school evidence, contract, funding and lawful visa support remain conditional.": "انتظر قرار القائمة المختصرة من صاحب العمل. لا ترسل متابعة تلقائية. إذا وصل عرض تكوين آخر، راجعه محليا قبل أي رد إلى Rolf Benz. تبقى اللغة وإثبات الدراسة والعقد والتمويل ودعم التأشيرة القانونية شروطا غير محسومة.",
+  "23 October 2026: Rolf Benz acknowledged the 2027 apprenticeship application and said it will select shortlisted candidates in the coming weeks. It asks to be informed only if the applicant receives another apprenticeship offer. No interview, offer, document request or fixed deadline was provided.": "23 أكتوبر 2026: أكدت Rolf Benz استلام طلب التكوين لعام 2027، وأفادت بأنها ستختار مرشحي القائمة المختصرة خلال الأسابيع المقبلة. طلبت إبلاغها فقط إذا وصل عرض تكوين آخر. لم تقدم مقابلة أو عرضا أو تطلب وثيقة أو تحدد مهلة ثابتة.",
+  "Application acknowledged; shortlist review pending": "تأكيد استلام الطلب؛ مراجعة القائمة المختصرة معلقة",
+  "AW: Bewerbung Ausbildung Polster- und Dekorationsnäher 2027 - Mohammed Fadil": "رد: طلب تكوين خياط التنجيد والديكور لعام 2027 - Mohammed Fadil",
+  "Rolf Benz acknowledged the application and will identify shortlisted candidates in the coming weeks. The applicant should notify it only if another apprenticeship offer is received. No interview, offer, document or fixed deadline was provided.": "أكدت Rolf Benz استلام الطلب، وستحدد مرشحي القائمة المختصرة خلال الأسابيع المقبلة. ينبغي إبلاغها فقط عند تلقي عرض تكوين آخر. لم تقدم مقابلة أو عرضا أو تطلب وثيقة أو تحدد مهلة.",
+  "Review and record POLIPOL's 22 October rejection locally. No reply, resend or follow-up.": "راجع محليا وسجّل رفض POLIPOL بتاريخ 22 أكتوبر. لا رد ولا إعادة إرسال ولا متابعة.",
+  "23 Oct 2026, 08:59": "23 أكتوبر 2026، 08:59",
+  "23 October 2026": "23 أكتوبر 2026"
 }

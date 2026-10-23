@@ -7,8 +7,8 @@
   "type": "Conditional training application",
   "language": "German",
   "status": "email",
-  "summary": "Complete localized CV, personalized letter and original-layout 19-page dossier sent once through the official recruitment email. Morocco residence, current language levels and work-authorization conditions disclosed. Employer receipt, role access and permit support unconfirmed.",
-  "next": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+  "summary": "The complete German application was emailed on 16 October. Rolf Benz acknowledged it on 23 October and said shortlisted candidates will be selected in the coming weeks. This is not an interview or offer.",
+  "next": "Await the employer's shortlist decision. Do not send an automatic follow-up. If another apprenticeship offer is received, review it locally before any reply to Rolf Benz. Language, school evidence, contract, funding and lawful visa support remain conditional.",
   "recipient": "ausbildung@rolf-benz.com",
   "sentDate": "16 Oct 2026",
   "events": [
@@ -33,7 +33,7 @@
       "documents": [
         {
           "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+          "path": "assets/documents/MF-000030/d3c3fc40cb5f-Mohammed_Fadil_Lebenslauf.pdf",
           "pages": 2,
           "size": 271,
           "sha256": "d3c3fc40cb5fef74b85ee766348cea570e75fd343c51bdb3a82b4a6cf7a27d24",
@@ -41,7 +41,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Anschreiben.pdf",
-          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Anschreiben.pdf",
+          "path": "assets/documents/MF-000030/4221a9494718-Mohammed_Fadil_Anschreiben.pdf",
           "pages": 1,
           "size": 62,
           "sha256": "4221a9494718e1c4022dfe5d9c7b6b0fbe8649d4dcf65fa23dc9c64efbafcb51",
@@ -49,7 +49,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Portfolio.pdf",
-          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "path": "assets/documents/MF-000030/0d8db4898e1b-Mohammed_Fadil_Portfolio.pdf",
           "pages": 19,
           "size": 2583,
           "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",
@@ -58,13 +58,31 @@
       ]
     }
   ],
-  "receivedEvents": [],
-  "applicationStatus": "awaiting_response",
+  "receivedEvents": [
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "Application acknowledged; shortlist review pending",
+      "timestamp": "2026-10-23T05:11:33+00:00",
+      "sender": "Rolf Benz apprenticeship management",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "AW: Bewerbung Ausbildung Polster- und Dekorationsnäher 2027 - Mohammed Fadil",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a1672bec59fdb98",
+      "threadId": "1a1672bec59fdb98",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/gmail-received-1a1672bec59fdb98.json",
+      "confirmation": "Rolf Benz acknowledged the application and will identify shortlisted candidates in the coming weeks. The applicant should notify it only if another apprenticeship offer is received. No interview, offer, document or fixed deadline was provided.",
+      "sourceMessageId": "",
+      "date": "23 Oct 2026, 05:11"
+    }
+  ],
+  "applicationStatus": "response_received",
   "screenshots": [],
   "documents": [
     {
       "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+      "path": "assets/documents/MF-000030/d3c3fc40cb5f-Mohammed_Fadil_Lebenslauf.pdf",
       "pages": 2,
       "size": 271,
       "sha256": "d3c3fc40cb5fef74b85ee766348cea570e75fd343c51bdb3a82b4a6cf7a27d24",
@@ -72,7 +90,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Anschreiben.pdf",
-      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Anschreiben.pdf",
+      "path": "assets/documents/MF-000030/4221a9494718-Mohammed_Fadil_Anschreiben.pdf",
       "pages": 1,
       "size": 62,
       "sha256": "4221a9494718e1c4022dfe5d9c7b6b0fbe8649d4dcf65fa23dc9c64efbafcb51",
@@ -80,7 +98,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Portfolio.pdf",
-      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "path": "assets/documents/MF-000030/0d8db4898e1b-Mohammed_Fadil_Portfolio.pdf",
       "pages": 19,
       "size": 2583,
       "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",
@@ -88,7 +106,7 @@
     }
   ],
   "preparedDocuments": [],
-  "response": "No substantive recruitment response recorded.",
+  "response": "23 October 2026: Rolf Benz acknowledged the 2027 apprenticeship application and said it will select shortlisted candidates in the coming weeks. It asks to be informed only if the applicant receives another apprenticeship offer. No interview, offer, document request or fixed deadline was provided.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/document-manifest.json",
   "receiptReference": "",

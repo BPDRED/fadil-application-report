@@ -7,8 +7,8 @@
   "type": "Speculative application",
   "language": "German",
   "status": "email",
-  "summary": "The complete German package was emailed on 10 October. POLIPOL human resources acknowledged the application on 12 October and said review would take more time. No selection decision or supported work-permit route has been confirmed.",
-  "next": "Wait for POLIPOL review; do not resend the package or send an immediate follow-up. Review status after 22 October if no substantive reply, without automatic contact; a later suitable role requires location, terms, language and permit checks.",
+  "summary": "The complete German package was emailed on 10 October. POLIPOL human resources acknowledged it on 12 October, then declined on 22 October because no suitable position is currently available or foreseeable soon. No reply, documents or deadline were requested.",
+  "next": "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice. A local review remains pending until confirmed through the action workflow.",
   "recipient": "bewerbung@polipol.de",
   "sentDate": "10 Oct 2026",
   "events": [
@@ -33,7 +33,7 @@
       "documents": [
         {
           "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+          "path": "assets/documents/MF-000020/53f6290c4986-Mohammed_Fadil_Lebenslauf.pdf",
           "pages": 2,
           "size": 271,
           "sha256": "53f6290c4986c49595a24d71ebe2f6d1487d3cf4d2886d05f44c2d53aee8a17c",
@@ -41,7 +41,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Anschreiben.pdf",
-          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Anschreiben.pdf",
+          "path": "assets/documents/MF-000020/a5b05df2275c-Mohammed_Fadil_Anschreiben.pdf",
           "pages": 1,
           "size": 60,
           "sha256": "a5b05df2275c548de4f0fc4304c7209cffefaa0082be63d80c0aed68707751fa",
@@ -49,7 +49,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Portfolio.pdf",
-          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "path": "assets/documents/MF-000020/92270fcc2f0a-Mohammed_Fadil_Portfolio.pdf",
           "pages": 19,
           "size": 2563,
           "sha256": "92270fcc2f0a39d169742b83a6b6ba193d517d98a4b94d8ee14c0b7957c8d093",
@@ -75,14 +75,31 @@
       "confirmation": "POLIPOL human resources confirms the application and says processing needs more time. They will contact the applicant again. No interview, offer, fixed date, job location or permit support is confirmed.",
       "sourceMessageId": "",
       "date": "12 Oct 2026, 10:05"
+    },
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "Application declined: no suitable position",
+      "timestamp": "2026-10-22T10:40:01+00:00",
+      "sender": "POLIPOL human resources",
+      "recipient": "mfadil.med@gmail.com",
+      "subject": "Ihre Bewerbung bei der POLIPOL-Gruppe",
+      "body": "",
+      "filenames": [],
+      "messageId": "1a1633246f486344",
+      "threadId": "1a1633246f486344",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/gmail-received-1a1633246f486344.json",
+      "confirmation": "POLIPOL declined after review because it has no suitable position now or foreseeable soon. No reply, document, interview, offer or deadline was requested.",
+      "sourceMessageId": "",
+      "date": "22 Oct 2026, 10:40"
     }
   ],
-  "applicationStatus": "awaiting_response",
+  "applicationStatus": "rejected",
   "screenshots": [],
   "documents": [
     {
       "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Lebenslauf.pdf",
+      "path": "assets/documents/MF-000020/53f6290c4986-Mohammed_Fadil_Lebenslauf.pdf",
       "pages": 2,
       "size": 271,
       "sha256": "53f6290c4986c49595a24d71ebe2f6d1487d3cf4d2886d05f44c2d53aee8a17c",
@@ -90,7 +107,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Anschreiben.pdf",
-      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Anschreiben.pdf",
+      "path": "assets/documents/MF-000020/a5b05df2275c-Mohammed_Fadil_Anschreiben.pdf",
       "pages": 1,
       "size": 60,
       "sha256": "a5b05df2275c548de4f0fc4304c7209cffefaa0082be63d80c0aed68707751fa",
@@ -98,7 +115,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Portfolio.pdf",
-      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "path": "assets/documents/MF-000020/92270fcc2f0a-Mohammed_Fadil_Portfolio.pdf",
       "pages": 19,
       "size": 2563,
       "sha256": "92270fcc2f0a39d169742b83a6b6ba193d517d98a4b94d8ee14c0b7957c8d093",
@@ -106,7 +123,7 @@
     }
   ],
   "preparedDocuments": [],
-  "response": "12 October 2026: POLIPOL human resources acknowledged the application and said processing would take some time; they will contact the applicant again. Gmail 1a12f937dbea8171. No interview, decision, deadline, work site or permit support established.",
+  "response": "22 October 2026: POLIPOL declined the speculative application because no suitable position is currently available or foreseeable in the near future. No interview, offer, documents, reply or deadline were requested.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/evidence.md",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/remaining-document-manifest-20261010.json",
   "receiptReference": "",

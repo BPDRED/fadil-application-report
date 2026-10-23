@@ -1234,13 +1234,13 @@
       "vacancy_id": "",
       "application_type": "speculative, no Diepenau production assumed",
       "application_channel": "email",
-      "application_status": "awaiting_response",
+      "application_status": "rejected",
       "date_sent": "2026-10-10",
       "date_submitted": "",
-      "last_contact_date": "2026-10-12",
-      "follow_up_date": "2026-10-22",
-      "latest_employer_response": "12 October 2026: POLIPOL human resources acknowledged the application and said processing would take some time; they will contact the applicant again. Gmail 1a12f937dbea8171. No interview, decision, deadline, work site or permit support established.",
-      "next_action": "Wait for POLIPOL review; do not resend the package or send an immediate follow-up. Review status after 22 October if no substantive reply, without automatic contact; a later suitable role requires location, terms, language and permit checks.",
+      "last_contact_date": "2026-10-22",
+      "follow_up_date": "",
+      "latest_employer_response": "22 October 2026: POLIPOL declined the speculative application because no suitable position is currently available or foreseeable in the near future. No interview, offer, documents, reply or deadline were requested.",
+      "next_action": "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice. A local review remains pending until confirmed through the action workflow.",
       "submission_state": "email",
       "received_events": [
         {
@@ -1253,9 +1253,20 @@
           "threadId": "1a12f937dbea8171",
           "sourceMessageId": "",
           "confirmation": "POLIPOL human resources confirms the application and says processing needs more time. They will contact the applicant again. No interview, offer, fixed date, job location or permit support is confirmed."
+        },
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-22T10:40:01+00:00",
+          "sender": "POLIPOL human resources",
+          "subject": "Ihre Bewerbung bei der POLIPOL-Gruppe",
+          "messageId": "1a1633246f486344",
+          "threadId": "1a1633246f486344",
+          "sourceMessageId": "",
+          "confirmation": "POLIPOL declined after review because it has no suitable position now or foreseeable soon. No reply, document, interview, offer or deadline was requested."
         }
       ],
-      "last_response_at": "2026-10-12T10:05:56+00:00",
+      "last_response_at": "2026-10-22T10:40:01+00:00",
       "events": [
         {
           "kind": "application",
@@ -1722,16 +1733,28 @@
       "vacancy_id": "",
       "application_type": "advertised",
       "application_channel": "email",
-      "application_status": "awaiting_response",
+      "application_status": "response_received",
       "date_sent": "2026-10-16",
       "date_submitted": "2026-10-16",
-      "last_contact_date": "2026-10-16",
+      "last_contact_date": "2026-10-23",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await employer response. No automatic duplicate or follow-up. Employer recruitment, language, contract and lawful permit support remain conditional.",
+      "latest_employer_response": "23 October 2026: Rolf Benz acknowledged the 2027 apprenticeship application and said it will select shortlisted candidates in the coming weeks. It asks to be informed only if the applicant receives another apprenticeship offer. No interview, offer, document request or fixed deadline was provided.",
+      "next_action": "Await the employer's shortlist decision. Do not send an automatic follow-up. If another apprenticeship offer is received, review it locally before any reply to Rolf Benz. Language, school evidence, contract, funding and lawful visa support remain conditional.",
       "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-10-23T05:11:33+00:00",
+          "sender": "Rolf Benz apprenticeship management",
+          "subject": "AW: Bewerbung Ausbildung Polster- und Dekorationsnäher 2027 - Mohammed Fadil",
+          "messageId": "1a1672bec59fdb98",
+          "threadId": "1a1672bec59fdb98",
+          "sourceMessageId": "",
+          "confirmation": "Rolf Benz acknowledged the application and will identify shortlisted candidates in the coming weeks. The applicant should notify it only if another apprenticeship offer is received. No interview, offer, document or fixed deadline was provided."
+        }
+      ],
+      "last_response_at": "2026-10-23T05:11:33+00:00",
       "events": [
         {
           "kind": "application",
@@ -2609,16 +2632,16 @@
       ]
     }
   ],
-  "revision": "6e444521b3e545c510fa6348641e21a96660876da5d4464d997f0504c518bf27",
-  "updated_at": "2026-10-21T11:59:59.645935+00:00",
+  "revision": "49e42e49e0705249541207dc2b1f7c34cbbad0268ead40d0b8295b7963c4e848",
+  "updated_at": "2026-10-23T08:59:10.426554Z",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-22T09:05:07.981Z",
-    "latest_attempt_started_utc": "2026-10-22T09:05:07.981Z",
+    "last_successful_scan_utc": "2026-10-23T08:59:10.426554Z",
+    "latest_attempt_started_utc": "2026-10-23T08:59:10.426554Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 11,
+    "messages_enumerated": 9,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }
