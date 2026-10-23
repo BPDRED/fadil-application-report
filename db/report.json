@@ -13,13 +13,13 @@
   "applicationContentHash": "9917ec3d71567c51c3623442333b80cc649b178ac8c468038cc514a8632e8219",
   "monitoringStatus": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-23T14:27:29Z",
-    "latest_attempt_started_utc": "2026-10-23T14:27:29Z",
+    "last_successful_scan_utc": "2026-10-23T14:35:21Z",
+    "latest_attempt_started_utc": "2026-10-23T14:35:21Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 5,
+    "messages_enumerated": 10,
     "pages_completed": 1,
-    "email_suppressed_same_day": true
+    "email_suppressed_same_day": false
   },
   "sourceHashes": {
     "application-tracker.csv": "7e14d09983934b5700a69e1c69980961ad229bced3f9dd2ee50c36ffe9971de5",
