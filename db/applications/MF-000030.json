@@ -33,7 +33,7 @@
       "documents": [
         {
           "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-          "path": "assets/documents/MF-000030/d3c3fc40cb5f-Mohammed_Fadil_Lebenslauf.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Lebenslauf.pdf",
           "pages": 2,
           "size": 271,
           "sha256": "d3c3fc40cb5fef74b85ee766348cea570e75fd343c51bdb3a82b4a6cf7a27d24",
@@ -41,7 +41,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Anschreiben.pdf",
-          "path": "assets/documents/MF-000030/4221a9494718-Mohammed_Fadil_Anschreiben.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Anschreiben.pdf",
           "pages": 1,
           "size": 62,
           "sha256": "4221a9494718e1c4022dfe5d9c7b6b0fbe8649d4dcf65fa23dc9c64efbafcb51",
@@ -49,7 +49,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Portfolio.pdf",
-          "path": "assets/documents/MF-000030/0d8db4898e1b-Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Portfolio.pdf",
           "pages": 19,
           "size": 2583,
           "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",
@@ -82,7 +82,7 @@
   "documents": [
     {
       "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-      "path": "assets/documents/MF-000030/d3c3fc40cb5f-Mohammed_Fadil_Lebenslauf.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Lebenslauf.pdf",
       "pages": 2,
       "size": 271,
       "sha256": "d3c3fc40cb5fef74b85ee766348cea570e75fd343c51bdb3a82b4a6cf7a27d24",
@@ -90,7 +90,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Anschreiben.pdf",
-      "path": "assets/documents/MF-000030/4221a9494718-Mohammed_Fadil_Anschreiben.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Anschreiben.pdf",
       "pages": 1,
       "size": 62,
       "sha256": "4221a9494718e1c4022dfe5d9c7b6b0fbe8649d4dcf65fa23dc9c64efbafcb51",
@@ -98,7 +98,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Portfolio.pdf",
-      "path": "assets/documents/MF-000030/0d8db4898e1b-Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Portfolio.pdf",
       "pages": 19,
       "size": 2583,
       "sha256": "0d8db4898e1b5e8b4f58eef5c19db7f7280ac33fade087fe87fd1e824354d7fa",

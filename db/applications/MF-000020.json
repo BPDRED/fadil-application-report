@@ -33,7 +33,7 @@
       "documents": [
         {
           "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-          "path": "assets/documents/MF-000020/53f6290c4986-Mohammed_Fadil_Lebenslauf.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Lebenslauf.pdf",
           "pages": 2,
           "size": 271,
           "sha256": "53f6290c4986c49595a24d71ebe2f6d1487d3cf4d2886d05f44c2d53aee8a17c",
@@ -41,7 +41,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Anschreiben.pdf",
-          "path": "assets/documents/MF-000020/a5b05df2275c-Mohammed_Fadil_Anschreiben.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Anschreiben.pdf",
           "pages": 1,
           "size": 60,
           "sha256": "a5b05df2275c548de4f0fc4304c7209cffefaa0082be63d80c0aed68707751fa",
@@ -49,7 +49,7 @@
         },
         {
           "filename": "Mohammed_Fadil_Portfolio.pdf",
-          "path": "assets/documents/MF-000020/92270fcc2f0a-Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Portfolio.pdf",
           "pages": 19,
           "size": 2563,
           "sha256": "92270fcc2f0a39d169742b83a6b6ba193d517d98a4b94d8ee14c0b7957c8d093",
@@ -99,7 +99,7 @@
   "documents": [
     {
       "filename": "Mohammed_Fadil_Lebenslauf.pdf",
-      "path": "assets/documents/MF-000020/53f6290c4986-Mohammed_Fadil_Lebenslauf.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Lebenslauf.pdf",
       "pages": 2,
       "size": 271,
       "sha256": "53f6290c4986c49595a24d71ebe2f6d1487d3cf4d2886d05f44c2d53aee8a17c",
@@ -107,7 +107,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Anschreiben.pdf",
-      "path": "assets/documents/MF-000020/a5b05df2275c-Mohammed_Fadil_Anschreiben.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Anschreiben.pdf",
       "pages": 1,
       "size": 60,
       "sha256": "a5b05df2275c548de4f0fc4304c7209cffefaa0082be63d80c0aed68707751fa",
@@ -115,7 +115,7 @@
     },
     {
       "filename": "Mohammed_Fadil_Portfolio.pdf",
-      "path": "assets/documents/MF-000020/92270fcc2f0a-Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Portfolio.pdf",
       "pages": 19,
       "size": 2563,
       "sha256": "92270fcc2f0a39d169742b83a6b6ba193d517d98a4b94d8ee14c0b7957c8d093",

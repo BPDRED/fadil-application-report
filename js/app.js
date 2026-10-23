@@ -160,7 +160,9 @@ Data.ready.then(() => {
   L10n.init(Data.dictionary);
   for (const a of apps) {
     if (!/^(?:MF-\d{6}|PROV-GMAIL-[a-f0-9]{16})$/.test(a.id) || !gLabel[a.applicationStatus] || !FLAGS[a.country]) throw new Error('Unsupported application code');
-    if ([...a.events, ...a.receivedEvents].some(e => !KIND[e.kind])) throw new Error('Unsupported event kind');
+    // kindOf() already renders an unfamiliar timeline event as a generic response.
+    // One new event value must not hide every other application in the report.
+    if ([...a.events, ...a.receivedEvents].some(e => !KIND[e.kind])) console.warn('Unsupported event kind in ' + a.id);
   }
   derive();
   readyToRender = true;

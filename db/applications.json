@@ -592,7 +592,7 @@
         "direction": "incoming"
       },
       {
-        "kind": "rejection",
+        "kind": "response",
         "title": "Application declined: no suitable position",
         "date": "22 Oct 2026, 10:40",
         "timestamp": "2026-10-22T10:40:01+00:00",
@@ -824,7 +824,7 @@
     ],
     "receivedEvents": [
       {
-        "kind": "acknowledgment",
+        "kind": "response",
         "title": "Application acknowledged; shortlist review pending",
         "date": "23 Oct 2026, 05:11",
         "timestamp": "2026-10-23T05:11:33+00:00",
