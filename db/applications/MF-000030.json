@@ -56,6 +56,22 @@
           "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
       ]
+    },
+    {
+      "kind": "response",
+      "title": "Reply sent",
+      "date": "24 Oct 2026, 18:20",
+      "timestamp": "2026-10-24T18:20:28+00:00",
+      "recipient": "Lea.Steeb@rolf-benz.com",
+      "sender": "Mohammed Fadil <mfadil.med@gmail.com>",
+      "subject": "Re: Bewerbung Ausbildung Polster- und Dekorationsnäher 2027",
+      "body": "Sehr geehrte Frau Steeb,\n\nvielen Dank für Ihre Nachricht. Ich bin weiterhin sehr an der Ausbildung bei Rolf Benz interessiert. Derzeit bin ich an keinen anderen Ausbildungsbetrieb gebunden.\n\nIch freue mich auf Ihre Rückmeldung.\n\nMit freundlichen Grüßen\nMohammed Fadil",
+      "messageId": "1a16f248ac609f80",
+      "threadId": "1a16f248ac609f80",
+      "filenames": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/gmail-reply-sent-verification-20261024.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": []
     }
   ],
   "receivedEvents": [

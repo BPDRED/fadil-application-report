@@ -1736,7 +1736,7 @@
       "application_status": "response_received",
       "date_sent": "2026-10-16",
       "date_submitted": "2026-10-16",
-      "last_contact_date": "2026-10-23",
+      "last_contact_date": "2026-10-24",
       "follow_up_date": "",
       "latest_employer_response": "23 October 2026: Rolf Benz acknowledged the 2027 apprenticeship application and said it will select shortlisted candidates in the coming weeks. It asks to be informed only if the applicant receives another apprenticeship offer. No interview, offer, document request or fixed deadline was provided.",
       "next_action": "Await the employer's shortlist decision. Do not send an automatic follow-up. If another apprenticeship offer is received, review it locally before any reply to Rolf Benz. Language, school evidence, contract, funding and lawful visa support remain conditional.",
@@ -1769,6 +1769,17 @@
             "Mohammed_Fadil_Anschreiben.pdf",
             "Mohammed_Fadil_Portfolio.pdf"
           ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "response",
+          "timestamp": "2026-10-24T18:20:28+00:00",
+          "recipient": "Lea.Steeb@rolf-benz.com",
+          "subject": "Re: Bewerbung Ausbildung Polster- und Dekorationsnäher 2027",
+          "messageId": "1a16f248ac609f80",
+          "threadId": "1a16f248ac609f80",
+          "reference": "",
+          "filenames": [],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
@@ -2632,8 +2643,8 @@
       ]
     }
   ],
-  "revision": "ff421e27363116289da1dd10e9091f152f81b7c56bc0d83da7d074a971615fce",
-  "updated_at": "2026-10-24T18:03:26.210662+00:00",
+  "revision": "6da89051a3fc1c0ac6cb93450ada3b7a2e0fc4e177768c17f48113472cfcc95b",
+  "updated_at": "2026-10-24T18:21:16.054048+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
