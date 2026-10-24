@@ -39,7 +39,7 @@ svg{fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-l
 .s-rejected{--c:var(--warn);--cf:var(--warn)}
 /* EVENT KIND COLOURS (timeline + activity): class k-<kind> sets --ec used by the dot, the kind pill and the message bar. */
 .k-application{--ec:var(--k-app)}.k-portal{--ec:var(--k-portal)}.k-inquiry{--ec:var(--k-inq)}.k-supplement{--ec:var(--k-sup)}
-.k-acknowledgment{--ec:var(--k-ack)}.k-response{--ec:var(--k-resp)}.k-delivery_notice{--ec:var(--k-fail)}
+.k-acknowledgment{--ec:var(--k-ack)}.k-response{--ec:var(--k-resp)}.k-reply{--ec:var(--k-resp)}.k-delivery_notice{--ec:var(--k-fail)}
 .stx{color:var(--c);font-weight:600}
 
 /* ============ 2. ANIMATIONS ============

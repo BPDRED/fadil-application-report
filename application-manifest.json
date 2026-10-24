@@ -1772,7 +1772,7 @@
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         },
         {
-          "kind": "response",
+          "kind": "reply",
           "timestamp": "2026-10-24T18:20:28+00:00",
           "recipient": "Lea.Steeb@rolf-benz.com",
           "subject": "Re: Bewerbung Ausbildung Polster- und Dekorationsnäher 2027",
@@ -2643,8 +2643,8 @@
       ]
     }
   ],
-  "revision": "6da89051a3fc1c0ac6cb93450ada3b7a2e0fc4e177768c17f48113472cfcc95b",
-  "updated_at": "2026-10-24T18:21:16.054048+00:00",
+  "revision": "391eeac4633f304236548c9abedf4e77c85027e74f5fbcba7103654c90779c8f",
+  "updated_at": "2026-10-24T18:23:38.300627+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

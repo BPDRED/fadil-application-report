@@ -81,7 +81,7 @@ const stText = a => isScreening(a) ? 'Screening-only record'
   : a.applicationStatus === 'blocked' ? (a.status === 'failed' ? 'Delivery failed · action required' : 'Not submitted · waiting') : gLabel[a.applicationStatus];
 const stTxt = a => `<span class="s-${esc(a.applicationStatus)}"><span class="stx">${stText(a)}</span></span>`;
 /* ---- TIMELINE / ACTIVITY EVENT KINDS: DB `kind` → label shown in the pill. Colours: CSS k-<kind>. Unknown kinds fall back to 'response'. ---- */
-const KIND = { application:'Full package', inquiry:'Inquiry / help', supplement:'Dossier supplement', portal:'Website form', delivery_notice:'Delivery notice', response:'Received response', acknowledgment:'Automatic receipt' };
+const KIND = { application:'Full package', inquiry:'Inquiry / help', supplement:'Dossier supplement', portal:'Website form', delivery_notice:'Delivery notice', response:'Received response', reply:'Reply sent', acknowledgment:'Automatic receipt' };
 const kindOf = e => KIND[e.kind] ? e.kind : 'response';
 /* eRow(): one employer row, used by the Employers list.
    [ 01 | Company name (bold)                   | › ]
