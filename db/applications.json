@@ -114,7 +114,7 @@
     "language": "French",
     "status": "portal",
     "applicationStatus": "submitted_portal",
-    "next": "Await response to confirmed spontaneous application. No automatic follow-up, duplicate subsidiary application, training enrollment or matching-job submission.",
+    "next": "Wait through Groupe Tolomei's stated 15-day no-news period for the 9 October spontaneous application. As of 24 October 17:47 UTC the period had not elapsed from the later receipt at 21:35:18 UTC. Review again on 25 October; do not send an automatic follow-up, duplicate application or training enrollment.",
     "response": "Automatic receipt9October, messages1a1229339ae4e73f and1a1229786c13378f. Company specifies15days without news; no substantive decision yet.",
     "events": [
       {
@@ -573,7 +573,7 @@
     "language": "German",
     "status": "email",
     "applicationStatus": "rejected",
-    "next": "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice. A local review remains pending until confirmed through the action workflow.",
+    "next": "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice.",
     "response": "22 October 2026: POLIPOL declined the speculative application because no suitable position is currently available or foreseeable in the near future. No interview, offer, documents, reply or deadline were requested.",
     "events": [
       {

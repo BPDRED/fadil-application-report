@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T08:59:10.426554Z",
-  "generatedLabel": "23 Oct 2026, 08:59",
-  "recordDate": "23 October 2026",
+  "generatedAt": "2026-10-24T18:04:07.084563+00:00",
+  "generatedLabel": "24 Oct 2026, 18:04",
+  "recordDate": "24 October 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
   "counts": {
@@ -9,23 +9,23 @@
     "supplement": 3,
     "inquiry": 7
   },
-  "applicationDataUpdatedAt": "2026-10-23T08:59:10.426554Z",
-  "applicationContentHash": "9917ec3d71567c51c3623442333b80cc649b178ac8c468038cc514a8632e8219",
+  "applicationDataUpdatedAt": "2026-10-24T18:03:26.210662+00:00",
+  "applicationContentHash": "b0c6e73e54c5dd46f67f22c2d789486827d8037aa62ff603346fdef9cf38ca9c",
   "monitoringStatus": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-23T14:35:21Z",
-    "latest_attempt_started_utc": "2026-10-23T14:35:21Z",
+    "last_successful_scan_utc": "2026-10-24T09:02:16Z",
+    "latest_attempt_started_utc": "2026-10-24T09:02:16Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 10,
+    "messages_enumerated": 6,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "7e14d09983934b5700a69e1c69980961ad229bced3f9dd2ee50c36ffe9971de5",
-    "project-status.md": "4763de840e25b21fb6bbfb0619edcdf5fba0462f3ddc349da0d1da6a87ecd467"
+    "application-tracker.csv": "d51b040f7ffe3a2bbf6abcbb8cac77566bb580fee4b343521e6ea2d199732fd8",
+    "project-status.md": "062f5102a443fd94fe94b658f8462bf5f637225f29537d434ef9dee7b13a60eb"
   },
-  "publicationRevision": "49e42e49e0705249541207dc2b1f7c34cbbad0268ead40d0b8295b7963c4e848",
+  "publicationRevision": "ff421e27363116289da1dd10e9091f152f81b7c56bc0d83da7d074a971615fce",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [
@@ -40,19 +40,11 @@
   ],
   "pendingActions": [
     {
-      "applicationId": "MF-000020",
-      "company": "POLIPOL",
-      "owner": "agent",
-      "description": "Review and record POLIPOL's 22 October rejection locally. No reply, resend or follow-up.",
-      "reviewOn": null,
-      "dateKind": null
-    },
-    {
       "applicationId": "MF-000003",
       "company": "Groupe Tolomei",
       "owner": "agent",
-      "description": "Review the Tolomei application status locally. Do not infer rejection or send an automatic follow-up.",
-      "reviewOn": "2026-10-24",
+      "description": "Recheck the original Tolomei application after its 15-day no-news period on 25 October. Do not infer an outcome early or contact/reapply.",
+      "reviewOn": "2026-10-25",
       "dateKind": "internal_review"
     },
     {
@@ -96,6 +88,13 @@
       "archivedOn": "2026-10-20",
       "reason": "The 26 French manufacturing listings were internships or specialist jewellery roles, with no suitable leather artisan vacancy. The global maroquinier search found no listing, and no general speculative portal route was verified. The earlier email remains recorded; HR registration is unconfirmed.",
       "reopenTrigger": "A substantive employer reply, a relevant official notice or a suitable new official vacancy."
+    },
+    {
+      "applicationId": "MF-000020",
+      "company": "POLIPOL",
+      "archivedOn": "2026-10-24",
+      "reason": "POLIPOL rejected the application because no suitable position is available now or foreseeable soon. The employer requested no reply or further documents. The application remains recorded as rejected with its complete contact and response history.",
+      "reopenTrigger": "A suitable new official vacancy or a substantive employer notice."
     },
     {
       "applicationId": "MF-000035",

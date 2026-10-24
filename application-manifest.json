@@ -229,7 +229,7 @@
       "last_contact_date": "2026-10-09",
       "follow_up_date": "",
       "latest_employer_response": "Automatic receipt9October, messages1a1229339ae4e73f and1a1229786c13378f. Company specifies15days without news; no substantive decision yet.",
-      "next_action": "Await response to confirmed spontaneous application. No automatic follow-up, duplicate subsidiary application, training enrollment or matching-job submission.",
+      "next_action": "Wait through Groupe Tolomei's stated 15-day no-news period for the 9 October spontaneous application. As of 24 October 17:47 UTC the period had not elapsed from the later receipt at 21:35:18 UTC. Review again on 25 October; do not send an automatic follow-up, duplicate application or training enrollment.",
       "submission_state": "portal",
       "received_events": [
         {
@@ -1240,7 +1240,7 @@
       "last_contact_date": "2026-10-22",
       "follow_up_date": "",
       "latest_employer_response": "22 October 2026: POLIPOL declined the speculative application because no suitable position is currently available or foreseeable in the near future. No interview, offer, documents, reply or deadline were requested.",
-      "next_action": "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice. A local review remains pending until confirmed through the action workflow.",
+      "next_action": "No reply or resend is needed. Preserve the rejection and reopen only for a materially suitable new official vacancy or substantive employer notice.",
       "submission_state": "email",
       "received_events": [
         {
@@ -2632,16 +2632,16 @@
       ]
     }
   ],
-  "revision": "49e42e49e0705249541207dc2b1f7c34cbbad0268ead40d0b8295b7963c4e848",
-  "updated_at": "2026-10-23T08:59:10.426554Z",
+  "revision": "ff421e27363116289da1dd10e9091f152f81b7c56bc0d83da7d074a971615fce",
+  "updated_at": "2026-10-24T18:03:26.210662+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-23T14:35:21Z",
-    "latest_attempt_started_utc": "2026-10-23T14:35:21Z",
+    "last_successful_scan_utc": "2026-10-24T09:02:16Z",
+    "latest_attempt_started_utc": "2026-10-24T09:02:16Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 10,
+    "messages_enumerated": 6,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }
