@@ -14,11 +14,11 @@
   "applicationContentHash": "7d06b085d9c94e325300e9cc03a1344606ed283968848efc07128474000dedba",
   "monitoringStatus": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-24T09:02:16Z",
-    "latest_attempt_started_utc": "2026-10-24T09:02:16Z",
+    "last_successful_scan_utc": "2026-10-28T09:04:20Z",
+    "latest_attempt_started_utc": "2026-10-28T09:04:20Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 6,
+    "messages_enumerated": 3,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   },
@@ -98,11 +98,39 @@
       "reopenTrigger": "A suitable new official vacancy or a substantive employer notice."
     },
     {
+      "applicationId": "MF-000022",
+      "company": "Pelletterie Palladio",
+      "archivedOn": "2026-10-28",
+      "reason": "Palladio received the application and said on 19 October it had no opportunity matching the applicant’s experience. It may contact him if a suitable opening arises.",
+      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy. For Jaymar, valid Canadian work authorization would also be needed."
+    },
+    {
+      "applicationId": "MF-000025",
+      "company": "Jaymar",
+      "archivedOn": "2026-10-28",
+      "reason": "Jaymar received the application but cannot proceed without existing Canadian work authorization and does not support immigration or work-permit procedures.",
+      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy. For Jaymar, valid Canadian work authorization would also be needed."
+    },
+    {
+      "applicationId": "MF-000034",
+      "company": "Ludwig Reiter",
+      "archivedOn": "2026-10-28",
+      "reason": "Ludwig Reiter received the application and portfolio but said no suitable manufacturing workshop position was available.",
+      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy. For Jaymar, valid Canadian work authorization would also be needed."
+    },
+    {
       "applicationId": "MF-000035",
       "company": "Wollsdorf Leather",
       "archivedOn": "2026-10-21",
       "reason": "Four portal attempts on 17 and 18 October returned sending errors. At your request, the complete CV, cover letter and portfolio were emailed to the officially published Austrian recruitment address on 21 October, with Gmail Sent confirmation. No further application action remains while awaiting a reply or delivery notice.",
       "reopenTrigger": "A substantive employer reply, delivery failure, or an official recruitment notice requiring review."
+    },
+    {
+      "applicationId": "MF-000037",
+      "company": "Chrome Hearts",
+      "archivedOn": "2026-10-28",
+      "reason": "Chrome Hearts received the Sewer - Leather application and selected other candidates.",
+      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy. For Jaymar, valid Canadian work authorization would also be needed."
     }
   ]
 }
