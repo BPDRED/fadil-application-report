@@ -198,7 +198,7 @@
   "PDF": "ملف",
   "From:": "من:",
   "Maroquinier polyvalent (H/F), Montataire, offre 214DNGB": "حرفي منتجات جلدية متعدد المهام، Montataire، العرض 214DNGB",
-  "Speculative application": "ترشح تلقائي",
+  "Speculative application": "ترشيح تلقائي",
   "A French contact-form application had no file field. A later email supplied the CV, personalized letter and dossier to the published production recruitment contact.": "قُدّم ترشح بالفرنسية عبر نموذج تواصل دون خانة للمرفقات. ثم أُرسلت السيرة الذاتية ورسالة التحفيز المخصصة والملف المهني إلى جهة توظيف الإنتاج المنشورة.",
   "Await employer response. No automatic repeat or follow-up. Recruitment acceptance and lawful permit support remain unconfirmed.": "انتظار رد صاحب العمل. لا إعادة إرسال أو متابعة تلقائية. لم يتأكد قبول الترشح أو دعم إجراءات تصريح العمل القانوني.",
   "Application text sent through contact form": "أُرسل نص الترشح عبر نموذج التواصل",
@@ -965,6 +965,24 @@
           "targetY": 2720
         }
       ]
+    },
+    "assets/screenshots/MF-000045-1.png": {
+      "path": "assets/screenshots/MF-000045-1-ar.png",
+      "originalSha256": "559d9f2cf84e3c89aeefffc24d63fcb604d44ba8dd290d3656d4dea56abb7161",
+      "width": 747,
+      "height": 858,
+      "labels": [
+        {
+          "x": 10,
+          "y": 768,
+          "width": 727,
+          "height": 70,
+          "fontSize": 22,
+          "text": "تؤكد الصفحة استلام الطلب وستتواصل الشركة لاحقاً.",
+          "targetX": 373,
+          "targetY": 260
+        }
+      ]
     }
   },
   "Mohammed_Fadil_Anschreiben.pdf": "رسالة التحفيز",
@@ -1204,5 +1222,13 @@
   "Await employer response or delivery failure. No automatic follow-up. Work authorization and recruitment from Morocco remain conditional.": "انتظار رد صاحب العمل أو إشعار فشل التسليم دون متابعة تلقائية. لا يزال توظيف المتقدم من المغرب وتصريح العمل غير مؤكدين.",
   "Industrial sewing application - Warwick - Mohammed Fadil": "طلب وظيفة الخياطة الصناعية في وارويك - محمد فاضل",
   "Dear INNOTEX Recruitment Team,\n\nI am applying for the industrial sewing machine operator position at Warwick. My experience in Morocco includes garment pattern preparation, cutting, machine and hand sewing, assembly, finishing and quality control.\n\nI attach my CV, personalized cover letter and work portfolio. I live in Morocco and do not have Canadian citizenship, permanent residence or work authorization. My French and English are A2, used at work. I could relocate after the required authorizations and visa are granted.\n\nWould you consider applicants living in Morocco and support the necessary employer-side work authorization process? Please also advise the language requirements and current employment conditions.\n\nI tried your production application form, but it returned a sending error. I am therefore using the email alternative listed on your careers page.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com": "السادة فريق توظيف INNOTEX،\n\nأتقدم لوظيفة تشغيل آلة الخياطة الصناعية في وارويك. تشمل خبرتي في المغرب إعداد باترونات الملابس والقص والخياطة اليدوية والآلية والتجميع والتشطيب ومراقبة الجودة.\n\nأرفقت سيرتي الذاتية ورسالة التحفيز والملف المهني. أقيم في المغرب ولا أملك الجنسية الكندية أو الإقامة الدائمة أو تصريح عمل كنديا. مستواي في الفرنسية والإنجليزية A2 وأستخدمهما في العمل. يمكنني الانتقال بعد الحصول على التصاريح والتأشيرة اللازمة.\n\nهل تنظرون في طلبات المقيمين بالمغرب وتدعمون إجراءات تصريح العمل المطلوبة من صاحب العمل؟ يرجى توضيح متطلبات اللغة وظروف العمل الحالية.\n\nحاولت إرسال نموذج طلب الإنتاج لكنه أظهر خطأ في الإرسال، لذلك أستخدم البريد البديل المنشور في صفحة التوظيف.\n\nمع التحية،\nمحمد فاضل\n+212 603 574 848\nmfadil.med@gmail.com",
-  "28 Oct 2026, 20:56": "28 أكتوبر 2026، 20:56"
+  "28 Oct 2026, 20:56": "28 أكتوبر 2026، 20:56",
+  "Speculative sewing or upholstery application": "ترشيح تلقائي للخياطة أو التنجيد",
+  "A speculative sewing and upholstery application was submitted through the official form with a combined CV, cover letter and portfolio. Recruitment from Morocco and work authorization remain unconfirmed.": "أُرسل ترشيح تلقائي للخياطة والتنجيد عبر النموذج الرسمي مع ملف يضم السيرة الذاتية ورسالة التحفيز والملف المهني. لا يزال التوظيف من المغرب وتصريح العمل غير مؤكدين.",
+  "Await the employer response. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.": "انتظار رد صاحب العمل دون متابعة تلقائية. لا يزال التوظيف من المغرب وتصريح العمل غير مؤكدين.",
+  "Dear Recruitment Team,\n\nI would like to be considered for suitable sewing or upholstery work. My experience in Morocco includes cutting, machine and hand sewing, assembly, finishing and upholstery commissions. My CV, cover letter and portfolio are combined in the attached PDF.\n\nI live in Morocco and do not currently have Canadian work authorization. My French and English are at A2 level and used at work. Would you consider an applicant from Morocco and support the necessary employer-side work authorization process?\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com": "السادة فريق التوظيف،\n\nأود الترشح لعمل مناسب في الخياطة أو التنجيد. تشمل خبرتي في المغرب القص والخياطة اليدوية والآلية والتجميع والتشطيب ومشاريع التنجيد. يضم الملف المرفق سيرتي الذاتية ورسالة التحفيز والملف المهني.\n\nأقيم في المغرب ولا أملك تصريح عمل كنديا حاليا. مستواي في الفرنسية والإنجليزية A2 وأستخدمهما في العمل. هل تنظرون في طلبات المقيمين بالمغرب وتدعمون إجراءات تصريح العمل المطلوبة من صاحب العمل؟\n\nمع التحية،\nمحمد فاضل",
+  "MERCI POUR VOTRE DEMANDE. Vous recevrez un suivi sous peu par notre équipe d’experts.": "شكرا لطلبكم. سيتواصل معكم فريقنا قريبا عبر الهاتف أو البريد الإلكتروني.",
+  "28 Oct 2026, 21:04": "28 أكتوبر 2026، 21:04",
+  "Official speculative application form.": "نموذج الترشيح التلقائي الرسمي.",
+  "Mohammed_Fadil_Application.pdf": "ملف ترشيح محمد فاضل.pdf"
 }

@@ -1,0 +1,74 @@
+{
+  "id": "MF-000045",
+  "number": 45,
+  "company": "Groupe Bellon Prestige",
+  "country": "Canada",
+  "position": "Speculative sewing or upholstery application",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "portal",
+  "summary": "A speculative sewing and upholstery application was submitted through the official form with a combined CV, cover letter and portfolio. Recruitment from Morocco and work authorization remain unconfirmed.",
+  "next": "Await the employer response. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
+  "recipient": "https://www.groupebellonprestige.com/fr/carrieres/",
+  "sentDate": "28 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted through official form",
+      "date": "28 Oct 2026, 21:04",
+      "timestamp": "2026-10-28T21:04:22.926936+00:00",
+      "recipient": "https://www.groupebellonprestige.com/fr/carrieres/",
+      "subject": "",
+      "body": "Dear Recruitment Team,\n\nI would like to be considered for suitable sewing or upholstery work. My experience in Morocco includes cutting, machine and hand sewing, assembly, finishing and upholstery commissions. My CV, cover letter and portfolio are combined in the attached PDF.\n\nI live in Morocco and do not currently have Canadian work authorization. My French and English are at A2 level and used at work. Would you consider an applicant from Morocco and support the necessary employer-side work authorization process?\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "filenames": [
+        "Mohammed_Fadil_Application.pdf"
+      ],
+      "confirmation": "MERCI POUR VOTRE DEMANDE. Vous recevrez un suivi sous peu par notre équipe d’experts.",
+      "reference": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/portal-submission-evidence.json",
+      "screenshot": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/confirmation.png",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Application.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf",
+          "pages": 22,
+          "size": 2658,
+          "sha256": "7277d7b54a7ec2125f623e74f263045e077ea352c32881b3fbf6c049d93f978e",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [
+    {
+      "path": "assets/screenshots/MF-000045-1.png",
+      "caption": "Application submitted through official form",
+      "receipt": "MERCI POUR VOTRE DEMANDE. Vous recevrez un suivi sous peu par notre équipe d’experts.",
+      "type": "confirmation",
+      "src": "assets/screenshots/MF-000045-1.png",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/confirmation.png"
+    }
+  ],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_Application.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf",
+      "pages": 22,
+      "size": 2658,
+      "sha256": "7277d7b54a7ec2125f623e74f263045e077ea352c32881b3fbf6c049d93f978e",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/research/overseas-shortlist-2026-10-28/review.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official speculative application form.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

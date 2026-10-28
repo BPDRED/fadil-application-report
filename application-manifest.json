@@ -2747,10 +2747,53 @@
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
       ]
+    },
+    {
+      "application_id": "MF-000045",
+      "company": "Groupe Bellon Prestige",
+      "country": "Canada",
+      "position": "Speculative sewing or upholstery application",
+      "employer_website": "https://www.groupebellonprestige.com/fr/carrieres/",
+      "recruitment_email": "",
+      "job_posting_url": "https://www.groupebellonprestige.com/fr/carrieres/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "portal",
+      "application_status": "awaiting_response",
+      "date_sent": "",
+      "date_submitted": "2026-10-28",
+      "last_contact_date": "2026-10-28",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await the employer response. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
+      "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-10-28T21:04:22.926936+00:00",
+          "recipient": "https://www.groupebellonprestige.com/fr/carrieres/",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Application.pdf"
+          ],
+          "confirmation": "MERCI POUR VOTRE DEMANDE. Vous recevrez un suivi sous peu par notre équipe d’experts."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Application.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf"
+        }
+      ]
     }
   ],
-  "revision": "c56b588b1cd884766e80ef482bb131710d669b2be0395ffa398887eb2848756d",
-  "updated_at": "2026-10-28T20:56:37.210149+00:00",
+  "revision": "529535925f06ea7358e4d166ffec875c7f349784c81f52f65e02c08f8e58d656",
+  "updated_at": "2026-10-28T21:04:48.396305+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

@@ -1295,5 +1295,27 @@
       }
     ],
     "receivedEvents": []
+  },
+  {
+    "id": "MF-000045",
+    "number": 45,
+    "company": "Groupe Bellon Prestige",
+    "country": "Canada",
+    "position": "Speculative sewing or upholstery application",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "awaiting_response",
+    "next": "Await the employer response. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "28 Oct 2026, 21:04",
+        "timestamp": "2026-10-28T21:04:22.926936+00:00"
+      }
+    ],
+    "receivedEvents": []
   }
 ]
