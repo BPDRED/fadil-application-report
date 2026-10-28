@@ -2641,10 +2641,63 @@
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000042_france_tolomei-romans/delivery/Mohammed_Fadil_CV.pdf"
         }
       ]
+    },
+    {
+      "application_id": "MF-000043",
+      "company": "Amisco / Groupe Gibo",
+      "country": "Canada",
+      "position": "Sewing position - Saint-Pascal",
+      "employer_website": "https://nous.amisco.com/saint-pascal/",
+      "recruitment_email": "rh.st-pascal@amisco.com",
+      "job_posting_url": "https://nous.amisco.com/offre_emploi/couturier-ere/",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-28",
+      "date_submitted": "2026-10-28",
+      "last_contact_date": "2026-10-28",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response or delivery failure. No automatic follow-up. Employer willingness to recruit from Morocco and work authorization remain unconfirmed.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-28T20:50:14+00:00",
+          "recipient": "rh.st-pascal@amisco.com",
+          "subject": "Sewing position - Saint-Pascal - Mohammed Fadil",
+          "messageId": "1a184471d2e4ff46",
+          "threadId": "1a184471d2e4ff46",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000043_canada_amisco-saint-pascal/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000043_canada_amisco-saint-pascal/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000043_canada_amisco-saint-pascal/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     }
   ],
-  "revision": "391eeac4633f304236548c9abedf4e77c85027e74f5fbcba7103654c90779c8f",
-  "updated_at": "2026-10-24T18:23:38.300627+00:00",
+  "revision": "122858d082a91485ee0125798913a1d8453bfe48f193ada17e5e5dfb5f2ae176",
+  "updated_at": "2026-10-28T20:51:30.839441+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
