@@ -41,14 +41,6 @@
   ],
   "pendingActions": [
     {
-      "applicationId": "MF-000003",
-      "company": "Groupe Tolomei",
-      "owner": "agent",
-      "description": "Recheck the original Tolomei application after its 15-day no-news period on 25 October. Do not infer an outcome early or contact/reapply.",
-      "reviewOn": "2026-10-25",
-      "dateKind": "internal_review"
-    },
-    {
       "applicationId": "MF-000002",
       "company": "Longchamp",
       "owner": "agent",
@@ -83,6 +75,13 @@
     "MF-000042"
   ],
   "archivedActions": [
+    {
+      "applicationId": "MF-000003",
+      "company": "Groupe Tolomei",
+      "archivedOn": "2026-10-28",
+      "reason": "Tolomei acknowledged the original 9 October spontaneous application and said it could be considered not to match its current search if no reply arrived within 15 days. That period passed without a further response to this application. The two later applications remain active.",
+      "reopenTrigger": "A substantive reply about the original application or a relevant new official notice."
+    },
     {
       "applicationId": "MF-000012",
       "company": "Louis Vuitton",
