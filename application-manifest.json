@@ -2790,10 +2790,63 @@
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf"
         }
       ]
+    },
+    {
+      "application_id": "MF-000047",
+      "company": "Khrome Produit-Transport",
+      "country": "Canada",
+      "position": "Speculative sewing or upholstery application",
+      "employer_website": "https://khromept.com/carrieres/",
+      "recruitment_email": "rh@khromept.com",
+      "job_posting_url": "https://khromept.com/carrieres/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-28",
+      "date_submitted": "2026-10-28",
+      "last_contact_date": "2026-10-28",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response or delivery failure. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-28T21:09:30+00:00",
+          "recipient": "rh@khromept.com",
+          "subject": "Speculative application - sewing and upholstery - Mohammed Fadil",
+          "messageId": "1a18458c1f067358",
+          "threadId": "1a18458c1f067358",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000047_canada_khrome/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000047_canada_khrome/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000047_canada_khrome/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     }
   ],
-  "revision": "529535925f06ea7358e4d166ffec875c7f349784c81f52f65e02c08f8e58d656",
-  "updated_at": "2026-10-28T21:04:48.396305+00:00",
+  "revision": "bfb9a5f6bea57bd20a68142f4df885dbb210cd3a33be14086df845ed17093f51",
+  "updated_at": "2026-10-28T21:10:44.054489+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

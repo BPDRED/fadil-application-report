@@ -1317,5 +1317,27 @@
       }
     ],
     "receivedEvents": []
+  },
+  {
+    "id": "MF-000047",
+    "number": 47,
+    "company": "Khrome Produit-Transport",
+    "country": "Canada",
+    "position": "Speculative sewing or upholstery application",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response or delivery failure. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "28 Oct 2026, 21:09",
+        "timestamp": "2026-10-28T21:09:30+00:00"
+      }
+    ],
+    "receivedEvents": []
   }
 ]
