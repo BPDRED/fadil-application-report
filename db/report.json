@@ -102,7 +102,7 @@
       "company": "Pelletterie Palladio",
       "archivedOn": "2026-10-28",
       "reason": "Palladio received the application and said on 19 October it had no opportunity matching the applicant’s experience. It may contact him if a suitable opening arises.",
-      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy. For Jaymar, valid Canadian work authorization would also be needed."
+      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy."
     },
     {
       "applicationId": "MF-000025",
@@ -116,7 +116,7 @@
       "company": "Ludwig Reiter",
       "archivedOn": "2026-10-28",
       "reason": "Ludwig Reiter received the application and portfolio but said no suitable manufacturing workshop position was available.",
-      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy. For Jaymar, valid Canadian work authorization would also be needed."
+      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy."
     },
     {
       "applicationId": "MF-000035",
@@ -130,7 +130,7 @@
       "company": "Chrome Hearts",
       "archivedOn": "2026-10-28",
       "reason": "Chrome Hearts received the Sewer - Leather application and selected other candidates.",
-      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy. For Jaymar, valid Canadian work authorization would also be needed."
+      "reopenTrigger": "A substantive employer reply or a suitable new official vacancy."
     }
   ]
 }
