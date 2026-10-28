@@ -1,0 +1,100 @@
+{
+  "id": "MF-000044",
+  "number": 44,
+  "company": "INNOTEX / Confection Aventure",
+  "country": "Canada",
+  "position": "Industrial sewing machine operator - Warwick",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent for the Warwick industrial sewing role with CV, cover letter and 19-page portfolio after the official form returned an error. Residence and work-authorization needs were disclosed.",
+  "next": "Await employer response or delivery failure. No automatic follow-up. Work authorization and recruitment from Morocco remain conditional.",
+  "recipient": "rh@innotexprotection.com",
+  "sentDate": "28 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application documents sent",
+      "date": "28 Oct 2026, 20:56",
+      "timestamp": "2026-10-28T20:56:08+00:00",
+      "recipient": "rh@innotexprotection.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": "Industrial sewing application - Warwick - Mohammed Fadil",
+      "body": "Dear INNOTEX Recruitment Team,\n\nI am applying for the industrial sewing machine operator position at Warwick. My experience in Morocco includes garment pattern preparation, cutting, machine and hand sewing, assembly, finishing and quality control.\n\nI attach my CV, personalized cover letter and work portfolio. I live in Morocco and do not have Canadian citizenship, permanent residence or work authorization. My French and English are A2, used at work. I could relocate after the required authorizations and visa are granted.\n\nWould you consider applicants living in Morocco and support the necessary employer-side work authorization process? Please also advise the language requirements and current employment conditions.\n\nI tried your production application form, but it returned a sending error. I am therefore using the email alternative listed on your careers page.\n\nKind regards,\nMohammed Fadil\n+212 603 574 848\nmfadil.med@gmail.com",
+      "messageId": "1a1844c82762a9a4",
+      "threadId": "1a1844c82762a9a4",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/gmail-sent-verification.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 288,
+          "sha256": "140ba64210b721014267901dccf221162f787a93a37b28626dd71555453b3793",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 3,
+          "sha256": "0983299434b394103844970ae99288d735201392195d306a993943544968e52b",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2493,
+          "sha256": "9da82e9833f8bdbf671d7f3974883f781e81a5677d56132fd716fb96f7507535",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 288,
+      "sha256": "140ba64210b721014267901dccf221162f787a93a37b28626dd71555453b3793",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_CV.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 3,
+      "sha256": "0983299434b394103844970ae99288d735201392195d306a993943544968e52b",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2493,
+      "sha256": "9da82e9833f8bdbf671d7f3974883f781e81a5677d56132fd716fb96f7507535",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/research/overseas-shortlist-2026-10-28/review.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/document-manifest.json",
+  "receiptReference": "",
+  "channelNote": "Official recruitment channel.",
+  "flags": [
+    "Morocco residence disclosed",
+    "Work authorization required"
+  ]
+}

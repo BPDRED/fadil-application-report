@@ -1273,5 +1273,27 @@
       }
     ],
     "receivedEvents": []
+  },
+  {
+    "id": "MF-000044",
+    "number": 44,
+    "company": "INNOTEX / Confection Aventure",
+    "country": "Canada",
+    "position": "Industrial sewing machine operator - Warwick",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response or delivery failure. No automatic follow-up. Work authorization and recruitment from Morocco remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "28 Oct 2026, 20:56",
+        "timestamp": "2026-10-28T20:56:08+00:00"
+      }
+    ],
+    "receivedEvents": []
   }
 ]

@@ -2694,10 +2694,63 @@
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000043_canada_amisco-saint-pascal/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
       ]
+    },
+    {
+      "application_id": "MF-000044",
+      "company": "INNOTEX / Confection Aventure",
+      "country": "Canada",
+      "position": "Industrial sewing machine operator - Warwick",
+      "employer_website": "https://innotexprotection.com/en-ca/careers/",
+      "recruitment_email": "rh@innotexprotection.com",
+      "job_posting_url": "https://innotexprotection.com/en/spontaneous-application/",
+      "vacancy_id": "",
+      "application_type": "advertised and production intake",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-28",
+      "date_submitted": "2026-10-28",
+      "last_contact_date": "2026-10-28",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response or delivery failure. No automatic follow-up. Work authorization and recruitment from Morocco remain conditional.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-28T20:56:08+00:00",
+          "recipient": "rh@innotexprotection.com",
+          "subject": "Industrial sewing application - Warwick - Mohammed Fadil",
+          "messageId": "1a1844c82762a9a4",
+          "threadId": "1a1844c82762a9a4",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Cover_Letter.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ]
     }
   ],
-  "revision": "122858d082a91485ee0125798913a1d8453bfe48f193ada17e5e5dfb5f2ae176",
-  "updated_at": "2026-10-28T20:51:30.839441+00:00",
+  "revision": "c56b588b1cd884766e80ef482bb131710d669b2be0395ffa398887eb2848756d",
+  "updated_at": "2026-10-28T20:56:37.210149+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
