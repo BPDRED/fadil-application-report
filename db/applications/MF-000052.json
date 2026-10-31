@@ -1,0 +1,34 @@
+{
+  "id": "MF-000052",
+  "number": 52,
+  "company": "Uniform Garment (N.A.) Ltd.",
+  "country": "Canada",
+  "position": "Garment sewing - Scarborough",
+  "type": "Advertised role",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed. This is a speculative application, not a confirmed application through Job Bank Direct Apply.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "info@uniformgarment.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1936b2e5e99ad9",
+      "threadId": "1a193598950ba2e9",
+      "recipient": "info@uniformgarment.com",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50224471"
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

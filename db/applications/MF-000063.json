@@ -1,0 +1,41 @@
+{
+  "id": "MF-000063",
+  "number": 63,
+  "company": "GIL Sewing Corporation",
+  "country": "United States",
+  "position": "Speculative garment sewing",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "fernando@gilsewing.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1935fff6c8235a",
+      "threadId": "1a1935fff6c8235a",
+      "recipient": "fernando@gilsewing.com"
+    },
+    {
+      "kind": "supplement",
+      "title": "Corrected portfolio sent",
+      "date": "31 Oct 2026",
+      "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
+      "messageId": "1a1936244c889bc4",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

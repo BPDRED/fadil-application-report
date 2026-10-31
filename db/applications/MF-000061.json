@@ -1,0 +1,34 @@
+{
+  "id": "MF-000061",
+  "number": 61,
+  "company": "Ateliers Hanna",
+  "country": "France",
+  "position": "Maroquinerie, cutting or machine sewing",
+  "type": "Advertised role",
+  "language": "French",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "job@hanna-adb.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1935ef8ddc95f6",
+      "threadId": "1a1935ef8ddc95f6",
+      "recipient": "job@hanna-adb.com",
+      "url": "https://www.ateliers-hanna.fr/rejoignez-nous"
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

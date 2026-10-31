@@ -1,0 +1,31 @@
+{
+  "id": "MF-000048",
+  "number": 48,
+  "company": "Rembourrages Experts Amobi",
+  "country": "Canada",
+  "position": "Industrial sewing worker, Rouyn-Noranda",
+  "type": "Advertised role",
+  "language": "English",
+  "status": "portal",
+  "summary": "Application submitted through the employer website. Hiring and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted",
+      "date": "31 Oct 2026",
+      "confirmation": "Website confirmed submission; this is not a job offer.",
+      "url": "https://www.groupedion.ca/carrieres/couturierere-industrielle-rouyn-noranda"
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

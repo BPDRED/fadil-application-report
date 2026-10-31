@@ -1,0 +1,33 @@
+{
+  "id": "MF-000056",
+  "number": 56,
+  "company": "Confections Troy",
+  "country": "Canada",
+  "position": "Sewing or upholstery",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "marcbeaudoin@confectionstroy.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1936b649382cff",
+      "threadId": "1a1935b2e23cbbfd",
+      "recipient": "marcbeaudoin@confectionstroy.com"
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

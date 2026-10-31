@@ -1099,6 +1099,715 @@
     "receivedEvents": []
   },
   {
+    "id": "MF-000041",
+    "number": 41,
+    "company": "Groupe Tolomei",
+    "country": "France",
+    "position": "Maroquinier H/F, Granges-les-Beaumont, CDI",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
+    "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "21 Oct 2026, 10:34",
+        "timestamp": "2026-10-21T10:34:55.604584+00:00"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automatic application confirmation received",
+        "date": "21 Oct 2026, 10:34",
+        "timestamp": "2026-10-21T10:34:34+00:00",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000042",
+    "number": 42,
+    "company": "Groupe Tolomei",
+    "country": "France",
+    "position": "Préparateur/trice en maroquinerie, Romans-sur-Isère, CDD 3 mois",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
+    "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "21 Oct 2026, 10:34",
+        "timestamp": "2026-10-21T10:34:00.094230+00:00"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "acknowledgment",
+        "title": "Automatic application confirmation received",
+        "date": "21 Oct 2026, 10:33",
+        "timestamp": "2026-10-21T10:33:14+00:00",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000043",
+    "number": 43,
+    "company": "Amisco / Groupe Gibo",
+    "country": "Canada",
+    "position": "Sewing position - Saint-Pascal",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response or delivery failure. No automatic follow-up. Employer willingness to recruit from Morocco and work authorization remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "28 Oct 2026, 20:50",
+        "timestamp": "2026-10-28T20:50:14+00:00"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000044",
+    "number": 44,
+    "company": "INNOTEX / Confection Aventure",
+    "country": "Canada",
+    "position": "Industrial sewing machine operator - Warwick",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response or delivery failure. No automatic follow-up. Work authorization and recruitment from Morocco remain conditional.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "28 Oct 2026, 20:56",
+        "timestamp": "2026-10-28T20:56:08+00:00"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000045",
+    "number": 45,
+    "company": "Groupe Bellon Prestige",
+    "country": "Canada",
+    "position": "Speculative sewing or upholstery application",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "awaiting_response",
+    "next": "Await the employer response. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted through official form",
+        "date": "28 Oct 2026, 21:04",
+        "timestamp": "2026-10-28T21:04:22.926936+00:00"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000046",
+    "number": 46,
+    "company": "Umano Medical",
+    "country": "Canada",
+    "position": "Speculative sewing or upholstery application",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000047",
+    "number": 47,
+    "company": "Khrome Produit-Transport",
+    "country": "Canada",
+    "position": "Speculative sewing or upholstery application",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await employer response or delivery failure. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "28 Oct 2026, 21:09",
+        "timestamp": "2026-10-28T21:09:30+00:00"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000048",
+    "number": 48,
+    "company": "Rembourrages Experts Amobi",
+    "country": "Canada",
+    "position": "Industrial sewing worker, Rouyn-Noranda",
+    "type": "Advertised role",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000049",
+    "number": 49,
+    "company": "Filtration Québec",
+    "country": "Canada",
+    "position": "Speculative sewing",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000050",
+    "number": 50,
+    "company": "Ballin Inc",
+    "country": "Canada",
+    "position": "Sewing position - Saint-Césaire",
+    "type": "Advertised role",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000051",
+    "number": 51,
+    "company": "Isolation Texfab",
+    "country": "Canada",
+    "position": "Sewing - Lévis",
+    "type": "Advertised role",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000052",
+    "number": 52,
+    "company": "Uniform Garment (N.A.) Ltd.",
+    "country": "Canada",
+    "position": "Garment sewing - Scarborough",
+    "type": "Advertised role",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000053",
+    "number": 53,
+    "company": "Afra Furniture",
+    "country": "Canada",
+    "position": "Upholstery or sewing",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000054",
+    "number": 54,
+    "company": "Meubles Perez / Dessana",
+    "country": "Canada",
+    "position": "Speculative sewing or upholstery",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000055",
+    "number": 55,
+    "company": "Precision Design & Manufacturing",
+    "country": "Canada",
+    "position": "Sewing or upholstery",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000056",
+    "number": 56,
+    "company": "Confections Troy",
+    "country": "Canada",
+    "position": "Sewing or upholstery",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000057",
+    "number": 57,
+    "company": "Nimble Needle Tailoring",
+    "country": "Canada",
+    "position": "Sewing or leather craft",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000058",
+    "number": 58,
+    "company": "Aldo Formal Wear",
+    "country": "Canada",
+    "position": "Sewing or leather craft",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000059",
+    "number": 59,
+    "company": "Atlantic Star Uniforms / ASU Workwear",
+    "country": "Canada",
+    "position": "Speculative sewing",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000060",
+    "number": 60,
+    "company": "Fashion House by Satnam Phagwara",
+    "country": "Canada",
+    "position": "Sewing or leather craft",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000061",
+    "number": 61,
+    "company": "Ateliers Hanna",
+    "country": "France",
+    "position": "Maroquinerie, cutting or machine sewing",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000062",
+    "number": 62,
+    "company": "Établissements André Renaud / Atelier des Quatre Collines",
+    "country": "France",
+    "position": "Maroquinier expérimenté - Paris",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000063",
+    "number": 63,
+    "company": "GIL Sewing Corporation",
+    "country": "United States",
+    "position": "Speculative garment sewing",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000064",
+    "number": 64,
+    "company": "SND Manufacturing",
+    "country": "United States",
+    "position": "Speculative garment sewing",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      },
+      {
+        "kind": "supplement",
+        "title": "Corrected portfolio sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000065",
+    "number": 65,
+    "company": "Argonaute Solutions RH",
+    "country": "France",
+    "position": "Inquiry about leather, sewing, or upholstery vacancies",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026"
+      },
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000066",
+    "number": 66,
+    "company": "Midwest Garment",
+    "country": "United States",
+    "position": "Inquiry about sewing roles",
+    "type": "Recruitment inquiry",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": true,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000067",
+    "number": 67,
+    "company": "Établissements André Renaud",
+    "country": "France",
+    "position": "Technicien de maintenance - Paris",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000068",
+    "number": 68,
+    "company": "Atelier des Quatre Collines",
+    "country": "France",
+    "position": "Technicien de maintenance - Hauterives",
+    "type": "Advertised role",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000069",
+    "number": 69,
+    "company": "Runners Diversified / Savannah Luggage Works",
+    "country": "United States",
+    "position": "Speculative sewing and assembly",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "31 Oct 2026"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
     "id": "PROV-GMAIL-1a15a17aaa78e788",
     "number": 43,
     "company": "Pelletteria Ricci",
@@ -1188,154 +1897,6 @@
         "title": "Application documents supplemented",
         "date": "20 Oct 2026, 21:43",
         "timestamp": "2026-10-20T21:43:41.000Z"
-      }
-    ],
-    "receivedEvents": []
-  },
-  {
-    "id": "MF-000041",
-    "number": 41,
-    "company": "Groupe Tolomei",
-    "country": "France",
-    "position": "Maroquinier H/F, Granges-les-Beaumont, CDI",
-    "type": "Advertised role",
-    "language": "French",
-    "status": "portal",
-    "applicationStatus": "submitted_portal",
-    "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
-    "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
-    "events": [
-      {
-        "kind": "portal",
-        "title": "Application submitted through official form",
-        "date": "21 Oct 2026, 10:34",
-        "timestamp": "2026-10-21T10:34:55.604584+00:00"
-      }
-    ],
-    "receivedEvents": [
-      {
-        "kind": "acknowledgment",
-        "title": "Automatic application confirmation received",
-        "date": "21 Oct 2026, 10:34",
-        "timestamp": "2026-10-21T10:34:34+00:00",
-        "direction": "incoming"
-      }
-    ]
-  },
-  {
-    "id": "MF-000042",
-    "number": 42,
-    "company": "Groupe Tolomei",
-    "country": "France",
-    "position": "Préparateur/trice en maroquinerie, Romans-sur-Isère, CDD 3 mois",
-    "type": "Advertised role",
-    "language": "French",
-    "status": "portal",
-    "applicationStatus": "submitted_portal",
-    "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
-    "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
-    "events": [
-      {
-        "kind": "portal",
-        "title": "Application submitted through official form",
-        "date": "21 Oct 2026, 10:34",
-        "timestamp": "2026-10-21T10:34:00.094230+00:00"
-      }
-    ],
-    "receivedEvents": [
-      {
-        "kind": "acknowledgment",
-        "title": "Automatic application confirmation received",
-        "date": "21 Oct 2026, 10:33",
-        "timestamp": "2026-10-21T10:33:14+00:00",
-        "direction": "incoming"
-      }
-    ]
-  },
-  {
-    "id": "MF-000043",
-    "number": 43,
-    "company": "Amisco / Groupe Gibo",
-    "country": "Canada",
-    "position": "Sewing position - Saint-Pascal",
-    "type": "Advertised application",
-    "language": "English",
-    "status": "email",
-    "applicationStatus": "awaiting_response",
-    "next": "Await employer response or delivery failure. No automatic follow-up. Employer willingness to recruit from Morocco and work authorization remain unconfirmed.",
-    "response": "No substantive recruitment response recorded.",
-    "events": [
-      {
-        "kind": "application",
-        "title": "Application documents sent",
-        "date": "28 Oct 2026, 20:50",
-        "timestamp": "2026-10-28T20:50:14+00:00"
-      }
-    ],
-    "receivedEvents": []
-  },
-  {
-    "id": "MF-000044",
-    "number": 44,
-    "company": "INNOTEX / Confection Aventure",
-    "country": "Canada",
-    "position": "Industrial sewing machine operator - Warwick",
-    "type": "Advertised application",
-    "language": "English",
-    "status": "email",
-    "applicationStatus": "awaiting_response",
-    "next": "Await employer response or delivery failure. No automatic follow-up. Work authorization and recruitment from Morocco remain conditional.",
-    "response": "No substantive recruitment response recorded.",
-    "events": [
-      {
-        "kind": "application",
-        "title": "Application documents sent",
-        "date": "28 Oct 2026, 20:56",
-        "timestamp": "2026-10-28T20:56:08+00:00"
-      }
-    ],
-    "receivedEvents": []
-  },
-  {
-    "id": "MF-000045",
-    "number": 45,
-    "company": "Groupe Bellon Prestige",
-    "country": "Canada",
-    "position": "Speculative sewing or upholstery application",
-    "type": "Speculative application",
-    "language": "English",
-    "status": "portal",
-    "applicationStatus": "awaiting_response",
-    "next": "Await the employer response. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
-    "response": "No substantive recruitment response recorded.",
-    "events": [
-      {
-        "kind": "portal",
-        "title": "Application submitted through official form",
-        "date": "28 Oct 2026, 21:04",
-        "timestamp": "2026-10-28T21:04:22.926936+00:00"
-      }
-    ],
-    "receivedEvents": []
-  },
-  {
-    "id": "MF-000047",
-    "number": 47,
-    "company": "Khrome Produit-Transport",
-    "country": "Canada",
-    "position": "Speculative sewing or upholstery application",
-    "type": "Speculative application",
-    "language": "English",
-    "status": "email",
-    "applicationStatus": "awaiting_response",
-    "next": "Await employer response or delivery failure. No automatic follow-up; recruitment from Morocco and work authorization remain unconfirmed.",
-    "response": "No substantive recruitment response recorded.",
-    "events": [
-      {
-        "kind": "application",
-        "title": "Application documents sent",
-        "date": "28 Oct 2026, 21:09",
-        "timestamp": "2026-10-28T21:09:30+00:00"
       }
     ],
     "receivedEvents": []

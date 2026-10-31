@@ -1,0 +1,34 @@
+{
+  "id": "MF-000053",
+  "number": 53,
+  "company": "Afra Furniture",
+  "country": "Canada",
+  "position": "Upholstery or sewing",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "info@afrafurniture.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1936b56862449e",
+      "threadId": "1a19359d4132343f",
+      "recipient": "info@afrafurniture.com",
+      "url": "https://www.guichetemplois.gc.ca/rechercheemplois/offredemploi/50214903"
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "MF-000060",
+  "number": 60,
+  "company": "Fashion House by Satnam Phagwara",
+  "country": "Canada",
+  "position": "Sewing or leather craft",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "worldfashion1212@gmail.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1936b74f6a2ebc",
+      "threadId": "1a1935d0bf026302",
+      "recipient": "worldfashion1212@gmail.com",
+      "url": "https://careers.indigenous.link/fpdf/fdpfV186/job_rsp.php?jobname=73-13-D4-D6-30-2E"
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

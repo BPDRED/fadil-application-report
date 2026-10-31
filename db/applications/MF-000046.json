@@ -1,0 +1,42 @@
+{
+  "id": "MF-000046",
+  "number": 46,
+  "company": "Umano Medical",
+  "country": "Canada",
+  "position": "Speculative sewing or upholstery application",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "emploi@umanomedical.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a19359503659d65",
+      "threadId": "1a19359503659d65",
+      "recipient": "emploi@umanomedical.com",
+      "url": "https://umano-career.talent-soft.com/my-account/my-CV-file.aspx?ApplicationType=UnsolicitedApplication"
+    },
+    {
+      "kind": "supplement",
+      "title": "Corrected portfolio sent",
+      "date": "31 Oct 2026",
+      "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
+      "messageId": "1a19361e98966260",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

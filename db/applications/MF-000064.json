@@ -1,0 +1,41 @@
+{
+  "id": "MF-000064",
+  "number": 64,
+  "company": "SND Manufacturing",
+  "country": "United States",
+  "position": "Speculative garment sewing",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "admin@snd-mfg.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1936011e898a8b",
+      "threadId": "1a1936011e898a8b",
+      "recipient": "admin@snd-mfg.com"
+    },
+    {
+      "kind": "supplement",
+      "title": "Corrected portfolio sent",
+      "date": "31 Oct 2026",
+      "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
+      "messageId": "1a19362544c58192",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

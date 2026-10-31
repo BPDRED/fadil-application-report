@@ -1,0 +1,30 @@
+{
+  "id": "MF-000066",
+  "number": 66,
+  "company": "Midwest Garment",
+  "country": "United States",
+  "position": "Inquiry about sewing roles",
+  "type": "Recruitment inquiry",
+  "language": "English",
+  "status": "email",
+  "summary": "An inquiry was sent. No job application or CV was submitted.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent",
+      "date": "31 Oct 2026",
+      "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": true,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

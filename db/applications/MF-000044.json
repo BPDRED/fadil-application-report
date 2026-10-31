@@ -56,6 +56,14 @@
           "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
       ]
+    },
+    {
+      "kind": "supplement",
+      "title": "Corrected portfolio sent",
+      "date": "31 Oct 2026",
+      "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
+      "messageId": "1a19361a78af8fa6",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
     }
   ],
   "receivedEvents": [],

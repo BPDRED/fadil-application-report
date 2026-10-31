@@ -37,6 +37,14 @@
           "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf"
         }
       ]
+    },
+    {
+      "kind": "supplement",
+      "title": "Corrected portfolio sent",
+      "date": "31 Oct 2026",
+      "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
+      "messageId": "1a193630ccbfbfa5",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
     }
   ],
   "receivedEvents": [],

@@ -1,0 +1,34 @@
+{
+  "id": "MF-000051",
+  "number": 51,
+  "company": "Isolation Texfab",
+  "country": "Canada",
+  "position": "Sewing - Lévis",
+  "type": "Advertised role",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed. This is a speculative application, not a confirmed application through Job Bank Direct Apply.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "info@isolationtexfab.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1936b069461c3d",
+      "threadId": "1a19357c7a844526",
+      "recipient": "info@isolationtexfab.com",
+      "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50507339"
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

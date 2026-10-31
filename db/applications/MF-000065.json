@@ -1,0 +1,42 @@
+{
+  "id": "MF-000065",
+  "number": 65,
+  "company": "Argonaute Solutions RH",
+  "country": "France",
+  "position": "Inquiry about leather, sewing, or upholstery vacancies",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "contact@argonauterh.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent",
+      "date": "31 Oct 2026",
+      "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed.",
+      "messageId": "1a19363b2c7c5a6a",
+      "threadId": "1a19363b2c7c5a6a",
+      "recipient": "contact@argonauterh.com"
+    },
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "messageId": "1a1936f6f5ebaab2",
+      "threadId": "1a19363b2c7c5a6a",
+      "recipient": "contact@argonauterh.com",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}

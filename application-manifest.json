@@ -2678,6 +2678,11 @@
             "Mohammed_Fadil_Portfolio.pdf"
           ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a1936199affc32c",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
       "documents": [
@@ -2731,6 +2736,11 @@
             "Mohammed_Fadil_Portfolio.pdf"
           ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a19361a78af8fa6",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
       "documents": [
@@ -2782,6 +2792,11 @@
             "Mohammed_Fadil_Application.pdf"
           ],
           "confirmation": "MERCI POUR VOTRE DEMANDE. Vous recevrez un suivi sous peu par notre équipe d’experts."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a193630ccbfbfa5",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
       "documents": [
@@ -2827,6 +2842,11 @@
             "Mohammed_Fadil_Portfolio.pdf"
           ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a19361b608af965",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
       "documents": [
@@ -2843,18 +2863,727 @@
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000047_canada_khrome/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
       ]
+    },
+    {
+      "application_id": "MF-000046",
+      "company": "Umano Medical",
+      "country": "Canada",
+      "position": "Speculative sewing or upholstery application",
+      "employer_website": "https://umano-career.talent-soft.com/accueil.aspx?LCID=2057",
+      "recruitment_email": "emploi@umanomedical.com",
+      "job_posting_url": "https://umano-career.talent-soft.com/my-account/my-CV-file.aspx?ApplicationType=UnsolicitedApplication",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await response and delivery notices; do not resubmit.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a19359503659d65",
+          "threadId": "1a19359503659d65",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a19361e98966260",
+          "threadId": "",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000048",
+      "company": "Rembourrages Experts Amobi",
+      "country": "Canada",
+      "position": "Industrial sewing worker, Rouyn-Noranda",
+      "employer_website": "https://r-e-a.ca/",
+      "recruitment_email": "",
+      "job_posting_url": "https://www.groupedion.ca/carrieres/couturierere-industrielle-rouyn-noranda",
+      "vacancy_id": "1677",
+      "application_type": "advertised",
+      "application_channel": "portal",
+      "application_status": "awaiting_response",
+      "date_sent": "",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await confirmation email and employer response; do not resubmit.",
+      "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "portal",
+          "messageId": "",
+          "threadId": "",
+          "confirmation": "Website confirmed submission; this is not a job offer."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000049",
+      "company": "Filtration Québec",
+      "country": "Canada",
+      "position": "Speculative sewing",
+      "employer_website": "",
+      "recruitment_email": "info@filtrationquebec.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await employer response and delivery.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936c189af3f00",
+          "threadId": "1a1936c189af3f00",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000050",
+      "company": "Ballin Inc",
+      "country": "Canada",
+      "position": "Sewing position - Saint-Césaire",
+      "employer_website": "https://ballin.com/fr/carrieres/",
+      "recruitment_email": "claudia.bouchard@ballin.com",
+      "job_posting_url": "https://ns.guichetemplois.gc.ca/rechercheemplois/offredemploi/50603139",
+      "vacancy_id": "554238",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await employer response and delivery notices; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1935741f217da1",
+          "threadId": "1a1935741f217da1",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a19361cd579fd18",
+          "threadId": "",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000051",
+      "company": "Isolation Texfab",
+      "country": "Canada",
+      "position": "Sewing - Lévis",
+      "employer_website": "https://www.isolationtexfab.com/",
+      "recruitment_email": "info@isolationtexfab.com",
+      "job_posting_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50507339",
+      "vacancy_id": "3697617",
+      "application_type": "advertised",
+      "application_channel": "routing inquiry email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer recruitment response; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936b069461c3d",
+          "threadId": "1a19357c7a844526",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000052",
+      "company": "Uniform Garment (N.A.) Ltd.",
+      "country": "Canada",
+      "position": "Garment sewing - Scarborough",
+      "employer_website": "https://uniformgarment.com/",
+      "recruitment_email": "info@uniformgarment.com",
+      "job_posting_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50224471",
+      "vacancy_id": "3663443",
+      "application_type": "advertised",
+      "application_channel": "routing inquiry email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer recruitment response; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936b2e5e99ad9",
+          "threadId": "1a193598950ba2e9",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000053",
+      "company": "Afra Furniture",
+      "country": "Canada",
+      "position": "Upholstery or sewing",
+      "employer_website": "https://afrafurniture.com/",
+      "recruitment_email": "info@afrafurniture.com",
+      "job_posting_url": "https://www.guichetemplois.gc.ca/rechercheemplois/offredemploi/50214903",
+      "vacancy_id": "3663773",
+      "application_type": "speculative",
+      "application_channel": "routing inquiry email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer recruitment response; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936b56862449e",
+          "threadId": "1a19359d4132343f",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000054",
+      "company": "Meubles Perez / Dessana",
+      "country": "Canada",
+      "position": "Speculative sewing or upholstery",
+      "employer_website": "https://dessana.ca/",
+      "recruitment_email": "rh@dessana.ca",
+      "job_posting_url": "https://dessana.ca/en/technical-and-rd-drafter-perez/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await employer response and delivery notices; do not duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1935aac77724c6",
+          "threadId": "1a1935aac77724c6",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a193622095d7e3e",
+          "threadId": "",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000055",
+      "company": "Precision Design & Manufacturing",
+      "country": "Canada",
+      "position": "Sewing or upholstery",
+      "employer_website": "https://www.precisioncanada.com/",
+      "recruitment_email": "upholstery@precisioncanada.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "routing inquiry email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer recruitment response; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936b5ff3f588b",
+          "threadId": "1a1935b29a986ca5",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000056",
+      "company": "Confections Troy",
+      "country": "Canada",
+      "position": "Sewing or upholstery",
+      "employer_website": "https://confectionstroy.com/en/",
+      "recruitment_email": "marcbeaudoin@confectionstroy.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "routing inquiry email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer recruitment response; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936b649382cff",
+          "threadId": "1a1935b2e23cbbfd",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000057",
+      "company": "Nimble Needle Tailoring",
+      "country": "Canada",
+      "position": "Sewing or leather craft",
+      "employer_website": "https://www.nimbleneedle.ca/",
+      "recruitment_email": "info@nimbleneedle.ca",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "routing inquiry email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer recruitment response; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936b6ca64a75a",
+          "threadId": "1a1935b9a494fe7b",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000058",
+      "company": "Aldo Formal Wear",
+      "country": "Canada",
+      "position": "Sewing or leather craft",
+      "employer_website": "https://aldoformalwear.ca/",
+      "recruitment_email": "",
+      "job_posting_url": "https://aldoformalwear.ca/pages/contact-us",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "contact form inquiry",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer response; no duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936c21327e148",
+          "threadId": "1a1936c21327e148",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000059",
+      "company": "Atlantic Star Uniforms / ASU Workwear",
+      "country": "Canada",
+      "position": "Speculative sewing",
+      "employer_website": "https://asuworkwear.com/",
+      "recruitment_email": "stevenson.casimir@asuworkwear.com",
+      "job_posting_url": "https://edupole.ca/application/files/9915/2164/6418/2018-03_atlanticuniforms2.pdf",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await employer response and delivery notices; do not duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1935cac1c44bc6",
+          "threadId": "1a1935cac1c44bc6",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a193623538a1386",
+          "threadId": "",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000060",
+      "company": "Fashion House by Satnam Phagwara",
+      "country": "Canada",
+      "position": "Sewing or leather craft",
+      "employer_website": "",
+      "recruitment_email": "worldfashion1212@gmail.com",
+      "job_posting_url": "https://careers.indigenous.link/fpdf/fdpfV186/job_rsp.php?jobname=73-13-D4-D6-30-2E",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "routing inquiry email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and employer recruitment response; no duplicate send.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936b74f6a2ebc",
+          "threadId": "1a1935d0bf026302",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000061",
+      "company": "Ateliers Hanna",
+      "country": "France",
+      "position": "Maroquinerie, cutting or machine sewing",
+      "employer_website": "https://www.ateliers-hanna.fr/",
+      "recruitment_email": "job@hanna-adb.com",
+      "job_posting_url": "https://www.ateliers-hanna.fr/rejoignez-nous",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await employer response and delivery notices; do not duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1935ef8ddc95f6",
+          "threadId": "1a1935ef8ddc95f6",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000062",
+      "company": "Établissements André Renaud / Atelier des Quatre Collines",
+      "country": "France",
+      "position": "Maroquinier expérimenté - Paris",
+      "employer_website": "https://careers.werecruit.io/en/atelier-des-quatre-collines",
+      "recruitment_email": "",
+      "job_posting_url": "https://careers.werecruit.io/en/atelier-des-quatre-collines/offers/maroquinier-experimente-80020f",
+      "vacancy_id": "80020f12-953f-414b-bd02-dd191f1d39d9",
+      "application_type": "advertised",
+      "application_channel": "portal",
+      "application_status": "awaiting_response",
+      "date_sent": "",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await confirmation email and employer response; do not duplicate.",
+      "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "portal",
+          "messageId": "",
+          "threadId": "",
+          "confirmation": "Website confirmed submission; this is not a job offer."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000063",
+      "company": "GIL Sewing Corporation",
+      "country": "United States",
+      "position": "Speculative garment sewing",
+      "employer_website": "",
+      "recruitment_email": "fernando@gilsewing.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await employer response and delivery notices; do not duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1935fff6c8235a",
+          "threadId": "1a1935fff6c8235a",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a1936244c889bc4",
+          "threadId": "",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000064",
+      "company": "SND Manufacturing",
+      "country": "United States",
+      "position": "Speculative garment sewing",
+      "employer_website": "",
+      "recruitment_email": "admin@snd-mfg.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await employer response and delivery notices; do not duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936011e898a8b",
+          "threadId": "1a1936011e898a8b",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "messageId": "1a19362544c58192",
+          "threadId": "",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000065",
+      "company": "Argonaute Solutions RH",
+      "country": "France",
+      "position": "Inquiry about leather, sewing, or upholstery vacancies",
+      "employer_website": "",
+      "recruitment_email": "contact@argonauterh.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "inquiry",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await response about relevant roles, route, and whether candidate fees apply.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "inquiry",
+          "messageId": "1a19363b2c7c5a6a",
+          "threadId": "1a19363b2c7c5a6a",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
+        {
+          "kind": "application",
+          "messageId": "1a1936f6f5ebaab2",
+          "threadId": "1a19363b2c7c5a6a",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000066",
+      "company": "Midwest Garment",
+      "country": "United States",
+      "position": "Inquiry about sewing roles",
+      "employer_website": "https://midwestgarment.com/",
+      "recruitment_email": "",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "inquiry",
+      "application_channel": "general contact form",
+      "application_status": "inquiry_sent",
+      "date_sent": "",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await response about roles, work authorization support and application channel.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "inquiry",
+          "messageId": "",
+          "threadId": "",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000067",
+      "company": "Établissements André Renaud",
+      "country": "France",
+      "position": "Technicien de maintenance - Paris",
+      "employer_website": "",
+      "recruitment_email": "",
+      "job_posting_url": "https://careers.werecruit.io/fr/atelier-des-quatre-collines/offres/technicien-de-maintenance-5af263",
+      "vacancy_id": "5af263e3-20f1-4d5a-8cd4-9bd1f4f28783",
+      "application_type": "advertised",
+      "application_channel": "portal",
+      "application_status": "awaiting_response",
+      "date_sent": "",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await response; no duplicate.",
+      "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "portal",
+          "messageId": "",
+          "threadId": "",
+          "confirmation": "Website confirmed submission; this is not a job offer."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000069",
+      "company": "Runners Diversified / Savannah Luggage Works",
+      "country": "United States",
+      "position": "Speculative sewing and assembly",
+      "employer_website": "",
+      "recruitment_email": "sales@savannahluggage.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and recruitment routing; no duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "messageId": "1a1936e101f927f0",
+          "threadId": "1a1936e101f927f0",
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": []
+    },
+    {
+      "application_id": "MF-000068",
+      "company": "Atelier des Quatre Collines",
+      "country": "France",
+      "position": "Technicien de maintenance - Hauterives",
+      "employer_website": "",
+      "recruitment_email": "",
+      "job_posting_url": "https://careers.werecruit.io/fr/atelier-des-quatre-collines/offres/technicien-de-maintenance-201147",
+      "vacancy_id": "201147d1-69c4-49b9-a4da-39dd1cbad243",
+      "application_type": "advertised",
+      "application_channel": "portal",
+      "application_status": "awaiting_response",
+      "date_sent": "",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await response; no duplicate.",
+      "submission_state": "portal",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "portal",
+          "messageId": "",
+          "threadId": "",
+          "confirmation": "Website confirmed submission; this is not a job offer."
+        }
+      ],
+      "documents": []
     }
   ],
-  "revision": "bfb9a5f6bea57bd20a68142f4df885dbb210cd3a33be14086df845ed17093f51",
-  "updated_at": "2026-10-28T21:10:44.054489+00:00",
+  "revision": "0bb0622cf7c11a65e09189083e18e1809b923a6be6fbcda831a06b3280c15e42",
+  "updated_at": "2026-10-31T19:28:45.564545+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-28T09:04:20Z",
-    "latest_attempt_started_utc": "2026-10-28T09:04:20Z",
+    "last_successful_scan_utc": "2026-10-30T09:07:49Z",
+    "latest_attempt_started_utc": "2026-10-30T09:07:49Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 3,
+    "messages_enumerated": 13,
     "pages_completed": 1,
     "email_suppressed_same_day": false
   }

@@ -1,0 +1,42 @@
+{
+  "id": "MF-000059",
+  "number": 59,
+  "company": "Atlantic Star Uniforms / ASU Workwear",
+  "country": "Canada",
+  "position": "Speculative sewing",
+  "type": "Speculative application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with CV. Delivery, recruitment forwarding and work-authorization support are not confirmed.",
+  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "recipient": "stevenson.casimir@asuworkwear.com",
+  "sentDate": "31 Oct 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "31 Oct 2026",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "messageId": "1a1935cac1c44bc6",
+      "threadId": "1a1935cac1c44bc6",
+      "recipient": "stevenson.casimir@asuworkwear.com",
+      "url": "https://edupole.ca/application/files/9915/2164/6418/2018-03_atlanticuniforms2.pdf"
+    },
+    {
+      "kind": "supplement",
+      "title": "Corrected portfolio sent",
+      "date": "31 Oct 2026",
+      "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
+      "messageId": "1a193623538a1386",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive recruitment response recorded.",
+  "flags": []
+}
