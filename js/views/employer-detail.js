@@ -37,6 +37,6 @@ function evidence(a) {
       <dl class="kv"><dt>From</dt><dd data-no-translate>${esc(e.sender)}</dd><dt>To</dt><dd data-no-translate>${esc(e.recipient)}</dd><dt>Subject</dt><dd>${esc(e.subject)}</dd><dt>Files</dt><dd>${e.filenames.length} attached PDFs</dd></dl>
       <p class="sub"><span>GMAIL MESSAGE ID</span></p><p class="ids" data-no-translate>${esc(e.messageId)}</p><a class="link" href="${esc(safeUrl(e.evidence))}" target="_blank" rel="noopener">Open original saved sending record ↗</a>
       <p class="note">The saved record supports the sending event. It does not prove delivery, reading, recruitment interest or work-permit support.</p><p class="note">No saved Gmail interface screenshot is available for this employer.</p>`; }
-  return `${head(a)}${body}<div class="src"><a href="${esc(safeUrl(a.source))}" target="_blank" rel="noopener">Employer research and history ↗</a><a href="${esc(safeUrl(a.manifest))}" target="_blank" rel="noopener">Document manifest ↗</a></div>`;
+  return `${head(a)}${body}<div class="src"><a href="${esc(safeUrl(a.source))}" target="_blank" rel="noopener">Employer research and history ↗</a><a href="${esc(safeUrl(a.manifest))}" target="_blank" rel="noopener">Application record ↗</a></div>`;
 }
 
