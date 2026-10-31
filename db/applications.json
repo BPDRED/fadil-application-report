@@ -1757,7 +1757,7 @@
     "position": "Inquiry about sewing roles",
     "type": "Recruitment inquiry",
     "language": "English",
-    "status": "email",
+    "status": "portal",
     "applicationStatus": "awaiting_response",
     "screeningOnly": true,
     "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",

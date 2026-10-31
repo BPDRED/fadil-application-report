@@ -3473,7 +3473,7 @@
       "date_submitted": "2026-10-31",
       "last_contact_date": "2026-10-31",
       "next_action": "Await response about roles, work authorization support and application channel.",
-      "submission_state": "email",
+      "submission_state": "portal",
       "received_events": [],
       "last_response_at": "",
       "events": [
@@ -3574,8 +3574,8 @@
       "documents": []
     }
   ],
-  "revision": "1158c47a1a207da193729d954acd11b9ce379e572c04979e7fecbebe0021c258",
-  "updated_at": "2026-10-31T19:29:59.967270+00:00",
+  "revision": "f44cbaf50ec93fc0927c048c359c0dcfcfacd25248424486738f3cf9b9a1072b",
+  "updated_at": "2026-10-31T19:30:49.289993+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

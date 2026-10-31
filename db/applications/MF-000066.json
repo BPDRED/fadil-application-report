@@ -6,7 +6,7 @@
   "position": "Inquiry about sewing roles",
   "type": "Recruitment inquiry",
   "language": "English",
-  "status": "email",
+  "status": "portal",
   "summary": "An inquiry was sent. No job application or CV was submitted.",
   "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
   "recipient": "",
