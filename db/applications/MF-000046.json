@@ -20,7 +20,8 @@
       "messageId": "1a19359503659d65",
       "threadId": "1a19359503659d65",
       "recipient": "emploi@umanomedical.com",
-      "url": "https://umano-career.talent-soft.com/my-account/my-CV-file.aspx?ApplicationType=UnsolicitedApplication"
+      "url": "https://umano-career.talent-soft.com/my-account/my-CV-file.aspx?ApplicationType=UnsolicitedApplication",
+      "timestamp": "2026-10-31"
     },
     {
       "kind": "supplement",
@@ -28,7 +29,8 @@
       "date": "31 Oct 2026",
       "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
       "messageId": "1a19361e98966260",
-      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "timestamp": "2026-10-31"
     }
   ],
   "receivedEvents": [],

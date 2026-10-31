@@ -16,7 +16,8 @@
       "kind": "inquiry",
       "title": "Inquiry sent",
       "date": "31 Oct 2026",
-      "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+      "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed.",
+      "timestamp": "2026-10-31"
     }
   ],
   "receivedEvents": [],

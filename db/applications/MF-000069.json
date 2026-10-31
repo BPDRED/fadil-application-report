@@ -19,7 +19,8 @@
       "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
       "messageId": "1a1936e101f927f0",
       "threadId": "1a1936e101f927f0",
-      "recipient": "sales@savannahluggage.com"
+      "recipient": "sales@savannahluggage.com",
+      "timestamp": "2026-10-31"
     }
   ],
   "receivedEvents": [],

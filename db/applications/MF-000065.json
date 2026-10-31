@@ -19,7 +19,8 @@
       "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed.",
       "messageId": "1a19363b2c7c5a6a",
       "threadId": "1a19363b2c7c5a6a",
-      "recipient": "contact@argonauterh.com"
+      "recipient": "contact@argonauterh.com",
+      "timestamp": "2026-10-31"
     },
     {
       "kind": "application",
@@ -28,7 +29,8 @@
       "messageId": "1a1936f6f5ebaab2",
       "threadId": "1a19363b2c7c5a6a",
       "recipient": "contact@argonauterh.com",
-      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "timestamp": "2026-10-31"
     }
   ],
   "receivedEvents": [],
