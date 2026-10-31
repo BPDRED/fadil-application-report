@@ -32,11 +32,11 @@ function evidence(a) {
       <p style="font-weight:600;margin-top:10px">${esc(s.caption)}</p><p class="quote">“<span>${esc(s.receipt)}</span>”</p><p class="note">${esc(why)}</p>
       ${a.receiptReference ? `<p class="sub"><span>APPLICATION CONFIRMATION NUMBER</span></p><p class="ids" data-no-translate>${esc(a.receiptReference)}</p>` : ''}
       ${a.screenshots.slice(1).map((s, i) => `<button class="row" data-shot="${esc(a.id)}:${i+1}"><span class="body"><b>${esc(s.caption)}</b><span class="sub">View additional saved image</span></span>${ic('ext','go')}</button>`).join('')}`;
-  } else { const e = [...a.events].reverse().find(e => ['application','supplement','inquiry'].includes(e.kind));
-    body = !e ? '<p class="empty">No confirmed submission evidence is recorded.</p>' : `<p class="sec-title">Saved Gmail sending evidence</p><p class="st-ok" style="font-weight:600">✓ <span>Gmail SENT verified</span> <span class="meta">· <span>${esc(e.date)}</span></span></p>
+  } else { const e = [...a.events].reverse().find(e => ['application','supplement','inquiry','portal'].includes(e.kind));
+    body = !e ? '<p class="empty">No confirmed submission evidence is recorded.</p>' : e.kind === 'portal' ? `<p class="sec-title">Website form confirmation</p><p>${esc(e.confirmation)}</p><a class="link" href="${esc(safeUrl(e.evidence))}" target="_blank" rel="noopener">Open saved confirmation ↗</a>` : `<p class="sec-title">Saved Gmail sending evidence</p><p class="st-ok" style="font-weight:600">✓ <span>Gmail SENT verified</span> <span class="meta">· <span>${esc(e.date)}</span></span></p>
       <dl class="kv"><dt>From</dt><dd data-no-translate>${esc(e.sender)}</dd><dt>To</dt><dd data-no-translate>${esc(e.recipient)}</dd><dt>Subject</dt><dd>${esc(e.subject)}</dd><dt>Files</dt><dd>${e.filenames.length} attached PDFs</dd></dl>
       <p class="sub"><span>GMAIL MESSAGE ID</span></p><p class="ids" data-no-translate>${esc(e.messageId)}</p><a class="link" href="${esc(safeUrl(e.evidence))}" target="_blank" rel="noopener">Open original saved sending record ↗</a>
-      <p class="note">The saved record confirms the recipient, subject, message and attachment names. It proves sending, not delivery, reading, recruitment interest or work-permit support.</p><p class="note">No saved Gmail interface screenshot is available for this employer.</p>`; }
+      <p class="note">The saved record supports the sending event. It does not prove delivery, reading, recruitment interest or work-permit support.</p><p class="note">No saved Gmail interface screenshot is available for this employer.</p>`; }
   return `${head(a)}${body}<div class="src"><a href="${esc(safeUrl(a.source))}" target="_blank" rel="noopener">Employer research and history ↗</a><a href="${esc(safeUrl(a.manifest))}" target="_blank" rel="noopener">Document manifest ↗</a></div>`;
 }
 

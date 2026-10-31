@@ -21,7 +21,32 @@
       "threadId": "1a1935aac77724c6",
       "recipient": "rh@dessana.ca",
       "url": "https://dessana.ca/en/technical-and-rd-drafter-perez/",
-      "timestamp": "2026-10-31"
+      "timestamp": "2026-10-31",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "sender": "mfadil.med@gmail.com",
+      "subject": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261031-inquiry-followup-applications.json",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2493,
+          "sha256": "9da82e9833f8bdbf671d7f3974883f781e81a5677d56132fd716fb96f7507535"
+        }
+      ]
     },
     {
       "kind": "supplement",
@@ -30,15 +55,60 @@
       "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
       "messageId": "1a193622095d7e3e",
       "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
-      "timestamp": "2026-10-31"
+      "timestamp": "2026-10-31",
+      "filenames": [
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "sender": "mfadil.med@gmail.com",
+      "recipient": "rh@dessana.ca",
+      "subject": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/portfolio-correction-20261031/plan.json",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2508,
+          "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38"
+        }
+      ]
     }
   ],
   "receivedEvents": [],
   "applicationStatus": "awaiting_response",
   "screeningOnly": false,
   "screenshots": [],
-  "documents": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2493,
+      "sha256": "9da82e9833f8bdbf671d7f3974883f781e81a5677d56132fd716fb96f7507535"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38"
+    }
+  ],
   "preparedDocuments": [],
   "response": "No substantive recruitment response recorded.",
-  "flags": []
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/research/overseas-shortlist-2026-10-28/review.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261031-inquiry-followup-applications.json"
 }

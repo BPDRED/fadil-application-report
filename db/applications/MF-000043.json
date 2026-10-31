@@ -64,7 +64,24 @@
       "body": "An earlier portfolio contained a statement for a different employer. A corrected portfolio was sent; delivery and recruitment review are unconfirmed.",
       "messageId": "1a1936199affc32c",
       "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
-      "timestamp": "2026-10-31"
+      "timestamp": "2026-10-31",
+      "filenames": [
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "sender": "mfadil.med@gmail.com",
+      "recipient": "rh.st-pascal@amisco.com",
+      "subject": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/portfolio-correction-20261031/plan.json",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2508,
+          "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38"
+        }
+      ]
     }
   ],
   "receivedEvents": [],

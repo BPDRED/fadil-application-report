@@ -17,7 +17,12 @@
       "title": "Inquiry sent",
       "date": "31 Oct 2026",
       "timestamp": "2026-10-31",
-      "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+      "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed.",
+      "filenames": [],
+      "sender": "mfadil.med@gmail.com",
+      "recipient": "",
+      "subject": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261031-inquiry-followup-applications.json"
     },
     {
       "kind": "application",
@@ -28,15 +33,43 @@
       "threadId": "1a1936c21327e148",
       "recipient": "",
       "url": "https://aldoformalwear.ca/pages/contact-us",
-      "timestamp": "2026-10-31"
+      "timestamp": "2026-10-31",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "sender": "mfadil.med@gmail.com",
+      "subject": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261031-inquiry-followup-applications.json",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        }
+      ]
     }
   ],
   "receivedEvents": [],
   "applicationStatus": "awaiting_response",
   "screeningOnly": false,
   "screenshots": [],
-  "documents": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    }
+  ],
   "preparedDocuments": [],
   "response": "No substantive recruitment response recorded.",
-  "flags": []
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/research/overseas-shortlist-2026-10-28/review.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261031-inquiry-followup-applications.json"
 }

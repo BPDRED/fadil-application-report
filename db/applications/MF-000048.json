@@ -9,7 +9,7 @@
   "status": "portal",
   "summary": "Application submitted through the employer website. Hiring and work-authorization support are not confirmed.",
   "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
-  "recipient": "",
+  "recipient": "https://www.groupedion.ca/formulaire-de-candidature?j=1677",
   "sentDate": "31 Oct 2026",
   "events": [
     {
@@ -18,15 +18,44 @@
       "date": "31 Oct 2026",
       "confirmation": "Website confirmed submission; this is not a job offer.",
       "url": "https://www.groupedion.ca/carrieres/couturierere-industrielle-rouyn-noranda",
-      "timestamp": "2026-10-31"
+      "timestamp": "2026-10-31",
+      "filenames": [
+        "Mohammed_Fadil_CV_and_Letter.pdf"
+      ],
+      "sender": "mfadil.med@gmail.com",
+      "recipient": "",
+      "subject": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/portal-submission-evidence-20261031.json",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_and_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_CV_and_Letter.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_CV_and_Letter.pdf",
+          "pages": 3,
+          "size": 271,
+          "sha256": "4ea30a3826f95be7d89319d589d52c160cea78e746f7e65df78d980a72555c1f"
+        }
+      ]
     }
   ],
   "receivedEvents": [],
   "applicationStatus": "awaiting_response",
   "screeningOnly": false,
   "screenshots": [],
-  "documents": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV_and_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_CV_and_Letter.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_CV_and_Letter.pdf",
+      "pages": 3,
+      "size": 271,
+      "sha256": "4ea30a3826f95be7d89319d589d52c160cea78e746f7e65df78d980a72555c1f"
+    }
+  ],
   "preparedDocuments": [],
   "response": "No substantive recruitment response recorded.",
-  "flags": []
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/research/overseas-shortlist-2026-10-28/review.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261031-inquiry-followup-applications.json"
 }

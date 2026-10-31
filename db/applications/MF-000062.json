@@ -9,7 +9,7 @@
   "status": "portal",
   "summary": "Application submitted through the employer website. Hiring and work-authorization support are not confirmed.",
   "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
-  "recipient": "",
+  "recipient": "https://careers.werecruit.io/en/atelier-des-quatre-collines/offers/maroquinier-experimente-80020f",
   "sentDate": "31 Oct 2026",
   "events": [
     {
@@ -18,15 +18,44 @@
       "date": "31 Oct 2026",
       "confirmation": "Website confirmed submission; this is not a job offer.",
       "url": "https://careers.werecruit.io/en/atelier-des-quatre-collines/offers/maroquinier-experimente-80020f",
-      "timestamp": "2026-10-31"
+      "timestamp": "2026-10-31",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "sender": "mfadil.med@gmail.com",
+      "recipient": "",
+      "subject": "",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000062_france_andre-renaud/portal-submission-evidence-20261031.json",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000062_france_andre-renaud/delivery/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000062_france_andre-renaud/delivery/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 283,
+          "sha256": "7e4e7fc1f81fc549a7855ffedd97729f4cffb67a315a85474b9eaa37096008f8"
+        }
+      ]
     }
   ],
   "receivedEvents": [],
   "applicationStatus": "awaiting_response",
   "screeningOnly": false,
   "screenshots": [],
-  "documents": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000062_france_andre-renaud/delivery/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000062_france_andre-renaud/delivery/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 283,
+      "sha256": "7e4e7fc1f81fc549a7855ffedd97729f4cffb67a315a85474b9eaa37096008f8"
+    }
+  ],
   "preparedDocuments": [],
   "response": "No substantive recruitment response recorded.",
-  "flags": []
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/research/overseas-shortlist-2026-10-28/review.md",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261031-inquiry-followup-applications.json"
 }
