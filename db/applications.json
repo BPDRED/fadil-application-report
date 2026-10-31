@@ -1389,6 +1389,12 @@
     "response": "No substantive recruitment response recorded.",
     "events": [
       {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
+      {
         "kind": "application",
         "title": "Application sent",
         "date": "31 Oct 2026",
@@ -1412,6 +1418,12 @@
     "response": "No substantive recruitment response recorded.",
     "events": [
       {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
+      {
         "kind": "application",
         "title": "Application sent",
         "date": "31 Oct 2026",
@@ -1434,6 +1446,12 @@
     "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
     "response": "No substantive recruitment response recorded.",
     "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
       {
         "kind": "application",
         "title": "Application sent",
@@ -1487,6 +1505,12 @@
     "response": "No substantive recruitment response recorded.",
     "events": [
       {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
+      {
         "kind": "application",
         "title": "Application sent",
         "date": "31 Oct 2026",
@@ -1509,6 +1533,12 @@
     "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
     "response": "No substantive recruitment response recorded.",
     "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
       {
         "kind": "application",
         "title": "Application sent",
@@ -1533,6 +1563,12 @@
     "response": "No substantive recruitment response recorded.",
     "events": [
       {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
+      {
         "kind": "application",
         "title": "Application sent",
         "date": "31 Oct 2026",
@@ -1555,6 +1591,12 @@
     "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
     "response": "No substantive recruitment response recorded.",
     "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
       {
         "kind": "application",
         "title": "Application sent",
@@ -1607,6 +1649,12 @@
     "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
     "response": "No substantive recruitment response recorded.",
     "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "31 Oct 2026",
+        "timestamp": "2026-10-31"
+      },
       {
         "kind": "application",
         "title": "Application sent",

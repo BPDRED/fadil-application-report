@@ -3013,6 +3013,11 @@
       "last_response_at": "",
       "events": [
         {
+          "kind": "inquiry",
+          "messageId": "1a19357c7a844526",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
+        {
           "kind": "application",
           "messageId": "1a1936b069461c3d",
           "threadId": "1a19357c7a844526",
@@ -3042,6 +3047,11 @@
       "last_response_at": "",
       "events": [
         {
+          "kind": "inquiry",
+          "messageId": "1a193598950ba2e9",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
+        {
           "kind": "application",
           "messageId": "1a1936b2e5e99ad9",
           "threadId": "1a193598950ba2e9",
@@ -3070,6 +3080,11 @@
       "received_events": [],
       "last_response_at": "",
       "events": [
+        {
+          "kind": "inquiry",
+          "messageId": "1a19359d4132343f",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
         {
           "kind": "application",
           "messageId": "1a1936b56862449e",
@@ -3135,6 +3150,11 @@
       "last_response_at": "",
       "events": [
         {
+          "kind": "inquiry",
+          "messageId": "1a1935b29a986ca5",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
+        {
           "kind": "application",
           "messageId": "1a1936b5ff3f588b",
           "threadId": "1a1935b29a986ca5",
@@ -3163,6 +3183,11 @@
       "received_events": [],
       "last_response_at": "",
       "events": [
+        {
+          "kind": "inquiry",
+          "messageId": "1a1935b2e23cbbfd",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
         {
           "kind": "application",
           "messageId": "1a1936b649382cff",
@@ -3193,6 +3218,11 @@
       "last_response_at": "",
       "events": [
         {
+          "kind": "inquiry",
+          "messageId": "1a1935b9a494fe7b",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
+        {
           "kind": "application",
           "messageId": "1a1936b6ca64a75a",
           "threadId": "1a1935b9a494fe7b",
@@ -3221,6 +3251,11 @@
       "received_events": [],
       "last_response_at": "",
       "events": [
+        {
+          "kind": "inquiry",
+          "messageId": "",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
         {
           "kind": "application",
           "messageId": "1a1936c21327e148",
@@ -3285,6 +3320,11 @@
       "received_events": [],
       "last_response_at": "",
       "events": [
+        {
+          "kind": "inquiry",
+          "messageId": "1a1935d0bf026302",
+          "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
+        },
         {
           "kind": "application",
           "messageId": "1a1936b74f6a2ebc",
@@ -3574,8 +3614,8 @@
       "documents": []
     }
   ],
-  "revision": "f44cbaf50ec93fc0927c048c359c0dcfcfacd25248424486738f3cf9b9a1072b",
-  "updated_at": "2026-10-31T19:30:49.289993+00:00",
+  "revision": "20e081e050190cd93b33afaecec61c08cdecafdcd7aada61d3ddef5e8298a00e",
+  "updated_at": "2026-10-31T19:32:12.596104+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
