@@ -7,11 +7,11 @@
   "counts": {
     "application": 51,
     "supplement": 13,
-    "inquiry": 17,
+    "inquiry": 15,
     "reply": 1
   },
-  "applicationDataUpdatedAt": "2026-10-31T19:32:12.596104+00:00",
-  "applicationContentHash": "20e081e050190cd93b33afaecec61c08cdecafdcd7aada61d3ddef5e8298a00e",
+  "applicationDataUpdatedAt": "2026-10-31T19:34:13.819031+00:00",
+  "applicationContentHash": "f8fefb867ba24dbb45509227f7e58f3ab9308496b9817a6bfecc7a5a4be1fb34",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-10-30T09:07:49Z",
@@ -26,7 +26,7 @@
     "application-tracker.csv": "6869f77e6d1a2106a672e66a2cd9c608502591f03722ca3b52b80f29c537addb",
     "project-status.md": "36331ff0dc13526131813f27e7f285669e6db16a142f8e56d9ba3908b01f6452"
   },
-  "publicationRevision": "20e081e050190cd93b33afaecec61c08cdecafdcd7aada61d3ddef5e8298a00e",
+  "publicationRevision": "f8fefb867ba24dbb45509227f7e58f3ab9308496b9817a6bfecc7a5a4be1fb34",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [

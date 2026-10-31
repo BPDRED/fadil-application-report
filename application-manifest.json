@@ -3252,7 +3252,7 @@
       "last_response_at": "",
       "events": [
         {
-          "kind": "inquiry",
+          "kind": "portal",
           "messageId": "",
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
@@ -3518,7 +3518,7 @@
       "last_response_at": "",
       "events": [
         {
-          "kind": "inquiry",
+          "kind": "portal",
           "messageId": "",
           "threadId": "",
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
@@ -3614,8 +3614,8 @@
       "documents": []
     }
   ],
-  "revision": "20e081e050190cd93b33afaecec61c08cdecafdcd7aada61d3ddef5e8298a00e",
-  "updated_at": "2026-10-31T19:32:12.596104+00:00",
+  "revision": "f8fefb867ba24dbb45509227f7e58f3ab9308496b9817a6bfecc7a5a4be1fb34",
+  "updated_at": "2026-10-31T19:34:13.819031+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

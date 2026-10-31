@@ -20,7 +20,7 @@ function overview() {
     <div class="chips">${GROUPS.map(g => `<button class="chip s-${g[0]}" data-status="${g[0]}"><b>${statusCount(g[0])}</b><i class="dot"></i><span>${g[1]}</span></button>`).join('')}</div>
     ${(report.archivedActions || []).length ? '<p class="meta">Archived reviews are excluded from active status counts.</p>' : ''}
     <div class="kf"><div><b>${emailCount}</b><span>Email applications</span></div><div><b>${portalCount}</b><span>Portal records</span></div><div><b>${outgoing}</b><span>Outgoing emails</span></div></div>
-    <p class="meta">${esc(L10n.t('{documents} with documents + {screening} screening-only', {documents:apps.filter(a => a.status === 'portal' && !isScreening(a)).length, screening:apps.filter(a => a.status === 'portal' && isScreening(a)).length}))}</p>
+    <p class="meta">${esc(L10n.t('{documents} with documents + {screening} without documents', {documents:apps.filter(a => a.status === 'portal' && !isScreening(a)).length, screening:apps.filter(a => a.status === 'portal' && isScreening(a)).length}))}</p>
     <p class="meta">${esc(L10n.t('{application} applications + {inquiry} inquiries + {supplement} portfolio updates', report.counts))}</p>
     <p class="sec-title">By country</p>
     <div class="chips">${countryList().map(([c, k]) => `<button class="chip" data-country="${esc(c)}">${flag(c)}<span>${esc(c)}</span> <b>${k}</b></button>`).join('')}</div>

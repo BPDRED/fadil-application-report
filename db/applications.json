@@ -1592,7 +1592,7 @@
     "response": "No substantive recruitment response recorded.",
     "events": [
       {
-        "kind": "inquiry",
+        "kind": "portal",
         "title": "Inquiry sent",
         "date": "31 Oct 2026",
         "timestamp": "2026-10-31"
@@ -1812,7 +1812,7 @@
     "response": "No substantive recruitment response recorded.",
     "events": [
       {
-        "kind": "inquiry",
+        "kind": "portal",
         "title": "Inquiry sent",
         "date": "31 Oct 2026",
         "timestamp": "2026-10-31"
