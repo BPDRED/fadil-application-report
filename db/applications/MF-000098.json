@@ -1,0 +1,79 @@
+{
+  "id": "MF-000098",
+  "number": 98,
+  "company": "Elko Chair Repairs",
+  "country": "Australia",
+  "position": "Upholstery enquiry for overseas applicant",
+  "type": "Recruitment inquiry",
+  "language": "English",
+  "status": "failed",
+  "summary": "The message could not be delivered because the mailbox is inactive. No employer application was delivered.",
+  "next": "Find a verified application route. No new application is confirmed.",
+  "recipient": "elkochairrepairs@gmail.com",
+  "sentDate": "13 Nov 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent",
+      "date": "13 Nov 2026, 18:44",
+      "timestamp": "2026-11-13T18:44:05+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        }
+      ],
+      "messageId": "1a1d6395cfc1a6f7",
+      "threadId": "1a1d6395cfc1a6f7",
+      "recipient": "elkochairrepairs@gmail.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "delivery_notice",
+      "title": "Delivery failure",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13",
+      "direction": "incoming",
+      "confirmation": "Final delivery failure; the message did not reach the recipient.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-delivery-failure-20261113.json",
+      "filenames": [],
+      "documents": [],
+      "messageId": "1a1d639674d3ffda",
+      "sourceMessageId": "1a1d6395cfc1a6f7",
+      "sender": "Mail delivery service",
+      "subject": ""
+    }
+  ],
+  "applicationStatus": "blocked",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Delivery failed; no receipt by the intended recipient.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-full-readback-20261113.json"
+}

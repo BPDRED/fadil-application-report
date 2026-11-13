@@ -1,0 +1,63 @@
+{
+  "id": "MF-000090",
+  "number": 90,
+  "company": "Reality Furniture",
+  "country": "Australia",
+  "position": "Experienced furniture upholsterer",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "info@realityfurniture.com.au",
+  "sentDate": "13 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "13 Nov 2026, 18:07",
+      "timestamp": "2026-11-13T18:07:33+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000090_australia_reality-furniture/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000090_australia_reality-furniture/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000090_australia_reality-furniture/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        }
+      ],
+      "messageId": "1a1d617e6c5cf551",
+      "threadId": "1a1d617e6c5cf551",
+      "recipient": "info@realityfurniture.com.au",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000090_australia_reality-furniture/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000090_australia_reality-furniture/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000090_australia_reality-furniture/gmail-full-readback-20261113.json"
+}

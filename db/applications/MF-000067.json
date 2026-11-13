@@ -8,7 +8,7 @@
   "language": "French",
   "status": "portal",
   "summary": "Application submitted through the employer website. Hiring and work-authorization support are not confirmed. The attached letter explains the applicant’s hands-on machine repair experience and lack of a maintenance certificate. The advertised industrial maintenance experience is not established.",
-  "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
+  "next": "Record the employer decline; do not resend this application.",
   "recipient": "https://careers.werecruit.io/fr/atelier-des-quatre-collines/offres/technicien-de-maintenance-5af263",
   "sentDate": "31 Oct 2026",
   "events": [
@@ -38,8 +38,23 @@
       "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000067_france_maintenance/paris-submission.json"
     }
   ],
-  "receivedEvents": [],
-  "applicationStatus": "awaiting_response",
+  "receivedEvents": [
+    {
+      "kind": "response",
+      "title": "Employer response",
+      "date": "6 Nov 2026, 15:05",
+      "timestamp": "2026-11-06T15:05:23+00:00",
+      "direction": "incoming",
+      "confirmation": "The employer declined this application.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000067_france_maintenance/gmail-response-20261106.json",
+      "filenames": [],
+      "documents": [],
+      "messageId": "1a1b1649edc1831d",
+      "sender": "Établissement André Renaud",
+      "subject": ""
+    }
+  ],
+  "applicationStatus": "rejected",
   "screeningOnly": false,
   "screenshots": [],
   "documents": [
@@ -53,9 +68,9 @@
     }
   ],
   "preparedDocuments": [],
-  "response": "No substantive recruitment response recorded.",
+  "response": "The employer declined the Paris maintenance application on 6 November 2026.",
   "flags": [],
-  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "channelNote": "Employer portal confirmed submission.",
   "source": "https://careers.werecruit.io/fr/atelier-des-quatre-collines/offres/technicien-de-maintenance-5af263",
   "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000067_france_maintenance/paris-submission.json"
 }

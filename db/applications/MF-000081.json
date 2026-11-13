@@ -1,0 +1,63 @@
+{
+  "id": "MF-000081",
+  "number": 81,
+  "company": "Jocker Cuir",
+  "country": "Morocco",
+  "position": "Experienced leather craftsman, spontaneous application",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "recrutement@jockercuir.com",
+  "sentDate": "12 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "12 Nov 2026, 21:15",
+      "timestamp": "2026-11-12T21:15:32+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        }
+      ],
+      "messageId": "1a1d19daafc502a8",
+      "threadId": "1a1d19daafc502a8",
+      "recipient": "recrutement@jockercuir.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-full-readback-20261113.json"
+}

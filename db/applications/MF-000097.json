@@ -1,0 +1,63 @@
+{
+  "id": "MF-000097",
+  "number": 97,
+  "company": "Intoo",
+  "country": "Australia",
+  "position": "Speculative leather and upholstery enquiry",
+  "type": "Recruitment inquiry",
+  "language": "English",
+  "status": "held",
+  "summary": "An inquiry was sent; no application for the advertised role is confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "sales@intoo.com.au",
+  "sentDate": "13 Nov 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent",
+      "date": "13 Nov 2026, 18:44",
+      "timestamp": "2026-11-13T18:44:03+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000097_australia_intoo/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000097_australia_intoo/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000097_australia_intoo/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        }
+      ],
+      "messageId": "1a1d63953a3c7fe7",
+      "threadId": "1a1d63953a3c7fe7",
+      "recipient": "sales@intoo.com.au",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000097_australia_intoo/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000097_australia_intoo/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Inquiry only; no application is confirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000097_australia_intoo/gmail-full-readback-20261113.json"
+}

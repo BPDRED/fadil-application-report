@@ -66,7 +66,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000001_france_camille-fournet/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "7247e824209d9d3489c7f63c61c7b1f34d0bac8bd6f30b532a4b07b4ecb91758"
     },
     {
       "application_id": "MF-000002",
@@ -210,7 +212,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000002_france_longchamp/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "1ca8253c22ab4e79f44ee618ac17500cce06d20f75347cd6f504da03f2371a89"
     },
     {
       "application_id": "MF-000003",
@@ -276,7 +280,9 @@
           "filename": "Mohammed_Fadil_CV.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000003_france_groupe-tolomei/delivery/Mohammed_Fadil_CV.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "76e09fa4cb00fb611cb38fc269a65b492fafe202042b0a2dbff276d812a1a671"
     },
     {
       "application_id": "MF-000004",
@@ -329,7 +335,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000004_canada_roots/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "2d41c7baba2fcf50a8c40f3693a26c688883f5233710b5fb5f58fce22bac626f"
     },
     {
       "application_id": "MF-000005",
@@ -393,7 +401,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000005_canada_elran/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "23afeff2c0aee27bcfed57b393d019cc37a95712b1f1c9bca44b4b585695f223"
     },
     {
       "application_id": "MF-000006",
@@ -446,7 +456,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000006_canada_sixtrend/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "b58706ab3b0fff59a78a8119a3acffd62c38eb82378037d5fd7d19e94eeab4ef"
     },
     {
       "application_id": "MF-000007",
@@ -511,7 +523,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000007_france_jean-rousseau/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "c1421b5653ea14b887243c52f07bf819c71c3470af318878ba4dcd5ae9950113"
     },
     {
       "application_id": "MF-000008",
@@ -564,7 +578,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000008_canada_aurora-furniture/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "56b5b301e773b6a2b44eaddebe0a482f1cb91d7095d7f09a09b10cabe8fd663f"
     },
     {
       "application_id": "MF-000009",
@@ -612,7 +628,9 @@
           "filename": "Mohammed_Fadil_Lettre_et_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000009_france_bfl-maroquinerie/delivery/Mohammed_Fadil_Lettre_et_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "425e484af8e08f36ec7acd64194fe49d09c17b4297cdecbcea79ad1e5625b0ac"
     },
     {
       "application_id": "MF-000010",
@@ -655,7 +673,9 @@
           "filename": "Mohammed_Fadil_CV.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000010_france_goyard/delivery/Mohammed_Fadil_CV.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "5bd19a255d2f4f6334bc5063c18686285d2d8a52c7e29c9f9a9976e4d67a5de8"
     },
     {
       "application_id": "MF-000011",
@@ -719,7 +739,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000011_germany_schrono-polstermobelfabrik/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "dac6e4cc0115bfa88895e3b95560c34b263a7a9c6dc6a0bc103d83667bba1517"
     },
     {
       "application_id": "MF-000012",
@@ -795,7 +817,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000012_france_louis-vuitton/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "ac99eb700bc24cf9c39b82bfb73402099b901ee22acd661b0cc7f752c105b883"
     },
     {
       "application_id": "MF-000013",
@@ -859,7 +883,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000013_france_hermes-manufacture-de-haute-maroquinerie/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "0caa9bb4ec89dab580ca913fc5dc7cf072b21c2e6749d6bb46def767160d4e6f"
     },
     {
       "application_id": "MF-000014",
@@ -923,7 +949,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000014_france_les-ateliers-carnoy/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "94ede97d3b2ccb63c2fb2c1635f7004161c2d944efcaeb0feab5f8b60c29c8c2"
     },
     {
       "application_id": "MF-000015",
@@ -987,7 +1015,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000015_canada_decor-rest/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "47c1fa4b124bed4510c74501c1ae879ebe697858a61d65219e838a0e6bc3bdf6"
     },
     {
       "application_id": "MF-000016",
@@ -1051,7 +1081,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000016_france_causse-gantier/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "7f8f1b47edd2c73e6074bf2ccc63c4946a11ea0c2d6de29b323b9c58bc43b728"
     },
     {
       "application_id": "MF-000017",
@@ -1104,7 +1136,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000017_germany_braun-buffel/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "f4ce624c4826ff7074c5c6dc982e98f17ea6a67fec0338f41d5a13f91734570a"
     },
     {
       "application_id": "MF-000018",
@@ -1168,7 +1202,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000018_canada_canada-s-boss-leather-furniture/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "4e63d54f3f8499fde5efcfe91e74635fdcc9c232384da7529d61ac64b75f2083"
     },
     {
       "application_id": "MF-000019",
@@ -1221,7 +1257,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000019_canada_atlas-upholstering/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "4fc5732cf854f0720f89b16d0059a4b8e63a0da58a2729de3c94c05b6534f504"
     },
     {
       "application_id": "MF-000020",
@@ -1297,7 +1335,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000020_germany_polipol/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "4954bf3cc1524ee224a382a1aaecb112e0f58a71a45f258084bab0891cafead3"
     },
     {
       "application_id": "MF-000021",
@@ -1350,7 +1390,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000021_france_cottel-com-sacar/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "d156dfa082f8f202b96d138cf1ad36297fdbaf2a1a70e3b6ffc90ead14b21d0e"
     },
     {
       "application_id": "MF-000022",
@@ -1415,7 +1457,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000022_italy_pelletterie-palladio/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "43eed63ed4de09f431f6a29c2268f3774cc6e4b98d3870be226b1bd2298dae31"
     },
     {
       "application_id": "MF-000023",
@@ -1475,7 +1519,9 @@
           "filename": "Mohammed_Fadil_Lettera_e_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000023_italy_prada-group/delivery-portal/Mohammed_Fadil_Lettera_e_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "5a1ac22cd4ff7282bf03bbd27caa1630241ea858a2578609aff9ddc326177f6c"
     },
     {
       "application_id": "MF-000024",
@@ -1530,7 +1576,9 @@
           "filename": "Mohammed_Fadil_CV.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000024_italy_gucci-industrial-platform-il-castello/delivery-portal-v03/Mohammed_Fadil_CV.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "a121545f2cb42e74e12d5d8422136e3ba6f2f6fbe69aef79e623b742954e5e36"
     },
     {
       "application_id": "MF-000025",
@@ -1590,7 +1638,9 @@
           "filename": "Mohammed_Fadil_Cover_Letter.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000025_canada_jaymar/delivery-portal-v02/Mohammed_Fadil_Cover_Letter.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "c6a347e2739556c903b91146e92e919a575f095109f13d9adcf5bf73d0b859de"
     },
     {
       "application_id": "MF-000026",
@@ -1655,7 +1705,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000026_italy_fendi/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "138235a54e641a06e72a7a3a15fc05d9fac5bd4364b501ba55eedfb6513ef8de"
     },
     {
       "application_id": "MF-000029",
@@ -1720,7 +1772,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000029_italy_salvatore-ferragamo/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "7c43f8f3646182a808584ef2639cd87be44a9ea495fc470d63f859e1a250d3cd"
     },
     {
       "application_id": "MF-000030",
@@ -1796,7 +1850,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000030_germany_rolf-benz/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "6ce238365c20147c87e18260f6584c7865b7a03a899167ff3b08258c63eba124"
     },
     {
       "application_id": "MF-000031",
@@ -1861,7 +1917,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000031_germany_koinor-polstermobel/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "21c6c73d9a6137d61c224c1b76930090f67f018a5434786db12b96f52129bc2d"
     },
     {
       "application_id": "MF-000032",
@@ -1914,7 +1972,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000032_germany_sinn-living/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "2ac2ed773c13a9da55cff23603ad7b321ae59671966dbcb39c7811a7bece6d7c"
     },
     {
       "application_id": "MF-000033",
@@ -1967,7 +2027,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000033_germany_topstar/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "fe0a343cdd6e4b306c128562be9c594ae479ae7366b097e51a495fd061110481"
     },
     {
       "application_id": "MF-000034",
@@ -2032,7 +2094,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000034_austria_ludwig-reiter/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "51f76168ce92d289d23fbf57f3e09ca1e5ffdc14f03dd75fd390de3535a53207"
     },
     {
       "application_id": "MF-000035",
@@ -2085,7 +2149,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000035_austria_wollsdorf-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "98b8e82e10d2549a20f9c44f57995b2ae66aca867a793925b32c800c7a68ff7a"
     },
     {
       "application_id": "MF-000036",
@@ -2138,7 +2204,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "dbc09b32e4af3dba9fbafedbf89277cb16031b6682a61c942c4527f38ffbef05"
     },
     {
       "application_id": "MF-000037",
@@ -2209,7 +2277,9 @@
           "filename": "Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000037_united-states_chrome-hearts/delivery-portal/Mohammed_Fadil_Cover_Letter_and_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "4e9c1d73f8e8c6e9f9382342afc9dfb01c0925b117644d8c6fa696fce22c508d"
     },
     {
       "application_id": "MF-000038",
@@ -2245,7 +2315,9 @@
           "confirmation": "We Appreciate Your Interest. Thank You! Actual PDF identifies Application for Leather Sewing Associate -1207233,DateofApplication10-17-2026."
         }
       ],
-      "documents": []
+      "documents": [],
+      "screening_only": true,
+      "report_details_sha256": "9186e9212577d52ec57494833b744d20b33bf128ae8eb80e58e4223fe246ae18"
     },
     {
       "application_id": "MF-000039",
@@ -2310,7 +2382,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000039_united-states_american-leather/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "6e545d25b1f52dfbe053f1f27319b8922976f2d0d5096a9eb85f89486b53dd6a"
     },
     {
       "application_id": "MF-000040",
@@ -2363,174 +2437,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000040_united-states_burns-1876-burns-saddlery/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
-    },
-    {
-      "application_id": "PROV-GMAIL-1a15a17aaa78e788",
-      "company": "Pelletteria Ricci",
-      "country": "Italy",
-      "position": "Speculative luxury leather-goods production",
-      "employer_website": "",
-      "recruitment_email": "info@riccipelletterie.it",
-      "job_posting_url": "",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "email",
-      "application_status": "awaiting_response",
-      "date_sent": "2026-10-20",
-      "date_submitted": "2026-10-20",
-      "last_contact_date": "2026-10-20",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-      "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [
-        {
-          "kind": "application",
-          "timestamp": "2026-10-20T16:14:22.000Z",
-          "recipient": "info@riccipelletterie.it",
-          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
-          "messageId": "1a15a17aaa78e788",
-          "threadId": "1a15a17aaa78e788",
-          "reference": "",
-          "filenames": [
-            "CV_Mohammed_Fadil_Italiano.pdf",
-            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
-          ],
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
-        }
       ],
-      "documents": []
-    },
-    {
-      "application_id": "PROV-GMAIL-1a15a17d1ddb78de",
-      "company": "Pelletteria Il Veliero",
-      "country": "Italy",
-      "position": "Speculative leather cutting, preparation and assembly",
-      "employer_website": "",
-      "recruitment_email": "info@pelletteriailveliero.it",
-      "job_posting_url": "",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "email",
-      "application_status": "awaiting_response",
-      "date_sent": "2026-10-20",
-      "date_submitted": "2026-10-20",
-      "last_contact_date": "2026-10-20",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-      "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [
-        {
-          "kind": "application",
-          "timestamp": "2026-10-20T16:14:32.000Z",
-          "recipient": "info@pelletteriailveliero.it",
-          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
-          "messageId": "1a15a17d1ddb78de",
-          "threadId": "1a15a17d1ddb78de",
-          "reference": "",
-          "filenames": [
-            "CV_Mohammed_Fadil_Italiano.pdf",
-            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
-          ],
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
-        }
-      ],
-      "documents": []
-    },
-    {
-      "application_id": "PROV-GMAIL-1a15a17ec6cb8d55",
-      "company": "Garland S.r.l.",
-      "country": "Italy",
-      "position": "Speculative luxury leather-goods production",
-      "employer_website": "",
-      "recruitment_email": "personale@garland74.it",
-      "job_posting_url": "",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "email",
-      "application_status": "awaiting_response",
-      "date_sent": "2026-10-20",
-      "date_submitted": "2026-10-20",
-      "last_contact_date": "2026-10-20",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-      "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [
-        {
-          "kind": "application",
-          "timestamp": "2026-10-20T16:14:39.000Z",
-          "recipient": "personale@garland74.it",
-          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
-          "messageId": "1a15a17ec6cb8d55",
-          "threadId": "1a15a17ec6cb8d55",
-          "reference": "",
-          "filenames": [
-            "CV_Mohammed_Fadil_Italiano.pdf",
-            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
-          ],
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
-        }
-      ],
-      "documents": []
-    },
-    {
-      "application_id": "PROV-GMAIL-1a15b415dcb1669f",
-      "company": "Pelletteria Almax",
-      "country": "Italy",
-      "position": "Speculative leather-goods craft application",
-      "employer_website": "",
-      "recruitment_email": "info@pelletteriaalmax.com",
-      "job_posting_url": "",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "email",
-      "application_status": "awaiting_response",
-      "date_sent": "2026-10-20",
-      "date_submitted": "2026-10-20",
-      "last_contact_date": "2026-10-20",
-      "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-      "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [
-        {
-          "kind": "application",
-          "timestamp": "2026-10-20T21:39:32.000Z",
-          "recipient": "info@pelletteriaalmax.com",
-          "subject": "Candidatura – Artigiano esperto in pelletteria",
-          "messageId": "1a15b415dcb1669f",
-          "threadId": "1a15b415dcb1669f",
-          "reference": "",
-          "filenames": [],
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
-        },
-        {
-          "kind": "supplement",
-          "timestamp": "2026-10-20T21:43:41.000Z",
-          "recipient": "info@pelletteriaalmax.com",
-          "subject": "Re: Candidatura – Artigiano esperto in pelletteria",
-          "messageId": "1a15b452bf70238d",
-          "threadId": "1a15b415dcb1669f",
-          "reference": "",
-          "filenames": [
-            "CV_Mohammed_Fadil_Italiano.pdf",
-            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
-          ],
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
-        }
-      ],
-      "documents": []
+      "screening_only": false,
+      "report_details_sha256": "7161583fa3109ccb7cba8487d94aaef2b0a7830722414589d33f17455a6c5282"
     },
     {
       "application_id": "MF-000041",
@@ -2549,7 +2458,7 @@
       "last_contact_date": "2026-10-21",
       "follow_up_date": "2026-11-05",
       "latest_employer_response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
-      "next_action": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
+      "next_action": "Check which Tolomei application the decline concerns before changing its status.",
       "submission_state": "portal",
       "received_events": [
         {
@@ -2585,7 +2494,9 @@
           "filename": "Mohammed_Fadil_CV.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000041_france_tolomei-granges/delivery/Mohammed_Fadil_CV.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "38331ca58758ab992a67dae1f8e65762289397a1067b9e2aba8f28f37a59e114"
     },
     {
       "application_id": "MF-000042",
@@ -2640,7 +2551,9 @@
           "filename": "Mohammed_Fadil_CV.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000042_france_tolomei-romans/delivery/Mohammed_Fadil_CV.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "16f6b6b82d51653a6a03d04158d58364673798b63ba0885d12ddff7bd5c1b419"
     },
     {
       "application_id": "MF-000043",
@@ -2681,7 +2594,15 @@
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "rh.st-pascal@amisco.com",
+          "subject": "",
           "messageId": "1a1936199affc32c",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
@@ -2698,7 +2619,50 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000043_canada_amisco-saint-pascal/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "970a3723dbf83af4848c0bb93278f4a2c7611f02359664ba7ce8492caad39726"
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15a17aaa78e788",
+      "company": "Pelletteria Ricci",
+      "country": "Italy",
+      "position": "Speculative luxury leather-goods production",
+      "employer_website": "",
+      "recruitment_email": "info@riccipelletterie.it",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T16:14:22.000Z",
+          "recipient": "info@riccipelletterie.it",
+          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+          "messageId": "1a15a17aaa78e788",
+          "threadId": "1a15a17aaa78e788",
+          "reference": "",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "c6c74fbfb9c0914139cbbc8a3048d22ddbdee39e9383a9fd789310a9720c7c5f"
     },
     {
       "application_id": "MF-000044",
@@ -2739,7 +2703,15 @@
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "rh@innotexprotection.com",
+          "subject": "",
           "messageId": "1a19361a78af8fa6",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
@@ -2756,7 +2728,50 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000044_canada_innotex-warwick/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "30ba24e439cacf31bd6149174e7aabb34208a100738d4006bceaf5a980695cfa"
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15a17d1ddb78de",
+      "company": "Pelletteria Il Veliero",
+      "country": "Italy",
+      "position": "Speculative leather cutting, preparation and assembly",
+      "employer_website": "",
+      "recruitment_email": "info@pelletteriailveliero.it",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T16:14:32.000Z",
+          "recipient": "info@pelletteriailveliero.it",
+          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+          "messageId": "1a15a17d1ddb78de",
+          "threadId": "1a15a17d1ddb78de",
+          "reference": "",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "8a2672c3ea45f64fa8d43e84d1e4764b1d1b25de8247d449bbd20609cd0ade3b"
     },
     {
       "application_id": "MF-000045",
@@ -2795,7 +2810,15 @@
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "info@auventsbellon.com",
+          "subject": "",
           "messageId": "1a193630ccbfbfa5",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
@@ -2804,7 +2827,169 @@
           "filename": "Mohammed_Fadil_Application.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000045_canada_bellon-prestige/delivery/Mohammed_Fadil_Application.pdf"
         }
-      ]
+      ],
+      "screening_only": false,
+      "report_details_sha256": "61b431e1de59da71d2d0ba8c27b0074024e6de64403faead1e0c399273a6a3d3"
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15a17ec6cb8d55",
+      "company": "Garland S.r.l.",
+      "country": "Italy",
+      "position": "Speculative luxury leather-goods production",
+      "employer_website": "",
+      "recruitment_email": "personale@garland74.it",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T16:14:39.000Z",
+          "recipient": "personale@garland74.it",
+          "subject": "Candidatura – Artigiano specializzato in pelletteria (20 anni di esperienza) – Decreto Flussi 2027",
+          "messageId": "1a15a17ec6cb8d55",
+          "threadId": "1a15a17ec6cb8d55",
+          "reference": "",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "3142c80eb860a4cdf4884f992a56b4d2bf5780da530afd23fc699ea3f60f4049"
+    },
+    {
+      "application_id": "MF-000046",
+      "company": "Umano Medical",
+      "country": "Canada",
+      "position": "Speculative sewing or upholstery application",
+      "employer_website": "https://umano-career.talent-soft.com/accueil.aspx?LCID=2057",
+      "recruitment_email": "emploi@umanomedical.com",
+      "job_posting_url": "https://umano-career.talent-soft.com/my-account/my-CV-file.aspx?ApplicationType=UnsolicitedApplication",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await response and delivery notices; do not resubmit.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "emploi@umanomedical.com",
+          "subject": "",
+          "messageId": "1a19359503659d65",
+          "threadId": "1a19359503659d65",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "emploi@umanomedical.com",
+          "subject": "",
+          "messageId": "1a19361e98966260",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "a00a4034f0248b79de3114657414b17965bbcf2602aa638a94236585a0ad0ca6"
+    },
+    {
+      "application_id": "PROV-GMAIL-1a15b415dcb1669f",
+      "company": "Pelletteria Almax",
+      "country": "Italy",
+      "position": "Speculative leather-goods craft application",
+      "employer_website": "",
+      "recruitment_email": "info@pelletteriaalmax.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-20",
+      "date_submitted": "2026-10-20",
+      "last_contact_date": "2026-10-20",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-20T21:39:32.000Z",
+          "recipient": "info@pelletteriaalmax.com",
+          "subject": "Candidatura – Artigiano esperto in pelletteria",
+          "messageId": "1a15b415dcb1669f",
+          "threadId": "1a15b415dcb1669f",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "timestamp": "2026-10-20T21:43:41.000Z",
+          "recipient": "info@pelletteriaalmax.com",
+          "subject": "Re: Candidatura – Artigiano esperto in pelletteria",
+          "messageId": "1a15b452bf70238d",
+          "threadId": "1a15b415dcb1669f",
+          "reference": "",
+          "filenames": [
+            "CV_Mohammed_Fadil_Italiano.pdf",
+            "Portfolio_Selezione_Mohammed_Fadil_Italia.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "761d0867589523c72985c2a6a80c857eb5bb36d2b3f01a5af203177d92153f6c"
     },
     {
       "application_id": "MF-000047",
@@ -2845,7 +3030,15 @@
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "rh@khromept.com",
+          "subject": "",
           "messageId": "1a19361b608af965",
+          "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
@@ -2862,42 +3055,9 @@
           "filename": "Mohammed_Fadil_Portfolio.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000047_canada_khrome/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
-      ]
-    },
-    {
-      "application_id": "MF-000046",
-      "company": "Umano Medical",
-      "country": "Canada",
-      "position": "Speculative sewing or upholstery application",
-      "employer_website": "https://umano-career.talent-soft.com/accueil.aspx?LCID=2057",
-      "recruitment_email": "emploi@umanomedical.com",
-      "job_posting_url": "https://umano-career.talent-soft.com/my-account/my-CV-file.aspx?ApplicationType=UnsolicitedApplication",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "email",
-      "application_status": "awaiting_response",
-      "date_sent": "2026-10-31",
-      "date_submitted": "2026-10-31",
-      "last_contact_date": "2026-10-31",
-      "next_action": "Await response and delivery notices; do not resubmit.",
-      "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [
-        {
-          "kind": "application",
-          "messageId": "1a19359503659d65",
-          "threadId": "1a19359503659d65",
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
-        },
-        {
-          "kind": "supplement",
-          "messageId": "1a19361e98966260",
-          "threadId": "",
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
-        }
       ],
-      "documents": []
+      "screening_only": false,
+      "report_details_sha256": "85a39a59e82d76fe49889cda9d54f8f71ac3fd4eb2d82d0448aa2380d534618c"
     },
     {
       "application_id": "MF-000048",
@@ -2921,12 +3081,28 @@
       "events": [
         {
           "kind": "portal",
+          "timestamp": "2026-10-31",
+          "recipient": "",
+          "subject": "",
           "messageId": "",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_and_Letter.pdf"
+          ],
           "confirmation": "Website confirmed submission; this is not a job offer."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_and_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_CV_and_Letter.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "950f00e00bf73f35d8a4e6f527fc8b4f28791a48e58a87e75a30898053b4f6f3"
     },
     {
       "application_id": "MF-000049",
@@ -2950,12 +3126,28 @@
       "events": [
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "info@filtrationquebec.com",
+          "subject": "",
           "messageId": "1a1936c189af3f00",
           "threadId": "1a1936c189af3f00",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "9f7532f80513484f2dd82688a9fdb496710b75296c3ccb14d3b775a34e9ac433"
     },
     {
       "application_id": "MF-000050",
@@ -2979,18 +3171,50 @@
       "events": [
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "claudia.bouchard@ballin.com",
+          "subject": "",
           "messageId": "1a1935741f217da1",
           "threadId": "1a1935741f217da1",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "claudia.bouchard@ballin.com",
+          "subject": "",
           "messageId": "1a19361cd579fd18",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "370b0d6aa5af627b93471482cb681d284e9ced2f2222b60b4685602cb3371f20"
     },
     {
       "application_id": "MF-000051",
@@ -3014,17 +3238,39 @@
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "info@isolationtexfab.com",
+          "subject": "",
           "messageId": "1a19357c7a844526",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "info@isolationtexfab.com",
+          "subject": "",
           "messageId": "1a1936b069461c3d",
           "threadId": "1a19357c7a844526",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "5803af16bc114f0bf5906804d6092f5a867249ba815d5fb77698f3a4fa13c1f0"
     },
     {
       "application_id": "MF-000052",
@@ -3048,17 +3294,39 @@
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "info@uniformgarment.com",
+          "subject": "",
           "messageId": "1a193598950ba2e9",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "info@uniformgarment.com",
+          "subject": "",
           "messageId": "1a1936b2e5e99ad9",
           "threadId": "1a193598950ba2e9",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "96d1e99381f0eb3aa16ad0fd514833d8ada2c3a1bfe730c5fd33f1ca51897974"
     },
     {
       "application_id": "MF-000053",
@@ -3082,17 +3350,39 @@
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "info@afrafurniture.com",
+          "subject": "",
           "messageId": "1a19359d4132343f",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "info@afrafurniture.com",
+          "subject": "",
           "messageId": "1a1936b56862449e",
           "threadId": "1a19359d4132343f",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "e0cddb232813c7a4f55402e1d4229db0e90426144c6748e2a2cc8b223fd8ee75"
     },
     {
       "application_id": "MF-000054",
@@ -3116,18 +3406,50 @@
       "events": [
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "rh@dessana.ca",
+          "subject": "",
           "messageId": "1a1935aac77724c6",
           "threadId": "1a1935aac77724c6",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "rh@dessana.ca",
+          "subject": "",
           "messageId": "1a193622095d7e3e",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "0f2f37876aee999f4bc44f77971ee2c83725aa6edc5343fd3b8a43ca9f5aec30"
     },
     {
       "application_id": "MF-000055",
@@ -3151,17 +3473,39 @@
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "upholstery@precisioncanada.com",
+          "subject": "",
           "messageId": "1a1935b29a986ca5",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "upholstery@precisioncanada.com",
+          "subject": "",
           "messageId": "1a1936b5ff3f588b",
           "threadId": "1a1935b29a986ca5",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "93e60bc7dcfbdade8943ddd5efbd20dac45e8f419797d7d395c251db00378f02"
     },
     {
       "application_id": "MF-000056",
@@ -3185,17 +3529,39 @@
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "marcbeaudoin@confectionstroy.com",
+          "subject": "",
           "messageId": "1a1935b2e23cbbfd",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "marcbeaudoin@confectionstroy.com",
+          "subject": "",
           "messageId": "1a1936b649382cff",
           "threadId": "1a1935b2e23cbbfd",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "f21c634ba0a9dc41294ed859795c56980d2357fc7bee063c9502d97f3be1b2c7"
     },
     {
       "application_id": "MF-000057",
@@ -3219,17 +3585,39 @@
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "info@nimbleneedle.ca",
+          "subject": "",
           "messageId": "1a1935b9a494fe7b",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "info@nimbleneedle.ca",
+          "subject": "",
           "messageId": "1a1936b6ca64a75a",
           "threadId": "1a1935b9a494fe7b",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "4ca5941ab92c99d169b2a596e08b9b344dc39ef6730721140600ac385be25bb6"
     },
     {
       "application_id": "MF-000058",
@@ -3253,17 +3641,39 @@
       "events": [
         {
           "kind": "portal",
+          "timestamp": "2026-10-31",
+          "recipient": "",
+          "subject": "",
           "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "",
+          "subject": "",
           "messageId": "1a1936c21327e148",
           "threadId": "1a1936c21327e148",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "d1f35915fee690802318f1c07e5a714e28175ae6ed72467a0a1195f3a33cfb32"
     },
     {
       "application_id": "MF-000059",
@@ -3287,18 +3697,50 @@
       "events": [
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "stevenson.casimir@asuworkwear.com",
+          "subject": "",
           "messageId": "1a1935cac1c44bc6",
           "threadId": "1a1935cac1c44bc6",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "stevenson.casimir@asuworkwear.com",
+          "subject": "",
           "messageId": "1a193623538a1386",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "2c0364a5d4d771b9860649c3a7216a9f018e66df356e1ec23280d4abdf32dc0c"
     },
     {
       "application_id": "MF-000060",
@@ -3322,17 +3764,39 @@
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "worldfashion1212@gmail.com",
+          "subject": "",
           "messageId": "1a1935d0bf026302",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "worldfashion1212@gmail.com",
+          "subject": "",
           "messageId": "1a1936b74f6a2ebc",
           "threadId": "1a1935d0bf026302",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "19f365734b721c26d4fc7f4507a0e7deb69ee325c59110641b74815e71a19b50"
     },
     {
       "application_id": "MF-000061",
@@ -3356,12 +3820,28 @@
       "events": [
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "job@hanna-adb.com",
+          "subject": "",
           "messageId": "1a1935ef8ddc95f6",
           "threadId": "1a1935ef8ddc95f6",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000061_france_ateliers-hanna/delivery/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "d2d3603e0839a850c489893fff55065d602973aae1a708c5912282f72d67e2d5"
     },
     {
       "application_id": "MF-000062",
@@ -3385,12 +3865,28 @@
       "events": [
         {
           "kind": "portal",
+          "timestamp": "2026-10-31",
+          "recipient": "",
+          "subject": "",
           "messageId": "",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Website confirmed submission; this is not a job offer."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000062_france_andre-renaud/delivery/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "0aa3bfa7f9dca8e025c7d88b85e45f0b22048a97e50a1962ba11ba15b362a90e"
     },
     {
       "application_id": "MF-000063",
@@ -3414,18 +3910,50 @@
       "events": [
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "fernando@gilsewing.com",
+          "subject": "",
           "messageId": "1a1935fff6c8235a",
           "threadId": "1a1935fff6c8235a",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "fernando@gilsewing.com",
+          "subject": "",
           "messageId": "1a1936244c889bc4",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "6fa5ba6a99f7128e30dab211b450e5af1223ca7e301e00f8f1cf1b972409e54e"
     },
     {
       "application_id": "MF-000064",
@@ -3449,18 +3977,50 @@
       "events": [
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "admin@snd-mfg.com",
+          "subject": "",
           "messageId": "1a1936011e898a8b",
           "threadId": "1a1936011e898a8b",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         },
         {
           "kind": "supplement",
+          "timestamp": "2026-10-31",
+          "recipient": "admin@snd-mfg.com",
+          "subject": "",
           "messageId": "1a19362544c58192",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000048_canada_amobi/delivery/Mohammed_Fadil_Portfolio.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000036_united-states_softline-brand-partners/delivery/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "d91cc0d323c7774557bddb6feedcdce3c3fe0110967923c277d962be076408a8"
     },
     {
       "application_id": "MF-000065",
@@ -3477,25 +4037,46 @@
       "date_sent": "2026-10-31",
       "date_submitted": "2026-10-31",
       "last_contact_date": "2026-10-31",
-      "next_action": "Await response about relevant roles, route, and whether candidate fees apply.",
+      "next_action": "Await agency response about relevant roles, process and candidate fees.",
       "submission_state": "email",
       "received_events": [],
       "last_response_at": "",
       "events": [
         {
           "kind": "inquiry",
+          "timestamp": "2026-10-31",
+          "recipient": "contact@argonauterh.com",
+          "subject": "",
           "messageId": "1a19363b2c7c5a6a",
           "threadId": "1a19363b2c7c5a6a",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         },
         {
           "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "contact@argonauterh.com",
+          "subject": "",
           "messageId": "1a1936f6f5ebaab2",
           "threadId": "1a19363b2c7c5a6a",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "55f20a67732af54c7fb0533f8de85232383de265b86cc365df2012849a084dc9"
     },
     {
       "application_id": "MF-000066",
@@ -3519,12 +4100,21 @@
       "events": [
         {
           "kind": "portal",
+          "timestamp": "2026-10-31",
+          "recipient": "",
+          "subject": "",
           "messageId": "",
           "threadId": "",
+          "reference": "",
+          "filenames": [],
           "confirmation": "The inquiry was sent; a suitable role and hiring support are unconfirmed."
         }
       ],
-      "documents": []
+      "documents": [],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": true,
+      "report_details_sha256": "d32ad81ef8645fc8d55fe8fe1a109e46f78933142c284548e20053a61d69e429"
     },
     {
       "application_id": "MF-000067",
@@ -3537,52 +4127,51 @@
       "vacancy_id": "5af263e3-20f1-4d5a-8cd4-9bd1f4f28783",
       "application_type": "advertised",
       "application_channel": "portal",
-      "application_status": "awaiting_response",
+      "application_status": "rejected",
       "date_sent": "",
       "date_submitted": "2026-10-31",
       "last_contact_date": "2026-10-31",
-      "next_action": "Await response; no duplicate.",
+      "next_action": "Record the employer decline; do not resend this application.",
       "submission_state": "portal",
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-11-06T15:05:23+00:00",
+          "sender": "Établissement André Renaud",
+          "subject": "",
+          "messageId": "1a1b1649edc1831d",
+          "threadId": "",
+          "sourceMessageId": "",
+          "confirmation": "The employer declined this application."
+        }
+      ],
+      "last_response_at": "2026-11-06T15:05:23+00:00",
       "events": [
         {
           "kind": "portal",
+          "timestamp": "2026-10-31",
+          "recipient": "",
+          "subject": "",
           "messageId": "",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Candidature_Maintenance.pdf"
+          ],
           "confirmation": "Website confirmed submission; this is not a job offer."
         }
       ],
-      "documents": []
-    },
-    {
-      "application_id": "MF-000069",
-      "company": "Runners Diversified / Savannah Luggage Works",
-      "country": "United States",
-      "position": "Speculative sewing and assembly",
-      "employer_website": "",
-      "recruitment_email": "sales@savannahluggage.com",
-      "job_posting_url": "",
-      "vacancy_id": "",
-      "application_type": "speculative",
-      "application_channel": "email",
-      "application_status": "awaiting_response",
-      "date_sent": "2026-10-31",
-      "date_submitted": "2026-10-31",
-      "last_contact_date": "2026-10-31",
-      "next_action": "Await delivery and recruitment routing; no duplicate.",
-      "submission_state": "email",
-      "received_events": [],
-      "last_response_at": "",
-      "events": [
+      "documents": [
         {
-          "kind": "application",
-          "messageId": "1a1936e101f927f0",
-          "threadId": "1a1936e101f927f0",
-          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+          "filename": "Mohammed_Fadil_Candidature_Maintenance.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000067_france_maintenance/Mohammed_Fadil_Candidature_Maintenance.pdf"
         }
       ],
-      "documents": []
+      "follow_up_date": "",
+      "latest_employer_response": "Employer declined the Paris maintenance application on 6 November 2026.",
+      "screening_only": false,
+      "report_details_sha256": "f08049da97349978fbbdf0ece84e2531b7a27890f335d0cf233b4f3b81a6ffb4"
     },
     {
       "application_id": "MF-000068",
@@ -3606,25 +4195,1610 @@
       "events": [
         {
           "kind": "portal",
+          "timestamp": "2026-10-31",
+          "recipient": "",
+          "subject": "",
           "messageId": "",
           "threadId": "",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Candidature_Maintenance.pdf"
+          ],
           "confirmation": "Website confirmed submission; this is not a job offer."
         }
       ],
-      "documents": []
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Candidature_Maintenance.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000067_france_maintenance/Mohammed_Fadil_Candidature_Maintenance.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "8c1fb0f3b4d968937131188e1109984876ef9626eff1287737d9619cc5f5885c"
+    },
+    {
+      "application_id": "MF-000069",
+      "company": "Runners Diversified / Savannah Luggage Works",
+      "country": "United States",
+      "position": "Speculative sewing and assembly",
+      "employer_website": "",
+      "recruitment_email": "sales@savannahluggage.com",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-10-31",
+      "date_submitted": "2026-10-31",
+      "last_contact_date": "2026-10-31",
+      "next_action": "Await delivery and recruitment routing; no duplicate.",
+      "submission_state": "email",
+      "received_events": [],
+      "last_response_at": "",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-10-31",
+          "recipient": "sales@savannahluggage.com",
+          "subject": "",
+          "messageId": "1a1936e101f927f0",
+          "threadId": "1a1936e101f927f0",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/Portfolio%20Dossier/Resume/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "screening_only": false,
+      "report_details_sha256": "8f55f7fabe926350f1dece328e7cb1e1e1750bcd2c9e370111865c1696ff67cf"
+    },
+    {
+      "application_id": "MF-000070",
+      "company": "Cordonnerie Ouimet & Cordonnerie Nettoyeur Place Longueuil",
+      "country": "Canada",
+      "position": "Re-upholsterer",
+      "employer_website": "",
+      "recruitment_email": "rogerabdnour911@gmail.com",
+      "job_posting_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50505723",
+      "vacancy_id": "3689125",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response or delivery notice; employer permit support remains unconfirmed.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T20:29:10+00:00",
+          "recipient": "rogerabdnour911@gmail.com",
+          "subject": "",
+          "messageId": "1a1d173399f805ab",
+          "threadId": "1a1d16df13fa411d",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf",
+            "Mohammed_Fadil_Cover_Letter.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_Cover_Letter.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "4fb0aea75e4bed50a284f20ad1b860d0ae951913699d999e13716d528c727286"
+    },
+    {
+      "application_id": "MF-000071",
+      "company": "Stuckey's Upholstery",
+      "country": "Canada",
+      "position": "Custom upholsterer",
+      "employer_website": "https://www.stuckeysupholstery.com/",
+      "recruitment_email": "info@stuckeysupholstery.com",
+      "job_posting_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50677071",
+      "vacancy_id": "3714235",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response and delivery notice. Permit support unconfirmed.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T20:34:42+00:00",
+          "recipient": "info@stuckeysupholstery.com",
+          "subject": "",
+          "messageId": "1a1d1784792da929",
+          "threadId": "1a1d1784792da929",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000071_canada_stuckeys/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "756d40ed4eb89adbe5b4ac93721a484d5dde567d8e611eaf1f14d7c27998d492"
+    },
+    {
+      "application_id": "MF-000072",
+      "company": "Linea P International",
+      "country": "Canada",
+      "position": "Upholsterer",
+      "employer_website": "https://lineap.com/",
+      "recruitment_email": "silvana@lineap.com",
+      "job_posting_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50294279",
+      "vacancy_id": "3673119",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response or delivery notice. Employer support and applicable work authorization route unconfirmed.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T20:37:00+00:00",
+          "recipient": "silvana@lineap.com",
+          "subject": "",
+          "messageId": "1a1d17a60a052032",
+          "threadId": "1a1d17a60a052032",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000072_canada_linea-p/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "5483427919db1097549b678cd12691356b446d47e1b971386e00aeb27ebb5b34"
+    },
+    {
+      "application_id": "MF-000073",
+      "company": "Wheeler Accessories LTD",
+      "country": "Canada",
+      "position": "Sewing machine operator",
+      "employer_website": "https://wheelerbag.com/",
+      "recruitment_email": "embroidery@cpgear.com",
+      "job_posting_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50461921",
+      "vacancy_id": "3693052",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await response and delivery notice; supported route unconfirmed, low-wage CMA restriction material.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T20:38:43+00:00",
+          "recipient": "embroidery@cpgear.com",
+          "subject": "",
+          "messageId": "1a1d17bf5b6278b0",
+          "threadId": "1a1d17bf5b6278b0",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000073_canada_wheeler/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "7d3e423f0f51c274030b9f07ad684eea12341319683eb003cb1dd13bd60b3562"
+    },
+    {
+      "application_id": "MF-000074",
+      "company": "Totem Furniture & Appliances",
+      "country": "Canada",
+      "position": "Upholsterer",
+      "employer_website": "",
+      "recruitment_email": "totemfurniture@telus.net",
+      "job_posting_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50328541",
+      "vacancy_id": "3677168",
+      "application_type": "advertised",
+      "application_channel": "postal mail",
+      "application_status": "blocked",
+      "date_sent": "2026-11-12",
+      "date_submitted": "",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply to routing inquiry 1a1d18b8e37013b7; application not submitted. No postal route available to user.",
+      "submission_state": "held",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-12T20:55:46+00:00",
+          "recipient": "totemfurniture@telus.net",
+          "subject": "",
+          "messageId": "1a1d18b8e37013b7",
+          "threadId": "1a1d18b8e37013b7",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "986086404bd9a3faecbc3419bbe9ed0b6a2d150cfbde2dae57bee163e887eb9f"
+    },
+    {
+      "application_id": "MF-000075",
+      "company": "PAKO International (recruiter)",
+      "country": "New Zealand",
+      "position": "Furniture upholsterer recruitment enquiry",
+      "employer_website": "https://pakonz.com/",
+      "recruitment_email": "admin@pakoint.co.nz",
+      "job_posting_url": "https://www.backpackerjobboard.co.nz/job/5190/furniture-upholsterer-at-pako-international/",
+      "vacancy_id": "5190",
+      "application_type": "inquiry",
+      "application_channel": "agency general email",
+      "application_status": "blocked",
+      "date_sent": "",
+      "date_submitted": "",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await recruiter response or delivery notice. Inquiry only; no job application or documents submitted.",
+      "submission_state": "held",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-12T21:00:29+00:00",
+          "recipient": "admin@pakoint.co.nz",
+          "subject": "",
+          "messageId": "1a1d18fe056a2be4",
+          "threadId": "1a1d18fe056a2be4",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "de685e4d8f1482f042ddd2ff1c50f3a97b569b666417a75ef6c407b32fba16aa"
+    },
+    {
+      "application_id": "MF-000076",
+      "company": "Lederwaren Rathenow",
+      "country": "Germany",
+      "position": "Leather goods sewer",
+      "employer_website": "",
+      "recruitment_email": "info@lederwaren-rathenow.de",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "advertised or speculative, user-sent",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; do not duplicate. Confirm net pay and work-authorization support.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:02:08+00:00",
+          "recipient": "info@lederwaren-rathenow.de",
+          "subject": "",
+          "messageId": "1a1d191632dec2ad",
+          "threadId": "1a1d191632dec2ad",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio_Application.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio_Application.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000076_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "4c85c737b1d2324b882ea63781efa15064b9740b064402a8b63efc2a6327096c"
+    },
+    {
+      "application_id": "MF-000077",
+      "company": "Otto Immler",
+      "country": "Germany",
+      "position": "Sewer / saddler / upholsterer",
+      "employer_website": "",
+      "recruitment_email": "Claudia.Immler@immler24.de",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "advertised or speculative, user-sent",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; do not duplicate. Confirm net pay and work-authorization support.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:01:36+00:00",
+          "recipient": "Claudia.Immler@immler24.de",
+          "subject": "",
+          "messageId": "1a1d190e6689c409",
+          "threadId": "1a1d190e6689c409",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio_Application.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio_Application.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000077_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "019595d1047a6b76fe901c16a4cb4ed25bde35804f3d7afd87293ffc76514066"
+    },
+    {
+      "application_id": "MF-000078",
+      "company": "Schuh Petters",
+      "country": "Germany",
+      "position": "Footwear upper sewer",
+      "employer_website": "",
+      "recruitment_email": "jobs@schuh-petters.de",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "advertised or speculative, user-sent",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; do not duplicate. Confirm net pay and work-authorization support.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:01:34+00:00",
+          "recipient": "jobs@schuh-petters.de",
+          "subject": "",
+          "messageId": "1a1d190dc8f4dfe7",
+          "threadId": "1a1d190dc8f4dfe7",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio_Application.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio_Application.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000078_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "6eaae68d7619bc950f6c1deef01b35bc51b5e1fea5daef78e50a505e73b3fa83"
+    },
+    {
+      "application_id": "MF-000079",
+      "company": "TiCad",
+      "country": "Germany",
+      "position": "Leather processing / sewer",
+      "employer_website": "",
+      "recruitment_email": "recruiting@ticad.de",
+      "job_posting_url": "",
+      "vacancy_id": "",
+      "application_type": "advertised or speculative, user-sent",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; do not duplicate. Confirm net pay and work-authorization support.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:01:20+00:00",
+          "recipient": "recruiting@ticad.de",
+          "subject": "",
+          "messageId": "1a1d190a6a999db8",
+          "threadId": "1a1d190a6a999db8",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio_Application.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio_Application.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000079_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "43892238fb34ad48910f6487a123ea20ee4c4c0259c9e84bce08e107b09c84ae"
+    },
+    {
+      "application_id": "MF-000080",
+      "company": "Fabram",
+      "country": "United Arab Emirates",
+      "position": "Master Leather Artisan",
+      "employer_website": "",
+      "recruitment_email": "hr@fabram.com",
+      "job_posting_url": "https://fabram.com/careers/",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await response; confirm monthly take-home pay and other relevant conditions; do not duplicate.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:14:47+00:00",
+          "recipient": "hr@fabram.com",
+          "subject": "",
+          "messageId": "1a1d19cf820d3fb9",
+          "threadId": "1a1d19cf820d3fb9",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "timestamp": "2026-11-12T21:15:17+00:00",
+          "recipient": "hr@fabram.com",
+          "subject": "",
+          "messageId": "1a1d19d6f0aa4671",
+          "threadId": "1a1d19cf820d3fb9",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_Portfolio.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "62c56db2b558e6a3262e49148b592726cc8ee51d87dbcb2e6e2ced5712b18cdd"
+    },
+    {
+      "application_id": "MF-000081",
+      "company": "Jocker Cuir",
+      "country": "Morocco",
+      "position": "Experienced leather craftsman, spontaneous application",
+      "employer_website": "",
+      "recruitment_email": "recrutement@jockercuir.com",
+      "job_posting_url": "https://ma.indeed.com/viewjob?jk=41144c267ba9a955",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await response; confirm monthly take-home pay and other relevant conditions; do not duplicate.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:15:32+00:00",
+          "recipient": "recrutement@jockercuir.com",
+          "subject": "",
+          "messageId": "1a1d19daafc502a8",
+          "threadId": "1a1d19daafc502a8",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "860fdd06617ff6a22b95d2c738f492ca575143bf9d1ec7b72c749efa19b67740"
+    },
+    {
+      "application_id": "MF-000082",
+      "company": "John Edward Halpin Upholstery",
+      "country": "Australia",
+      "position": "Upholsterer Assistant / Experienced Upholsterer",
+      "employer_website": "",
+      "recruitment_email": "info@johnhalpinupholstery.com.au",
+      "job_posting_url": "https://www.johnhalpinupholstery.com.au/",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; confirm work permit support and pay; do not duplicate.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:27:44+00:00",
+          "recipient": "info@johnhalpinupholstery.com.au",
+          "subject": "",
+          "messageId": "1a1d1a8d23618f8c",
+          "threadId": "1a1d1a8d23618f8c",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000082_australia_john-halpin/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "48a12e8c2680cae248a16fb91e00b066904d4c4b5cee8f24af947def295a261c"
+    },
+    {
+      "application_id": "MF-000083",
+      "company": "Maroquinerie Cotte",
+      "country": "France",
+      "position": "Artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "rh.recrutement@pierre-cotte.com",
+      "job_posting_url": "https://fr.linkedin.com/posts/maroquinerie-cotte_recrutement-artisan-maroquinier-int%C3%A9grez-activity-7524479513229963267-5Ovw",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-12",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; confirm work permit support and pay; do not duplicate.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-12T21:28:53+00:00",
+          "recipient": "rh.recrutement@pierre-cotte.com",
+          "subject": "",
+          "messageId": "1a1d1a9e0459e9e1",
+          "threadId": "1a1d1a9e0459e9e1",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000083_france_maroquinerie-cotte/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "732d3c2af27cd7895aea8e9f3881589a0375682fc69c21a08f68b0eecd60e074"
+    },
+    {
+      "application_id": "MF-000084",
+      "company": "Upholstery World",
+      "country": "New Zealand",
+      "position": "Furniture upholsterer",
+      "employer_website": "",
+      "recruitment_email": "",
+      "job_posting_url": "https://upholsteryworld.co.nz/contact/",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "employer contact form",
+      "application_status": "submitted_portal",
+      "date_sent": "",
+      "date_submitted": "2026-11-12",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; confirm work permit support and pay; do not duplicate.",
+      "submission_state": "portal",
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-11-12",
+          "recipient": "https://upholsteryworld.co.nz/contact/",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "The employer form displayed a successful send confirmation."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "fd63168e4c94b5593c8a34c6f8e43c7fec497b2b14866744241beb3ac7452343"
+    },
+    {
+      "application_id": "MF-000085",
+      "company": "Amaris Leather",
+      "country": "Morocco",
+      "position": "Candidature spontanée artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "contact@amarisleather.com",
+      "job_posting_url": "https://amarisleather.com/en/contact-us/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply; no duplicate. Establish actual terms and salary.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:07:09+00:00",
+          "recipient": "contact@amarisleather.com",
+          "subject": "",
+          "messageId": "1a1d6178d5744186",
+          "threadId": "1a1d6178d5744186",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000085_morocco_amaris-leather/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "f3a1e09da3e3394080b3449549d9bd0e380e63c9f58b76a656751482cecae9b0"
+    },
+    {
+      "application_id": "MF-000086",
+      "company": "Marockennerie",
+      "country": "Morocco",
+      "position": "Candidature spontanée artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "contact@marockennerie.com",
+      "job_posting_url": "https://marockennerie.com/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email (failed); WhatsApp",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "Gmail delivery failed; subsequent WhatsApp message displayed Delivered. No employer reply yet.",
+      "next_action": "Await WhatsApp response and CV/portfolio route; no duplicate.",
+      "submission_state": "held",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:07:12+00:00",
+          "recipient": "contact@marockennerie.com",
+          "subject": "",
+          "messageId": "1a1d61796cc6f228",
+          "threadId": "1a1d61796cc6f228",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-13",
+          "recipient": "+212 701-223690",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "WhatsApp showed the message as delivered. No CV was attached."
+        }
+      ],
+      "received_events": [
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-11-13",
+          "sender": "Mail delivery service",
+          "subject": "",
+          "messageId": "1a1d617a485a84a1",
+          "threadId": "",
+          "sourceMessageId": "1a1d61796cc6f228",
+          "confirmation": "Final delivery failure; the message did not reach the recipient."
+        }
+      ],
+      "last_response_at": "2026-11-13",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000086_morocco_marockennerie/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "e34c2e9d17bacad6b0987c518916805ca949e03537eb8fdf26ccc7bf3ed7972a"
+    },
+    {
+      "application_id": "MF-000087",
+      "company": "Artisan Nihal",
+      "country": "Morocco",
+      "position": "Candidature spontanée artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "art.kimdil@gmail.com",
+      "job_posting_url": "https://artisannihal.com/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply; no duplicate. Establish actual terms and salary.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:07:15+00:00",
+          "recipient": "art.kimdil@gmail.com",
+          "subject": "",
+          "messageId": "1a1d617a260ea0c6",
+          "threadId": "1a1d617a260ea0c6",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000087_morocco_artisan-nihal/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "b4970c85575d817599626e62cfe5c9cda09de2ea6fe74a6022f3a83719cf02ef"
+    },
+    {
+      "application_id": "MF-000088",
+      "company": "MJROOM",
+      "country": "Morocco",
+      "position": "Candidature spontanée artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "contact@mjroom.com",
+      "job_posting_url": "https://mjroom.com/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply; no duplicate. Establish actual terms and salary.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:07:17+00:00",
+          "recipient": "contact@mjroom.com",
+          "subject": "",
+          "messageId": "1a1d617ac4b5f26c",
+          "threadId": "1a1d617ac4b5f26c",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000088_morocco_mjroom/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "bb564b8711796e865d0d4dd3aca477050524b0d82d87fd289b322690f1fbecb3"
+    },
+    {
+      "application_id": "MF-000089",
+      "company": "91 Leather Store",
+      "country": "Morocco",
+      "position": "Candidature spontanée artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "contact@medinamall.ma",
+      "job_posting_url": "https://91leatherstore.com/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply; no duplicate. Establish actual terms and salary.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:07:20+00:00",
+          "recipient": "contact@medinamall.ma",
+          "subject": "",
+          "messageId": "1a1d617b79f6a23a",
+          "threadId": "1a1d617b79f6a23a",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000089_morocco_91-leather-store/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "4107dc2d1b81eb1c9ed620e6f1de25748a14cc42351ee751bb3e7250b955dd73"
+    },
+    {
+      "application_id": "MF-000090",
+      "company": "Reality Furniture",
+      "country": "Australia",
+      "position": "Experienced furniture upholsterer",
+      "employer_website": "",
+      "recruitment_email": "info@realityfurniture.com.au",
+      "job_posting_url": "https://www.realityfurniture.com.au/contact-us/",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply; no duplicate. Verify visa support, suitability, and actual salary.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:07:33+00:00",
+          "recipient": "info@realityfurniture.com.au",
+          "subject": "",
+          "messageId": "1a1d617e6c5cf551",
+          "threadId": "1a1d617e6c5cf551",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000090_australia_reality-furniture/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "a936ea19c5ac32fadf60913f610e93f17c07169f96416ad19a8b6ed868fddf4e"
+    },
+    {
+      "application_id": "MF-000091",
+      "company": "Cuirox",
+      "country": "Morocco",
+      "position": "Artisan du cuir, candidature spontanée",
+      "employer_website": "",
+      "recruitment_email": "contact@cuirox.com",
+      "job_posting_url": "https://www.cuirox.com/en/content/8-tailor-made",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await response; no duplicate. Confirm actual pay and work authorization if needed.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:08:40+00:00",
+          "recipient": "contact@cuirox.com",
+          "subject": "",
+          "messageId": "1a1d618eda9ea7a4",
+          "threadId": "1a1d618eda9ea7a4",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000091_morocco_cuirox/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "2f28d149cc915b91a22103effb90c6788e7f0ae8f2d51dc1c11d525394cc6ff6"
+    },
+    {
+      "application_id": "MF-000092",
+      "company": "Maroquinerie du Pays d’Orthe",
+      "country": "France",
+      "position": "Artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "recrutement-mpo@tolomei.fr",
+      "job_posting_url": "https://www.tolomei.fr/events/reunion-devenez-maroquiniere-maroquinerie-du-pays-dorthe-formation/",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await response; no duplicate. Confirm actual pay and work authorization if needed.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:09:12+00:00",
+          "recipient": "recrutement-mpo@tolomei.fr",
+          "subject": "",
+          "messageId": "1a1d6196cd09bfc0",
+          "threadId": "1a1d6196cd09bfc0",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000092_france_maroquinerie-pays-orthe/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "281227f9ed7c11716ea86527396ff590c8baccd4b2521dc7c1c09cbe688d9cb6"
+    },
+    {
+      "application_id": "MF-000093",
+      "company": "Marofica",
+      "country": "France",
+      "position": "Artisan maroquinier",
+      "employer_website": "",
+      "recruitment_email": "e.rousseau@marofica.com",
+      "job_posting_url": "https://www.modegrandouest.fr/adherents/fabricants-habillement/341-marofica.html",
+      "vacancy_id": "",
+      "application_type": "advertised",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await response; no duplicate. Confirm actual pay and work authorization if needed.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:10:30+00:00",
+          "recipient": "e.rousseau@marofica.com",
+          "subject": "",
+          "messageId": "1a1d61a9dfadbc79",
+          "threadId": "1a1d61a9dfadbc79",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000093_france_marofica/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "24ce6e624ca0f9e82b5838df94dd7409dc965dc8ae5e242a9e988f8705899ead"
+    },
+    {
+      "application_id": "MF-000094",
+      "company": "DOUM Hospitality",
+      "country": "Morocco",
+      "position": "Artisan du cuir, candidature spontanée",
+      "employer_website": "",
+      "recruitment_email": "",
+      "job_posting_url": "https://doumhospitality.com/pages/contact",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "employer contact form",
+      "application_status": "submitted_portal",
+      "date_sent": "",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply and CV submission route; no duplicate.",
+      "submission_state": "portal",
+      "events": [
+        {
+          "kind": "portal",
+          "timestamp": "2026-11-13",
+          "recipient": "https://doumhospitality.com/pages/contact",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "The employer form displayed a successful send confirmation."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "e05017cb9e9c35f18d938b13df5a87917f37308b789f68c1038cf38722c9e06e"
+    },
+    {
+      "application_id": "MF-000095",
+      "company": "Atelier Lavallois de Maroquinerie",
+      "country": "France",
+      "position": "Artisan maroquinier, candidature spontanée",
+      "employer_website": "",
+      "recruitment_email": "rh53@bflmaroquinerie.com",
+      "job_posting_url": "https://bflmaroquinerie.flatchr.io/company/bflmaroquinerie/vacancy/wy3eop2ebzq91kmq-maroquinier-en-reconversion-h-f/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer response; no duplicate; assess salary and work authorization.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:15:53+00:00",
+          "recipient": "rh53@bflmaroquinerie.com",
+          "subject": "",
+          "messageId": "1a1d61f898ec6d0b",
+          "threadId": "1a1d61f898ec6d0b",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000095_france_atelier-lavallois/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "f7cd7e565131a54dc89d5f3732a19db05b765fb48e01c63fb535dbb0e7128322"
+    },
+    {
+      "application_id": "MF-000096",
+      "company": "Hermès Maroquinerie de Normandie",
+      "country": "France",
+      "position": "Sellier maroquinier, session mai 2027",
+      "employer_website": "",
+      "recruitment_email": "recrutement-normandie@hermes.com",
+      "job_posting_url": "https://talents.hermes.com/fr/sites/CX/job/24577",
+      "vacancy_id": "24577",
+      "application_type": "advertised",
+      "application_channel": "portal blocked; email inquiry",
+      "application_status": "blocked",
+      "date_sent": "",
+      "date_submitted": "",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await employer guidance for required residence selection and work authorization; no portal submission.",
+      "submission_state": "held",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-13T18:28:33+00:00",
+          "recipient": "recrutement-normandie@hermes.com",
+          "subject": "",
+          "messageId": "1a1d62b20376cbf6",
+          "threadId": "1a1d62b20376cbf6",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "362874700e49b820e5148a4b6eabbd0cc22fd03a58caa6fe75857c8f35339f2d"
+    },
+    {
+      "application_id": "MF-000097",
+      "company": "Intoo",
+      "country": "Australia",
+      "position": "Speculative leather and upholstery enquiry",
+      "employer_website": "",
+      "recruitment_email": "sales@intoo.com.au",
+      "job_posting_url": "https://intoo.com.au/upholstery-courses",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply; do not duplicate. Verify salary, employer receipt and permit support.",
+      "submission_state": "held",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-13T18:44:03+00:00",
+          "recipient": "sales@intoo.com.au",
+          "subject": "",
+          "messageId": "1a1d63953a3c7fe7",
+          "threadId": "1a1d63953a3c7fe7",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000097_australia_intoo/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "a598dcb1cef17b79b7d3accd580e957e5ce35c53b06a05b129355d8625c0e632"
+    },
+    {
+      "application_id": "MF-000098",
+      "company": "Elko Chair Repairs",
+      "country": "Australia",
+      "position": "Upholstery enquiry for overseas applicant",
+      "employer_website": "",
+      "recruitment_email": "elkochairrepairs@gmail.com",
+      "job_posting_url": "https://www.provenexpert.com/en-us/elko-chair-repairs/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "blocked",
+      "date_sent": "2026-11-13",
+      "date_submitted": "",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "Delivery failure: recipient mailbox inactive (550 5.2.1); no employer response.",
+      "next_action": "Find a verified current recruitment route; do not retry inactive address.",
+      "submission_state": "failed",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-13T18:44:05+00:00",
+          "recipient": "elkochairrepairs@gmail.com",
+          "subject": "",
+          "messageId": "1a1d6395cfc1a6f7",
+          "threadId": "1a1d6395cfc1a6f7",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-11-13",
+          "sender": "Mail delivery service",
+          "subject": "",
+          "messageId": "1a1d639674d3ffda",
+          "threadId": "",
+          "sourceMessageId": "1a1d6395cfc1a6f7",
+          "confirmation": "Final delivery failure; the message did not reach the recipient."
+        }
+      ],
+      "last_response_at": "2026-11-13",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000098_australia_elko/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "aec14c2326a2f07bdb4bfbcbf75daba4868540ca35c3af432fdb4e06f8fadd31"
+    },
+    {
+      "application_id": "MF-000099",
+      "company": "AMAC Aerospace",
+      "country": "Switzerland",
+      "position": "Speculative leather craftsmanship and upholstery application",
+      "employer_website": "",
+      "recruitment_email": "info@amacaerospace.com",
+      "job_posting_url": "https://www.amacaerospace.com/contact-maintenance-basel/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "email",
+      "application_status": "awaiting_response",
+      "date_sent": "2026-11-13",
+      "date_submitted": "2026-11-13",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await reply; do not duplicate. Verify salary, employer receipt and permit support.",
+      "submission_state": "email",
+      "events": [
+        {
+          "kind": "application",
+          "timestamp": "2026-11-13T18:45:56+00:00",
+          "recipient": "info@amacaerospace.com",
+          "subject": "",
+          "messageId": "1a1d63b0fc9ee044",
+          "threadId": "1a1d63b0fc9ee044",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000099_switzerland_amac/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "3b9bf87635fd497d10a12ab1b8a6a2356c3f4de093f98b6b7ac7ee987fa6bb54"
+    },
+    {
+      "application_id": "MF-000100",
+      "company": "L’Atelier Châteauneuf-sur-Isère",
+      "country": "France",
+      "position": "Remote recruitment route enquiry",
+      "employer_website": "",
+      "recruitment_email": "ale.romans-sur-isere@francetravail.fr",
+      "job_posting_url": "https://candidat.francetravail.fr/offres/recherche/detail/216GRNM",
+      "vacancy_id": "",
+      "application_type": "inquiry",
+      "application_channel": "email",
+      "application_status": "blocked",
+      "date_sent": "2026-11-13",
+      "date_submitted": "",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "France Travail routing inquiry permanently failed: recipient address not found.",
+      "next_action": "Find a verified current recruitment route; no employer application confirmed.",
+      "submission_state": "failed",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-13T18:46:34+00:00",
+          "recipient": "ale.romans-sur-isere@francetravail.fr",
+          "subject": "",
+          "messageId": "1a1d63ba2d530a67",
+          "threadId": "1a1d63ba2d530a67",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-11-13",
+          "sender": "Mail delivery service",
+          "subject": "",
+          "messageId": "1a1d63bcff0cd15c",
+          "threadId": "",
+          "sourceMessageId": "1a1d63ba2d530a67",
+          "confirmation": "Final delivery failure; the message did not reach the recipient."
+        }
+      ],
+      "last_response_at": "2026-11-13",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000100_france_latelier/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "685e74db632cdf7752a08e6b4df8cc46adda755a95a4ca7d98bd67561fcbaf26"
+    },
+    {
+      "application_id": "MF-000101",
+      "company": "La Maroquinerie Albon",
+      "country": "France",
+      "position": "Remote recruitment route enquiry",
+      "employer_website": "",
+      "recruitment_email": "ale.romans-sur-isere@francetravail.fr",
+      "job_posting_url": "https://fr.indeed.com/viewjob?jk=8a06ea8e0cba4453",
+      "vacancy_id": "",
+      "application_type": "inquiry",
+      "application_channel": "email",
+      "application_status": "blocked",
+      "date_sent": "2026-11-13",
+      "date_submitted": "",
+      "last_contact_date": "2026-11-13",
+      "follow_up_date": "",
+      "latest_employer_response": "France Travail routing inquiry permanently failed: recipient address not found.",
+      "next_action": "Find a verified current recruitment route; no employer application confirmed.",
+      "submission_state": "failed",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-13T18:46:34+00:00",
+          "recipient": "ale.romans-sur-isere@francetravail.fr",
+          "subject": "",
+          "messageId": "1a1d63ba2d530a67",
+          "threadId": "1a1d63ba2d530a67",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_CV_FR.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [
+        {
+          "kind": "delivery_notice",
+          "direction": "incoming",
+          "timestamp": "2026-11-13",
+          "sender": "Mail delivery service",
+          "subject": "",
+          "messageId": "1a1d63bcff0cd15c",
+          "threadId": "",
+          "sourceMessageId": "1a1d63ba2d530a67",
+          "confirmation": "Final delivery failure; the message did not reach the recipient."
+        }
+      ],
+      "last_response_at": "2026-11-13",
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000101_france_albon/gmail-attachments/Mohammed_Fadil_CV_FR.pdf"
+        }
+      ],
+      "screening_only": false,
+      "report_details_sha256": "ff6ddda8d18a7500f14894476abde331b499d0e2d61c6d57fa0fdea103d1e51b"
+    },
+    {
+      "application_id": "MF-000028",
+      "company": "Santoni",
+      "country": "Italy",
+      "position": "Speculative footwear making, stitching and finishing",
+      "employer_website": "https://www.santonishoes.com/it-it/workwithus.html",
+      "recruitment_email": "risorseumane@santonishoesit.com",
+      "job_posting_url": "https://career.santonishoes.com/",
+      "vacancy_id": "",
+      "application_type": "speculative",
+      "application_channel": "portal",
+      "application_status": "blocked",
+      "date_sent": "2026-11-12",
+      "date_submitted": "",
+      "last_contact_date": "2026-11-12",
+      "follow_up_date": "",
+      "latest_employer_response": "",
+      "next_action": "Await HR routing reply or delivery notice to inquiry 1a1d18ca02965437. No application submitted; form domicile and education choices remain blocked.",
+      "submission_state": "held",
+      "events": [
+        {
+          "kind": "inquiry",
+          "timestamp": "2026-11-12T20:56:56+00:00",
+          "recipient": "risorseumane@santonishoesit.com",
+          "subject": "",
+          "messageId": "1a1d18ca02965437",
+          "threadId": "1a1d18ca02965437",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        }
+      ],
+      "received_events": [],
+      "last_response_at": "",
+      "documents": [],
+      "screening_only": false,
+      "report_details_sha256": "705b8da03083e5afd09934337e141e548da87dcb90e499013e5bff6bbe0e201f"
     }
   ],
-  "revision": "58ee152041cc2bc9ec2613448de2aecbe2d4ee1e8b29134cd51ecf7846e11e86",
-  "updated_at": "2026-10-31T19:35:56.342213+00:00",
+  "revision": "fb7c68272e8983e202a7ffd1d608cde60e567adbfe6407d8bf04947d0bb25532",
+  "updated_at": "2026-11-13T19:07:25.736840+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-30T09:07:49Z",
-    "latest_attempt_started_utc": "2026-10-30T09:07:49Z",
+    "last_successful_scan_utc": "2026-11-13T18:51:32Z",
+    "latest_attempt_started_utc": "2026-11-13T18:50:33Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 13,
-    "pages_completed": 1,
+    "messages_enumerated": 209,
+    "pages_completed": 3,
     "email_suppressed_same_day": false
   }
 }

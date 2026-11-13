@@ -1,0 +1,79 @@
+{
+  "id": "MF-000101",
+  "number": 101,
+  "company": "La Maroquinerie Albon",
+  "country": "France",
+  "position": "Remote recruitment route enquiry",
+  "type": "Recruitment inquiry",
+  "language": "French",
+  "status": "failed",
+  "summary": "The shared inquiry to France Travail failed because the recipient address was not found. No workshop application was delivered.",
+  "next": "Find a verified application route. No new application is confirmed.",
+  "recipient": "ale.romans-sur-isere@francetravail.fr",
+  "sentDate": "13 Nov 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent",
+      "date": "13 Nov 2026, 18:46",
+      "timestamp": "2026-11-13T18:46:34+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000101_france_albon/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV_FR.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000101_france_albon/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000101_france_albon/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "52a505ea0d72a0708fc5c6190363bd2c5ee13f26ceb85977004cfb5b272592b8"
+        }
+      ],
+      "messageId": "1a1d63ba2d530a67",
+      "threadId": "1a1d63ba2d530a67",
+      "recipient": "ale.romans-sur-isere@francetravail.fr",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [
+    {
+      "kind": "delivery_notice",
+      "title": "Delivery failure",
+      "date": "13 Nov 2026",
+      "timestamp": "2026-11-13",
+      "direction": "incoming",
+      "confirmation": "Final delivery failure; the message did not reach the recipient.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/20261113_remaining_five/francetravail-gmail-delivery-failure-20261113.json",
+      "filenames": [],
+      "documents": [],
+      "messageId": "1a1d63bcff0cd15c",
+      "sourceMessageId": "1a1d63ba2d530a67",
+      "sender": "Mail delivery service",
+      "subject": ""
+    }
+  ],
+  "applicationStatus": "blocked",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV_FR.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000101_france_albon/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000101_france_albon/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "52a505ea0d72a0708fc5c6190363bd2c5ee13f26ceb85977004cfb5b272592b8"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Delivery failed; no receipt by the intended recipient.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000101_france_albon/gmail-full-readback-20261113.json"
+}

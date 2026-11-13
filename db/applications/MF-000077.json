@@ -1,0 +1,63 @@
+{
+  "id": "MF-000077",
+  "number": 77,
+  "company": "Otto Immler",
+  "country": "Germany",
+  "position": "Sewer / saddler / upholsterer",
+  "type": "Speculative application",
+  "language": "German",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "Claudia.Immler@immler24.de",
+  "sentDate": "12 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "12 Nov 2026, 21:01",
+      "timestamp": "2026-11-12T21:01:36+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000077_germany_user_sent/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_Portfolio_Application.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio_Application.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000077_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000077_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf",
+          "pages": 19,
+          "size": 946,
+          "sha256": "41978f71e709daf6ffdfc856e25174e950de2ec198557e2251bb294b2d010498"
+        }
+      ],
+      "messageId": "1a1d190e6689c409",
+      "threadId": "1a1d190e6689c409",
+      "recipient": "Claudia.Immler@immler24.de",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_Portfolio_Application.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000077_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000077_germany_user_sent/gmail-attachments/Mohammed_Fadil_Portfolio_Application.pdf",
+      "pages": 19,
+      "size": 946,
+      "sha256": "41978f71e709daf6ffdfc856e25174e950de2ec198557e2251bb294b2d010498"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000077_germany_user_sent/gmail-full-readback-20261113.json"
+}

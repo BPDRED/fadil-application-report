@@ -773,6 +773,30 @@
     ]
   },
   {
+    "id": "MF-000028",
+    "number": 28,
+    "company": "Santoni",
+    "country": "Italy",
+    "position": "Speculative footwear making, stitching and finishing",
+    "type": "Speculative intake blocked",
+    "language": "Italian",
+    "status": "held",
+    "applicationStatus": "blocked",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "12 Nov 2026, 20:56",
+        "timestamp": "2026-11-12T20:56:56+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
     "id": "MF-000029",
     "number": 29,
     "company": "Salvatore Ferragamo",
@@ -1108,8 +1132,8 @@
     "language": "French",
     "status": "portal",
     "applicationStatus": "submitted_portal",
-    "next": "Await the employer response. Review this advertised-role application on 5 November 2026, based on the 21 October receipt and its 15-day guidance. This is an internal check date, not permission to contact or reapply.",
-    "response": "Automatic confirmation received on 21 October. The employer gives 15 days without news; review on 5 November. No substantive hiring decision.",
+    "next": "Check which Tolomei application the decline concerns before changing its status.",
+    "response": "Tolomei declined a leatherworker application, but the specific application has not been confirmed.",
     "events": [
       {
         "kind": "portal",
@@ -1187,6 +1211,28 @@
     "receivedEvents": []
   },
   {
+    "id": "PROV-GMAIL-1a15a17aaa78e788",
+    "number": 43,
+    "company": "Pelletteria Ricci",
+    "country": "Italy",
+    "position": "Speculative luxury leather-goods production",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "20 Oct 2026, 16:14",
+        "timestamp": "2026-10-20T16:14:22.000Z"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
     "id": "MF-000044",
     "number": 44,
     "company": "INNOTEX / Confection Aventure",
@@ -1210,6 +1256,28 @@
         "title": "Corrected portfolio sent",
         "date": "31 Oct 2026",
         "timestamp": "2026-10-31"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "PROV-GMAIL-1a15a17d1ddb78de",
+    "number": 44,
+    "company": "Pelletteria Il Veliero",
+    "country": "Italy",
+    "position": "Speculative leather cutting, preparation and assembly",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "20 Oct 2026, 16:14",
+        "timestamp": "2026-10-20T16:14:32.000Z"
       }
     ],
     "receivedEvents": []
@@ -1243,6 +1311,28 @@
     "receivedEvents": []
   },
   {
+    "id": "PROV-GMAIL-1a15a17ec6cb8d55",
+    "number": 45,
+    "company": "Garland S.r.l.",
+    "country": "Italy",
+    "position": "Speculative luxury leather-goods production",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application documents sent",
+        "date": "20 Oct 2026, 16:14",
+        "timestamp": "2026-10-20T16:14:39.000Z"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
     "id": "MF-000046",
     "number": 46,
     "company": "Umano Medical",
@@ -1267,6 +1357,34 @@
         "title": "Corrected portfolio sent",
         "date": "31 Oct 2026",
         "timestamp": "2026-10-31"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "PROV-GMAIL-1a15b415dcb1669f",
+    "number": 46,
+    "company": "Pelletteria Almax",
+    "country": "Italy",
+    "position": "Speculative leather-goods craft application",
+    "type": "Provisional Gmail-discovered speculative application",
+    "language": "Italian",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
+    "response": "No substantive recruitment response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Speculative application sent",
+        "date": "20 Oct 2026, 21:39",
+        "timestamp": "2026-10-20T21:39:32.000Z"
+      },
+      {
+        "kind": "supplement",
+        "title": "Application documents supplemented",
+        "date": "20 Oct 2026, 21:43",
+        "timestamp": "2026-10-20T21:43:41.000Z"
       }
     ],
     "receivedEvents": []
@@ -1829,10 +1947,10 @@
     "type": "Advertised role",
     "language": "French",
     "status": "portal",
-    "applicationStatus": "awaiting_response",
+    "applicationStatus": "rejected",
     "screeningOnly": false,
-    "next": "Await employer response or delivery notice. Recruitment support is unconfirmed.",
-    "response": "No substantive recruitment response recorded.",
+    "next": "Record the employer decline; do not resend this application.",
+    "response": "The employer declined the Paris maintenance application on 6 November 2026.",
     "events": [
       {
         "kind": "portal",
@@ -1841,7 +1959,15 @@
         "timestamp": "2026-10-31"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "response",
+        "title": "Employer response",
+        "date": "6 Nov 2026, 15:05",
+        "timestamp": "2026-11-06T15:05:23+00:00",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000068",
@@ -1890,97 +2016,817 @@
     "receivedEvents": []
   },
   {
-    "id": "PROV-GMAIL-1a15a17aaa78e788",
-    "number": 43,
-    "company": "Pelletteria Ricci",
-    "country": "Italy",
-    "position": "Speculative luxury leather-goods production",
-    "type": "Provisional Gmail-discovered speculative application",
-    "language": "Italian",
+    "id": "MF-000070",
+    "number": 70,
+    "company": "Cordonnerie Ouimet & Cordonnerie Nettoyeur Place Longueuil",
+    "country": "Canada",
+    "position": "Re-upholsterer",
+    "type": "Advertised application",
+    "language": "English",
     "status": "email",
     "applicationStatus": "awaiting_response",
-    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-    "response": "No substantive recruitment response recorded.",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
     "events": [
       {
         "kind": "application",
-        "title": "Application documents sent",
-        "date": "20 Oct 2026, 16:14",
-        "timestamp": "2026-10-20T16:14:22.000Z"
+        "title": "Application sent",
+        "date": "12 Nov 2026, 20:29",
+        "timestamp": "2026-11-12T20:29:10+00:00",
+        "direction": "outgoing"
       }
     ],
     "receivedEvents": []
   },
   {
-    "id": "PROV-GMAIL-1a15a17d1ddb78de",
-    "number": 44,
-    "company": "Pelletteria Il Veliero",
-    "country": "Italy",
-    "position": "Speculative leather cutting, preparation and assembly",
-    "type": "Provisional Gmail-discovered speculative application",
-    "language": "Italian",
+    "id": "MF-000071",
+    "number": 71,
+    "company": "Stuckey's Upholstery",
+    "country": "Canada",
+    "position": "Custom upholsterer",
+    "type": "Advertised application",
+    "language": "English",
     "status": "email",
     "applicationStatus": "awaiting_response",
-    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-    "response": "No substantive recruitment response recorded.",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
     "events": [
       {
         "kind": "application",
-        "title": "Application documents sent",
-        "date": "20 Oct 2026, 16:14",
-        "timestamp": "2026-10-20T16:14:32.000Z"
+        "title": "Application sent",
+        "date": "12 Nov 2026, 20:34",
+        "timestamp": "2026-11-12T20:34:42+00:00",
+        "direction": "outgoing"
       }
     ],
     "receivedEvents": []
   },
   {
-    "id": "PROV-GMAIL-1a15a17ec6cb8d55",
-    "number": 45,
-    "company": "Garland S.r.l.",
-    "country": "Italy",
-    "position": "Speculative luxury leather-goods production",
-    "type": "Provisional Gmail-discovered speculative application",
-    "language": "Italian",
+    "id": "MF-000072",
+    "number": 72,
+    "company": "Linea P International",
+    "country": "Canada",
+    "position": "Upholsterer",
+    "type": "Advertised application",
+    "language": "English",
     "status": "email",
     "applicationStatus": "awaiting_response",
-    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-    "response": "No substantive recruitment response recorded.",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
     "events": [
       {
         "kind": "application",
-        "title": "Application documents sent",
-        "date": "20 Oct 2026, 16:14",
-        "timestamp": "2026-10-20T16:14:39.000Z"
+        "title": "Application sent",
+        "date": "12 Nov 2026, 20:37",
+        "timestamp": "2026-11-12T20:37:00+00:00",
+        "direction": "outgoing"
       }
     ],
     "receivedEvents": []
   },
   {
-    "id": "PROV-GMAIL-1a15b415dcb1669f",
-    "number": 46,
-    "company": "Pelletteria Almax",
-    "country": "Italy",
-    "position": "Speculative leather-goods craft application",
-    "type": "Provisional Gmail-discovered speculative application",
-    "language": "Italian",
+    "id": "MF-000073",
+    "number": 73,
+    "company": "Wheeler Accessories LTD",
+    "country": "Canada",
+    "position": "Sewing machine operator",
+    "type": "Advertised application",
+    "language": "English",
     "status": "email",
     "applicationStatus": "awaiting_response",
-    "next": "Await a substantive employer response. Do not resend, send an automatic follow-up or infer delivery. Reconcile this provisional Gmail identity to a permanent project application ID before any future contact.",
-    "response": "No substantive recruitment response recorded.",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
     "events": [
       {
         "kind": "application",
-        "title": "Speculative application sent",
-        "date": "20 Oct 2026, 21:39",
-        "timestamp": "2026-10-20T21:39:32.000Z"
+        "title": "Application sent",
+        "date": "12 Nov 2026, 20:38",
+        "timestamp": "2026-11-12T20:38:43+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000074",
+    "number": 74,
+    "company": "Totem Furniture & Appliances",
+    "country": "Canada",
+    "position": "Upholsterer",
+    "type": "Recruitment inquiry",
+    "language": "English",
+    "status": "held",
+    "applicationStatus": "blocked",
+    "screeningOnly": false,
+    "next": "Find a verified application route. No new application is confirmed.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "12 Nov 2026, 20:55",
+        "timestamp": "2026-11-12T20:55:46+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000075",
+    "number": 75,
+    "company": "PAKO International (recruiter)",
+    "country": "New Zealand",
+    "position": "Furniture upholsterer recruitment enquiry",
+    "type": "Recruitment inquiry",
+    "language": "English",
+    "status": "held",
+    "applicationStatus": "blocked",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "12 Nov 2026, 21:00",
+        "timestamp": "2026-11-12T21:00:29+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000076",
+    "number": 76,
+    "company": "Lederwaren Rathenow",
+    "country": "Germany",
+    "position": "Leather goods sewer",
+    "type": "Speculative application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:02",
+        "timestamp": "2026-11-12T21:02:08+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000077",
+    "number": 77,
+    "company": "Otto Immler",
+    "country": "Germany",
+    "position": "Sewer / saddler / upholsterer",
+    "type": "Speculative application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:01",
+        "timestamp": "2026-11-12T21:01:36+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000078",
+    "number": 78,
+    "company": "Schuh Petters",
+    "country": "Germany",
+    "position": "Footwear upper sewer",
+    "type": "Speculative application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:01",
+        "timestamp": "2026-11-12T21:01:34+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000079",
+    "number": 79,
+    "company": "TiCad",
+    "country": "Germany",
+    "position": "Leather processing / sewer",
+    "type": "Speculative application",
+    "language": "German",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:01",
+        "timestamp": "2026-11-12T21:01:20+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000080",
+    "number": 80,
+    "company": "Fabram",
+    "country": "United Arab Emirates",
+    "position": "Master Leather Artisan",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:14",
+        "timestamp": "2026-11-12T21:14:47+00:00",
+        "direction": "outgoing"
       },
       {
         "kind": "supplement",
-        "title": "Application documents supplemented",
-        "date": "20 Oct 2026, 21:43",
-        "timestamp": "2026-10-20T21:43:41.000Z"
+        "title": "Portfolio correction sent",
+        "date": "12 Nov 2026, 21:15",
+        "timestamp": "2026-11-12T21:15:17+00:00",
+        "direction": "outgoing"
       }
     ],
     "receivedEvents": []
+  },
+  {
+    "id": "MF-000081",
+    "number": 81,
+    "company": "Jocker Cuir",
+    "country": "Morocco",
+    "position": "Experienced leather craftsman, spontaneous application",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:15",
+        "timestamp": "2026-11-12T21:15:32+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000082",
+    "number": 82,
+    "company": "John Edward Halpin Upholstery",
+    "country": "Australia",
+    "position": "Upholsterer Assistant / Experienced Upholsterer",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:27",
+        "timestamp": "2026-11-12T21:27:44+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000083",
+    "number": 83,
+    "company": "Maroquinerie Cotte",
+    "country": "France",
+    "position": "Artisan maroquinier",
+    "type": "Advertised application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "12 Nov 2026, 21:28",
+        "timestamp": "2026-11-12T21:28:53+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000084",
+    "number": 84,
+    "company": "Upholstery World",
+    "country": "New Zealand",
+    "position": "Furniture upholsterer",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted",
+        "date": "12 Nov 2026",
+        "timestamp": "2026-11-12",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000085",
+    "number": 85,
+    "company": "Amaris Leather",
+    "country": "Morocco",
+    "position": "Candidature spontanée artisan maroquinier",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:07",
+        "timestamp": "2026-11-13T18:07:09+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000086",
+    "number": 86,
+    "company": "Marockennerie",
+    "country": "Morocco",
+    "position": "Candidature spontanée artisan maroquinier",
+    "type": "Recruitment inquiry",
+    "language": "French",
+    "status": "held",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:07",
+        "timestamp": "2026-11-13T18:07:12+00:00",
+        "direction": "outgoing"
+      },
+      {
+        "kind": "inquiry",
+        "title": "WhatsApp inquiry delivered",
+        "date": "13 Nov 2026",
+        "timestamp": "2026-11-13",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "delivery_notice",
+        "title": "Delivery failure",
+        "date": "13 Nov 2026",
+        "timestamp": "2026-11-13",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000087",
+    "number": 87,
+    "company": "Artisan Nihal",
+    "country": "Morocco",
+    "position": "Candidature spontanée artisan maroquinier",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:07",
+        "timestamp": "2026-11-13T18:07:15+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000088",
+    "number": 88,
+    "company": "MJROOM",
+    "country": "Morocco",
+    "position": "Candidature spontanée artisan maroquinier",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:07",
+        "timestamp": "2026-11-13T18:07:17+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000089",
+    "number": 89,
+    "company": "91 Leather Store",
+    "country": "Morocco",
+    "position": "Candidature spontanée artisan maroquinier",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:07",
+        "timestamp": "2026-11-13T18:07:20+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000090",
+    "number": 90,
+    "company": "Reality Furniture",
+    "country": "Australia",
+    "position": "Experienced furniture upholsterer",
+    "type": "Advertised application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:07",
+        "timestamp": "2026-11-13T18:07:33+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000091",
+    "number": 91,
+    "company": "Cuirox",
+    "country": "Morocco",
+    "position": "Artisan du cuir, candidature spontanée",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:08",
+        "timestamp": "2026-11-13T18:08:40+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000092",
+    "number": 92,
+    "company": "Maroquinerie du Pays d’Orthe",
+    "country": "France",
+    "position": "Artisan maroquinier",
+    "type": "Advertised application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:09",
+        "timestamp": "2026-11-13T18:09:12+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000093",
+    "number": 93,
+    "company": "Marofica",
+    "country": "France",
+    "position": "Artisan maroquinier",
+    "type": "Advertised application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:10",
+        "timestamp": "2026-11-13T18:10:30+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000094",
+    "number": 94,
+    "company": "DOUM Hospitality",
+    "country": "Morocco",
+    "position": "Artisan du cuir, candidature spontanée",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "portal",
+    "applicationStatus": "submitted_portal",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "portal",
+        "title": "Application submitted",
+        "date": "13 Nov 2026",
+        "timestamp": "2026-11-13",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000095",
+    "number": 95,
+    "company": "Atelier Lavallois de Maroquinerie",
+    "country": "France",
+    "position": "Artisan maroquinier, candidature spontanée",
+    "type": "Speculative application",
+    "language": "French",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:15",
+        "timestamp": "2026-11-13T18:15:53+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000096",
+    "number": 96,
+    "company": "Hermès Maroquinerie de Normandie",
+    "country": "France",
+    "position": "Sellier maroquinier, session mai 2027",
+    "type": "Recruitment inquiry",
+    "language": "French",
+    "status": "held",
+    "applicationStatus": "blocked",
+    "screeningOnly": false,
+    "next": "Find a verified application route. No new application is confirmed.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "13 Nov 2026, 18:28",
+        "timestamp": "2026-11-13T18:28:33+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000097",
+    "number": 97,
+    "company": "Intoo",
+    "country": "Australia",
+    "position": "Speculative leather and upholstery enquiry",
+    "type": "Recruitment inquiry",
+    "language": "English",
+    "status": "held",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "13 Nov 2026, 18:44",
+        "timestamp": "2026-11-13T18:44:03+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000098",
+    "number": 98,
+    "company": "Elko Chair Repairs",
+    "country": "Australia",
+    "position": "Upholstery enquiry for overseas applicant",
+    "type": "Recruitment inquiry",
+    "language": "English",
+    "status": "failed",
+    "applicationStatus": "blocked",
+    "screeningOnly": false,
+    "next": "Find a verified application route. No new application is confirmed.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "13 Nov 2026, 18:44",
+        "timestamp": "2026-11-13T18:44:05+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "delivery_notice",
+        "title": "Delivery failure",
+        "date": "13 Nov 2026",
+        "timestamp": "2026-11-13",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000099",
+    "number": 99,
+    "company": "AMAC Aerospace",
+    "country": "Switzerland",
+    "position": "Speculative leather craftsmanship and upholstery application",
+    "type": "Speculative application",
+    "language": "English",
+    "status": "email",
+    "applicationStatus": "awaiting_response",
+    "screeningOnly": false,
+    "next": "Await a response. Do not send a duplicate.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "application",
+        "title": "Application sent",
+        "date": "13 Nov 2026, 18:45",
+        "timestamp": "2026-11-13T18:45:56+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": []
+  },
+  {
+    "id": "MF-000100",
+    "number": 100,
+    "company": "L’Atelier Châteauneuf-sur-Isère",
+    "country": "France",
+    "position": "Remote recruitment route enquiry",
+    "type": "Recruitment inquiry",
+    "language": "French",
+    "status": "failed",
+    "applicationStatus": "blocked",
+    "screeningOnly": false,
+    "next": "Find a verified application route. No new application is confirmed.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "13 Nov 2026, 18:46",
+        "timestamp": "2026-11-13T18:46:34+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "delivery_notice",
+        "title": "Delivery failure",
+        "date": "13 Nov 2026",
+        "timestamp": "2026-11-13",
+        "direction": "incoming"
+      }
+    ]
+  },
+  {
+    "id": "MF-000101",
+    "number": 101,
+    "company": "La Maroquinerie Albon",
+    "country": "France",
+    "position": "Remote recruitment route enquiry",
+    "type": "Recruitment inquiry",
+    "language": "French",
+    "status": "failed",
+    "applicationStatus": "blocked",
+    "screeningOnly": false,
+    "next": "Find a verified application route. No new application is confirmed.",
+    "response": "No substantive employer response recorded.",
+    "events": [
+      {
+        "kind": "inquiry",
+        "title": "Inquiry sent",
+        "date": "13 Nov 2026, 18:46",
+        "timestamp": "2026-11-13T18:46:34+00:00",
+        "direction": "outgoing"
+      }
+    ],
+    "receivedEvents": [
+      {
+        "kind": "delivery_notice",
+        "title": "Delivery failure",
+        "date": "13 Nov 2026",
+        "timestamp": "2026-11-13",
+        "direction": "incoming"
+      }
+    ]
   }
 ]

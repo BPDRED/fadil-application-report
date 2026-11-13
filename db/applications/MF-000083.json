@@ -1,0 +1,63 @@
+{
+  "id": "MF-000083",
+  "number": 83,
+  "company": "Maroquinerie Cotte",
+  "country": "France",
+  "position": "Artisan maroquinier",
+  "type": "Advertised application",
+  "language": "French",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "rh.recrutement@pierre-cotte.com",
+  "sentDate": "12 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "12 Nov 2026, 21:28",
+      "timestamp": "2026-11-12T21:28:53+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000083_france_maroquinerie-cotte/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV_FR.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000083_france_maroquinerie-cotte/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000083_france_maroquinerie-cotte/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "2d70063fa8eb8a7d107cb8d4b484988821e5e6e32daaab821d48be2dcf4dbe67"
+        }
+      ],
+      "messageId": "1a1d1a9e0459e9e1",
+      "threadId": "1a1d1a9e0459e9e1",
+      "recipient": "rh.recrutement@pierre-cotte.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV_FR.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000083_france_maroquinerie-cotte/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000083_france_maroquinerie-cotte/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "2d70063fa8eb8a7d107cb8d4b484988821e5e6e32daaab821d48be2dcf4dbe67"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000083_france_maroquinerie-cotte/gmail-full-readback-20261113.json"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "MF-000091",
+  "number": 91,
+  "company": "Cuirox",
+  "country": "Morocco",
+  "position": "Artisan du cuir, candidature spontanée",
+  "type": "Speculative application",
+  "language": "French",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "contact@cuirox.com",
+  "sentDate": "13 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "13 Nov 2026, 18:08",
+      "timestamp": "2026-11-13T18:08:40+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000091_morocco_cuirox/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV_FR.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000091_morocco_cuirox/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000091_morocco_cuirox/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "6d98bc4147230e97b95baf114a1a102453f1d9a05acb38fd494b20c5dc6a27c5"
+        }
+      ],
+      "messageId": "1a1d618eda9ea7a4",
+      "threadId": "1a1d618eda9ea7a4",
+      "recipient": "contact@cuirox.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV_FR.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000091_morocco_cuirox/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000091_morocco_cuirox/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "6d98bc4147230e97b95baf114a1a102453f1d9a05acb38fd494b20c5dc6a27c5"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000091_morocco_cuirox/gmail-full-readback-20261113.json"
+}

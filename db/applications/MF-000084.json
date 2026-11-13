@@ -1,0 +1,41 @@
+{
+  "id": "MF-000084",
+  "number": 84,
+  "company": "Upholstery World",
+  "country": "New Zealand",
+  "position": "Furniture upholsterer",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "portal",
+  "summary": "The contact form confirmed sending. Employer review and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "https://upholsteryworld.co.nz/contact/",
+  "sentDate": "12 Nov 2026",
+  "events": [
+    {
+      "kind": "portal",
+      "title": "Application submitted",
+      "date": "12 Nov 2026",
+      "timestamp": "2026-11-12",
+      "direction": "outgoing",
+      "confirmation": "The employer form displayed a successful send confirmation.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000084_new-zealand_upholstery-world/submission-evidence.json",
+      "filenames": [],
+      "documents": [],
+      "recipient": "https://upholsteryworld.co.nz/contact/",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "submitted_portal",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Contact form confirmation; employer review is unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000084_new-zealand_upholstery-world/submission-evidence.json"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "MF-000092",
+  "number": 92,
+  "company": "Maroquinerie du Pays d’Orthe",
+  "country": "France",
+  "position": "Artisan maroquinier",
+  "type": "Advertised application",
+  "language": "French",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "recrutement-mpo@tolomei.fr",
+  "sentDate": "13 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "13 Nov 2026, 18:09",
+      "timestamp": "2026-11-13T18:09:12+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000092_france_maroquinerie-pays-orthe/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000092_france_maroquinerie-pays-orthe/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000092_france_maroquinerie-pays-orthe/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "d8499b23f4ae4537fd0933997463f940fcedf52be1fea7fafee5a752134f17f3"
+        }
+      ],
+      "messageId": "1a1d6196cd09bfc0",
+      "threadId": "1a1d6196cd09bfc0",
+      "recipient": "recrutement-mpo@tolomei.fr",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000092_france_maroquinerie-pays-orthe/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000092_france_maroquinerie-pays-orthe/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "d8499b23f4ae4537fd0933997463f940fcedf52be1fea7fafee5a752134f17f3"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000092_france_maroquinerie-pays-orthe/gmail-full-readback-20261113.json"
+}

@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-31T19:31:11.241553+00:00",
-  "generatedLabel": "31 Oct 2026, 19:31",
-  "recordDate": "31 October 2026",
+  "generatedAt": "2026-11-13T19:07:25.736840+00:00",
+  "generatedLabel": "13 Nov 2026, 19:07",
+  "recordDate": "13 November 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
   "counts": {
-    "application": 51,
-    "supplement": 13,
-    "inquiry": 15,
+    "application": 74,
+    "supplement": 14,
+    "inquiry": 22,
     "reply": 1
   },
-  "applicationDataUpdatedAt": "2026-10-31T19:35:56.342213+00:00",
-  "applicationContentHash": "58ee152041cc2bc9ec2613448de2aecbe2d4ee1e8b29134cd51ecf7846e11e86",
+  "applicationDataUpdatedAt": "2026-11-13T19:07:25.736840+00:00",
+  "applicationContentHash": "fb7c68272e8983e202a7ffd1d608cde60e567adbfe6407d8bf04947d0bb25532",
   "monitoringStatus": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-10-30T09:07:49Z",
-    "latest_attempt_started_utc": "2026-10-30T09:07:49Z",
+    "last_successful_scan_utc": "2026-11-13T18:51:32Z",
+    "latest_attempt_started_utc": "2026-11-13T18:50:33Z",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 13,
-    "pages_completed": 1,
+    "messages_enumerated": 209,
+    "pages_completed": 3,
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "6869f77e6d1a2106a672e66a2cd9c608502591f03722ca3b52b80f29c537addb",
-    "project-status.md": "36331ff0dc13526131813f27e7f285669e6db16a142f8e56d9ba3908b01f6452"
+    "application-tracker.csv": "756ef4345e45f20af7295bf41a9d1d8e9ca1efc5b979b08435c86a3830859cc3",
+    "project-status.md": "220a05cc13f0f72ff138778de1a28e740fce5f663deacf373767b08dc9f3efca"
   },
-  "publicationRevision": "58ee152041cc2bc9ec2613448de2aecbe2d4ee1e8b29134cd51ecf7846e11e86",
+  "publicationRevision": "fb7c68272e8983e202a7ffd1d608cde60e567adbfe6407d8bf04947d0bb25532",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [
@@ -52,9 +52,9 @@
       "applicationId": "MF-000041",
       "company": "Groupe Tolomei",
       "owner": "agent",
-      "description": "Review Tolomei’s Granges-les-Beaumont application on 5 November. No automatic follow-up.",
-      "reviewOn": "2026-11-05",
-      "dateKind": "internal_review"
+      "description": "Check which Tolomei application the decline concerns before changing its status.",
+      "reviewOn": null,
+      "dateKind": null
     },
     {
       "applicationId": "MF-000042",

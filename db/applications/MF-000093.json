@@ -1,0 +1,63 @@
+{
+  "id": "MF-000093",
+  "number": 93,
+  "company": "Marofica",
+  "country": "France",
+  "position": "Artisan maroquinier",
+  "type": "Advertised application",
+  "language": "French",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "e.rousseau@marofica.com",
+  "sentDate": "13 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "13 Nov 2026, 18:10",
+      "timestamp": "2026-11-13T18:10:30+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000093_france_marofica/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV_FR.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV_FR.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000093_france_marofica/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000093_france_marofica/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+          "pages": 2,
+          "size": 264,
+          "sha256": "52a505ea0d72a0708fc5c6190363bd2c5ee13f26ceb85977004cfb5b272592b8"
+        }
+      ],
+      "messageId": "1a1d61a9dfadbc79",
+      "threadId": "1a1d61a9dfadbc79",
+      "recipient": "e.rousseau@marofica.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV_FR.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000093_france_marofica/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000093_france_marofica/gmail-attachments/Mohammed_Fadil_CV_FR.pdf",
+      "pages": 2,
+      "size": 264,
+      "sha256": "52a505ea0d72a0708fc5c6190363bd2c5ee13f26ceb85977004cfb5b272592b8"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000093_france_marofica/gmail-full-readback-20261113.json"
+}

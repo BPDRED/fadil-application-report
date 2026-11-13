@@ -1,0 +1,80 @@
+{
+  "id": "MF-000070",
+  "number": 70,
+  "company": "Cordonnerie Ouimet & Cordonnerie Nettoyeur Place Longueuil",
+  "country": "Canada",
+  "position": "Re-upholsterer",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "rogerabdnour911@gmail.com",
+  "sentDate": "12 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "12 Nov 2026, 20:29",
+      "timestamp": "2026-11-12T20:29:10+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf",
+        "Mohammed_Fadil_Cover_Letter.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        },
+        {
+          "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_Cover_Letter.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_Cover_Letter.pdf",
+          "pages": 1,
+          "size": 22,
+          "sha256": "280e26ce6b881f9262d6e3d28683fd824abb26fc2aeac07837e5a3b54d3e12a8"
+        }
+      ],
+      "messageId": "1a1d173399f805ab",
+      "threadId": "1a1d16df13fa411d",
+      "recipient": "rogerabdnour911@gmail.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    },
+    {
+      "filename": "Mohammed_Fadil_Cover_Letter.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_Cover_Letter.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-attachments/Mohammed_Fadil_Cover_Letter.pdf",
+      "pages": 1,
+      "size": 22,
+      "sha256": "280e26ce6b881f9262d6e3d28683fd824abb26fc2aeac07837e5a3b54d3e12a8"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000070_canada_cordonnerie-ouimet/gmail-full-readback-20261113.json"
+}

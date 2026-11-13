@@ -12,7 +12,7 @@ function overview() {
   return `${pendingActionsHTML()}${top}<h2 class="hero-t">Application progress</h2>
   <div class="cols"><div>
     <div class="big">${n}</div>
-    <p class="cap">Contacted applications and inquiries. Unsent leads are kept in the private lead list.</p>
+    <p class="cap">Applications and inquiries tracked, including failed delivery attempts. Unsent leads are kept in the private lead list.</p>
     <div class="kf"><div><b>${repliedCompanies.size}</b><span>Companies with replies</span></div><div><b>${receiptCompanies.size}</b><span>With automatic receipts</span></div><div><b>${otherReplyCompanies.size}</b><span>With other replies</span></div></div>
     <p class="meta">Includes archived contacts. A company can appear in both reply groups.</p>
     <p class="sec-title">Current application status</p>

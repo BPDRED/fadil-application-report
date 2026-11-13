@@ -1,0 +1,43 @@
+{
+  "id": "MF-000075",
+  "number": 75,
+  "company": "PAKO International (recruiter)",
+  "country": "New Zealand",
+  "position": "Furniture upholsterer recruitment enquiry",
+  "type": "Recruitment inquiry",
+  "language": "English",
+  "status": "held",
+  "summary": "An inquiry was sent; no application for the advertised role is confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "admin@pakoint.co.nz",
+  "sentDate": "12 Nov 2026",
+  "events": [
+    {
+      "kind": "inquiry",
+      "title": "Inquiry sent",
+      "date": "12 Nov 2026, 21:00",
+      "timestamp": "2026-11-12T21:00:29+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000075_new-zealand_pako/gmail-full-readback-20261113.json",
+      "filenames": [],
+      "documents": [],
+      "messageId": "1a1d18fe056a2be4",
+      "threadId": "1a1d18fe056a2be4",
+      "recipient": "admin@pakoint.co.nz",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "blocked",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Inquiry only; no application is confirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000075_new-zealand_pako/gmail-full-readback-20261113.json"
+}

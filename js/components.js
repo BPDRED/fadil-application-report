@@ -68,6 +68,11 @@ const FLAGS = {
   Austria:'<rect width="20" height="14" fill="#fff"/><rect width="20" height="4.67" fill="#ED2939"/><rect y="9.33" width="20" height="4.67" fill="#ED2939"/>',
   Canada:'<rect width="20" height="14" fill="#fff"/><rect width="5" height="14" fill="#D80621"/><rect x="15" width="5" height="14" fill="#D80621"/><path fill="#D80621" d="M10 2.4l1 2 1.4-.5-.4 2.6 1.9-.7-.4 1.9 1 .6-3.6 1.9.1 2.2h-1.9l.1-2.2-3.6-1.9 1-.6-.4-1.9 1.9.7-.4-2.6L9 4.4z"/>',
   'United States':`<rect width="20" height="14" fill="#fff"/>${usStripes}<rect width="9" height="7.54" fill="#3C3B6E"/>`,
+  Australia:'<rect width="20" height="14" fill="#012169"/><path d="M2 2l5 4M7 2L2 6" stroke="#fff" stroke-width="2"/><circle cx="15" cy="7" r="1" fill="#fff"/>',
+  Morocco:'<rect width="20" height="14" fill="#c1272d"/><path d="M10 3l2.3 7-5.9-4.3h7.2L7.7 10z" fill="none" stroke="#006233" stroke-width=".6"/>',
+  'New Zealand':'<rect width="20" height="14" fill="#00247d"/><circle cx="14" cy="4" r="1" fill="#f00"/><circle cx="16" cy="8" r="1" fill="#f00"/><circle cx="12" cy="10" r="1" fill="#f00"/>',
+  Switzerland:'<rect width="20" height="14" fill="#d52b1e"/><path d="M8.8 3h2.4v3h3v2h-3v3H8.8V8h-3V6h3z" fill="#fff"/>',
+  'United Arab Emirates':'<rect width="20" height="14" fill="#fff"/><rect width="4" height="14" fill="#f00"/><path d="M4 0h16v4.7H4z" fill="#00732f"/><path d="M4 9.3h16V14H4z" fill="#000"/>',
   _:'<rect width="20" height="14" fill="#e5e7eb"/><circle cx="10" cy="7" r="4" fill="none" stroke="#9ca3af" stroke-width="1"/>'
 };
 const flag = c => `<svg class="flag" viewBox="0 0 20 14" aria-hidden="true">${FLAGS[c] || FLAGS._}</svg>`;

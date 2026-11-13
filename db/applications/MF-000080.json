@@ -1,0 +1,98 @@
+{
+  "id": "MF-000080",
+  "number": 80,
+  "company": "Fabram",
+  "country": "United Arab Emirates",
+  "position": "Master Leather Artisan",
+  "type": "Advertised application",
+  "language": "English",
+  "status": "email",
+  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
+  "next": "Await a response. Do not send a duplicate.",
+  "recipient": "hr@fabram.com",
+  "sentDate": "12 Nov 2026",
+  "events": [
+    {
+      "kind": "application",
+      "title": "Application sent",
+      "date": "12 Nov 2026, 21:14",
+      "timestamp": "2026-11-12T21:14:47+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-full-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_CV.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_CV.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_CV.pdf",
+          "pages": 2,
+          "size": 289,
+          "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+        }
+      ],
+      "messageId": "1a1d19cf820d3fb9",
+      "threadId": "1a1d19cf820d3fb9",
+      "recipient": "hr@fabram.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    },
+    {
+      "kind": "supplement",
+      "title": "Portfolio correction sent",
+      "date": "12 Nov 2026, 21:15",
+      "timestamp": "2026-11-12T21:15:17+00:00",
+      "direction": "outgoing",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed.",
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-supplement-readback-20261113.json",
+      "filenames": [
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_Portfolio.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2508,
+          "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38"
+        }
+      ],
+      "messageId": "1a1d19d6f0aa4671",
+      "threadId": "1a1d19cf820d3fb9",
+      "recipient": "hr@fabram.com",
+      "sender": "mfadil.med@gmail.com",
+      "subject": ""
+    }
+  ],
+  "receivedEvents": [],
+  "applicationStatus": "awaiting_response",
+  "screeningOnly": false,
+  "screenshots": [],
+  "documents": [
+    {
+      "filename": "Mohammed_Fadil_CV.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_CV.pdf",
+      "pages": 2,
+      "size": 289,
+      "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_Portfolio.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-attachments/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2508,
+      "sha256": "541034a4acfd8b2184c118a952aa9fb4ed8f532914c90d3940c60dbc26af1f38"
+    }
+  ],
+  "preparedDocuments": [],
+  "response": "No substantive employer response recorded.",
+  "flags": [],
+  "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
+  "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",
+  "manifest": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000080_united-arab-emirates_fabram/gmail-full-readback-20261113.json"
+}
