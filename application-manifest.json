@@ -5466,7 +5466,7 @@
       "date_submitted": "",
       "last_contact_date": "2026-11-13",
       "follow_up_date": "",
-      "latest_employer_response": "",
+      "latest_employer_response": "Automated reminder: Hermès saved a draft, says entered data is retained for 30 days if incomplete; no submission confirmed.",
       "next_action": "Await employer guidance for required residence selection and work authorization; no portal submission.",
       "submission_state": "held",
       "events": [
@@ -5482,11 +5482,23 @@
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "reminder",
+          "direction": "incoming",
+          "timestamp": "2026-11-13T19:28:03+00:00",
+          "sender": "Hermès",
+          "subject": "",
+          "messageId": "1a1d6619a29a3534",
+          "threadId": "1a1d6619a29a3534",
+          "sourceMessageId": "",
+          "confirmation": "Automated reminder: draft data is retained for 30 days if incomplete. The application is not confirmed as submitted."
+        }
+      ],
+      "last_response_at": "2026-11-13T19:28:03+00:00",
       "documents": [],
       "screening_only": false,
-      "report_details_sha256": "362874700e49b820e5148a4b6eabbd0cc22fd03a58caa6fe75857c8f35339f2d"
+      "report_details_sha256": "8f596b3629f97d8b18e6744e46e59bfe42f0c464a7b02267ee4ba5210f7dbe70"
     },
     {
       "application_id": "MF-000097",
@@ -5788,16 +5800,16 @@
       "report_details_sha256": "705b8da03083e5afd09934337e141e548da87dcb90e499013e5bff6bbe0e201f"
     }
   ],
-  "revision": "fb7c68272e8983e202a7ffd1d608cde60e567adbfe6407d8bf04947d0bb25532",
-  "updated_at": "2026-11-13T19:07:25.736840+00:00",
+  "revision": "ec8e761705cd401df7579510ec138162af0ce69945c45280d6ed250132391129",
+  "updated_at": "2026-11-13T19:31:57.183906+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,
-    "last_successful_scan_utc": "2026-11-13T18:51:32Z",
-    "latest_attempt_started_utc": "2026-11-13T18:50:33Z",
+    "last_successful_scan_utc": "2026-11-13T19:31:57.183906+00:00",
+    "latest_attempt_started_utc": "2026-11-13T19:30:01+00:00",
     "latest_attempt_status": "complete",
     "scan_complete": true,
-    "messages_enumerated": 209,
+    "messages_enumerated": 210,
     "pages_completed": 3,
     "email_suppressed_same_day": false
   }

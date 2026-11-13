@@ -7,8 +7,8 @@
   "type": "Recruitment inquiry",
   "language": "French",
   "status": "held",
-  "summary": "An inquiry was sent; no application for the advertised role is confirmed.",
-  "next": "Find a verified application route. No new application is confirmed.",
+  "summary": "Hermès saved a draft. The required residence field did not offer Morocco, so the application has not been submitted.",
+  "next": "Await employer guidance on Morocco residence and work authorization. No portal submission is confirmed.",
   "recipient": "recrutement-normandie@hermes.com",
   "sentDate": "13 Nov 2026",
   "events": [
@@ -29,13 +29,30 @@
       "subject": ""
     }
   ],
-  "receivedEvents": [],
+  "receivedEvents": [
+    {
+      "kind": "reminder",
+      "direction": "incoming",
+      "title": "Draft reminder",
+      "date": "13 Nov 2026, 19:28",
+      "timestamp": "2026-11-13T19:28:03+00:00",
+      "sender": "Hermès",
+      "subject": "",
+      "body": "",
+      "messageId": "1a1d6619a29a3534",
+      "threadId": "1a1d6619a29a3534",
+      "filenames": [],
+      "documents": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000096_france_hermes-normandie/gmail-draft-reminder-20261113.json",
+      "confirmation": "Automated reminder: draft data is retained for 30 days if incomplete. The application is not confirmed as submitted."
+    }
+  ],
   "applicationStatus": "blocked",
   "screeningOnly": false,
   "screenshots": [],
   "documents": [],
   "preparedDocuments": [],
-  "response": "No substantive employer response recorded.",
+  "response": "Hermès sent an automated reminder and says the draft data is retained for 30 days if incomplete.",
   "flags": [],
   "channelNote": "Inquiry only; no application is confirmed.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",

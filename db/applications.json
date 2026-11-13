@@ -2672,8 +2672,8 @@
     "status": "held",
     "applicationStatus": "blocked",
     "screeningOnly": false,
-    "next": "Find a verified application route. No new application is confirmed.",
-    "response": "No substantive employer response recorded.",
+    "next": "Await employer guidance on Morocco residence and work authorization. No portal submission is confirmed.",
+    "response": "Hermès sent an automated reminder and says the draft data is retained for 30 days if incomplete.",
     "events": [
       {
         "kind": "inquiry",
@@ -2683,7 +2683,15 @@
         "direction": "outgoing"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "reminder",
+        "title": "Draft reminder",
+        "date": "13 Nov 2026, 19:28",
+        "timestamp": "2026-11-13T19:28:03+00:00",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000097",

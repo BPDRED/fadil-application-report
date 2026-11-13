@@ -1372,5 +1372,11 @@
   "Tolomei declined a leatherworker application, but the specific application has not been confirmed.": "رفضت تولومي طلباً لوظيفة في صناعة المنتجات الجلدية، لكن لم يتأكد الطلب المقصود.",
   "Check which Tolomei application the decline concerns before changing its status.": "تحقق من طلب تولومي المقصود بالرفض قبل تغيير حالته.",
   "Applications and inquiries tracked, including failed delivery attempts. Unsent leads are kept in the private lead list.": "طلبات واستفسارات مُتتبَّعة، تشمل محاولات التسليم الفاشلة. تبقى الشركات التي لم نراسلها ضمن قائمة الترشيحات الخاصة.",
-  "Employer portal confirmed submission.": "أكدت بوابة جهة التوظيف إرسال الطلب."
+  "Employer portal confirmed submission.": "أكدت بوابة جهة التوظيف إرسال الطلب.",
+  "Draft reminder": "تذكير بمسودة الطلب",
+  "Hermès saved a draft. The required residence field did not offer Morocco, so the application has not been submitted.": "حفظت Hermès مسودة. لم يتضمن حقل الإقامة الإلزامي خيار المغرب، لذلك لم يُرسل الطلب.",
+  "Hermès sent an automated reminder and says the draft data is retained for 30 days if incomplete.": "أرسلت Hermès تذكيراً آلياً، وتقول إن بيانات المسودة تُحفظ لمدة 30 يوماً إذا لم تكتمل.",
+  "Await employer guidance on Morocco residence and work authorization. No portal submission is confirmed.": "انتظر توجيه الشركة بشأن الإقامة في المغرب وتصريح العمل. لم يتأكد إرسال الطلب عبر البوابة.",
+  "Automated reminder: draft data is retained for 30 days if incomplete. The application is not confirmed as submitted.": "تذكير آلي: تُحفظ بيانات المسودة لمدة 30 يوماً إذا لم تكتمل. لم يتأكد إرسال الطلب.",
+  "13 Nov 2026, 19:31": "تحديث التقرير في 13 نوفمبر 2026"
 }
