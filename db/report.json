@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T19:31:57.183906+00:00",
-  "generatedLabel": "13 Nov 2026, 19:31",
+  "generatedAt": "2026-11-16T21:38:59.935458+00:00",
+  "generatedLabel": "16 Nov 2026, 21:38",
   "recordDate": "13 November 2026",
   "timezone": "Africa/Casablanca",
   "sender": "mfadil.med@gmail.com",
@@ -8,10 +8,10 @@
     "application": 74,
     "supplement": 14,
     "inquiry": 22,
-    "reply": 1
+    "reply": 2
   },
-  "applicationDataUpdatedAt": "2026-11-13T19:31:57.183906+00:00",
-  "applicationContentHash": "ec8e761705cd401df7579510ec138162af0ce69945c45280d6ed250132391129",
+  "applicationDataUpdatedAt": "2026-11-16T21:38:59.935458+00:00",
+  "applicationContentHash": "b9d15c4258dc14e12cfd22bc9639111c4b4d1bab5db7bc1a90a488cb20721de6",
   "monitoringStatus": {
     "schema_version": 1,
     "last_successful_scan_utc": "2026-11-16T09:20:03Z",
@@ -23,10 +23,10 @@
     "email_suppressed_same_day": false
   },
   "sourceHashes": {
-    "application-tracker.csv": "51e3cd76025611750807274150798f2906c4ad7c4026e549188abd1083b56f1a",
-    "project-status.md": "26f9478f87b67bdd9ac8fc8fbc2bc12bfb0f2d43294cf7549eac7e09f13322b9"
+    "application-tracker.csv": "4776e25994488817da136025787b11f9259ba462de794070e7607a5162e4cc6e",
+    "project-status.md": "f05377ec899e29f5603d69539806403062c2afb108d7e70bd64766216dd28a82"
   },
-  "publicationRevision": "ec8e761705cd401df7579510ec138162af0ce69945c45280d6ed250132391129",
+  "publicationRevision": "b9d15c4258dc14e12cfd22bc9639111c4b4d1bab5db7bc1a90a488cb20721de6",
   "candidateName": "Mohammed Fadil",
   "schemaVersion": 1,
   "sourceLinks": [

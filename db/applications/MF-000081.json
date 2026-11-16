@@ -7,8 +7,8 @@
   "type": "Speculative application",
   "language": "French",
   "status": "email",
-  "summary": "Application sent with supporting documents. Employer receipt and work-permit support are not confirmed.",
-  "next": "Await a response. Do not send a duplicate.",
+  "summary": "User reports a phone interview with Jocker Cuir; a follow-up confirmed interest and willingness to relocate.",
+  "next": "Await Jocker Cuir’s response. Do not duplicate the follow-up.",
   "recipient": "recrutement@jockercuir.com",
   "sentDate": "12 Nov 2026",
   "events": [
@@ -38,10 +38,44 @@
       "recipient": "recrutement@jockercuir.com",
       "sender": "mfadil.med@gmail.com",
       "subject": ""
+    },
+    {
+      "kind": "reply",
+      "direction": "outgoing",
+      "title": "Follow-up sent",
+      "date": "16 Nov 2026, 21:36",
+      "timestamp": "2026-11-16T21:36:47+00:00",
+      "sender": "mfadil.med@gmail.com",
+      "recipient": "recrutement@jockercuir.com",
+      "subject": "",
+      "body": "",
+      "messageId": "1a1e64a8a06f62da",
+      "threadId": "1a1d19daafc502a8",
+      "filenames": [],
+      "documents": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/followup-sent-20261116.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
     }
   ],
-  "receivedEvents": [],
-  "applicationStatus": "awaiting_response",
+  "receivedEvents": [
+    {
+      "kind": "response",
+      "direction": "incoming",
+      "title": "Phone interview reported",
+      "date": "16 Nov 2026",
+      "timestamp": "2026-11-16",
+      "sender": "Jocker Cuir (user-confirmed)",
+      "subject": "",
+      "body": "",
+      "messageId": "",
+      "threadId": "",
+      "filenames": [],
+      "documents": [],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/phone-interview-user-report-20261116.json",
+      "confirmation": "User reports a phone interview; a hiring decision is not confirmed."
+    }
+  ],
+  "applicationStatus": "response_received",
   "screeningOnly": false,
   "screenshots": [],
   "documents": [
@@ -55,7 +89,7 @@
     }
   ],
   "preparedDocuments": [],
-  "response": "No substantive employer response recorded.",
+  "response": "User confirmed a phone interview. No hiring decision or offer has been reported.",
   "flags": [],
   "channelNote": "Recruitment channel; delivery and forwarding are unconfirmed.",
   "source": "https://github.com/BPDRED/fadil-international-applications/blob/main/application-tracker.csv",

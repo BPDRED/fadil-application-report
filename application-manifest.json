@@ -4777,13 +4777,13 @@
       "vacancy_id": "",
       "application_type": "speculative",
       "application_channel": "email",
-      "application_status": "awaiting_response",
+      "application_status": "response_received",
       "date_sent": "2026-11-12",
       "date_submitted": "2026-11-12",
-      "last_contact_date": "2026-11-12",
+      "last_contact_date": "2026-11-16",
       "follow_up_date": "",
-      "latest_employer_response": "",
-      "next_action": "Await response; confirm monthly take-home pay and other relevant conditions; do not duplicate.",
+      "latest_employer_response": "User confirmed a phone interview. No hiring decision or offer has been reported.",
+      "next_action": "Await Jocker Cuir’s response. Do not duplicate the follow-up.",
       "submission_state": "email",
       "events": [
         {
@@ -4798,10 +4798,33 @@
             "Mohammed_Fadil_CV.pdf"
           ],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "reply",
+          "timestamp": "2026-11-16T21:36:47+00:00",
+          "recipient": "recrutement@jockercuir.com",
+          "subject": "",
+          "messageId": "1a1e64a8a06f62da",
+          "threadId": "1a1d19daafc502a8",
+          "reference": "",
+          "filenames": [],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
-      "received_events": [],
-      "last_response_at": "",
+      "received_events": [
+        {
+          "kind": "response",
+          "direction": "incoming",
+          "timestamp": "2026-11-16",
+          "sender": "Jocker Cuir (user-confirmed)",
+          "subject": "",
+          "messageId": "",
+          "threadId": "",
+          "sourceMessageId": "",
+          "confirmation": "User reports a phone interview; a hiring decision is not confirmed."
+        }
+      ],
+      "last_response_at": "2026-11-16",
       "documents": [
         {
           "filename": "Mohammed_Fadil_CV.pdf",
@@ -4809,7 +4832,7 @@
         }
       ],
       "screening_only": false,
-      "report_details_sha256": "860fdd06617ff6a22b95d2c738f492ca575143bf9d1ec7b72c749efa19b67740"
+      "report_details_sha256": "0adc97306deb095184372ade99bb77e0eb8078d4d43b96e674e3482dceb33155"
     },
     {
       "application_id": "MF-000082",
@@ -5800,8 +5823,8 @@
       "report_details_sha256": "705b8da03083e5afd09934337e141e548da87dcb90e499013e5bff6bbe0e201f"
     }
   ],
-  "revision": "ec8e761705cd401df7579510ec138162af0ce69945c45280d6ed250132391129",
-  "updated_at": "2026-11-13T19:31:57.183906+00:00",
+  "revision": "b9d15c4258dc14e12cfd22bc9639111c4b4d1bab5db7bc1a90a488cb20721de6",
+  "updated_at": "2026-11-16T21:38:59.935458+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

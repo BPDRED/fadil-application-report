@@ -2295,10 +2295,10 @@
     "type": "Speculative application",
     "language": "French",
     "status": "email",
-    "applicationStatus": "awaiting_response",
+    "applicationStatus": "response_received",
     "screeningOnly": false,
-    "next": "Await a response. Do not send a duplicate.",
-    "response": "No substantive employer response recorded.",
+    "next": "Await Jocker Cuir’s response. Do not duplicate the follow-up.",
+    "response": "User confirmed a phone interview. No hiring decision or offer has been reported.",
     "events": [
       {
         "kind": "application",
@@ -2306,9 +2306,24 @@
         "date": "12 Nov 2026, 21:15",
         "timestamp": "2026-11-12T21:15:32+00:00",
         "direction": "outgoing"
+      },
+      {
+        "kind": "reply",
+        "title": "Follow-up sent",
+        "date": "16 Nov 2026, 21:36",
+        "timestamp": "2026-11-16T21:36:47+00:00",
+        "direction": "outgoing"
       }
     ],
-    "receivedEvents": []
+    "receivedEvents": [
+      {
+        "kind": "response",
+        "title": "Phone interview reported",
+        "date": "16 Nov 2026",
+        "timestamp": "2026-11-16",
+        "direction": "incoming"
+      }
+    ]
   },
   {
     "id": "MF-000082",
