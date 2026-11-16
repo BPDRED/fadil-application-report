@@ -4809,6 +4809,19 @@
           "reference": "",
           "filenames": [],
           "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+        },
+        {
+          "kind": "supplement",
+          "timestamp": "2026-11-16T22:01:09+00:00",
+          "recipient": "recrutement@jockercuir.com",
+          "subject": "",
+          "messageId": "1a1e660dff556137",
+          "threadId": "1a1d19daafc502a8",
+          "reference": "",
+          "filenames": [
+            "Mohammed_Fadil_Portfolio.pdf"
+          ],
+          "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
         }
       ],
       "received_events": [
@@ -4829,10 +4842,14 @@
         {
           "filename": "Mohammed_Fadil_CV.pdf",
           "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/gmail-attachments/Mohammed_Fadil_CV.pdf"
+        },
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "private_url": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/portfolio_20261116/delivery/Mohammed_Fadil_Portfolio.pdf"
         }
       ],
       "screening_only": false,
-      "report_details_sha256": "0adc97306deb095184372ade99bb77e0eb8078d4d43b96e674e3482dceb33155"
+      "report_details_sha256": "4992e5b49bfdee943d9e37709a6ecbcd11d416a33d250f3facffa18719a3af05"
     },
     {
       "application_id": "MF-000082",
@@ -5823,8 +5840,8 @@
       "report_details_sha256": "705b8da03083e5afd09934337e141e548da87dcb90e499013e5bff6bbe0e201f"
     }
   ],
-  "revision": "b9d15c4258dc14e12cfd22bc9639111c4b4d1bab5db7bc1a90a488cb20721de6",
-  "updated_at": "2026-11-16T21:38:59.935458+00:00",
+  "revision": "4bb9adc244026ec00f3ff933a2456150e3303ce2b3f87c9de517fe7f9065caa4",
+  "updated_at": "2026-11-16T22:03:20.407312+00:00",
   "report_url": "https://bpdred.github.io/fadil-application-report/",
   "monitoring": {
     "schema_version": 1,

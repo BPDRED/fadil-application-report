@@ -7,7 +7,7 @@
   "type": "Speculative application",
   "language": "French",
   "status": "email",
-  "summary": "User reports a phone interview with Jocker Cuir; a follow-up confirmed interest and willingness to relocate.",
+  "summary": "User reports a phone interview. A follow-up and a French portfolio supplement were sent.",
   "next": "Await Jocker Cuir’s response. Do not duplicate the follow-up.",
   "recipient": "recrutement@jockercuir.com",
   "sentDate": "12 Nov 2026",
@@ -55,6 +55,34 @@
       "documents": [],
       "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/followup-sent-20261116.json",
       "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
+    },
+    {
+      "kind": "supplement",
+      "direction": "outgoing",
+      "title": "French portfolio supplement sent",
+      "date": "16 Nov 2026, 22:01",
+      "timestamp": "2026-11-16T22:01:09+00:00",
+      "sender": "mfadil.med@gmail.com",
+      "recipient": "recrutement@jockercuir.com",
+      "subject": "",
+      "body": "",
+      "messageId": "1a1e660dff556137",
+      "threadId": "1a1d19daafc502a8",
+      "filenames": [
+        "Mohammed_Fadil_Portfolio.pdf"
+      ],
+      "documents": [
+        {
+          "filename": "Mohammed_Fadil_Portfolio.pdf",
+          "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/portfolio_20261116/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/portfolio_20261116/delivery/Mohammed_Fadil_Portfolio.pdf",
+          "pages": 19,
+          "size": 2637,
+          "sha256": "7e8a3764b0cea8417b3b09062088d7c53ab3fb8d45c71789e7c3183144ec2343"
+        }
+      ],
+      "evidence": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/portfolio_20261116/document-manifest.json",
+      "confirmation": "Confirmed in Gmail SENT. Delivery and reading are not confirmed."
     }
   ],
   "receivedEvents": [
@@ -86,6 +114,14 @@
       "pages": 2,
       "size": 289,
       "sha256": "817e0ffa2e0e9703f2b815e423e193d1765410c56e89a44cb0be038cb59ba025"
+    },
+    {
+      "filename": "Mohammed_Fadil_Portfolio.pdf",
+      "path": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/portfolio_20261116/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "originalPath": "https://github.com/BPDRED/fadil-international-applications/blob/main/applications/MF-000081_morocco_jocker-cuir/portfolio_20261116/delivery/Mohammed_Fadil_Portfolio.pdf",
+      "pages": 19,
+      "size": 2637,
+      "sha256": "7e8a3764b0cea8417b3b09062088d7c53ab3fb8d45c71789e7c3183144ec2343"
     }
   ],
   "preparedDocuments": [],

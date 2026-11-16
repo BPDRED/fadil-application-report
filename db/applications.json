@@ -2313,6 +2313,13 @@
         "date": "16 Nov 2026, 21:36",
         "timestamp": "2026-11-16T21:36:47+00:00",
         "direction": "outgoing"
+      },
+      {
+        "kind": "supplement",
+        "title": "French portfolio supplement sent",
+        "date": "16 Nov 2026, 22:01",
+        "timestamp": "2026-11-16T22:01:09+00:00",
+        "direction": "outgoing"
       }
     ],
     "receivedEvents": [
